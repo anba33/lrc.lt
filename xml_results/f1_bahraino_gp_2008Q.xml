@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC F1 server</ServerName>
+<PlayerFile>Andrius Stankevicius</PlayerFile>
+<DateTime>1223831227</DateTime>
+<TimeString>2008/10/12 20:07:07</TimeString>
+<Mod>LRC2008.rfm</Mod>
+<Season></Season>
+<TrackVenue>LRC08/09 Trasos</TrackVenue>
+<TrackCourse>Bahrain International Circuit</TrackCourse>
+<TrackEvent>#03 LRC Bahraino GP 2008</TrackEvent>
+<TrackLength>5372.2</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>43</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|MMGF12007SE</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>233</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1223833786</DateTime>
+<TimeString>2008/10/12 20:49:46</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Chat et="7.3">Mindaugas Latisenka &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="7.3">Mindaugas Latisenka &quot;Vehicle Collision&quot; mismatch: will be kicked from race</Sent>
+<Score et="61.2">Aurimas Zamzickas(12) lap=0 point=1 t=-1.000 et=61.220</Score>
+<Score et="63.1">Andrius Stankevicius(8) lap=0 point=1 t=-1.000 et=62.917</Score>
+<Score et="64.1">Vitalijus Karcovas(11) lap=0 point=1 t=-1.000 et=64.053</Score>
+<Score et="65.2">Audrius Valantiejus(18) lap=0 point=1 t=-1.000 et=65.106</Score>
+<Score et="67.2">Martynas Dailidenas(7) lap=0 point=1 t=-1.000 et=67.155</Score>
+<Score et="76.6">Vidmantas Poska(10) lap=0 point=1 t=-1.000 et=76.594</Score>
+<Score et="81.8">Nerijus Juknevicius(13) lap=0 point=1 t=-1.000 et=81.802</Score>
+<Incident et="84.0">Vitalijus Karcovas(11) reported contact (0.19) with Cone</Incident>
+<Score et="91.2">Marius Virsila(2) lap=0 point=1 t=-1.000 et=91.130</Score>
+<Score et="98.3">Mindaugas Klumbis(15) lap=0 point=1 t=-1.000 et=98.239</Score>
+<Score et="102.9">Aurimas Zamzickas(12) lap=0 point=2 t=-1.000 et=102.826</Score>
+<Score et="103.4">Andrius Stankevicius(8) lap=0 point=2 t=-1.000 et=103.375</Score>
+<Score et="106.5">Vitalijus Karcovas(11) lap=0 point=2 t=-1.000 et=106.436</Score>
+<Score et="108.6">Audrius Valantiejus(18) lap=0 point=2 t=-1.000 et=108.532</Score>
+<Score et="114.0">Martynas Dailidenas(7) lap=0 point=2 t=-1.000 et=113.974</Score>
+<Score et="116.9">Vidmantas Poska(10) lap=0 point=2 t=-1.000 et=116.849</Score>
+<Score et="122.8">Nerijus Juknevicius(13) lap=0 point=2 t=-1.000 et=122.828</Score>
+<Score et="128.4">Aurimas Zamzickas(12) lap=1 point=0 t=-1.000 et=128.336</Score>
+<Score et="129.6">Andrius Stankevicius(8) lap=1 point=0 t=-1.000 et=129.276</Score>
+<Score et="131.5">Marius Virsila(2) lap=0 point=2 t=-1.000 et=131.450</Score>
+<Score et="133.3">Vitalijus Karcovas(11) lap=1 point=0 t=-1.000 et=133.038</Score>
+<Score et="136.1">Audrius Valantiejus(18) lap=1 point=0 t=-1.000 et=136.074</Score>
+<Score et="139.5">Mindaugas Klumbis(15) lap=0 point=2 t=-1.000 et=139.459</Score>
+<Score et="142.6">Vidmantas Poska(10) lap=1 point=0 t=-1.000 et=142.572</Score>
+<Score et="148.2">Nerijus Juknevicius(13) lap=1 point=0 t=-1.000 et=148.192</Score>
+<Score et="156.3">Aurimas Zamzickas(12) lap=1 point=1 t=27.939 et=156.275</Score>
+<Score et="157.1">Marius Virsila(2) lap=1 point=0 t=-1.000 et=157.111</Score>
+<Score et="157.8">Andrius Stankevicius(8) lap=1 point=1 t=28.257 et=157.533</Score>
+<Score et="161.0">Vitalijus Karcovas(11) lap=1 point=1 t=27.911 et=160.949</Score>
+<Score et="163.7">Audrius Valantiejus(18) lap=1 point=1 t=27.546 et=163.620</Score>
+<Score et="164.8">Mindaugas Klumbis(15) lap=1 point=0 t=-1.000 et=164.762</Score>
+<Score et="170.6">Vidmantas Poska(10) lap=1 point=1 t=27.936 et=170.509</Score>
+<Score et="175.8">Nerijus Juknevicius(13) lap=1 point=1 t=27.582 et=175.775</Score>
+<Score et="180.9">Martynas Dailidenas(7) lap=1 point=0 t=-1.000 et=180.896</Score>
+<Score et="185.2">Marius Virsila(2) lap=1 point=1 t=28.024 et=185.136</Score>
+<Score et="192.4">Mindaugas Klumbis(15) lap=1 point=1 t=27.647 et=192.409</Score>
+<Score et="195.7">Aurimas Zamzickas(12) lap=1 point=2 t=67.358 et=195.694</Score>
+<Score et="197.9">Andrius Stankevicius(8) lap=1 point=2 t=68.437 et=197.713</Score>
+<Score et="201.4">Vitalijus Karcovas(11) lap=1 point=2 t=68.336 et=201.374</Score>
+<Score et="203.1">Audrius Valantiejus(18) lap=1 point=2 t=67.019 et=203.093</Score>
+<Score et="210.6">Vidmantas Poska(10) lap=1 point=2 t=67.958 et=210.531</Score>
+<Score et="215.4">Nerijus Juknevicius(13) lap=1 point=2 t=67.210 et=215.403</Score>
+<Score et="217.7">Martynas Dailidenas(7) lap=1 point=1 t=-1.000 et=217.724</Score>
+<Score et="221.3">Aurimas Zamzickas(12) lap=2 point=0 t=92.927 et=221.263</Score>
+<Score et="223.6">Andrius Stankevicius(8) lap=2 point=0 t=94.240 et=223.516</Score>
+<Score et="226.1">Marius Virsila(2) lap=1 point=2 t=68.994 et=226.105</Score>
+<Score et="227.2">Vitalijus Karcovas(11) lap=2 point=0 t=94.121 et=227.159</Score>
+<Score et="228.5">Audrius Valantiejus(18) lap=2 point=0 t=92.409 et=228.482</Score>
+<Score et="232.0">Mindaugas Klumbis(15) lap=1 point=2 t=67.169 et=231.931</Score>
+<Score et="236.1">Vidmantas Poska(10) lap=2 point=0 t=93.438 et=236.010</Score>
+<Score et="239.5">Audrius Valantiejus(18) lap=3 point=0 t=-1.000 et=239.329</Score>
+<Score et="239.6">Audrius Valantiejus(18) lap=3 point=1 t=-1.000 et=239.329</Score>
+<Score et="239.6">Audrius Valantiejus(18) lap=3 point=2 t=-1.000 et=239.329</Score>
+<Score et="240.1">Vidmantas Poska(10) lap=3 point=0 t=-1.000 et=239.942</Score>
+<Score et="240.1">Vidmantas Poska(10) lap=3 point=1 t=-1.000 et=239.942</Score>
+<Score et="240.1">Vidmantas Poska(10) lap=3 point=2 t=-1.000 et=239.942</Score>
+<Score et="241.1">Nerijus Juknevicius(13) lap=2 point=0 t=92.872 et=241.064</Score>
+<Score et="248.1">Nerijus Juknevicius(13) lap=2 point=1 t=-1.000 et=247.983</Score>
+<Score et="248.1">Nerijus Juknevicius(13) lap=2 point=2 t=-1.000 et=247.983</Score>
+<Score et="248.1">Nerijus Juknevicius(13) lap=3 point=0 t=-1.000 et=247.983</Score>
+<Score et="249.1">Aurimas Zamzickas(12) lap=2 point=1 t=27.759 et=249.022</Score>
+<Score et="251.5">Andrius Stankevicius(8) lap=2 point=1 t=27.932 et=251.448</Score>
+<Score et="252.0">Marius Virsila(2) lap=2 point=0 t=94.840 et=251.951</Score>
+<Score et="254.9">Vitalijus Karcovas(11) lap=2 point=1 t=27.656 et=254.815</Score>
+<Score et="257.2">Mindaugas Klumbis(15) lap=2 point=0 t=92.427 et=257.189</Score>
+<Score et="258.0">Martynas Dailidenas(7) lap=1 point=2 t=-1.000 et=258.003</Score>
+<Score et="279.8">Marius Virsila(2) lap=2 point=1 t=27.779 et=279.731</Score>
+<Score et="283.8">Martynas Dailidenas(7) lap=2 point=0 t=-1.000 et=283.721</Score>
+<Score et="284.8">Mindaugas Klumbis(15) lap=2 point=1 t=27.542 et=284.731</Score>
+<Score et="288.9">Aurimas Zamzickas(12) lap=2 point=2 t=67.639 et=288.902</Score>
+<Score et="292.5">Andrius Stankevicius(8) lap=2 point=2 t=68.935 et=292.451</Score>
+<Score et="295.2">Vitalijus Karcovas(11) lap=2 point=2 t=67.934 et=295.093</Score>
+<Incident et="308.3">Martynas Dailidenas(7) reported contact (0.74) with Cone</Incident>
+<Incident et="309.9">Audrius Valantiejus(18) reported contact (0.16) with Cone</Incident>
+<Incident et="309.9">Audrius Valantiejus(18) reported contact (0.45) with Cone</Incident>
+<Incident et="310.0">Audrius Valantiejus(18) reported contact (0.77) with Cone</Incident>
+<Incident et="310.1">Audrius Valantiejus(18) reported contact (0.10) with Cone</Incident>
+<Incident et="310.1">Audrius Valantiejus(18) reported contact (0.77) with Cone</Incident>
+<Score et="311.5">Martynas Dailidenas(7) lap=2 point=1 t=27.737 et=311.458</Score>
+<Score et="312.9">Audrius Valantiejus(18) lap=3 point=1 t=-1.000 et=312.864</Score>
+<Score et="314.6">Aurimas Zamzickas(12) lap=3 point=0 t=93.237 et=314.500</Score>
+<Score et="319.8">Marius Virsila(2) lap=2 point=2 t=67.844 et=319.796</Score>
+<Score et="320.7">Vitalijus Karcovas(11) lap=3 point=0 t=93.438 et=320.597</Score>
+<Score et="324.4">Mindaugas Klumbis(15) lap=2 point=2 t=67.128 et=324.317</Score>
+<Score et="324.7">Vitalijus Karcovas(11) lap=3 point=1 t=-1.000 et=324.357</Score>
+<Score et="324.7">Vitalijus Karcovas(11) lap=3 point=2 t=-1.000 et=324.357</Score>
+<Score et="324.7">Vitalijus Karcovas(11) lap=4 point=0 t=-1.000 et=324.357</Score>
+<Score et="338.6">Andrius Stankevicius(8) lap=3 point=0 t=-1.000 et=338.573</Score>
+<Score et="342.2">Aurimas Zamzickas(12) lap=3 point=1 t=27.654 et=342.154</Score>
+<Score et="345.6">Marius Virsila(2) lap=3 point=0 t=93.587 et=345.538</Score>
+<Score et="349.6">Mindaugas Klumbis(15) lap=3 point=0 t=92.404 et=349.593</Score>
+<Score et="351.2">Martynas Dailidenas(7) lap=2 point=2 t=67.462 et=351.182</Score>
+<Score et="353.6">Audrius Valantiejus(18) lap=3 point=2 t=-1.000 et=353.530</Score>
+<Score et="355.4">Mindaugas Klumbis(15) lap=3 point=1 t=-1.000 et=354.886</Score>
+<Score et="355.4">Mindaugas Klumbis(15) lap=3 point=2 t=-1.000 et=354.886</Score>
+<Score et="355.4">Mindaugas Klumbis(15) lap=4 point=0 t=-1.000 et=354.886</Score>
+<Score et="366.9">Vitalijus Karcovas(11) lap=4 point=1 t=-1.000 et=366.811</Score>
+<Score et="376.1">Andrius Stankevicius(8) lap=3 point=1 t=-1.000 et=376.007</Score>
+<Score et="376.5">Martynas Dailidenas(7) lap=3 point=0 t=92.776 et=376.497</Score>
+<Score et="379.8">Audrius Valantiejus(18) lap=4 point=0 t=-1.000 et=379.706</Score>
+<Score et="381.0">Martynas Dailidenas(7) lap=3 point=1 t=-1.000 et=380.936</Score>
+<Score et="381.0">Martynas Dailidenas(7) lap=3 point=2 t=-1.000 et=380.936</Score>
+<Score et="381.0">Martynas Dailidenas(7) lap=4 point=0 t=-1.000 et=380.936</Score>
+<Score et="382.5">Aurimas Zamzickas(12) lap=3 point=2 t=68.019 et=382.519</Score>
+<Score et="382.9">Marius Virsila(2) lap=3 point=1 t=37.365 et=382.903</Score>
+<Score et="396.4">Marius Virsila(2) lap=3 point=2 t=-1.000 et=396.383</Score>
+<Score et="396.4">Marius Virsila(2) lap=4 point=0 t=-1.000 et=396.383</Score>
+<Score et="407.0">Vitalijus Karcovas(11) lap=4 point=2 t=-1.000 et=406.951</Score>
+<Score et="407.3">Audrius Valantiejus(18) lap=4 point=1 t=27.543 et=407.249</Score>
+<Score et="408.0">Aurimas Zamzickas(12) lap=4 point=0 t=93.475 et=407.975</Score>
+<Score et="416.2">Andrius Stankevicius(8) lap=3 point=2 t=-1.000 et=416.186</Score>
+<Score et="423.8">Mindaugas Klumbis(15) lap=4 point=1 t=-1.000 et=423.782</Score>
+<Score et="426.6">Aurimas Zamzickas(12) lap=4 point=1 t=-1.000 et=426.482</Score>
+<Score et="426.6">Aurimas Zamzickas(12) lap=4 point=2 t=-1.000 et=426.482</Score>
+<Score et="426.6">Aurimas Zamzickas(12) lap=5 point=0 t=-1.000 et=426.482</Score>
+<Score et="432.3">Vitalijus Karcovas(11) lap=5 point=0 t=-1.000 et=432.238</Score>
+<Score et="438.9">Martynas Dailidenas(7) lap=4 point=1 t=-1.000 et=438.874</Score>
+<Score et="442.0">Andrius Stankevicius(8) lap=4 point=0 t=-1.000 et=441.906</Score>
+<Score et="446.9">Audrius Valantiejus(18) lap=4 point=2 t=67.123 et=446.829</Score>
+<Score et="459.8">Vitalijus Karcovas(11) lap=5 point=1 t=27.524 et=459.762</Score>
+<Score et="463.6">Mindaugas Klumbis(15) lap=4 point=2 t=-1.000 et=463.522</Score>
+<Score et="469.9">Andrius Stankevicius(8) lap=4 point=1 t=27.959 et=469.864</Score>
+<Score et="472.2">Audrius Valantiejus(18) lap=5 point=0 t=92.440 et=472.146</Score>
+<Score et="479.7">Martynas Dailidenas(7) lap=4 point=2 t=-1.000 et=479.710</Score>
+<Score et="488.8">Mindaugas Klumbis(15) lap=5 point=0 t=-1.000 et=488.794</Score>
+<Score et="495.3">Audrius Valantiejus(18) lap=6 point=0 t=-1.000 et=495.115</Score>
+<Score et="495.3">Audrius Valantiejus(18) lap=6 point=1 t=-1.000 et=495.115</Score>
+<Score et="495.3">Audrius Valantiejus(18) lap=6 point=2 t=-1.000 et=495.115</Score>
+<Score et="499.8">Vitalijus Karcovas(11) lap=5 point=2 t=67.463 et=499.701</Score>
+<Score et="504.4">Aurimas Zamzickas(12) lap=5 point=1 t=-1.000 et=504.356</Score>
+<Score et="505.3">Martynas Dailidenas(7) lap=5 point=0 t=-1.000 et=505.217</Score>
+<Score et="509.7">Andrius Stankevicius(8) lap=4 point=2 t=67.667 et=509.573</Score>
+<Score et="516.3">Mindaugas Klumbis(15) lap=5 point=1 t=27.525 et=516.319</Score>
+<Score et="525.2">Vitalijus Karcovas(11) lap=6 point=0 t=92.900 et=525.138</Score>
+<Score et="532.9">Martynas Dailidenas(7) lap=5 point=1 t=27.686 et=532.904</Score>
+<Score et="535.2">Andrius Stankevicius(8) lap=5 point=0 t=93.208 et=535.113</Score>
+<Score et="544.9">Aurimas Zamzickas(12) lap=5 point=2 t=-1.000 et=544.825</Score>
+<Score et="552.8">Vitalijus Karcovas(11) lap=6 point=1 t=27.644 et=552.783</Score>
+<Score et="555.7">Mindaugas Klumbis(15) lap=5 point=2 t=66.905 et=555.699</Score>
+<Score et="570.3">Aurimas Zamzickas(12) lap=6 point=0 t=-1.000 et=570.282</Score>
+<Score et="571.6">Andrius Stankevicius(8) lap=5 point=1 t=36.286 et=571.399</Score>
+<Score et="572.4">Martynas Dailidenas(7) lap=5 point=2 t=67.186 et=572.403</Score>
+<Score et="580.8">Mindaugas Klumbis(15) lap=6 point=0 t=91.960 et=580.755</Score>
+<Score et="587.4">Mindaugas Klumbis(15) lap=6 point=1 t=-1.000 et=587.228</Score>
+<Score et="587.4">Mindaugas Klumbis(15) lap=6 point=2 t=-1.000 et=587.228</Score>
+<Score et="587.4">Mindaugas Klumbis(15) lap=7 point=0 t=-1.000 et=587.228</Score>
+<Score et="592.8">Vitalijus Karcovas(11) lap=6 point=2 t=67.564 et=592.702</Score>
+<Score et="597.9">Martynas Dailidenas(7) lap=6 point=0 t=92.594 et=597.812</Score>
+<Score et="597.9">Aurimas Zamzickas(12) lap=6 point=1 t=27.553 et=597.835</Score>
+<Score et="603.2">Martynas Dailidenas(7) lap=6 point=1 t=-1.000 et=603.103</Score>
+<Score et="603.2">Martynas Dailidenas(7) lap=6 point=2 t=-1.000 et=603.103</Score>
+<Score et="603.2">Martynas Dailidenas(7) lap=7 point=0 t=-1.000 et=603.103</Score>
+<Score et="618.2">Vitalijus Karcovas(11) lap=7 point=0 t=92.979 et=618.117</Score>
+<Score et="623.0">Vitalijus Karcovas(11) lap=8 point=0 t=-1.000 et=622.575</Score>
+<Score et="623.0">Vitalijus Karcovas(11) lap=8 point=1 t=-1.000 et=622.575</Score>
+<Score et="623.0">Vitalijus Karcovas(11) lap=8 point=2 t=-1.000 et=622.575</Score>
+<Chat et="631.5">Andrius Stankevicius left the game.</Chat>
+<Score et="637.2">Aurimas Zamzickas(12) lap=6 point=2 t=66.883 et=637.165</Score>
+<Score et="662.6">Aurimas Zamzickas(12) lap=7 point=0 t=92.272 et=662.554</Score>
+<Chat et="664.8">Rytis Dragauskas: minde kiek i rata kuro tiksliai ima?</Chat>
+<Score et="667.7">Aurimas Zamzickas(12) lap=7 point=1 t=-1.000 et=667.603</Score>
+<Score et="667.7">Aurimas Zamzickas(12) lap=7 point=2 t=-1.000 et=667.603</Score>
+<Score et="667.7">Aurimas Zamzickas(12) lap=8 point=0 t=-1.000 et=667.603</Score>
+<Chat et="671.2">Mindaugas Giedra: 3.4</Chat>
+<Chat et="689.1">Andrius Balilionis: SESIJA BAIGTA, SVEIKINAME NUGALETOJA</Chat>
+<Chat et="689.5">Benediktas Sinkevicius: jauciu latai neleksiu race</Chat>
+<Chat et="698.1">Vitalijus Karcovas: sveikinam</Chat>
+<Chat et="698.3">Mindaugas Giedra: o tikrai kaip ce laio soft padangos?</Chat>
+<Chat et="700.4">Mindaugas Klumbis: NA VA BAIGEM Q2, TIK KAZIN KUR BRYLIUS DINGO</Chat>
+<Chat et="705.2">Marius Virsila left the game.</Chat>
+<Chat et="707.9">Martynas Venckus: Maciau jis pakibo...</Chat>
+<Chat et="708.4">Mindaugas Latisenka: as irgi jei glusokas nepasikeis i torro rosso</Chat>
+<Chat et="710.3">Mindaugas Klumbis: SOFTAI LAIKO GERAI</Chat>
+<Chat et="715.7">Mindaugas Giedra: ok</Chat>
+<Chat et="717.4">Vitalijus Karcovas: kodel latas mismatch?</Chat>
+<Chat et="722.9">Darius Glusokas: oo jau 19as</Chat>
+<Chat et="728.2">Benediktas Sinkevicius: nes glusoko nemato</Chat>
+<Chat et="728.6">Vygintas Kuprys: jo brylius pakibo</Chat>
+<Chat et="731.8">Mindaugas Latisenka: nes darius glusoka man su unknown rodomas</Chat>
+<Chat et="737.6">&gt; krc dingo elektra</Chat>
+<Chat et="738.5">&gt; zjb</Chat>
+<Chat et="742.0">Mindaugas Giedra: ble alaus primaukiau tai warau iki WC :D</Chat>
+<Chat et="742.5">Mindaugas Latisenka: jeigu jis perses i torro rosso, man bus ok</Chat>
+<Chat et="743.7">&gt; ok</Chat>
+<Chat et="747.9">Benediktas Sinkevicius: tai nopicai pereik i toro roso</Chat>
+<Chat et="752.3">&gt; visi baige</Chat>
+<Chat et="753.4">&gt; ?</Chat>
+<Chat et="754.4">Vitalijus Karcovas: tegul pereina</Chat>
+<Chat et="757.2">Mindaugas Klumbis: TAIP</Chat>
+<Chat et="757.4">Andrius Balilionis: taip</Chat>
+<Chat et="760.0">Darius Glusokas: dba?</Chat>
+<Chat et="772.8">Darius Glusokas: prisijuksiu poto?</Chat>
+<Chat et="780.5">Rytis Dragauskas: 43+1 ratai?</Chat>
+<Chat et="781.7">Vitalijus Karcovas: kas bus?</Chat>
+<Chat et="786.9">Darius Glusokas: palaukit manes</Chat>
+<Chat et="790.9">Darius Glusokas left the game.</Chat>
+<Chat et="794.9">Mindaugas Latisenka: ir as persijungiu irgi</Chat>
+<Chat et="795.2">Mindaugas Giedra: jo</Chat>
+<Chat et="802.9">Mindaugas Latisenka left the game.</Chat>
+<Chat et="819.7">Vygintas Kuprys: 42+1 man rods</Chat>
+<Chat et="821.0">Andrius Balilionis: SERVER&gt; NEXT SESION</Chat>
+<Chat et="824.5">Vidmantas Poska: cia tie kur persijungs gales kuro kiek nori piltis?</Chat>
+<Chat et="831.7">Vidmantas Poska: gal is as?</Chat>
+<Chat et="831.8">Andrius Stankevicius has entered the game.</Chat>
+<System et="831.8">Andrius Stankevicius(25) 85.255.107.206 has joined as a participant</System>
+<System et="831.8">Andrius Stankevicius returned with matching vehicle/upgrades: restoring score (5 laps) and parc ferme setup</System>
+<Chat et="843.8">Andrius Balilionis: tai dabar gali</Chat>
+<Chat et="844.7">Andrius Stankevicius: ok</Chat>
+<Chat et="846.7">Rytis Dragauskas: brylius kiek ratyu</Chat>
+<Chat et="848.0">Rytis Dragauskas: ?</Chat>
+<Chat et="848.5">Mindaugas Giedra: ble 1 wal praejo o mes dar nestartawe </Chat>
+<Vote et="850.1">Andrius Stankevicius: /callvote nextsession</Vote>
+<Sent et="850.1">&quot;advance to next session&quot; proposed by (SUPERADMIN): vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>8</MostLapsCompleted>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_06.VEH</VehFile>
+<UpgradeCode>01000000 00000000</UpgradeCode>
+<VehName>06: Kimi Raikkonen</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.643">--.----</Lap>
+<Lap num="2" p="2" et="164.7617" s1="27.6472" s2="39.5223" s3="25.2577" fuel="0.612">92.4272</Lap>
+<Lap num="3" p="1" et="257.1889" s1="27.5420" s2="39.5860" s3="25.2760" fuel="0.584">92.4039</Lap>
+<Lap num="4" p="1" et="349.5928" fuel="0.584">--.----</Lap>
+<Lap num="5" p="1" et="354.8858" fuel="0.557">--.----</Lap>
+<Lap num="6" p="1" et="488.7944" s1="27.5250" s2="39.3799" s3="25.0553" fuel="0.525">91.9602</Lap>
+<Lap num="7" p="1" et="580.7546" fuel="0.529">--.----</Lap>
+<BestLapTime>91.9602</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,TC=1,ABS=2,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Aurimas Zamzickas</Name>
+<Connected>1</Connected>
+<VehFile>WILLIAMS_17.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>17: Alexander Wurz</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Williams</TeamName>
+<isPlayer>1</isPlayer>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.525">--.----</Lap>
+<Lap num="2" p="1" et="128.3360" s1="27.9390" s2="39.4187" s3="25.5693" fuel="0.498">92.9270</Lap>
+<Lap num="3" p="4" et="221.2630" s1="27.7591" s2="39.8797" s3="25.5982" fuel="0.471">93.2370</Lap>
+<Lap num="4" p="5" et="314.5000" s1="27.6544" s2="40.3649" s3="25.4559" fuel="0.439">93.4752</Lap>
+<Lap num="5" p="5" et="407.9752" fuel="0.443">--.----</Lap>
+<Lap num="6" p="6" et="426.4819" fuel="0.412">--.----</Lap>
+<Lap num="7" p="2" et="570.2816" s1="27.5534" s2="39.3297" s3="25.3891" fuel="0.384">92.2722</Lap>
+<Lap num="8" p="2" et="662.5538" fuel="0.384">--.----</Lap>
+<BestLapTime>92.2722</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,TC=2,ABS=2,AutoShift=3,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Audrius Valantiejus</Name>
+<Connected>1</Connected>
+<VehFile>SUPER_AGURI_22.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>22: Takuma Sato</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>22</CarNumber>
+<TeamName>Super Aguri</TeamName>
+<isPlayer>1</isPlayer>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.588">--.----</Lap>
+<Lap num="2" p="1" et="136.0738" s1="27.5457" s2="39.4737" s3="25.3892" fuel="0.561">92.4086</Lap>
+<Lap num="3" p="1" et="228.4825" fuel="0.557">--.----</Lap>
+<Lap num="4" p="2" et="239.3291" fuel="0.529">--.----</Lap>
+<Lap num="5" p="2" et="379.7060" s1="27.5431" s2="39.5795" s3="25.3173" fuel="0.502">92.4399</Lap>
+<Lap num="6" p="2" et="472.1459" fuel="0.506">--.----</Lap>
+<BestLapTime>92.4086</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,TC=2,ABS=2,AutoShift=3,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Martynas Dailidenas</Name>
+<Connected>1</Connected>
+<VehFile>SUPER_AGURI_22.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>22: Takuma Sato</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>22</CarNumber>
+<TeamName>Super Aguri</TeamName>
+<isPlayer>1</isPlayer>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.600" pit="1">--.----</Lap>
+<Lap num="2" p="10" et="180.8964" fuel="0.569">--.----</Lap>
+<Lap num="3" p="3" et="283.7206" s1="27.7374" s2="39.7244" s3="25.3143" fuel="0.541">92.7761</Lap>
+<Lap num="4" p="3" et="376.4967" fuel="0.537">--.----</Lap>
+<Lap num="5" p="3" et="380.9356" fuel="0.510">--.----</Lap>
+<Lap num="6" p="3" et="505.2171" s1="27.6865" s2="39.4994" s3="25.4086" fuel="0.482">92.5944</Lap>
+<Lap num="7" p="3" et="597.8115" fuel="0.478">--.----</Lap>
+<BestLapTime>92.5944</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,TC=2,ABS=2,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Nerijus Juknevicius</Name>
+<Connected>1</Connected>
+<VehFile>RENAULT_03.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>03: Giancarlo Fisichella</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>Renault</TeamName>
+<isPlayer>1</isPlayer>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="--.---" fuel="0.482">--.----</Lap>
+<Lap num="2" p="2" et="148.1922" s1="27.5823" s2="39.6281" s3="25.6615" fuel="0.455">92.8719</Lap>
+<Lap num="3" p="2" et="241.0641" fuel="0.451">--.----</Lap>
+<BestLapTime>92.8719</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,TC=2,ABS=2,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Vitalijus Karcovas</Name>
+<Connected>1</Connected>
+<VehFile>SPYKER_21.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>21: Christian Albers</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>21</CarNumber>
+<TeamName>Spyker</TeamName>
+<isPlayer>1</isPlayer>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.859">--.----</Lap>
+<Lap num="2" p="2" et="133.0379" s1="27.9113" s2="40.4245" s3="25.7853" fuel="0.831">94.1211</Lap>
+<Lap num="3" p="6" et="227.1591" s1="27.6557" s2="40.2785" s3="25.5036" fuel="0.800">93.4378</Lap>
+<Lap num="4" p="6" et="320.5969" fuel="0.800">--.----</Lap>
+<Lap num="5" p="7" et="324.3572" fuel="0.773">--.----</Lap>
+<Lap num="6" p="5" et="432.2380" s1="27.5236" s2="39.9397" s3="25.4369" fuel="0.745">92.9001</Lap>
+<Lap num="7" p="5" et="525.1381" s1="27.6445" s2="39.9193" s3="25.4154" fuel="0.714">92.9792</Lap>
+<Lap num="8" p="5" et="618.1172" fuel="0.714">--.----</Lap>
+<BestLapTime>92.9001</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,TC=2,ABS=2,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Stankevicius</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN_01.VEH</VehFile>
+<UpgradeCode>03000000 00000000</UpgradeCode>
+<VehName>01: Fernando Alonso</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.969">--.----</Lap>
+<Lap num="2" p="2" et="129.2760" s1="28.2570" s2="40.1797" s3="25.8035" fuel="0.941">94.2402</Lap>
+<Lap num="3" p="7" et="223.5161" s1="27.9318" s2="41.0034" fuel="0.914" pit="1">--.----</Lap>
+<Lap num="4" p="9" et="338.5727" fuel="0.886">--.----</Lap>
+<Lap num="5" p="7" et="441.9058" s1="27.9585" s2="39.7086" s3="25.5405" fuel="0.855">93.2077</Lap>
+<BestLapTime>93.2077</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,TC=2,ABS=2,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="5"></Swap></Driver>
+<Driver>
+<Name>Vidmantas Poska</Name>
+<Connected>1</Connected>
+<VehFile>TORO_ROSSO_19.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>19: Scott Speed</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>19</CarNumber>
+<TeamName>Toro Rosso</TeamName>
+<isPlayer>1</isPlayer>
+<Position>8</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.710">--.----</Lap>
+<Lap num="2" p="3" et="142.5724" s1="27.9365" s2="40.0220" s3="25.4793" fuel="0.678">93.4377</Lap>
+<Lap num="3" p="3" et="236.0102" fuel="0.678">--.----</Lap>
+<BestLapTime>93.4377</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,TC=1,ABS=2,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Marius Virsila</Name>
+<Connected>0</Connected>
+<VehFile>WILLIAMS_16.VEH</VehFile>
+<UpgradeCode>02000000 00000000</UpgradeCode>
+<VehName>16: Nico Rosberg</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>Williams</TeamName>
+<isPlayer>1</isPlayer>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="--.---" fuel="0.773">--.----</Lap>
+<Lap num="2" p="7" et="157.1111" s1="28.0244" s2="40.9699" s3="25.8460" fuel="0.741">94.8403</Lap>
+<Lap num="3" p="7" et="251.9514" s1="27.7794" s2="40.0650" s3="25.7424" fuel="0.714">93.5868</Lap>
+<Lap num="4" p="8" et="345.5382" s1="37.3646" fuel="0.706">--.----</Lap>
+<BestLapTime>93.5868</BestLapTime>
+<Laps>4</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl,TC=2,ABS=2,AutoShift=3,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="4"></Swap></Driver>
+<Driver>
+<Name>Mindaugas Latisenka</Name>
+<Connected>0</Connected>
+<VehFile>TOYOTA_11.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>11: Ralf Schumacher</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>Toyota</TeamName>
+<isPlayer>1</isPlayer>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Darius Glusokas</Name>
+<Connected>0</Connected>
+<VehFile>LRT_WSADV_54.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>54: Lithuanian Racing Team</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>054</CarNumber>
+<TeamName>Lithuanian Racing Team</TeamName>
+<isPlayer>1</isPlayer>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Vygintas Kuprys</Name>
+<Connected>1</Connected>
+<VehFile>BMW_SAUBER_09.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>09: Nick Heidfeld</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>BMW Sauber</TeamName>
+<isPlayer>1</isPlayer>
+<Position>9</Position>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Adomas Minevicius</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN_02.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>02: Lewis Hamilton</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>02</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<Position>10</Position>
+<ClassPosition>10</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Nerijus Dumcius</Name>
+<Connected>1</Connected>
+<VehFile>BMW_SAUBER_10.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>10: Robert Kubica</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>10</CarNumber>
+<TeamName>BMW Sauber</TeamName>
+<isPlayer>1</isPlayer>
+<Position>11</Position>
+<ClassPosition>11</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Tomas Vilis</Name>
+<Connected>1</Connected>
+<VehFile>RED_BULL_14.VEH</VehFile>
+<UpgradeCode>01000000 00000000</UpgradeCode>
+<VehName>14: David Coulthard</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>Red Bull</TeamName>
+<isPlayer>1</isPlayer>
+<Position>12</Position>
+<ClassPosition>12</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Benediktas Sinkevicius</Name>
+<Connected>1</Connected>
+<VehFile>TOYOTA_12.VEH</VehFile>
+<UpgradeCode>01000000 00000000</UpgradeCode>
+<VehName>12: Jarno Trulli</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>Toyota</TeamName>
+<isPlayer>1</isPlayer>
+<Position>13</Position>
+<ClassPosition>13</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Rytis Dragauskas</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_05.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>05: Felipe Massa</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>14</Position>
+<ClassPosition>14</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Martynas Venckus</Name>
+<Connected>1</Connected>
+<VehFile>HONDA_08.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>08: Rubens Barrichello</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>08</CarNumber>
+<TeamName>Honda</TeamName>
+<isPlayer>1</isPlayer>
+<Position>15</Position>
+<ClassPosition>15</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>18</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Mindaugas Giedra</Name>
+<Connected>1</Connected>
+<VehFile>RENAULT_04.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>04: Heikki Kovalainen</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>Renault</TeamName>
+<isPlayer>1</isPlayer>
+<Position>16</Position>
+<ClassPosition>16</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>19</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Kamilijus Saulys</Name>
+<Connected>1</Connected>
+<VehFile>HONDA_07.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>07: Jenson Button</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>Honda</TeamName>
+<isPlayer>1</isPlayer>
+<Position>17</Position>
+<ClassPosition>17</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>20</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Vilius Kaukas</Name>
+<Connected>1</Connected>
+<VehFile>RED_BULL_15.VEH</VehFile>
+<UpgradeCode>01000000 00000000</UpgradeCode>
+<VehName>15: Mark Webber</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>15</CarNumber>
+<TeamName>Red Bull</TeamName>
+<isPlayer>1</isPlayer>
+<Position>18</Position>
+<ClassPosition>18</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>21</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Andrius Balilionis</Name>
+<Connected>1</Connected>
+<VehFile>SPYKER_20.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>20: Adrian Sutil</VehName>
+<CarType>MMG F1 2007 SE</CarType>
+<CarClass>MMG F1 2007 SE</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Spyker</TeamName>
+<isPlayer>1</isPlayer>
+<Position>19</Position>
+<ClassPosition>19</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>22</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

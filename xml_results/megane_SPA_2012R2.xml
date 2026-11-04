@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC Megane oficialus</ServerName>
+<PlayerFile>Andrius Stankevicius</PlayerFile>
+<DateTime>1349974972</DateTime>
+<TimeString>2012/10/11 20:02:52</TimeString>
+<Mod>Megane Trophy V6.rfm</Mod>
+<Season></Season>
+<TrackVenue>SimRacingPL 2010 FIA GT4</TrackVenue>
+<TrackCourse>Spa-Francorchamps GP 2007</TrackCourse>
+<TrackEvent>14 Spa-Francorchamps GP 2007</TrackEvent>
+<TrackLength>7001.8</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>15</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Megane|Trophy|V6</VehiclesAllowed>
+<ParcFerme>1</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>252</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1349979531</DateTime>
+<TimeString>2012/10/11 21:18:51</TimeString>
+<Laps>15</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Chat et="7.0">Valentas Tyla: be apsilimo varom vyrai gal?</Chat>
+<Chat et="18.7">Tomas Aniunas: be apsilimo</Chat>
+<Chat et="47.1">Valentas Tyla: ..</Chat>
+<Score et="80.4">Lukas Grebliauskas(13) lap=0 point=1 t=-1.000 et=80.368</Score>
+<Score et="84.6">Andrius Kuzmenko(2) lap=0 point=1 t=-1.000 et=84.506</Score>
+<Score et="87.5">Valentas Tyla(10) lap=0 point=1 t=-1.000 et=87.511</Score>
+<Score et="87.5">Tomas Aniunas(11) lap=0 point=1 t=-1.000 et=87.515</Score>
+<Score et="88.5">Martynas Sidunovas(12) lap=0 point=1 t=-1.000 et=88.503</Score>
+<Incident et="89.4">Valentas Tyla(10) reported contact (0.13) with another vehicle Tomas Aniunas(11)</Incident>
+<Incident et="89.4">Tomas Aniunas(11) reported contact (0.13) with another vehicle Valentas Tyla(10)</Incident>
+<Score et="89.9">Titas Bucelis(6) lap=0 point=1 t=-1.000 et=89.833</Score>
+<Score et="140.6">Lukas Grebliauskas(13) lap=0 point=2 t=-1.000 et=140.609</Score>
+<Score et="144.8">Andrius Kuzmenko(2) lap=0 point=2 t=-1.000 et=144.765</Score>
+<Score et="148.0">Tomas Aniunas(11) lap=0 point=2 t=-1.000 et=148.013</Score>
+<Score et="149.7">Valentas Tyla(10) lap=0 point=2 t=-1.000 et=149.678</Score>
+<Score et="151.0">Martynas Sidunovas(12) lap=0 point=2 t=-1.000 et=151.016</Score>
+<Score et="155.3">Titas Bucelis(6) lap=0 point=2 t=-1.000 et=155.288</Score>
+<Chat et="206.0">Valentas Tyla: Sidai, starta tevo stilium :D</Chat>
+<Incident et="225.9">Andrius Kuzmenko(2) reported contact (0.26) with another vehicle Valentas Tyla(10)</Incident>
+<Incident et="239.5">Tomas Aniunas(11) reported contact (0.06) with another vehicle Valentas Tyla(10)</Incident>
+<Incident et="242.4">Andrius Kuzmenko(2) reported contact (1.00) with Immovable</Incident>
+<Incident et="242.4">Andrius Kuzmenko(2) reported contact (1.00) with Immovable</Incident>
+<Incident et="242.6">Titas Bucelis(6) reported contact (1.00) with Immovable</Incident>
+<Incident et="242.6">Andrius Kuzmenko(2) reported contact (1.00) with another vehicle Martynas Sidunovas(12)</Incident>
+<Incident et="242.6">Andrius Kuzmenko(2) reported contact (1.00) with another vehicle Martynas Sidunovas(12)</Incident>
+<Incident et="242.6">Martynas Sidunovas(12) reported contact (1.00) with another vehicle Andrius Kuzmenko(2)</Incident>
+<Incident et="242.6">Titas Bucelis(6) reported contact (0.39) with Immovable</Incident>
+<Incident et="242.6">Titas Bucelis(6) reported contact (1.00) with Immovable</Incident>
+<Incident et="242.6">Andrius Kuzmenko(2) reported contact (0.06) with another vehicle Martynas Sidunovas(12)</Incident>
+<Incident et="244.2">Martynas Sidunovas(12) reported contact (1.00) with Immovable</Incident>
+<Incident et="244.3">Martynas Sidunovas(12) reported contact (0.45) with Immovable</Incident>
+<Incident et="244.3">Martynas Sidunovas(12) reported contact (0.65) with Immovable</Incident>
+<Incident et="247.2">Titas Bucelis(6) reported contact (1.00) with Immovable</Incident>
+<Incident et="247.2">Titas Bucelis(6) reported contact (1.00) with Immovable</Incident>
+<Incident et="247.2">Titas Bucelis(6) reported contact (0.52) with Immovable</Incident>
+<Score et="255.6">Lukas Grebliauskas(13) lap=0 point=1 t=40.967 et=255.603</Score>
+<Score et="256.3">Valentas Tyla(10) lap=0 point=1 t=41.594 et=256.229</Score>
+<Score et="258.4">Tomas Aniunas(11) lap=0 point=1 t=43.742 et=258.378</Score>
+<Score et="261.0">Martynas Sidunovas(12) lap=0 point=1 t=46.317 et=260.953</Score>
+<Score et="263.2">Titas Bucelis(6) lap=0 point=1 t=48.492 et=263.128</Score>
+<Score et="314.6">Lukas Grebliauskas(13) lap=0 point=2 t=99.942 et=314.578</Score>
+<Score et="315.2">Valentas Tyla(10) lap=0 point=2 t=100.503 et=315.139</Score>
+<Score et="317.7">Tomas Aniunas(11) lap=0 point=2 t=103.029 et=317.665</Score>
+<Score et="319.5">Martynas Sidunovas(12) lap=0 point=2 t=104.876 et=319.512</Score>
+<Score et="322.9">Titas Bucelis(6) lap=0 point=2 t=108.217 et=322.853</Score>
+<Score et="354.1">Lukas Grebliauskas(13) lap=1 point=0 t=139.469 et=354.105</Score>
+<Score et="354.5">Valentas Tyla(10) lap=1 point=0 t=139.792 et=354.428</Score>
+<Score et="357.5">Tomas Aniunas(11) lap=1 point=0 t=142.846 et=357.482</Score>
+<Score et="359.3">Martynas Sidunovas(12) lap=1 point=0 t=144.630 et=359.266</Score>
+<Score et="362.7">Titas Bucelis(6) lap=1 point=0 t=148.058 et=362.694</Score>
+<Sent et="384.7">Andrius Kuzmenko has left the game but vehicle has been stored in the garage</Sent>
+<Score et="390.4">Valentas Tyla(10) lap=1 point=1 t=35.962 et=390.390</Score>
+<Score et="390.4">Lukas Grebliauskas(13) lap=1 point=1 t=36.278 et=390.383</Score>
+<Score et="394.0">Tomas Aniunas(11) lap=1 point=1 t=36.472 et=393.954</Score>
+<Score et="395.6">Martynas Sidunovas(12) lap=1 point=1 t=36.312 et=395.578</Score>
+<Score et="399.4">Titas Bucelis(6) lap=1 point=1 t=36.667 et=399.361</Score>
+<Incident et="417.4">Lukas Grebliauskas(13) reported contact (0.10) with another vehicle Valentas Tyla(10)</Incident>
+<Incident et="417.4">Valentas Tyla(10) reported contact (0.10) with another vehicle Lukas Grebliauskas(13)</Incident>
+<Score et="448.9">Lukas Grebliauskas(13) lap=1 point=2 t=94.698 et=448.803</Score>
+<Score et="449.4">Valentas Tyla(10) lap=1 point=2 t=94.900 et=449.328</Score>
+<Score et="452.1">Tomas Aniunas(11) lap=1 point=2 t=94.629 et=452.112</Score>
+<Score et="454.0">Martynas Sidunovas(12) lap=1 point=2 t=94.670 et=453.936</Score>
+<Score et="457.9">Titas Bucelis(6) lap=1 point=2 t=95.163 et=457.857</Score>
+<Score et="491.8">Valentas Tyla(10) lap=2 point=0 t=137.340 et=491.768</Score>
+<Score et="492.1">Tomas Aniunas(11) lap=2 point=0 t=134.634 et=492.116</Score>
+<Score et="492.9">Lukas Grebliauskas(13) lap=2 point=0 t=138.823 et=492.928</Score>
+<Score et="494.0">Martynas Sidunovas(12) lap=2 point=0 t=134.641 et=493.906</Score>
+<Score et="497.9">Titas Bucelis(6) lap=2 point=0 t=135.138 et=497.832</Score>
+<Score et="528.7">Tomas Aniunas(11) lap=2 point=1 t=36.587 et=528.703</Score>
+<Score et="529.2">Lukas Grebliauskas(13) lap=2 point=1 t=36.288 et=529.216</Score>
+<Score et="529.3">Valentas Tyla(10) lap=2 point=1 t=37.513 et=529.281</Score>
+<Score et="530.3">Martynas Sidunovas(12) lap=2 point=1 t=36.372 et=530.278</Score>
+<Score et="534.4">Titas Bucelis(6) lap=2 point=1 t=36.485 et=534.317</Score>
+<Incident et="556.4">Lukas Grebliauskas(13) reported contact (0.65) with another vehicle Valentas Tyla(10)</Incident>
+<Incident et="556.4">Valentas Tyla(10) reported contact (0.48) with another vehicle Lukas Grebliauskas(13)</Incident>
+<Incident et="557.1">Valentas Tyla(10) reported contact (1.00) with Immovable</Incident>
+<Incident et="557.2">Valentas Tyla(10) reported contact (0.03) with Immovable</Incident>
+<Incident et="557.6">Valentas Tyla(10) reported contact (0.39) with Immovable</Incident>
+<Incident et="575.4">Lukas Grebliauskas(13) reported contact (1.00) with Immovable</Incident>
+<Incident et="575.4">Lukas Grebliauskas(13) reported contact (1.00) with Immovable</Incident>
+<Incident et="575.5">Lukas Grebliauskas(13) reported contact (0.03) with Immovable</Incident>
+<Incident et="576.0">Lukas Grebliauskas(13) reported contact (0.03) with Immovable</Incident>
+<Chat et="577.3">Valentas Tyla: ;D</Chat>
+<Chat et="582.9">Lukas Grebliauskas: nu blet</Chat>
+<Score et="587.0">Tomas Aniunas(11) lap=2 point=2 t=94.824 et=586.940</Score>
+<Score et="589.4">Martynas Sidunovas(12) lap=2 point=2 t=95.425 et=589.331</Score>
+<Score et="592.8">Titas Bucelis(6) lap=2 point=2 t=94.924 et=592.757</Score>
+<Score et="593.8">Valentas Tyla(10) lap=2 point=2 t=102.035 et=593.803</Score>
+<Score et="626.5">Tomas Aniunas(11) lap=3 point=0 t=134.365 et=626.481</Score>
+<Score et="629.6">Martynas Sidunovas(12) lap=3 point=0 t=135.623 et=629.529</Score>
+<Score et="632.5">Titas Bucelis(6) lap=3 point=0 t=134.645 et=632.478</Score>
+<Score et="634.3">Valentas Tyla(10) lap=3 point=0 t=142.512 et=634.280</Score>
+<Score et="662.9">Tomas Aniunas(11) lap=3 point=1 t=36.347 et=662.828</Score>
+<Score et="665.8">Martynas Sidunovas(12) lap=3 point=1 t=36.230 et=665.759</Score>
+<Score et="669.1">Titas Bucelis(6) lap=3 point=1 t=36.502 et=668.980</Score>
+<Score et="670.9">Valentas Tyla(10) lap=3 point=1 t=36.547 et=670.828</Score>
+<Chat et="697.9">Lukas Grebliauskas: davai davai spausk dugna</Chat>
+<Chat et="713.9">Valentas Tyla: kuriam cia</Chat>
+<Chat et="719.1">Lukas Grebliauskas: blondy</Chat>
+<Score et="720.9">Tomas Aniunas(11) lap=3 point=2 t=94.422 et=720.903</Score>
+<Score et="723.7">Martynas Sidunovas(12) lap=3 point=2 t=94.099 et=723.628</Score>
+<Score et="727.9">Titas Bucelis(6) lap=3 point=2 t=95.400 et=727.878</Score>
+<Score et="729.0">Valentas Tyla(10) lap=3 point=2 t=94.728 et=729.008</Score>
+<Sent et="732.8">Lukas Grebliauskas has left the game but vehicle has been stored in the garage</Sent>
+<Score et="760.4">Tomas Aniunas(11) lap=4 point=0 t=133.830 et=760.310</Score>
+<Score et="763.3">Martynas Sidunovas(12) lap=4 point=0 t=133.674 et=763.203</Score>
+<Score et="767.9">Titas Bucelis(6) lap=4 point=0 t=135.384 et=767.861</Score>
+<Score et="768.6">Valentas Tyla(10) lap=4 point=0 t=134.297 et=768.578</Score>
+<Score et="796.5">Tomas Aniunas(11) lap=4 point=1 t=36.149 et=796.460</Score>
+<Score et="799.4">Martynas Sidunovas(12) lap=4 point=1 t=36.202 et=799.405</Score>
+<Score et="804.4">Titas Bucelis(6) lap=4 point=1 t=36.466 et=804.328</Score>
+<Score et="804.5">Valentas Tyla(10) lap=4 point=1 t=35.875 et=804.453</Score>
+<Incident et="832.7">Valentas Tyla(10) reported contact (0.13) with Immovable</Incident>
+<Incident et="833.6">Valentas Tyla(10) reported contact (0.19) with Immovable</Incident>
+<Sent et="842.4">Valentas Tyla has left the game but vehicle has been stored in the garage</Sent>
+<Score et="854.3">Tomas Aniunas(11) lap=4 point=2 t=94.005 et=854.315</Score>
+<Score et="857.0">Martynas Sidunovas(12) lap=4 point=2 t=93.750 et=856.953</Score>
+<Score et="863.5">Titas Bucelis(6) lap=4 point=2 t=95.566 et=863.428</Score>
+<Score et="893.9">Tomas Aniunas(11) lap=5 point=0 t=133.567 et=893.878</Score>
+<Score et="897.4">Martynas Sidunovas(12) lap=5 point=0 t=134.125 et=897.328</Score>
+<Score et="903.6">Titas Bucelis(6) lap=5 point=0 t=135.666 et=903.528</Score>
+<Score et="930.0">Tomas Aniunas(11) lap=5 point=1 t=36.025 et=929.903</Score>
+<Score et="933.7">Martynas Sidunovas(12) lap=5 point=1 t=36.300 et=933.628</Score>
+<Score et="940.1">Titas Bucelis(6) lap=5 point=1 t=36.550 et=940.078</Score>
+<Score et="987.6">Tomas Aniunas(11) lap=5 point=2 t=93.681 et=987.559</Score>
+<Score et="991.2">Martynas Sidunovas(12) lap=5 point=2 t=93.825 et=991.153</Score>
+<Score et="999.1">Titas Bucelis(6) lap=5 point=2 t=95.561 et=999.089</Score>
+<Score et="1027.4">Tomas Aniunas(11) lap=6 point=0 t=133.475 et=1027.353</Score>
+<Score et="1036.2">Martynas Sidunovas(12) lap=6 point=0 t=138.835 et=1036.163</Score>
+<Score et="1039.0">Titas Bucelis(6) lap=6 point=0 t=135.425 et=1038.953</Score>
+<Score et="1063.6">Tomas Aniunas(11) lap=6 point=1 t=36.184 et=1063.537</Score>
+<Score et="1072.5">Martynas Sidunovas(12) lap=6 point=1 t=36.215 et=1072.378</Score>
+<Score et="1075.5">Titas Bucelis(6) lap=6 point=1 t=36.500 et=1075.453</Score>
+<Score et="1121.0">Tomas Aniunas(11) lap=6 point=2 t=93.660 et=1121.013</Score>
+<Score et="1130.0">Martynas Sidunovas(12) lap=6 point=2 t=93.847 et=1130.009</Score>
+<Score et="1133.9">Titas Bucelis(6) lap=6 point=2 t=94.937 et=1133.890</Score>
+<Score et="1160.6">Tomas Aniunas(11) lap=7 point=0 t=133.175 et=1160.528</Score>
+<Score et="1169.6">Martynas Sidunovas(12) lap=7 point=0 t=133.365 et=1169.528</Score>
+<Score et="1173.6">Titas Bucelis(6) lap=7 point=0 t=134.600 et=1173.553</Score>
+<Score et="1196.7">Tomas Aniunas(11) lap=7 point=1 t=36.103 et=1196.631</Score>
+<Score et="1206.1">Martynas Sidunovas(12) lap=7 point=1 t=36.150 et=1205.678</Score>
+<Score et="1210.4">Titas Bucelis(6) lap=7 point=1 t=36.705 et=1210.258</Score>
+<Score et="1255.3">Tomas Aniunas(11) lap=7 point=2 t=94.604 et=1255.132</Score>
+<Score et="1263.0">Martynas Sidunovas(12) lap=7 point=2 t=93.400 et=1262.928</Score>
+<Score et="1269.5">Titas Bucelis(6) lap=7 point=2 t=95.902 et=1269.454</Score>
+<Score et="1294.9">Tomas Aniunas(11) lap=8 point=0 t=134.113 et=1294.640</Score>
+<Score et="1303.1">Martynas Sidunovas(12) lap=8 point=0 t=132.678 et=1302.205</Score>
+<Score et="1310.0">Titas Bucelis(6) lap=8 point=0 t=135.877 et=1309.430</Score>
+<Score et="1330.8">Tomas Aniunas(11) lap=8 point=1 t=36.169 et=1330.810</Score>
+<Score et="1338.4">Martynas Sidunovas(12) lap=8 point=1 t=36.233 et=1338.439</Score>
+<Score et="1346.1">Titas Bucelis(6) lap=8 point=1 t=36.623 et=1346.053</Score>
+<Score et="1389.2">Tomas Aniunas(11) lap=8 point=2 t=94.442 et=1389.082</Score>
+<Score et="1396.5">Martynas Sidunovas(12) lap=8 point=2 t=93.727 et=1395.932</Score>
+<Score et="1404.4">Titas Bucelis(6) lap=8 point=2 t=94.983 et=1404.413</Score>
+<Score et="1428.7">Tomas Aniunas(11) lap=9 point=0 t=134.047 et=1428.688</Score>
+<Score et="1435.4">Martynas Sidunovas(12) lap=9 point=0 t=133.184 et=1435.389</Score>
+<Score et="1444.5">Titas Bucelis(6) lap=9 point=0 t=134.830 et=1444.260</Score>
+<Score et="1464.9">Tomas Aniunas(11) lap=9 point=1 t=36.229 et=1464.917</Score>
+<Score et="1471.6">Martynas Sidunovas(12) lap=9 point=1 t=36.100 et=1471.489</Score>
+<Score et="1480.6">Titas Bucelis(6) lap=9 point=1 t=36.269 et=1480.529</Score>
+<Score et="1522.8">Tomas Aniunas(11) lap=9 point=2 t=94.065 et=1522.753</Score>
+<Score et="1529.1">Martynas Sidunovas(12) lap=9 point=2 t=93.639 et=1529.028</Score>
+<Score et="1538.6">Titas Bucelis(6) lap=9 point=2 t=94.280 et=1538.541</Score>
+<Score et="1562.2">Tomas Aniunas(11) lap=10 point=0 t=133.498 et=1562.186</Score>
+<Score et="1568.5">Martynas Sidunovas(12) lap=10 point=0 t=133.095 et=1568.484</Score>
+<Score et="1579.1">Titas Bucelis(6) lap=10 point=0 t=134.193 et=1578.453</Score>
+<Score et="1598.4">Tomas Aniunas(11) lap=10 point=1 t=36.117 et=1598.303</Score>
+<Score et="1605.0">Martynas Sidunovas(12) lap=10 point=1 t=36.371 et=1604.855</Score>
+<Score et="1615.1">Titas Bucelis(6) lap=10 point=1 t=36.529 et=1614.982</Score>
+<Score et="1656.8">Tomas Aniunas(11) lap=10 point=2 t=94.579 et=1656.765</Score>
+<Score et="1662.5">Martynas Sidunovas(12) lap=10 point=2 t=93.969 et=1662.453</Score>
+<Score et="1673.7">Titas Bucelis(6) lap=10 point=2 t=95.200 et=1673.653</Score>
+<Incident et="1696.3">Martynas Sidunovas(12) reported contact (0.03) with Immovable</Incident>
+<Incident et="1708.5">Titas Bucelis(6) reported contact (0.13) with Immovable</Incident>
+<Score et="1711.7">Tomas Aniunas(11) lap=11 point=0 t=149.117 et=1711.303</Score>
+<Score et="1718.7">Titas Bucelis(6) lap=11 point=0 t=140.250 et=1718.703</Score>
+<Score et="1738.0">Martynas Sidunovas(12) lap=11 point=0 t=169.545 et=1738.029</Score>
+<Score et="1749.3">Tomas Aniunas(11) lap=11 point=1 t=37.975 et=1749.278</Score>
+<Score et="1776.1">Titas Bucelis(6) lap=11 point=1 t=57.050 et=1775.753</Score>
+<Score et="1776.6">Martynas Sidunovas(12) lap=11 point=1 t=38.374 et=1776.403</Score>
+<Score et="1808.2">Tomas Aniunas(11) lap=11 point=2 t=96.825 et=1808.128</Score>
+<Score et="1834.3">Titas Bucelis(6) lap=11 point=2 t=115.525 et=1834.228</Score>
+<Score et="1835.4">Martynas Sidunovas(12) lap=11 point=2 t=97.310 et=1835.339</Score>
+<Incident et="1845.4">Tomas Aniunas(11) reported contact (0.19) with Immovable</Incident>
+<Incident et="1846.5">Tomas Aniunas(11) reported contact (0.48) with Immovable</Incident>
+<Score et="1848.6">Tomas Aniunas(11) lap=12 point=0 t=137.252 et=1848.555</Score>
+<Score et="1874.2">Titas Bucelis(6) lap=12 point=0 t=155.425 et=1874.128</Score>
+<Score et="1875.0">Martynas Sidunovas(12) lap=12 point=0 t=136.840 et=1874.868</Score>
+<Score et="1885.2">Tomas Aniunas(11) lap=12 point=1 t=36.627 et=1885.182</Score>
+<Score et="1910.6">Martynas Sidunovas(12) lap=12 point=1 t=35.716 et=1910.585</Score>
+<Score et="1910.6">Titas Bucelis(6) lap=12 point=1 t=36.476 et=1910.604</Score>
+<Score et="1943.5">Tomas Aniunas(11) lap=12 point=2 t=94.935 et=1943.489</Score>
+<Score et="1968.0">Martynas Sidunovas(12) lap=12 point=2 t=93.085 et=1967.953</Score>
+<Score et="1968.9">Titas Bucelis(6) lap=12 point=2 t=94.750 et=1968.878</Score>
+<Score et="1983.2">Tomas Aniunas(11) lap=13 point=0 t=134.635 et=1983.189</Score>
+<Score et="2008.2">Martynas Sidunovas(12) lap=13 point=0 t=133.273 et=2008.141</Score>
+<Score et="2008.4">Titas Bucelis(6) lap=13 point=0 t=134.282 et=2008.410</Score>
+<Score et="2022.9">Tomas Aniunas(11) lap=13 point=1 t=39.715 et=2022.904</Score>
+<Score et="2045.6">Titas Bucelis(6) lap=13 point=1 t=37.152 et=2045.561</Score>
+<Score et="2045.7">Martynas Sidunovas(12) lap=13 point=1 t=37.486 et=2045.628</Score>
+<Score et="2082.5">Tomas Aniunas(11) lap=13 point=2 t=99.266 et=2082.456</Score>
+<Score et="2103.8">Titas Bucelis(6) lap=13 point=2 t=95.293 et=2103.703</Score>
+<Score et="2104.3">Martynas Sidunovas(12) lap=13 point=2 t=96.092 et=2104.233</Score>
+<Score et="2122.5">Tomas Aniunas(11) lap=14 point=0 t=139.222 et=2122.412</Score>
+<Incident et="2137.7">Titas Bucelis(6) reported contact (0.10) with Immovable</Incident>
+<Score et="2144.1">Martynas Sidunovas(12) lap=14 point=0 t=135.970 et=2144.112</Score>
+<Score et="2148.8">Titas Bucelis(6) lap=14 point=0 t=140.343 et=2148.753</Score>
+<Score et="2158.8">Tomas Aniunas(11) lap=14 point=1 t=36.392 et=2158.803</Score>
+<Score et="2180.7">Martynas Sidunovas(12) lap=14 point=1 t=36.542 et=2180.654</Score>
+<Incident et="2182.2">Titas Bucelis(6) reported contact (0.42) with Immovable</Incident>
+<Score et="2207.9">Titas Bucelis(6) lap=14 point=1 t=59.076 et=2207.828</Score>
+<Score et="2220.1">Tomas Aniunas(11) lap=14 point=2 t=97.652 et=2220.064</Score>
+<Score et="2240.4">Martynas Sidunovas(12) lap=14 point=2 t=96.266 et=2240.378</Score>
+<Incident et="2262.6">Tomas Aniunas(11) reported contact (0.45) with Immovable</Incident>
+<Incident et="2262.7">Tomas Aniunas(11) reported contact (0.94) with Immovable</Incident>
+<Score et="2265.6">Titas Bucelis(6) lap=14 point=2 t=116.775 et=2265.528</Score>
+<Score et="2266.4">Checkered for Tomas Aniunas, laps=15/15, endET=2266.352783/306254101833471170000000000000000000000.000000, crossedAfterTime=0</Score>
+<Score et="2266.4">Tomas Aniunas(11) lap=15 point=0 t=143.941 et=2266.353</Score>
+<Score et="2288.3">Martynas Sidunovas(12) lap=15 point=0 t=144.227 et=2288.339</Score>
+<Penalty et="2293.7">Titas Bucelis received Stop/Go penalty, 10s, 0laps. Result: penalties=1, 1st=Stop/Go,10s</Penalty>
+<Incident et="2295.5">Titas Bucelis(6) reported contact (1.00) with Immovable</Incident>
+<Incident et="2295.6">Titas Bucelis(6) reported contact (0.90) with Immovable</Incident>
+<Incident et="2295.6">Titas Bucelis(6) reported contact (1.00) with Immovable</Incident>
+<Incident et="2301.1">Titas Bucelis(6) reported contact (1.00) with Immovable</Incident>
+<Incident et="2306.7">Titas Bucelis(6) reported contact (0.55) with Immovable</Incident>
+<Penalty et="2311.9">Titas Bucelis finished before serving penalty, added 35 seconds to totalET</Penalty>
+<Score et="2311.9">Titas Bucelis(6) lap=15 point=0 t=-1.000 et=2311.915</Score>
+<Sent et="2327.1">Titas Bucelis has left the game but vehicle has been stored in the garage</Sent>
+<Sent et="2330.3">Tomas Aniunas has left the game but vehicle has been stored in the garage</Sent>
+<Sent et="2347.2">Martynas Sidunovas has left the game but vehicle has been stored in the garage</Sent>
+</Stream>
+<MostLapsCompleted>15</MostLapsCompleted>
+<Driver>
+<Name>Martynas Sidunovas</Name>
+<Connected>1</Connected>
+<VehFile>PHILIPPE_MADONIA.VEH</VehFile>
+<UpgradeCode>02000000 00000000</UpgradeCode>
+<VehName>TDS Racing #8</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>TDS Racing</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>8</GridPos>
+<Position>2</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>12</Points>
+<ClassPoints>12</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="214.6358" s1="46.3170" s2="58.5591" s3="39.7536" fuel="0.843">144.6297</Lap>
+<Lap num="2" p="4" et="359.2656" s1="36.3122" s2="58.3581" s3="39.9703" fuel="0.765">134.6405</Lap>
+<Lap num="3" p="2" et="493.9061" s1="36.3717" s2="59.0530" s3="40.1982" fuel="0.686">135.6228</Lap>
+<Lap num="4" p="2" et="629.5289" s1="36.2299" s2="57.8689" s3="39.5750" fuel="0.608">133.6738</Lap>
+<Lap num="5" p="2" et="763.2028" s1="36.2018" s2="57.5482" s3="40.3750" fuel="0.529">134.1250</Lap>
+<Lap num="6" p="2" et="897.3278" s1="36.3000" s2="57.5252" s3="45.0097" fuel="0.451">138.8350</Lap>
+<Lap num="7" p="2" et="1036.1627" s1="36.2151" s2="57.6316" s3="39.5184" fuel="0.373">133.3651</Lap>
+<Lap num="8" p="2" et="1169.5278" s1="36.1499" s2="57.2500" s3="39.2777" fuel="0.290">132.6777</Lap>
+<Lap num="9" p="2" et="1302.2054" s1="36.2333" s2="57.4937" s3="39.4566" fuel="0.212">133.1837</Lap>
+<Lap num="10" p="2" et="1435.3890" s1="36.0996" s2="57.5392" s3="39.4562" fuel="0.133">133.0949</Lap>
+<Lap num="11" p="3" et="1568.4840" s1="36.3713" s2="57.5975" s3="75.5758" fuel="0.078" pit="1">169.5446</Lap>
+<Lap num="12" p="3" et="1738.0286" s1="38.3742" s2="58.9359" s3="39.5294" fuel="0.412">136.8396</Lap>
+<Lap num="13" p="2" et="1874.8682" s1="35.7164" s2="57.3682" s3="40.1886" fuel="0.333">133.2732</Lap>
+<Lap num="14" p="2" et="2008.1414" s1="37.4864" s2="58.6052" s3="39.8787" fuel="0.255">135.9704</Lap>
+<Lap num="15" p="2" et="2144.1118" s1="36.5421" s2="59.7239" s3="47.9613" fuel="0.176">144.2272</Lap>
+<BestLapTime>132.6777</BestLapTime>
+<FinishTime>2073.7034</FinishTime>
+<Laps>15</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="15">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Tomas Aniunas</Name>
+<Connected>1</Connected>
+<VehFile>MICHAEL_ROSSI.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Boutsen Energy Racing #12</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>Boutsen Energy Racing</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>4</GridPos>
+<Position>1</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>15</Points>
+<ClassPoints>15</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="214.6358" s1="43.7420" s2="59.2869" s3="39.8176" fuel="0.843">142.8465</Lap>
+<Lap num="2" p="2" et="357.4823" s1="36.4716" s2="58.1579" s3="40.0041" fuel="0.765">134.6336</Lap>
+<Lap num="3" p="1" et="492.1158" s1="36.5869" s2="58.2370" s3="39.5409" fuel="0.686">134.3649</Lap>
+<Lap num="4" p="1" et="626.4807" s1="36.3471" s2="58.0750" s3="39.4076" fuel="0.604">133.8297</Lap>
+<Lap num="5" p="1" et="760.3104" s1="36.1494" s2="57.8552" s3="39.5629" fuel="0.525">133.5674</Lap>
+<Lap num="6" p="1" et="893.8778" s1="36.0250" s2="57.6564" s3="39.7936" fuel="0.447">133.4750</Lap>
+<Lap num="7" p="1" et="1027.3528" s1="36.1844" s2="57.4760" s3="39.5145" fuel="0.365">133.1750</Lap>
+<Lap num="8" p="1" et="1160.5278" s1="36.1035" s2="58.5007" s3="39.5084" fuel="0.286">134.1126</Lap>
+<Lap num="9" p="1" et="1294.6404" s1="36.1692" s2="58.2723" s3="39.6059" fuel="0.208">134.0475</Lap>
+<Lap num="10" p="1" et="1428.6879" s1="36.2286" s2="57.8363" s3="39.4334" fuel="0.125">133.4983</Lap>
+<Lap num="11" p="1" et="1562.1862" s1="36.1166" s2="58.4624" s3="54.5376" fuel="0.071" pit="1">149.1166</Lap>
+<Lap num="12" p="1" et="1711.3027" s1="37.9750" s2="58.8500" s3="40.4271" fuel="0.588">137.2521</Lap>
+<Lap num="13" p="1" et="1848.5548" s1="36.6271" s2="58.3075" s3="39.7001" fuel="0.510">134.6347</Lap>
+<Lap num="14" p="1" et="1983.1895" s1="39.7150" s2="59.5514" s3="39.9560" fuel="0.431">139.2224</Lap>
+<Lap num="15" p="1" et="2122.4119" s1="36.3917" s2="61.2602" s3="46.2890" fuel="0.361">143.9409</Lap>
+<BestLapTime>133.1750</BestLapTime>
+<FinishTime>2051.7170</FinishTime>
+<Laps>15</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="15">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Titas Bucelis</Name>
+<Connected>1</Connected>
+<VehFile>LUDOVIC_BADEY.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>TDS Racing #6</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>6</CarNumber>
+<TeamName>TDS Racing</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>6</GridPos>
+<Position>3</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>10</Points>
+<ClassPoints>10</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="214.6358" s1="48.4920" s2="59.7250" s3="39.8413" fuel="0.831">148.0583</Lap>
+<Lap num="2" p="5" et="362.6941" s1="36.6669" s2="58.4964" s3="39.9750" fuel="0.749">135.1383</Lap>
+<Lap num="3" p="3" et="497.8324" s1="36.4849" s2="58.4392" s3="39.7213" fuel="0.671">134.6454</Lap>
+<Lap num="4" p="3" et="632.4778" s1="36.5020" s2="58.8980" s3="39.9837" fuel="0.592">135.3837</Lap>
+<Lap num="5" p="3" et="767.8615" s1="36.4663" s2="59.1000" s3="40.1000" fuel="0.510">135.6663</Lap>
+<Lap num="6" p="3" et="903.5278" s1="36.5500" s2="59.0113" s3="39.8637" fuel="0.431">135.4250</Lap>
+<Lap num="7" p="3" et="1038.9528" s1="36.5000" s2="58.4369" s3="39.6631" fuel="0.349">134.6000</Lap>
+<Lap num="8" p="3" et="1173.5527" s1="36.7048" s2="59.1970" s3="39.9753" fuel="0.271">135.8771</Lap>
+<Lap num="9" p="3" et="1309.4298" s1="36.6230" s2="58.3599" s3="39.8475" fuel="0.192">134.8304</Lap>
+<Lap num="10" p="3" et="1444.2603" s1="36.2690" s2="58.0114" s3="39.9121" fuel="0.110">134.1925</Lap>
+<Lap num="11" p="2" et="1578.4528" s1="36.5288" s2="58.6712" s3="45.0500" fuel="0.031" pit="1">140.2500</Lap>
+<Lap num="12" p="2" et="1718.7028" s1="57.0500" s2="58.4750" s3="39.9000" fuel="0.188">155.4250</Lap>
+<Lap num="13" p="3" et="1874.1278" s1="36.4757" s2="58.2743" s3="39.5318" fuel="0.106">134.2818</Lap>
+<Lap num="14" p="3" et="2008.4095" s1="37.1516" s2="58.1416" s3="45.0500" fuel="0.027" pit="1">140.3432</Lap>
+<Lap num="15" p="3" et="2148.7527" s1="59.0758" s2="57.6993" fuel="0.008">--.----</Lap>
+<BestLapTime>134.1925</BestLapTime>
+<FinishTime>2132.2788</FinishTime>
+<Laps>15</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="15">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Valentas Tyla</Name>
+<Connected>1</Connected>
+<VehFile>CHARLES.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McGregor Equipe Verschuur #19</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>19</CarNumber>
+<TeamName>McGregor Equipe Verschuur</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>3</GridPos>
+<Position>4</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="214.6358" s1="41.5937" s2="58.9097" s3="39.2886" fuel="0.851">139.7920</Lap>
+<Lap num="2" p="1" et="354.4278" s1="35.9623" s2="58.9377" s3="42.4404" fuel="0.773">137.3404</Lap>
+<Lap num="3" p="4" et="491.7682" s1="37.5133" s2="64.5213" s3="40.4776" fuel="0.694">142.5122</Lap>
+<Lap num="4" p="4" et="634.2805" s1="36.5473" s2="58.1807" s3="39.5693" fuel="0.612">134.2973</Lap>
+<BestLapTime>134.2973</BestLapTime>
+<Laps>4</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="4">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Lukas Grebliauskas</Name>
+<Connected>1</Connected>
+<VehFile>MANDONIA.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>TDS Racing #7</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>7</CarNumber>
+<TeamName>TDS Racing</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>1</GridPos>
+<Position>5</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="214.6358" s1="40.9670" s2="58.9750" s3="39.5275" fuel="0.839">139.4694</Lap>
+<Lap num="2" p="3" et="354.1053" s1="36.2776" s2="58.4199" s3="44.1250" fuel="0.757">138.8225</Lap>
+<BestLapTime>138.8225</BestLapTime>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Kuzmenko</Name>
+<Connected>1</Connected>
+<VehFile>ANDREAS_MAYERL.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Oregon Team #24</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>24</CarNumber>
+<TeamName>Oregon Team</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>2</GridPos>
+<Position>6</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>

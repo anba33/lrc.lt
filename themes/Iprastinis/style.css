@@ -1,0 +1,124 @@
+/* artday Style Sheet   */
+/* auther -  artNOMAD <info@art-nomad.net>  */
+/* web - http://art-nomad.net/   */
+/* this theme is licensed under a Creative Commons License 2.0 2004, artNOMAD   */
+/* CCL - http://creativecommons.org/licenses/by/2.0/  */
+
+body { color: #000000; font-family: verdana, arial, sans-serif; background-color: #A52303; margin: 0px;}
+table { width: 100%; font-size: 12px;}
+table td { padding: 0px; border-width: 0px; vertical-align: top; font-family: verdana, arial, sans-serif;}
+table#main { background-color: transparent; width: 100%;}
+table#foot { background-color: transparent; width: 100%;}
+table#table_edge { background-color: transparent; width: 100%;}
+
+a { color: #336699; text-decoration: none; font-weight: bold; background-color: transparent;}
+a:hover { color: #839DBE; text-decoration: underline;}
+
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+ul { margin: 2px; padding: 2px; text-align: left;}
+li { margin-left: 2px; list-style: disc inside; color: #4D7398;}
+
+input.formButton {}
+
+.item { border: 1px solid #F3F4F5;}
+.itemHead { padding: 3px; background-color: transparent; color: #111111;}
+.itemInfo { text-align: right; padding: 3px; background-color: #F3F4F5;}
+.itemTitle a { font-size: 120%; font-weight: bold; background-color: transparent;}
+.itemPoster { font-size: 90%;}
+.itemPostDate { font-size: 90%;}
+.itemStats { font-size: 90%;}
+.itemBody { padding-left: 15px;}
+.itemText { margin-top: 5px; margin-bottom: 5px; line-height: 130%;}
+.itemText:first-letter { font-size: 150%; font-weight: bold;}
+.itemFoot { text-align: right; padding: 3px; background-color: #F3F4F5;}
+.itemAdminLink { font-size: 90%;}
+.itemPermaLink { font-size: 90%;}
+
+.headerlogo { width: 100%; background-color: #A52303; vertical-align: middle; text-align:center;}
+
+td#headerbanner {font-size:10px; background-color: transparent; color: #333333; padding: 15px 0px 5px 0px; text-align: center;}
+
+td#headerbar { width: 100%; font-size:10px; background-color: #A52303; color: #FFFFFF; padding-top: 0px; padding-bottom: 0px; padding-right: 6px; text-align:right;}
+td#headerbar a { color: #FFFFFF;}
+td#headerbar a:hover { color: #FFFFFF;  background-color:#839DBE;}
+
+td#table_topleft { background: url(images/topleft.gif); background-repeat: no-repeat; background-position: left; height:23px; width:23px;}
+td#table_topline { background: url(images/topline.gif); background-repeat: repeat; height:23px; background-position: center; }
+td#table_bottomleft { background: url(images/bottomleft.gif); background-repeat: no-repeat; background-position: left; height:23px; width:23px;}
+td#table_bottomline { background: url(images/bottomline.gif); background-repeat: repeat; height:23px;}
+td#table_leftline { background: url(images/leftline.gif); background-repeat: repeat; width:23px;}
+
+td#mainmenu a { color: #FFFFFF; font-size: 10px; padding-left: 10px; line-height: 80%; font-weight: bold;}
+td#mainmenu a:hover { color: #FF0000; background-color: #DFE2E6; text-decoration: none;}
+td#mainmenu a.menuTop { padding-left: 10px;}
+td#mainmenu a.menuMain { padding-left: 10px;}
+td#mainmenu a.menuSub { padding-left: 18px; color: #FFFFFF; font-weight: normal;}
+
+td#usermenu a { color: #FFFFFF; font-weight: normal; font-size: 10px; padding-left: 10px; line-height: 60%;}
+td#usermenu a:hover { color: #FF0000;}
+td#usermenu a.highlight { background-color: #fcc;}
+
+td#leftcolumn { width: 150px; font-size: 11px; background-color: #A52303; border-left: 5px solid #A52303;}
+td#leftcolumn a { color: #FFFFFF;}
+td#leftcolumn th { vertical-align: bottom; background-color: #A52303; color: #ffffff;}
+td#leftcolumn div.blockTitle { padding: 0px 3px 0px 3px; color: #FFFFFF; font-weight: bold; font-size: 12px; background-color: #A52303; border-bottom: 1px solid #4D6D87;}
+td#leftcolumn div.blockContent { padding: 5px 3px 0px 3px; color: #FFFFFF; line-height: 110%; padding-bottom:10px;}
+
+div#content {text-align: left; padding: 8px;}
+
+td#centercolumn { font-size: 12px; color: #111111; padding-left: 0px; padding-right: 8px;  padding-top:0px; width: 100%; background-color: #FFFFFF;}
+td#centercolumn th { padding: 3px; color: #336699; background-color: #DFE2E6;}
+td#centercolumn th  a {color: #4B2525; font-weight: bold;}
+td#centerCcolumn div.blockTitle { font-size: 14px; padding: 0px 3px 0px 3px; color: #A52303; font-weight: bold; border-bottom: 1px solid #BACDDD;}
+td#centerCcolumn div.blockContent { padding: 8px 3px 0px 3px;  margin-right: 0px; margin-left: 0px; margin-bottom: 8px; line-height: 120%; background-color: #FFFFFF}
+
+td#centerLcolumn { width: 50%; padding-right: 5px;}
+td#centerLcolumn div.blockTitle  { font-size: 14px; padding: 0px 8px 0px 3px; color: #A52303; font-weight: bold; border-bottom: 1px solid #BACDDD;}
+td#centerLcolumn div.blockContent { padding: 8px 3px 0px 3px;  line-height: 120%;}
+
+td#centerRcolumn { width: 50%; padding-left: 5px;}
+td#centerRcolumn div.blockTitle  { font-size: 14px; padding: 0px 3px 0px 8px; color: #A52303; font-weight: bold; border-bottom: 1px solid #BACDDD;}
+td#centerRcolumn div.blockContent { padding: 8px 3px 0px 3px;  margin-right: 0px; margin-left: 0px; margin-bottom: 2px; line-height: 120%;}
+
+td#rightcolumn { width: 180px; font-size: 11px; background-color: #FFFFFF; padding: 0px 10px 0px 8px; border-left: 1px solid #BACDDD;}
+td#rightcolumn th { color: #4B2525; vertical-align: bottom; background-color: transparent;}
+td#rightcolumn div.blockTitle { color: #4B2525; font-weight: bold; font-size: 12px; padding: 0px 5px 0px;}
+td#rightcolumn div.blockContent { font-size:11px; padding: 0px 5px 0px; line-height: 110%;}
+td#rightcolumn div.space { height:10px;}
+
+.outer { background-color: transparent;}
+.head { font-weight: bold; background-position: left; color: #373737; height: 24px; line-height: 22px; text-align: center; background-color: #DFE2E6;}
+.even { background-color: #FFFFFF; color: #000000; padding: 5px;}
+.odd { background-color: #FFFFFF; color: #000000; padding: 5px;}
+.foot { padding: 5px; font-weight: bold;}
+
+tr.even td { background-color: transparent; padding: 5px;}
+tr.odd td { background-color: transparent; padding: 5px;}
+
+.footer { color: #D9E2EF; font-size: 10px; text-align: center;}
+.footer a { color: #D9E2EF;}
+
+div.errorMsg { background-color: #FFCCCC; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.confirmMsg { background-color: #DDFFDF; color: #136C99; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.resultMsg { background-color : #CCCCCC; color: #333333; text-align: center; border-top: 1px solid silver; border-left: 1px solid silver; font-weight: bold; border-right: 1px solid #666666; border-bottom: 1px solid #666666; padding: 10px;}
+
+div.xoopsCode { background: #FFFFFF; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+
+div.xoopsQuote { background: #FFFFFF; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+
+.comTitle { font-weight: bold; margin-bottom: 2px;}
+.comText { padding: 2px;}
+.comUserStat { font-size: 10px; color: #2F5376; font-weight:bold; border: 1px solid silver; background-color: #FFFFFF; margin: 2px; padding: 2px;}
+.comUserStatCaption { font-weight: normal;}
+.comUserStatus { margin-left: 2px; margin-top: 10px; color: #2F5376; font-weight:bold; font-size: 10px;}
+.comUserRank { margin: 2px;}
+.comUserRankText { font-size: 10px;font-weight:bold;}
+.comUserRankImg { border: 0px;}
+.comUserName {}
+.comUserImg { margin: 2px;}
+.comDate { font-weight: normal; font-style: italic; font-size: smaller;}
+.comDateCaption { font-weight: bold; font-style: normal;}

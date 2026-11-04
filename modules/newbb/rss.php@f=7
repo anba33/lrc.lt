@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1257"?>
+<rss version="2.0">
+  <channel>
+    <title>Lithuanian Racing Challenge :: Forumas</title>
+    <link>http://www.lrc.lt/</link>
+    <description>Virtualus Lietuvos F1 čempionatas :: Forumo modulis</description>
+    <lastBuildDate>Tue, 16 Jun 2026 16:17:48 +0300</lastBuildDate>
+    <docs>http://backend.userland.com/rss/</docs>
+    <generator>CBB 2.3</generator>
+    <category>Diskusijos</category>
+    <managingEditor>admin@lrc.lt</managingEditor>
+    <webMaster>admin@lrc.lt</webMaster>
+    <language>lt</language>
+        <image>
+      <title>Lithuanian Racing Challenge :: Forumas</title>
+      <url>http://www.lrc.lt/modules/newbb/images/xoopsbb_slogo.png</url>
+      <link>http://www.lrc.lt/</link>
+      <width>92</width>
+      <height>52</height>
+    </image>
+            <item>
+      <title>Re: F1 2009 [nuo valvon]</title>
+      <link>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=316&amp;forum=7</link>
+      <description>Apie Formulę 1:: F1 2009&lt;br /&gt;
+Dziaugiuosi uz &lt;a href=&quot;http://www.formula1.com/teams_and_drivers/drivers/864/&quot; target=&quot;_blank&quot;&gt;Petrova&lt;/a&gt;. Panasu, kad &lt;a href=&quot;http://www.formula1.com/teams_and_drivers/teams/6/technical/2011/832.html&quot; target=&quot;_blank&quot;&gt;nauja&lt;/a&gt; ismetimo komponuote veikia.</description>
+      <pubDate>Sun, 27 Mar 2011 13:19:15 +0300</pubDate>
+      <guid>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=316&amp;forum=7</guid>
+    </item>
+        <item>
+      <title>Re: &quot;Formulės-1&quot; logistikos ypatumai [nuo Egidasas]</title>
+      <link>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=410&amp;forum=7</link>
+      <description>Apie Formulę 1:: &quot;Formulės-1&quot; logistikos ypatumai&lt;br /&gt;
+Martynai tai gal tu pradziai pereik i DHL, o tada gal ir dasikapanosi iki F1 :)</description>
+      <pubDate>Tue, 21 Apr 2009 09:41:07 +0300</pubDate>
+      <guid>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=410&amp;forum=7</guid>
+    </item>
+        <item>
+      <title>Re: Dar ne viskas... [nuo Cortex]</title>
+      <link>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=148&amp;forum=7</link>
+      <description>Apie Formulę 1:: Dar ne viskas...&lt;br /&gt;
+Kaip ir minejau, ko nori fanai, dar nereiskia kad tai yra teisinga :)</description>
+      <pubDate>Mon, 22 Oct 2007 15:52:48 +0300</pubDate>
+      <guid>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=148&amp;forum=7</guid>
+    </item>
+        <item>
+      <title>Re: WMSC posėdžio pasekmės [nuo Skirmas]</title>
+      <link>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=133&amp;forum=7</link>
+      <description>Apie Formulę 1:: WMSC posėdžio pasekmės&lt;br /&gt;
+Jie paprasciausia isverte is uzsienio saitu info, nes dauguma saitu parase ta pati, taigi cia f-1.lt nemanau, kad nusikalto, cia pirmiausia nusikalto kas isleido ta info, nu bet posedis dar nesibaige ir tesiasi, manau sendie dar mes ir net nesulauksime to sprendimo.</description>
+      <pubDate>Thu, 13 Sep 2007 19:50:14 +0300</pubDate>
+      <guid>http://www.lrc.lt/modules/newbb/viewtopic.php?topic_id=133&amp;forum=7</guid>
+    </item>
+      </channel>
+</rss>

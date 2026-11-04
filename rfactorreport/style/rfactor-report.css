@@ -1,0 +1,367 @@
+
+body, html {
+	margin: 0;
+	padding: 0;
+	font-family: arial, sans-serif;
+	background: #f7f7f7;
+}
+
+#container {
+	position: relative;
+	width: 100%;
+	max-width: 1052px;
+	margin: 0 auto;
+}
+
+/* ***** MENU ***** */
+ul#menu {
+	z-index: 99;
+	overflow: hidden;
+	width: 100%;
+	background: #f7f7f7;
+	padding: 0 0 8px 0;
+	margin: 0;
+	border-bottom: 1px solid #333;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+ul#menu li {
+	display: inline;
+}
+
+ul#menu li a {
+	display: block;
+	float: left;
+	padding: 6px 10px;
+	border: 1px solid #999;
+	border-color: #333 #555 #555 #333;
+	text-decoration: none;
+	color: #eee;
+	background: #222 url(../img/link-bg.gif) left bottom repeat-x;
+	letter-spacing: .5px;
+	white-space: nowrap;
+	outline: none;
+	font-size: .9em;
+	font-weight: normal;
+font-variant: small-caps;
+}
+
+ul#menu li a.on,
+ul#menu li a:hover {
+	color: #fff;
+	background: #445588;
+	border: 1px solid #555;
+}
+
+
+/* ***** SECTIONS ***** */
+.section {
+	border: 1px solid #555;
+	display: none;
+	padding: 0;
+	background: #111;
+	position: absolute;
+	top: 4.3em;
+	left: 10px;
+	margin: 0 10px 0 0;
+	width: 100%;
+}
+
+.section h2 {
+	color: #e3e3e3;
+	background: #445588;
+	padding: 3px 10px;
+	margin: 0;
+	letter-spacing: 2px;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+.section h3 {
+	margin: 0;
+	color: #666;
+	padding: 0 10px 3px 10px;
+	font-weight: normal;
+	letter-spacing: 1px;
+}
+
+.section h4 {
+	background: #000 url(../img/link-bg.gif) left bottom repeat-x;
+	cursor: pointer;
+	color: #fff;
+	border: 1px solid #555;
+	padding: 4px 10px;
+	margin: 0;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
+
+.section h4.linkOn,
+.section h4.linkOver {
+	color: #fff;
+	font-weight: bold;
+	background: #445588;
+}
+
+
+
+.section dl {
+	padding: 10px;
+}
+
+.section dt {
+	float: left;
+	clear: left;
+	width: 150px;
+	text-align: right;
+	margin: 2px 0;
+	padding: 4px 10px 4px 0;
+	color: #eee;
+	line-height: 1.5em;
+	font-variant: small-caps;
+	letter-spacing: .5px;
+}
+
+.section dd {
+	border: 1px dotted #999;
+	background: #555;
+	margin: 2px 0 2px 160px;
+	padding: 4px 0 4px 10px;
+	font-weight: bold;
+	font-family: verdana, serif;
+	line-height: 1.5em;
+	color: #fff;
+	letter-spacing: 1px;
+	font-variant: small-caps;
+}
+
+
+
+
+.section table {
+	background: #000;
+	width: 100%;
+	border-top: 1px solid #333;
+}
+
+.section table th {
+	text-align: center;
+	border: 1px solid #555;
+	border-width: 0 1px 1px 0;
+	padding: .2em .5em;
+	background: #222;
+	color: #777;
+	white-space: nowrap;
+	font-weight: normal;
+	letter-spacing: 1px;
+}
+
+.section table td {
+	text-align: center;
+	color: #fff;
+	border: 1px solid #333;
+	border-width: 0 1px 1px 0;
+	padding: 2px 6px;
+	white-space: nowrap;
+	background: #222;
+	font-family: arial, sans-serif;
+	line-height: 1.3em;
+}
+
+.section table tr.altrow td {
+	background: #111;
+}
+
+.section table th.car,
+.section table td.car {
+	display: none;
+}
+
+.section table td.position {
+	text-align: center;
+	width: 3em;
+	color: #eee;
+	background: #111 url(../img/link-bg.gif) left bottom repeat-x;
+}
+
+.section table td.driver {
+	color: #eee;
+	padding: 0 8px;
+	text-align: left;
+	margin: 0;
+}
+
+.section table td.carnumber {
+	color: #eee;
+	padding: 0 8px;
+}
+
+.section table td.team {
+	color: #eee;
+	padding: 0 8px;
+	text-align: center;
+}
+
+.section table td.carnumber {
+	text-align: center;
+}
+
+.section table td.time,
+.section table td.gap {
+	text-align: right;
+}
+
+.section table td.numIncidents {
+	text-align: right;
+	width: 25%;
+}
+
+#raceIncidents td.driverIncident {
+	text-align: left;
+	padding-left: 20px;
+}
+
+
+
+/* ***** SUB-SECTIONS ***** */
+.subSection {
+	border: 1px solid #ccc;
+	display: none;
+	margin: 0;
+}
+
+
+/* ***** RACE RESULTS ***** */
+#raceResults .subSection {
+	display: block;
+}
+
+#raceResults p,
+#raceResults h5 {
+	margin: 10px 0 0 25px;
+	color: #fff;
+	font: bold 15px/18px tahoma;
+	letter-spacing: 1px;
+}
+
+#raceResults .raceSubSection .lightgreen {
+	color: #2DFF10;
+	font-weight: bold;
+}
+
+#raceResults .raceSubSection .green {
+	color: #1EA70A;
+	font-weight: bold;
+}
+
+#raceResults .raceSubSection .orange {
+	color: #E7AD00;
+}
+
+#raceResults .raceSubSection .red {
+	color: #FF3030;
+}
+
+#raceResults .raceSubSection .darkred {
+	color: #CB0000;
+}
+
+
+
+/* ***** OVERVIEW ***** */
+#overview {
+	display: block;
+	position: relative;
+}
+
+
+/* ***** GRAPHS ***** */
+#raceHistoryGraph h3,
+#lapByLapGraph h3 {
+padding: 0;
+font-size: 11px;
+margin: 0 10px;
+}
+
+#raceHistoryGraph form,
+#lapByLapGraph form {
+	padding: 10px;
+	background: #222;
+display: block;
+position: relative;
+margin: 0;
+}
+
+#raceHistoryGraph label,
+#lapByLapGraph label {
+	color: #eee;
+	padding: 0 8px;
+}
+
+#raceHistoryGraph input,
+#lapByLapGraph input {
+	text-align: center;
+	margin: 0 5px;
+	width: 2em;
+	background: #ccc;
+}
+
+#raceHistoryGraph input.graphButton,
+#lapByLapGraph input.graphButton {
+	background: #000;
+	border: 1px solid #fff;
+	border-color: #999 #444 #444 #999;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	width: 300px;
+	position: absolute;
+	top: 0.6em;
+	left: 270px;
+	padding: 0.2em;
+}
+
+
+/* ***** SUPPORT ***** */
+#support {
+	display: none;
+	width: 600px;
+	position: absolute;
+	top: 5em;
+	z-index: 99;
+	right: 1em;
+	background: #fff;
+	border: 1px solid #eee;
+	padding: 0 20px 20px 20px;
+	margin: 0 20px 25px 15px;
+}
+
+#support a img {
+	border: 0;
+}
+
+#support li a {
+	font-size: small;
+}
+
+#support li a:hover {
+	color: #bbb;
+	background: #fefefe;
+}
+
+#support form input,
+#support form label {
+	display: block;
+	margin: 20px;
+}
+
+
+
+.error {
+	border: 5px solid red;
+	padding: 25px;
+	background: #eee;
+	color: red;
+}

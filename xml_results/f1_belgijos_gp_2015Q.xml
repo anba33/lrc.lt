@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC Belgija Oficialus</ServerName>
+<PlayerFile>Oficialus</PlayerFile>
+<DateTime>1425233120</DateTime>
+<TimeString>2015/03/01 20:05:20</TimeString>
+<Mod>LRC_F1_2014.rfm</Mod>
+<Season></Season>
+<TrackVenue>LRC 2014-2015</TrackVenue>
+<TrackCourse>Circuit de Spa-Francorchamps</TrackCourse>
+<TrackEvent>#12 LTC.LT Belgijos GP</TrackEvent>
+<TrackLength>7001.8</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>33</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|F1_2013</VehiclesAllowed>
+<ParcFerme>1</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>252</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1425233262</DateTime>
+<TimeString>2015/03/01 20:07:42</TimeString>
+<Laps>3</Laps>
+<Minutes>5</Minutes>
+<Stream>
+<Chat et="18.0">Mindaugas Klumbis: sesija perkroviau su setupu :D</Chat>
+<Score et="59.1">Justinas Ribelis(4) lap=0 point=1 t=-1.000 et=59.021</Score>
+<Score et="85.1">Dovydas Petravicius(6) lap=0 point=1 t=-1.000 et=85.115</Score>
+<Score et="86.6">Ignas Gendvilas(2) lap=0 point=1 t=-1.000 et=86.587</Score>
+<Score et="88.7">Mindaugas Klumbis(0) lap=0 point=1 t=-1.000 et=88.655</Score>
+<Score et="115.7">Aurimas Zamzickas(5) lap=0 point=1 t=-1.000 et=115.722</Score>
+<Score et="116.2">Justinas Ribelis(4) lap=0 point=2 t=-1.000 et=116.178</Score>
+<Score et="135.0">Ignas Gendvilas(2) lap=0 point=2 t=-1.000 et=134.927</Score>
+<Score et="143.5">Dovydas Petravicius(6) lap=0 point=2 t=-1.000 et=143.439</Score>
+<Score et="145.4">Mindaugas Klumbis(0) lap=0 point=2 t=-1.000 et=145.345</Score>
+<Score et="148.0">Justinas Ribelis(4) lap=1 point=0 t=-1.000 et=147.930</Score>
+<Score et="161.6">Modestas Paulauskas(1) lap=0 point=1 t=-1.000 et=161.562</Score>
+<Score et="165.5">Aurimas Zamzickas(5) lap=0 point=2 t=-1.000 et=165.510</Score>
+<Score et="167.0">Ignas Gendvilas(2) lap=1 point=0 t=-1.000 et=166.904</Score>
+<Score et="175.7">Dovydas Petravicius(6) lap=1 point=0 t=-1.000 et=175.695</Score>
+<Score et="176.7">Justinas Ribelis(4) lap=1 point=1 t=28.744 et=176.674</Score>
+<Score et="177.4">Mindaugas Klumbis(0) lap=1 point=0 t=-1.000 et=177.419</Score>
+<Score et="182.3">Andrius Vaitekunas(3) lap=0 point=1 t=-1.000 et=182.252</Score>
+<Score et="195.5">Ignas Gendvilas(2) lap=1 point=1 t=28.583 et=195.486</Score>
+<Score et="196.8">Aurimas Zamzickas(5) lap=1 point=0 t=-1.000 et=196.738</Score>
+<Score et="204.7">Dovydas Petravicius(6) lap=1 point=1 t=28.938 et=204.633</Score>
+<Score et="206.4">Mindaugas Klumbis(0) lap=1 point=1 t=29.006 et=206.425</Score>
+<Score et="210.4">Modestas Paulauskas(1) lap=0 point=2 t=-1.000 et=210.409</Score>
+<Score et="224.9">Aurimas Zamzickas(5) lap=1 point=1 t=28.179 et=224.918</Score>
+<Score et="225.6">Justinas Ribelis(4) lap=1 point=2 t=77.683 et=225.613</Score>
+<Score et="235.9">Andrius Vaitekunas(3) lap=0 point=2 t=-1.000 et=235.822</Score>
+<Score et="241.7">Modestas Paulauskas(1) lap=1 point=0 t=-1.000 et=241.617</Score>
+<Score et="243.7">Ignas Gendvilas(2) lap=1 point=2 t=76.713 et=243.617</Score>
+<Score et="256.3">Mindaugas Klumbis(0) lap=1 point=2 t=78.835 et=256.254</Score>
+<Score et="257.7">Justinas Ribelis(4) lap=2 point=0 t=109.665 et=257.595</Score>
+<Score et="261.4">Justinas Ribelis(4) lap=2 point=1 t=-1.000 et=261.354</Score>
+<Score et="261.4">Justinas Ribelis(4) lap=2 point=2 t=-1.000 et=261.354</Score>
+<Score et="261.4">Justinas Ribelis(4) lap=3 point=0 t=-1.000 et=261.354</Score>
+<Score et="269.9">Modestas Paulauskas(1) lap=1 point=1 t=28.207 et=269.825</Score>
+<Score et="270.0">Andrius Vaitekunas(3) lap=1 point=0 t=-1.000 et=269.926</Score>
+<Score et="272.9">Aurimas Zamzickas(5) lap=1 point=2 t=76.176 et=272.914</Score>
+<Score et="275.3">Ignas Gendvilas(2) lap=2 point=0 t=108.362 et=275.266</Score>
+<Chat et="280.1">Justinas Ribelis left the game.</Chat>
+<Score et="280.7">Dovydas Petravicius(6) lap=1 point=2 t=104.939 et=280.634</Score>
+<Score et="288.3">Mindaugas Klumbis(0) lap=2 point=0 t=110.827 et=288.246</Score>
+<Score et="298.7">Andrius Vaitekunas(3) lap=1 point=1 t=28.758 et=298.684</Score>
+<Score et="299.0">Ignas Gendvilas(2) lap=3 point=0 t=-1.000 et=298.851</Score>
+<Score et="299.0">Ignas Gendvilas(2) lap=3 point=1 t=-1.000 et=298.851</Score>
+<Score et="299.0">Ignas Gendvilas(2) lap=3 point=2 t=-1.000 et=298.851</Score>
+<Score et="299.0">Mindaugas Klumbis(0) lap=2 point=1 t=-1.000 et=298.978</Score>
+<Score et="299.0">Mindaugas Klumbis(0) lap=2 point=2 t=-1.000 et=298.978</Score>
+<Score et="299.0">Mindaugas Klumbis(0) lap=3 point=0 t=-1.000 et=298.978</Score>
+<Score et="306.2">Aurimas Zamzickas(5) lap=2 point=0 t=109.427 et=306.166</Score>
+<Score et="310.5">Aurimas Zamzickas(5) lap=2 point=1 t=-1.000 et=310.427</Score>
+<Score et="310.5">Aurimas Zamzickas(5) lap=2 point=2 t=-1.000 et=310.427</Score>
+<Score et="310.5">Aurimas Zamzickas(5) lap=3 point=0 t=-1.000 et=310.427</Score>
+<Score et="313.2">Dovydas Petravicius(6) lap=2 point=0 t=137.489 et=313.184</Score>
+<Score et="318.2">Modestas Paulauskas(1) lap=1 point=2 t=76.485 et=318.103</Score>
+<Score et="343.7">Dovydas Petravicius(6) lap=2 point=1 t=30.419 et=343.603</Score>
+<Score et="348.4">Andrius Vaitekunas(3) lap=1 point=2 t=78.466 et=348.392</Score>
+<Score et="349.3">Modestas Paulauskas(1) lap=2 point=0 t=107.639 et=349.256</Score>
+<Score et="355.7">Modestas Paulauskas(1) lap=2 point=1 t=-1.000 et=355.621</Score>
+<Score et="355.7">Modestas Paulauskas(1) lap=2 point=2 t=-1.000 et=355.621</Score>
+<Score et="355.7">Modestas Paulauskas(1) lap=3 point=0 t=-1.000 et=355.621</Score>
+<Score et="380.3">Andrius Vaitekunas(3) lap=2 point=0 t=110.299 et=380.226</Score>
+<Score et="393.0">Andrius Vaitekunas(3) lap=2 point=1 t=-1.000 et=392.963</Score>
+<Score et="393.0">Andrius Vaitekunas(3) lap=2 point=2 t=-1.000 et=392.963</Score>
+<Score et="393.0">Andrius Vaitekunas(3) lap=3 point=0 t=-1.000 et=392.963</Score>
+<Score et="395.8">Dovydas Petravicius(6) lap=2 point=2 t=-1.000 et=395.713</Score>
+<Score et="395.8">Dovydas Petravicius(6) lap=3 point=0 t=-1.000 et=395.713</Score>
+<Chat et="408.4">Dovydas Petravicius: Kur Justinas dingo ?</Chat>
+<Chat et="415.9">Mindaugas Klumbis: nzn palauksim</Chat>
+<Chat et="421.7">Dovydas Petravicius: apsisukiau ble :D</Chat>
+<Chat et="448.8">Modestas Paulauskas: Kiek kuro?</Chat>
+<Chat et="455.3">Mindaugas Klumbis: neina pasijungt, bando</Chat>
+<Vote et="459.8">Mindaugas Klumbis: /callvote nextsession</Vote>
+<Sent et="459.8">&quot;advance to next session&quot; proposed by Mindaugas Klumbis (ADMIN): vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>3</MostLapsCompleted>
+<Driver>
+<Name>Modestas Paulauskas</Name>
+<Connected>1</Connected>
+<VehFile>LOTUS_07.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Lotus #07</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>Lotus</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.031">--.----</Lap>
+<Lap num="2" p="1" et="241.6174" s1="28.2074" s2="48.2779" s3="31.1536" fuel="0.004">107.6389</Lap>
+<Lap num="3" p="1" et="349.2563" fuel="0.055">--.----</Lap>
+<BestLapTime>107.6389</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Ignas Gendvilas</Name>
+<Connected>1</Connected>
+<VehFile>MARUSSIA_22.VEH</VehFile>
+<UpgradeCode>03000000 00000000</UpgradeCode>
+<VehName>Marussia #22</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>22</CarNumber>
+<TeamName>Marussia</TeamName>
+<isPlayer>1</isPlayer>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.039">--.----</Lap>
+<Lap num="2" p="1" et="166.9035" s1="28.5828" s2="48.1302" s3="31.6493" fuel="0.016">108.3623</Lap>
+<Lap num="3" p="1" et="275.2658" fuel="0.063">--.----</Lap>
+<BestLapTime>108.3623</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Aurimas Zamzickas</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN_05.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McLaren #05</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.031">--.----</Lap>
+<Lap num="2" p="2" et="196.7383" s1="28.1792" s2="47.9967" s3="33.2514" fuel="0.004">109.4273</Lap>
+<Lap num="3" p="2" et="306.1656" fuel="0.055">--.----</Lap>
+<BestLapTime>109.4273</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justinas Ribelis</Name>
+<Connected>0</Connected>
+<VehFile>WILLIAMS_16.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Williams #16</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>Williams</TeamName>
+<isPlayer>1</isPlayer>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.047">--.----</Lap>
+<Lap num="2" p="1" et="147.9303" s1="28.7441" s2="48.9389" s3="31.9821" fuel="0.024">109.6651</Lap>
+<Lap num="3" p="1" et="257.5953" fuel="0.075">--.----</Lap>
+<BestLapTime>109.6651</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="3"></Swap></Driver>
+<Driver>
+<Name>Andrius Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>SAUBER_12.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Sauber #12</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>Sauber</TeamName>
+<isPlayer>1</isPlayer>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.039">--.----</Lap>
+<Lap num="2" p="4" et="269.9264" s1="28.7580" s2="49.7079" s3="31.8335" fuel="0.012">110.2994</Lap>
+<Lap num="3" p="4" et="380.2257" fuel="0.063">--.----</Lap>
+<BestLapTime>110.2994</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_03.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ferrari #03</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.882">--.----</Lap>
+<Lap num="2" p="2" et="177.4187" s1="29.0062" s2="49.8285" s3="31.9921" fuel="0.855">110.8269</Lap>
+<Lap num="3" p="2" et="288.2457" fuel="0.906">--.----</Lap>
+<BestLapTime>110.8269</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Dovydas Petravicius</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_04.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ferrari #04</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.886">--.----</Lap>
+<Lap num="2" p="4" et="175.6947" s1="28.9381" s2="76.0008" s3="32.5505" fuel="0.859">137.4894</Lap>
+<Lap num="3" p="6" et="313.1842" s1="30.4191" fuel="0.851">--.----</Lap>
+<BestLapTime>137.4894</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

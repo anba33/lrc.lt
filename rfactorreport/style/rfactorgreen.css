@@ -1,0 +1,95 @@
+body {
+	background-color: green;
+	font-size: 10pt;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: white;
+	font-family: verdana, geneva, lucida, grande', arial, helvetica, sans-serif;
+}
+
+td, th, p, li 
+{
+	font-size: 10pt;
+	font-family: verdana, geneva, lucida, grande', arial, helvetica, sans-serif;
+}
+
+a:link, a:visited, a:active
+{
+	color: #b5cccc;
+}
+
+b
+{
+	color: #b5cccc;
+}
+
+h1 {
+	background-position: left;
+	background-color: #000000;
+	background-repeat: repeat-x;
+	whdth: 95%;
+	color: #b5cccc;
+	font-family: tahoma, verdana, geneva, lucida, grande', arial, helvetica, sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	background-position: left;
+	background-color: #000000;
+	background-repeat: repeat-x;
+	whdth: 95%;
+	color: #b5cccc;
+	font-family: tahoma, verdana, geneva, lucida, grande', arial, helvetica, sans-serif;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 14px;
+	font-family: tahoma, verdana, geneva, lucida, grande', arial, helvetica, sans-serif;
+	whdth: 95%;
+	color: #b5cccc;
+	font-weight: bold;
+	background-color: #000000;
+	background-position: left;
+	background-repeat: repeat-x;
+}
+
+table {
+	border-color: #4f5d6e;
+	border-style: solid;
+	border-width: 1px;
+	width: 95%;
+	horizontal-align: center;
+}
+
+.title {
+	font-family: tahoma, verdana, geneva, lucida, grande', arial, helvetica, sans-serif;
+	background-repeat: repeat-x;
+	font-weight: bold;
+	background-position: left;
+	background-color: #000000;
+	whdth: 95%;
+	color: #b5cccc;
+	background-image: url(orig/gradients/thead.gif);
+	font-size: 11px;
+}
+
+.hdr {
+	color: #000000;
+	font-size: 12pt;
+	background-color: #b5cccc;
+	font-weight: bold;
+}
+
+.row {
+	background-color: #3e4957;
+	color: #FFFFFF;
+}
+
+.altrow {
+	color: #FFFFFF;
+	background-color: #2d343e;
+}

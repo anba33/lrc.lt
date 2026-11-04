@@ -1,0 +1,2 @@
+ErrorDocument 404 /Not_found.html
+ErrorDocument 403 /Not_found.html

@@ -1,0 +1,109 @@
+body {
+	background-color: #F7F7F7;
+	font-size: 11pt;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: black;
+	font-family: verdana, geneva, lucida, grande, arial, helvetica, sans-serif;
+}
+
+td, th, p, li 
+{
+	font-size: 12px;
+	font-family: verdana, geneva, lucida, grande, arial, helvetica, sans-serif;
+}
+
+a:link, a:visited, a:active
+{
+	color: #445588;
+}
+
+/*<b> is used in the overview section for the strings: ServerName, Track, Laps, Time, Pole, Winner, Fastest lap, Most laps led, Highest Climber*/
+b
+{
+	color: black;
+}
+
+/*H1 is only used for the main title "rFactor-report by Frank Wynants" */
+
+h1 {
+	font-size: 22px;
+	background-position: center;
+	background-color: #F7F7F7;
+	background-repeat: repeat-x;
+	width: 95%;
+	color: #445588;
+	font-family: tahoma, verdana, geneva, lucida, grande, arial, helvetica, sans-serif;
+	font-weight: bold;
+}
+
+/* H2 is used for the subtitles
+	Overview, Qualification results, Race results, Race incidents (not available when using racecast), Race leaders, Fastest laps,
+	Highest climbers, Race laptime consistency, Race history graph, Lap by lap graph
+*/
+
+h2 {
+	font-size: 18px;
+	background-position: center;
+	background-color: #F7F7F7;
+	background-repeat: repeat-x;
+	width: 95%;
+	color: #445588;
+	font-family: tahoma, verdana, geneva, lucida, grande, arial, helvetica, sans-serif;
+	font-weight: bold;
+}
+
+/* H3 is used for the subsubtitles
+    Overview (under qualification results), Lap detail (ordered by qualifying positions), Overview (under race results), 
+	Lap detail (ordered by race positions), Overview (under race incidents), Number of contacts/driver, Total times (under fastest laps),
+	sector 1-2-3, Std Deviation, Avg Deviation
+*/
+h3 {
+	font-size: 14px;
+	font-family: tahoma, verdana, geneva, lucida, grande, arial, helvetica, sans-serif;
+	width: 95%;
+	color: #445588;
+	font-weight: bold;
+	background-color: #F7F7F7;
+	background-position: center;
+	background-repeat: repeat-x;
+}
+
+table {
+	border-color: #ACC4F6;
+	border-style: solid;
+	border-width: 1px;
+	width: 95%;
+}
+
+.title {
+	font-family: tahoma, verdana, geneva, lucida, grande, arial, helvetica, sans-serif;
+	background-repeat: repeat-x;
+	font-weight: bold;
+	background-position: center;
+	background-color: #ECECEC;
+	width: 95%;
+	color: #445588;
+	background-image: url(orig/gradients/thead.gif);
+	font-size: 11px;
+}
+
+.hdr {
+	color: #000000;
+	font-size: 12pt;
+	background-color: #E5E9F3;
+	font-weight: bold;
+}
+
+.row {
+	background-color: #F7F7F7;
+	color: black;
+}
+
+.altrow {
+	color: black;
+	background-color: #ECECEC;
+}

@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC oficialus Ziema event</ServerName>
+<PlayerFile>VWGTI</PlayerFile>
+<DateTime>1260724710</DateTime>
+<TimeString>2009/12/13 19:18:30</TimeString>
+<Mod>VWPOLO.rfm</Mod>
+<Season></Season>
+<TrackVenue>Nemuno Ziedas</TrackVenue>
+<TrackCourse>Winter Cross Day</TrackCourse>
+<TrackEvent>Winter Cross Day</TrackEvent>
+<TrackLength>1786.5</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>20</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|VWPolo</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1260727259</DateTime>
+<TimeString>2009/12/13 20:00:59</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Incident et="27.3">Paulius Paskevicius(18) reported contact (0.58) with another vehicle Justas Gulbinas(1)</Incident>
+<Incident et="27.3">Paulius Paskevicius(18) reported contact (0.16) with another vehicle Justas Gulbinas(1)</Incident>
+<Incident et="27.3">Paulius Paskevicius(18) reported contact (0.19) with another vehicle Justas Gulbinas(1)</Incident>
+<Incident et="27.4">Justas Gulbinas(1) reported contact (0.35) with another vehicle Paulius Paskevicius(18)</Incident>
+<Incident et="27.4">Paulius Paskevicius(18) reported contact (0.19) with another vehicle Justas Vaitekunas(15)</Incident>
+<Incident et="27.5">Paulius Paskevicius(18) reported contact (0.00) with another vehicle Justas Vaitekunas(15)</Incident>
+<Incident et="27.5">Justas Vaitekunas(15) reported contact (0.10) with another vehicle Paulius Paskevicius(18)</Incident>
+<Incident et="32.3">Kristupas Adinavicius(2) reported contact (0.03) with another vehicle Mantas Gudaitis(20)</Incident>
+<Incident et="41.0">Antanas Makarovas(7) reported contact (0.10) with another vehicle Rytis Kairys(17)</Incident>
+<Incident et="59.6">Audrius Valantiejus(16) reported contact (0.06) with another vehicle Karolis Ulevicius(9)</Incident>
+<Incident et="60.5">Deividas Jancius(8) reported contact (0.03) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Incident et="60.5">Deividas Jancius(8) reported contact (0.13) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Incident et="60.5">Kristupas Adinavicius(2) reported contact (0.16) with another vehicle Deividas Jancius(8)</Incident>
+<Incident et="61.1">Mantas Gudaitis(20) reported contact (0.03) with another vehicle Paulius Paskevicius(18)</Incident>
+<Incident et="62.5">Audrius Valantiejus(16) reported contact (0.35) with Immovable</Incident>
+<Score et="62.5">Audrius Valantiejus(16) lap=0 point=1 t=-1.000 et=62.450</Score>
+<Score et="62.9">Karolis Ulevicius(9) lap=0 point=1 t=-1.000 et=62.794</Score>
+<Score et="63.2">Justas Vaitekunas(15) lap=0 point=1 t=-1.000 et=63.122</Score>
+<Incident et="63.6">Mantas Gudaitis(20) reported contact (0.03) with another vehicle Paulius Paskevicius(18)</Incident>
+<Score et="65.0">Vaidas Balciunas(6) lap=0 point=1 t=-1.000 et=64.942</Score>
+<Incident et="65.2">Rytis Kairys(17) reported contact (0.16) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Score et="66.3">Andrius Kuzmenko(19) lap=0 point=1 t=-1.000 et=66.203</Score>
+<Score et="66.6">Mantas Gudaitis(20) lap=0 point=1 t=-1.000 et=66.597</Score>
+<Score et="66.8">Paulius Paskevicius(18) lap=0 point=1 t=-1.000 et=66.725</Score>
+<Incident et="66.8">Audrius Valantiejus(16) reported contact (0.03) with another vehicle Karolis Ulevicius(9)</Incident>
+<Score et="67.4">Rytis Kairys(17) lap=0 point=1 t=-1.000 et=67.328</Score>
+<Score et="68.0">Kristupas Adinavicius(2) lap=0 point=1 t=-1.000 et=67.903</Score>
+<Score et="69.1">Deividas Jancius(8) lap=0 point=1 t=-1.000 et=68.978</Score>
+<Score et="70.5">Justas Gulbinas(1) lap=0 point=1 t=-1.000 et=70.433</Score>
+<Incident et="72.4">Karolis Ulevicius(9) reported contact (0.13) with Cone</Incident>
+<Incident et="72.7">Justas Vaitekunas(15) reported contact (0.16) with Cone</Incident>
+<Incident et="72.8">Justas Vaitekunas(15) reported contact (0.19) with Cone</Incident>
+<Incident et="72.8">Justas Vaitekunas(15) reported contact (0.03) with Cone</Incident>
+<Incident et="72.8">Deividas Jancius(8) reported contact (0.10) with Track</Incident>
+<Incident et="72.9">Audrius Valantiejus(16) reported contact (0.23) with Cone</Incident>
+<Incident et="72.9">Justas Vaitekunas(15) reported contact (0.13) with Cone</Incident>
+<Incident et="72.9">Audrius Valantiejus(16) reported contact (0.03) with Cone</Incident>
+<Incident et="73.1">Audrius Valantiejus(16) reported contact (0.13) with Cone</Incident>
+<Incident et="73.2">Audrius Valantiejus(16) reported contact (0.16) with Cone</Incident>
+<Incident et="73.2">Audrius Valantiejus(16) reported contact (0.13) with Cone</Incident>
+<Incident et="73.3">Audrius Valantiejus(16) reported contact (0.00) with Cone</Incident>
+<Incident et="73.3">Audrius Valantiejus(16) reported contact (0.00) with Cone</Incident>
+<Incident et="73.3">Audrius Valantiejus(16) reported contact (0.03) with Cone</Incident>
+<Incident et="73.4">Audrius Valantiejus(16) reported contact (0.16) with Cone</Incident>
+<Incident et="73.5">Audrius Valantiejus(16) reported contact (0.06) with Cone</Incident>
+<Incident et="73.7">Justas Vaitekunas(15) reported contact (0.03) with Cone</Incident>
+<Score et="74.6">Antanas Makarovas(7) lap=0 point=1 t=-1.000 et=74.533</Score>
+<Incident et="76.6">Paulius Paskevicius(18) reported contact (0.16) with Cone</Incident>
+<Incident et="76.8">Mantas Gudaitis(20) reported contact (0.16) with Cone</Incident>
+<Incident et="76.8">Mantas Gudaitis(20) reported contact (0.00) with Cone</Incident>
+<Incident et="77.2">Mantas Gudaitis(20) reported contact (0.39) with another vehicle Paulius Paskevicius(18)</Incident>
+<Incident et="77.6">Karolis Ulevicius(9) reported contact (0.19) with Cone</Incident>
+<Incident et="77.7">Paulius Paskevicius(18) reported contact (0.19) with Cone</Incident>
+<Incident et="77.7">Paulius Paskevicius(18) reported contact (0.19) with Cone</Incident>
+<Incident et="77.7">Paulius Paskevicius(18) reported contact (0.03) with Cone</Incident>
+<Incident et="77.7">Karolis Ulevicius(9) reported contact (0.19) with Cone</Incident>
+<Incident et="77.7">Paulius Paskevicius(18) reported contact (0.00) with Cone</Incident>
+<Incident et="77.8">Paulius Paskevicius(18) reported contact (0.13) with Cone</Incident>
+<Incident et="77.8">Karolis Ulevicius(9) reported contact (0.19) with Cone</Incident>
+<Incident et="77.8">Paulius Paskevicius(18) reported contact (0.06) with Cone</Incident>
+<Incident et="78.0">Mantas Gudaitis(20) reported contact (0.16) with Cone</Incident>
+<Incident et="78.0">Mantas Gudaitis(20) reported contact (0.06) with Cone</Incident>
+<Score et="78.1">Audrius Gavenas(14) lap=0 point=1 t=-1.000 et=78.028</Score>
+<Incident et="78.1">Audrius Valantiejus(16) reported contact (0.19) with Cone</Incident>
+<Incident et="78.1">Audrius Valantiejus(16) reported contact (0.10) with Cone</Incident>
+<Incident et="78.5">Audrius Valantiejus(16) reported contact (0.29) with Cone</Incident>
+<Incident et="78.5">Audrius Valantiejus(16) reported contact (0.10) with Cone</Incident>
+<Incident et="78.6">Audrius Valantiejus(16) reported contact (0.03) with Cone</Incident>
+<Incident et="78.6">Audrius Valantiejus(16) reported contact (0.19) with Cone</Incident>
+<Incident et="78.7">Audrius Valantiejus(16) reported contact (0.13) with Cone</Incident>
+<Incident et="78.7">Audrius Valantiejus(16) reported contact (0.06) with Cone</Incident>
+<Incident et="78.7">Rytis Kairys(17) reported contact (0.35) with Cone</Incident>
+<Incident et="78.7">Audrius Valantiejus(16) reported contact (0.23) with Cone</Incident>
+<Incident et="78.7">Audrius Valantiejus(16) reported contact (0.03) with Cone</Incident>
+<Incident et="80.4">Deividas Jancius(8) reported contact (0.32) with Cone</Incident>
+<Incident et="80.5">Deividas Jancius(8) reported contact (0.03) with Cone</Incident>
+<Incident et="81.0">Vaidas Balciunas(6) reported contact (0.48) with Cone</Incident>
+<Incident et="81.1">Deividas Jancius(8) reported contact (0.45) with Cone</Incident>
+<Incident et="81.2">Deividas Jancius(8) reported contact (0.10) with Cone</Incident>
+<Incident et="81.2">Deividas Jancius(8) reported contact (0.06) with Cone</Incident>
+<Incident et="81.2">Deividas Jancius(8) reported contact (0.10) with Cone</Incident>
+<Incident et="81.2">Deividas Jancius(8) reported contact (0.03) with Cone</Incident>
+<Incident et="81.4">Antanas Makarovas(7) reported contact (0.03) with Track</Incident>
+<Incident et="81.4">Vaidas Balciunas(6) reported contact (0.03) with Cone</Incident>
+<Score et="81.5">Andrius Vaitekunas(4) lap=0 point=1 t=-1.000 et=81.428</Score>
+<Incident et="81.6">Antanas Makarovas(7) reported contact (0.00) with Track</Incident>
+<Incident et="81.9">Andrius Kuzmenko(19) reported contact (0.29) with Cone</Incident>
+<Incident et="81.9">Andrius Kuzmenko(19) reported contact (0.06) with Cone</Incident>
+<Incident et="82.0">Andrius Kuzmenko(19) reported contact (0.00) with Cone</Incident>
+<Incident et="82.0">Deividas Jancius(8) reported contact (0.32) with Cone</Incident>
+<Incident et="82.0">Andrius Kuzmenko(19) reported contact (0.29) with Cone</Incident>
+<Incident et="82.0">Deividas Jancius(8) reported contact (0.06) with Cone</Incident>
+<Incident et="82.0">Andrius Kuzmenko(19) reported contact (0.03) with Cone</Incident>
+<Incident et="82.2">Andrius Kuzmenko(19) reported contact (0.29) with Cone</Incident>
+<Incident et="82.4">Audrius Valantiejus(16) reported contact (0.55) with Cone</Incident>
+<Incident et="82.4">Audrius Valantiejus(16) reported contact (0.16) with Cone</Incident>
+<Incident et="82.4">Audrius Valantiejus(16) reported contact (0.32) with Cone</Incident>
+<Incident et="82.5">Audrius Valantiejus(16) reported contact (0.13) with Cone</Incident>
+<Incident et="82.5">Audrius Valantiejus(16) reported contact (0.48) with Cone</Incident>
+<Incident et="82.5">Audrius Valantiejus(16) reported contact (0.19) with Cone</Incident>
+<Incident et="82.5">Audrius Valantiejus(16) reported contact (0.03) with Cone</Incident>
+<Incident et="82.5">Audrius Valantiejus(16) reported contact (0.55) with Cone</Incident>
+<Incident et="82.6">Audrius Valantiejus(16) reported contact (0.16) with Cone</Incident>
+<Incident et="82.6">Audrius Valantiejus(16) reported contact (0.52) with Cone</Incident>
+<Incident et="82.7">Audrius Valantiejus(16) reported contact (0.23) with Cone</Incident>
+<Incident et="82.7">Audrius Valantiejus(16) reported contact (0.42) with Cone</Incident>
+<Incident et="82.7">Audrius Valantiejus(16) reported contact (0.26) with Cone</Incident>
+<Incident et="82.7">Audrius Valantiejus(16) reported contact (0.16) with Cone</Incident>
+<Incident et="82.8">Audrius Valantiejus(16) reported contact (0.06) with Cone</Incident>
+<Incident et="82.8">Audrius Valantiejus(16) reported contact (0.06) with Cone</Incident>
+<Incident et="83.0">Justas Vaitekunas(15) reported contact (0.29) with Cone</Incident>
+<Incident et="83.1">Justas Vaitekunas(15) reported contact (0.35) with Cone</Incident>
+<Incident et="83.2">Justas Vaitekunas(15) reported contact (0.35) with Cone</Incident>
+<Incident et="83.3">Mantas Gudaitis(20) reported contact (0.10) with Cone</Incident>
+<Incident et="83.4">Andrius Kuzmenko(19) reported contact (0.42) with Cone</Incident>
+<Incident et="83.6">Justas Gulbinas(1) reported contact (0.16) with Cone</Incident>
+<Incident et="83.7">Justas Gulbinas(1) reported contact (0.10) with Cone</Incident>
+<Incident et="83.7">Kristupas Adinavicius(2) reported contact (0.13) with Cone</Incident>
+<Incident et="83.7">Kristupas Adinavicius(2) reported contact (0.10) with Cone</Incident>
+<Incident et="84.0">Justas Gulbinas(1) reported contact (0.32) with Cone</Incident>
+<Incident et="84.0">Audrius Valantiejus(16) reported contact (0.61) with Sign</Incident>
+<Incident et="84.1">Justas Gulbinas(1) reported contact (0.03) with Cone</Incident>
+<Incident et="84.2">Kristupas Adinavicius(2) reported contact (0.19) with Cone</Incident>
+<Incident et="84.3">Kristupas Adinavicius(2) reported contact (0.06) with Cone</Incident>
+<Incident et="84.3">Kristupas Adinavicius(2) reported contact (0.00) with Cone</Incident>
+<Incident et="84.4">Audrius Valantiejus(16) reported contact (1.00) with Sign</Incident>
+<Incident et="84.4">Audrius Valantiejus(16) reported contact (0.13) with another vehicle Karolis Ulevicius(9)</Incident>
+<Incident et="84.4">Karolis Ulevicius(9) reported contact (0.16) with another vehicle Audrius Valantiejus(16)</Incident>
+<Incident et="84.5">Kristupas Adinavicius(2) reported contact (0.19) with Cone</Incident>
+<Incident et="84.6">Kristupas Adinavicius(2) reported contact (0.19) with Cone</Incident>
+<Incident et="84.7">Audrius Valantiejus(16) reported contact (0.35) with Sign</Incident>
+<Incident et="84.8">Audrius Valantiejus(16) reported contact (0.19) with Sign</Incident>
+<Incident et="84.8">Justas Vaitekunas(15) reported contact (0.61) with Sign</Incident>
+<Score et="84.9">Karolis Ulevicius(9) lap=0 point=2 t=-1.000 et=84.819</Score>
+<Incident et="84.9">Mindaugas Klumbis(11) reported contact (0.06) with Track</Incident>
+<Incident et="84.9">Justas Vaitekunas(15) reported contact (0.29) with Sign</Incident>
+<Score et="85.0">Audrius Valantiejus(16) lap=0 point=2 t=-1.000 et=84.925</Score>
+<Incident et="85.0">Justas Vaitekunas(15) reported contact (0.13) with Sign</Incident>
+<Incident et="85.1">Justas Vaitekunas(15) reported contact (0.06) with Sign</Incident>
+<Incident et="85.4">Mantas Gudaitis(20) reported contact (0.29) with another vehicle Rytis Kairys(17)</Incident>
+<Incident et="85.4">Mantas Gudaitis(20) reported contact (0.03) with another vehicle Rytis Kairys(17)</Incident>
+<Score et="85.8">Justas Vaitekunas(15) lap=0 point=2 t=-1.000 et=85.722</Score>
+<Incident et="85.9">Deividas Jancius(8) reported contact (0.13) with Cone</Incident>
+<Incident et="86.0">Deividas Jancius(8) reported contact (0.10) with Cone</Incident>
+<Incident et="86.3">Karolis Ulevicius(9) reported contact (0.03) with another vehicle Audrius Valantiejus(16)</Incident>
+<Incident et="86.3">Vaidas Balciunas(6) reported contact (0.48) with Sign</Incident>
+<Incident et="86.4">Vaidas Balciunas(6) reported contact (0.52) with Sign</Incident>
+<Incident et="86.4">Vaidas Balciunas(6) reported contact (0.26) with Sign</Incident>
+<Incident et="86.4">Vaidas Balciunas(6) reported contact (0.16) with Sign</Incident>
+<Incident et="86.4">Deividas Jancius(8) reported contact (0.39) with Cone</Incident>
+<Incident et="86.5">Deividas Jancius(8) reported contact (0.06) with Cone</Incident>
+<Incident et="86.5">Vaidas Balciunas(6) reported contact (0.13) with Sign</Incident>
+<Incident et="86.9">Vaidas Balciunas(6) reported contact (0.06) with Sign</Incident>
+<Incident et="86.9">Vaidas Balciunas(6) reported contact (0.19) with Sign</Incident>
+<Incident et="87.0">Vaidas Balciunas(6) reported contact (0.03) with Sign</Incident>
+<Score et="87.2">Mindaugas Klumbis(11) lap=0 point=1 t=-1.000 et=87.178</Score>
+<Score et="87.4">Vaidas Balciunas(6) lap=0 point=2 t=-1.000 et=87.342</Score>
+<Incident et="87.5">Antanas Makarovas(7) reported contact (0.23) with Cone</Incident>
+<Incident et="87.5">Antanas Makarovas(7) reported contact (0.03) with Cone</Incident>
+<Incident et="88.1">Antanas Makarovas(7) reported contact (0.26) with Cone</Incident>
+<Incident et="88.2">Antanas Makarovas(7) reported contact (0.10) with Cone</Incident>
+<Incident et="88.2">Antanas Makarovas(7) reported contact (0.10) with Cone</Incident>
+<Incident et="88.6">Audrius Gavenas(14) reported contact (0.45) with Cone</Incident>
+<Incident et="88.7">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="88.8">Andrius Kuzmenko(19) reported contact (0.03) with Sign</Incident>
+<Incident et="88.9">Andrius Kuzmenko(19) reported contact (0.10) with Sign</Incident>
+<Incident et="88.9">Andrius Kuzmenko(19) reported contact (0.16) with Sign</Incident>
+<Incident et="89.1">Andrius Kuzmenko(19) reported contact (0.03) with Sign</Incident>
+<Incident et="89.1">Andrius Kuzmenko(19) reported contact (0.06) with Sign</Incident>
+<Incident et="89.3">Rytis Kairys(17) reported contact (0.35) with Cone</Incident>
+<Incident et="89.3">Audrius Gavenas(14) reported contact (0.42) with Cone</Incident>
+<Incident et="89.3">Rytis Kairys(17) reported contact (0.13) with Cone</Incident>
+<Incident et="89.3">Audrius Gavenas(14) reported contact (0.10) with Cone</Incident>
+<Incident et="89.3">Rytis Kairys(17) reported contact (0.03) with Cone</Incident>
+<Incident et="89.3">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="89.3">Rytis Kairys(17) reported contact (0.29) with Cone</Incident>
+<Incident et="89.4">Rytis Kairys(17) reported contact (0.13) with Cone</Incident>
+<Incident et="89.4">Rytis Kairys(17) reported contact (0.06) with Cone</Incident>
+<Incident et="89.5">Andrius Kuzmenko(19) reported contact (0.32) with Sign</Incident>
+<Incident et="89.7">Audrius Gavenas(14) reported contact (0.39) with Cone</Incident>
+<Incident et="89.7">Audrius Gavenas(14) reported contact (0.06) with Cone</Incident>
+<Incident et="89.7">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="89.8">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="89.8">Paulius Paskevicius(18) reported contact (0.35) with Sign</Incident>
+<Incident et="89.9">Rytis Kairys(17) reported contact (0.26) with Cone</Incident>
+<Incident et="89.9">Paulius Paskevicius(18) reported contact (0.19) with Sign</Incident>
+<Incident et="90.0">Paulius Paskevicius(18) reported contact (0.32) with Sign</Incident>
+<Incident et="90.1">Paulius Paskevicius(18) reported contact (0.10) with Sign</Incident>
+<Incident et="90.1">Paulius Paskevicius(18) reported contact (0.06) with Sign</Incident>
+<Incident et="90.3">Paulius Paskevicius(18) reported contact (0.19) with Sign</Incident>
+<Incident et="90.4">Kristupas Adinavicius(2) reported contact (0.29) with Sign</Incident>
+<Score et="90.4">Andrius Kuzmenko(19) lap=0 point=2 t=-1.000 et=90.378</Score>
+<Incident et="90.5">Paulius Paskevicius(18) reported contact (0.29) with Sign</Incident>
+<Score et="90.8">Paulius Paskevicius(18) lap=0 point=2 t=-1.000 et=90.725</Score>
+<Incident et="91.0">Audrius Gavenas(14) reported contact (0.32) with Cone</Incident>
+<Incident et="91.0">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="91.1">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Score et="91.6">Kristupas Adinavicius(2) lap=0 point=2 t=-1.000 et=91.528</Score>
+<Incident et="92.5">Andrius Vaitekunas(4) reported contact (0.32) with Cone</Incident>
+<Incident et="92.6">Andrius Vaitekunas(4) reported contact (0.13) with Cone</Incident>
+<Score et="92.6">Mantas Gudaitis(20) lap=0 point=2 t=-1.000 et=92.522</Score>
+<Incident et="92.9">Antanas Makarovas(7) reported contact (0.16) with Cone</Incident>
+<Score et="92.9">Rytis Kairys(17) lap=0 point=2 t=-1.000 et=92.803</Score>
+<Score et="93.4">Deividas Jancius(8) lap=0 point=2 t=-1.000 et=93.328</Score>
+<Score et="93.8">Robertas Strafelas(13) lap=0 point=1 t=-1.000 et=93.753</Score>
+<Incident et="94.0">Audrius Gavenas(14) reported contact (0.23) with Cone</Incident>
+<Incident et="94.0">Audrius Gavenas(14) reported contact (0.19) with Cone</Incident>
+<Incident et="94.5">Audrius Gavenas(14) reported contact (0.13) with Cone</Incident>
+<Incident et="94.5">Audrius Gavenas(14) reported contact (0.13) with Cone</Incident>
+<Score et="96.6">Justas Gulbinas(1) lap=0 point=2 t=-1.000 et=96.558</Score>
+<Incident et="96.6">Mantas Gudaitis(20) reported contact (0.10) with another vehicle Rytis Kairys(17)</Incident>
+<Incident et="96.9">Antanas Makarovas(7) reported contact (0.29) with Cone</Incident>
+<Incident et="97.0">Antanas Makarovas(7) reported contact (0.26) with Cone</Incident>
+<Incident et="97.3">Antanas Makarovas(7) reported contact (0.55) with Cone</Incident>
+<Incident et="97.3">Antanas Makarovas(7) reported contact (0.13) with Cone</Incident>
+<Incident et="97.6">Andrius Vaitekunas(4) reported contact (0.29) with Cone</Incident>
+<Incident et="97.7">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="97.7">Andrius Vaitekunas(4) reported contact (0.13) with Cone</Incident>
+<Incident et="97.7">Audrius Gavenas(14) reported contact (0.29) with Cone</Incident>
+<Incident et="97.7">Audrius Gavenas(14) reported contact (0.42) with Cone</Incident>
+<Score et="99.6">Antanas Makarovas(7) lap=0 point=2 t=-1.000 et=99.583</Score>
+<Score et="100.7">Audrius Gavenas(14) lap=0 point=2 t=-1.000 et=100.628</Score>
+<Incident et="100.7">Mindaugas Klumbis(11) reported contact (0.48) with Cone</Incident>
+<Incident et="100.7">Mindaugas Klumbis(11) reported contact (0.06) with Cone</Incident>
+<Score et="103.6">Andrius Vaitekunas(4) lap=0 point=2 t=-1.000 et=103.578</Score>
+<Incident et="104.7">Robertas Strafelas(13) reported contact (0.23) with Cone</Incident>
+<Incident et="104.8">Robertas Strafelas(13) reported contact (0.06) with Cone</Incident>
+<Incident et="106.7">Audrius Valantiejus(16) reported contact (0.16) with another vehicle Karolis Ulevicius(9)</Incident>
+<Incident et="106.7">Karolis Ulevicius(9) reported contact (0.10) with another vehicle Audrius Valantiejus(16)</Incident>
+<Score et="110.3">Mindaugas Klumbis(11) lap=0 point=2 t=-1.000 et=110.253</Score>
+<Incident et="114.1">Paulius Paskevicius(18) reported contact (0.10) with Track</Incident>
+<Incident et="114.9">Kristupas Adinavicius(2) reported contact (0.13) with another vehicle Andrius Kuzmenko(19)</Incident>
+<Incident et="116.0">Kristupas Adinavicius(2) reported contact (0.29) with another vehicle Paulius Paskevicius(18)</Incident>
+<Incident et="116.0">Paulius Paskevicius(18) reported contact (0.29) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Incident et="116.1">Kristupas Adinavicius(2) reported contact (0.03) with another vehicle Paulius Paskevicius(18)</Incident>
+<Incident et="116.3">Robertas Strafelas(13) reported contact (0.52) with Sign</Incident>
+<Score et="116.7">Robertas Strafelas(13) lap=0 point=2 t=-1.000 et=116.678</Score>
+<Score et="117.5">Audrius Valantiejus(16) lap=1 point=0 t=-1.000 et=117.405</Score>
+<Score et="117.7">Karolis Ulevicius(9) lap=1 point=0 t=-1.000 et=117.672</Score>
+<Score et="118.1">Justas Vaitekunas(15) lap=1 point=0 t=-1.000 et=118.047</Score>
+<Score et="121.9">Vaidas Balciunas(6) lap=1 point=0 t=-1.000 et=121.817</Score>
+<Score et="125.5">Paulius Paskevicius(18) lap=1 point=0 t=-1.000 et=125.475</Score>
+<Score et="125.8">Andrius Kuzmenko(19) lap=1 point=0 t=-1.000 et=125.753</Score>
+<Score et="126.1">Kristupas Adinavicius(2) lap=1 point=0 t=-1.000 et=126.082</Score>
+<Score et="126.7">Mantas Gudaitis(20) lap=1 point=0 t=-1.000 et=126.647</Score>
+<Score et="126.8">Rytis Kairys(17) lap=1 point=0 t=-1.000 et=126.753</Score>
+<Score et="132.6">Justas Gulbinas(1) lap=1 point=0 t=-1.000 et=132.508</Score>
+<Score et="133.4">Antanas Makarovas(7) lap=1 point=0 t=-1.000 et=133.408</Score>
+<Score et="136.4">Deividas Jancius(8) lap=1 point=0 t=-1.000 et=136.380</Score>
+<Incident et="136.6">Andrius Kuzmenko(19) reported contact (0.03) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Score et="140.0">Andrius Vaitekunas(4) lap=1 point=0 t=-1.000 et=139.978</Score>
+<Score et="140.1">Karolis Ulevicius(9) lap=1 point=1 t=22.347 et=140.019</Score>
+<Score et="140.4">Audrius Valantiejus(16) lap=1 point=1 t=22.970 et=140.375</Score>
+<Score et="141.0">Justas Vaitekunas(15) lap=1 point=1 t=22.925 et=140.972</Score>
+<Incident et="144.0">Andrius Kuzmenko(19) reported contact (0.13) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Score et="144.2">Audrius Gavenas(14) lap=1 point=0 t=-1.000 et=144.155</Score>
+<Incident et="144.8">Mantas Gudaitis(20) reported contact (0.29) with another vehicle Rytis Kairys(17)</Incident>
+<Incident et="145.3">Andrius Kuzmenko(19) reported contact (0.03) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Incident et="145.4">Kristupas Adinavicius(2) reported contact (0.10) with another vehicle Andrius Kuzmenko(19)</Incident>
+<Score et="145.8">Vaidas Balciunas(6) lap=1 point=1 t=23.975 et=145.792</Score>
+<Incident et="147.4">Kristupas Adinavicius(2) reported contact (0.32) with another vehicle Paulius Paskevicius(18)</Incident>
+<Incident et="147.4">Paulius Paskevicius(18) reported contact (0.10) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Incident et="147.5">Paulius Paskevicius(18) reported contact (0.06) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Score et="148.9">Paulius Paskevicius(18) lap=1 point=1 t=23.375 et=148.850</Score>
+<Score et="149.5">Mantas Gudaitis(20) lap=1 point=1 t=-1.000 et=149.404</Score>
+<Score et="149.5">Mantas Gudaitis(20) lap=1 point=2 t=-1.000 et=149.404</Score>
+<Score et="149.5">Mantas Gudaitis(20) lap=2 point=0 t=-1.000 et=149.404</Score>
+<Score et="149.6">Kristupas Adinavicius(2) lap=1 point=1 t=23.471 et=149.553</Score>
+<Score et="150.4">Robertas Strafelas(13) lap=1 point=0 t=-1.000 et=150.353</Score>
+<Score et="150.5">Andrius Kuzmenko(19) lap=1 point=1 t=24.675 et=150.428</Score>
+<Score et="150.8">Rytis Kairys(17) lap=1 point=1 t=23.975 et=150.728</Score>
+<Score et="152.9">Mindaugas Klumbis(11) lap=1 point=0 t=-1.000 et=152.853</Score>
+<Incident et="154.3">Justas Gulbinas(1) reported contact (0.06) with another vehicle Antanas Makarovas(7)</Incident>
+<Score et="156.2">Justas Gulbinas(1) lap=1 point=1 t=23.650 et=156.158</Score>
+<Score et="156.6">Antanas Makarovas(7) lap=1 point=1 t=23.200 et=156.608</Score>
+<Incident et="158.6">Paulius Paskevicius(18) reported contact (0.16) with Cone</Incident>
+<Incident et="159.2">Karolis Ulevicius(9) reported contact (0.19) with Cone</Incident>
+<Incident et="159.3">Karolis Ulevicius(9) reported contact (0.32) with Cone</Incident>
+<Incident et="159.3">Karolis Ulevicius(9) reported contact (0.32) with Cone</Incident>
+<Score et="159.5">Deividas Jancius(8) lap=1 point=1 t=23.098 et=159.478</Score>
+<Incident et="159.8">Audrius Valantiejus(16) reported contact (0.32) with Cone</Incident>
+<Incident et="159.8">Audrius Valantiejus(16) reported contact (0.10) with Cone</Incident>
+<Incident et="159.8">Audrius Valantiejus(16) reported contact (0.35) with Cone</Incident>
+<Incident et="159.9">Audrius Valantiejus(16) reported contact (0.42) with Cone</Incident>
+<Incident et="159.9">Audrius Valantiejus(16) reported contact (0.06) with Cone</Incident>
+<Incident et="160.1">Audrius Valantiejus(16) reported contact (0.16) with Cone</Incident>
+<Incident et="160.1">Audrius Valantiejus(16) reported contact (0.29) with Cone</Incident>
+<Incident et="160.1">Audrius Valantiejus(16) reported contact (0.10) with Cone</Incident>
+<Incident et="160.1">Audrius Valantiejus(16) reported contact (0.13) with Cone</Incident>
+<Incident et="160.2">Audrius Valantiejus(16) reported contact (0.10) with Cone</Incident>
+<Incident et="160.2">Antanas Makarovas(7) reported contact (0.10) with Track</Incident>
+<Incident et="160.2">Audrius Valantiejus(16) reported contact (0.10) with Cone</Incident>
+<Incident et="160.5">Vaidas Balciunas(6) reported contact (0.23) with Cone</Incident>
+<Incident et="160.5">Vaidas Balciunas(6) reported contact (0.23) with Cone</Incident>
+<Score et="161.7">Karolis Ulevicius(9) lap=1 point=2 t=43.922 et=161.594</Score>
+<Incident et="161.8">Antanas Makarovas(7) reported contact (0.97) with Track</Incident>
+<Score et="162.3">Audrius Valantiejus(16) lap=1 point=2 t=44.795 et=162.200</Score>
+<Score et="162.4">Andrius Vaitekunas(4) lap=1 point=1 t=22.400 et=162.378</Score>
+<Score et="162.8">Justas Vaitekunas(15) lap=1 point=2 t=44.675 et=162.722</Score>
+<Incident et="163.4">Paulius Paskevicius(18) reported contact (0.26) with Cone</Incident>
+<Incident et="163.4">Paulius Paskevicius(18) reported contact (0.06) with Cone</Incident>
+<Incident et="163.6">Paulius Paskevicius(18) reported contact (0.26) with Cone</Incident>
+<Incident et="163.6">Paulius Paskevicius(18) reported contact (0.06) with Cone</Incident>
+<Incident et="164.9">Vaidas Balciunas(6) reported contact (0.19) with Cone</Incident>
+<Incident et="164.9">Vaidas Balciunas(6) reported contact (0.13) with Cone</Incident>
+<Incident et="164.9">Vaidas Balciunas(6) reported contact (0.03) with Cone</Incident>
+<Incident et="165.0">Vaidas Balciunas(6) reported contact (0.39) with Cone</Incident>
+<Incident et="165.0">Vaidas Balciunas(6) reported contact (0.16) with Cone</Incident>
+<Incident et="165.1">Vaidas Balciunas(6) reported contact (0.06) with Cone</Incident>
+<Incident et="165.1">Vaidas Balciunas(6) reported contact (0.29) with Cone</Incident>
+<Incident et="165.1">Vaidas Balciunas(6) reported contact (0.13) with Cone</Incident>
+<Incident et="165.1">Vaidas Balciunas(6) reported contact (0.10) with Cone</Incident>
+<Incident et="165.2">Vaidas Balciunas(6) reported contact (0.29) with Cone</Incident>
+<Incident et="165.2">Vaidas Balciunas(6) reported contact (0.19) with Cone</Incident>
+<Incident et="165.2">Vaidas Balciunas(6) reported contact (0.06) with Cone</Incident>
+<Incident et="165.2">Vaidas Balciunas(6) reported contact (0.29) with Cone</Incident>
+<Incident et="165.3">Vaidas Balciunas(6) reported contact (0.16) with Cone</Incident>
+<Incident et="165.6">Andrius Vaitekunas(4) reported contact (0.19) with Track</Incident>
+<Score et="166.0">Audrius Gavenas(14) lap=1 point=1 t=21.773 et=165.928</Score>
+<Incident et="167.5">Rytis Kairys(17) reported contact (0.35) with Cone</Incident>
+<Incident et="167.5">Rytis Kairys(17) reported contact (0.19) with Cone</Incident>
+<Incident et="167.6">Rytis Kairys(17) reported contact (0.06) with Cone</Incident>
+<Score et="167.8">Vaidas Balciunas(6) lap=1 point=2 t=45.950 et=167.767</Score>
+<Incident et="169.7">Kristupas Adinavicius(2) reported contact (0.26) with Cone</Incident>
+<Incident et="169.7">Kristupas Adinavicius(2) reported contact (0.23) with Cone</Incident>
+<Incident et="169.8">Kristupas Adinavicius(2) reported contact (0.29) with Cone</Incident>
+<Incident et="170.1">Kristupas Adinavicius(2) reported contact (0.32) with Cone</Incident>
+<Score et="170.8">Paulius Paskevicius(18) lap=1 point=2 t=45.275 et=170.750</Score>
+<Score et="172.3">Kristupas Adinavicius(2) lap=1 point=2 t=46.146 et=172.228</Score>
+<Incident et="173.0">Andrius Kuzmenko(19) reported contact (0.10) with another vehicle Rytis Kairys(17)</Incident>
+<Incident et="173.0">Rytis Kairys(17) reported contact (0.16) with another vehicle Andrius Kuzmenko(19)</Incident>
+<Score et="173.5">Rytis Kairys(17) lap=1 point=2 t=46.675 et=173.428</Score>
+<Score et="173.5">Andrius Kuzmenko(19) lap=1 point=2 t=47.725 et=173.478</Score>
+<Score et="173.9">Robertas Strafelas(13) lap=1 point=1 t=23.450 et=173.803</Score>
+<Incident et="173.9">Andrius Kuzmenko(19) reported contact (0.10) with Track</Incident>
+<Incident et="174.0">Andrius Kuzmenko(19) reported contact (0.03) with Track</Incident>
+<Incident et="174.6">Andrius Kuzmenko(19) reported contact (0.23) with Track</Incident>
+<Score et="175.7">Mindaugas Klumbis(11) lap=1 point=1 t=22.800 et=175.653</Score>
+<Score et="178.7">Justas Gulbinas(1) lap=1 point=2 t=46.175 et=178.683</Score>
+<Incident et="180.0">Antanas Makarovas(7) reported contact (0.65) with Sign</Incident>
+<Score et="180.6">Antanas Makarovas(7) lap=1 point=2 t=47.175 et=180.583</Score>
+<Incident et="181.5">Andrius Vaitekunas(4) reported contact (0.35) with Cone</Incident>
+<Score et="181.5">Deividas Jancius(8) lap=1 point=2 t=45.123 et=181.503</Score>
+<Incident et="181.7">Andrius Vaitekunas(4) reported contact (0.29) with Cone</Incident>
+<Incident et="181.8">Andrius Vaitekunas(4) reported contact (0.29) with Cone</Incident>
+<Incident et="183.2">Andrius Vaitekunas(4) reported contact (0.03) with Track</Incident>
+<Score et="184.2">Andrius Vaitekunas(4) lap=1 point=2 t=44.175 et=184.153</Score>
+<Incident et="184.3">Audrius Gavenas(14) reported contact (0.48) with Cone</Incident>
+<Incident et="184.3">Audrius Gavenas(14) reported contact (0.32) with Cone</Incident>
+<Incident et="184.4">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="184.4">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="184.5">Audrius Gavenas(14) reported contact (0.58) with Cone</Incident>
+<Incident et="184.5">Audrius Gavenas(14) reported contact (0.26) with Cone</Incident>
+<Incident et="184.5">Audrius Gavenas(14) reported contact (0.03) with Cone</Incident>
+<Incident et="184.9">Audrius Gavenas(14) reported contact (0.65) with Cone</Incident>
+<Incident et="184.9">Audrius Gavenas(14) reported contact (0.16) with Cone</Incident>
+<Incident et="184.9">Audrius Gavenas(14) reported contact (0.06) with Cone</Incident>
+<Score et="186.9">Audrius Gavenas(14) lap=1 point=2 t=42.723 et=186.878</Score>
+<Score et="194.8">Audrius Valantiejus(16) lap=2 point=0 t=77.298 et=194.703</Score>
+<Score et="194.9">Justas Vaitekunas(15) lap=2 point=0 t=76.775 et=194.822</Score>
+<Score et="196.0">Karolis Ulevicius(9) lap=2 point=0 t=78.247 et=195.919</Score>
+<Incident et="197.4">Robertas Strafelas(13) reported contact (0.42) with Sign</Incident>
+<Score et="197.6">Robertas Strafelas(13) lap=1 point=2 t=47.225 et=197.578</Score>
+<Score et="198.1">Mindaugas Klumbis(11) lap=1 point=2 t=45.225 et=198.078</Score>
+<Score et="200.1">Vaidas Balciunas(6) lap=2 point=0 t=78.177 et=199.994</Score>
+<Incident et="201.3">Mantas Gudaitis(20) reported contact (0.03) with Track</Incident>
+<Score et="203.1">Paulius Paskevicius(18) lap=2 point=0 t=77.575 et=203.050</Score>
+<Score et="203.9">Mantas Gudaitis(20) lap=2 point=1 t=-1.000 et=203.847</Score>
+<Score et="204.8">Kristupas Adinavicius(2) lap=2 point=0 t=78.646 et=204.728</Score>
+<Score et="206.8">Rytis Kairys(17) lap=2 point=0 t=79.950 et=206.703</Score>
+<Score et="209.6">Andrius Kuzmenko(19) lap=2 point=0 t=83.802 et=209.555</Score>
+<Score et="211.3">Macaitis Petras(10) lap=0 point=1 t=-1.000 et=210.856</Score>
+<Score et="211.6">Justas Gulbinas(1) lap=2 point=0 t=79.075 et=211.583</Score>
+<Score et="213.9">Deividas Jancius(8) lap=2 point=0 t=77.448 et=213.828</Score>
+<Score et="215.0">Antanas Makarovas(7) lap=2 point=0 t=81.575 et=214.983</Score>
+<Incident et="215.7">Audrius Valantiejus(16) reported contact (0.03) with Track</Incident>
+<Score et="216.4">Andrius Vaitekunas(4) lap=2 point=0 t=76.375 et=216.353</Score>
+<Score et="217.4">Justas Vaitekunas(15) lap=2 point=1 t=22.550 et=217.372</Score>
+<Incident et="217.8">Audrius Valantiejus(16) reported contact (1.00) with Immovable</Incident>
+<Incident et="217.9">Audrius Valantiejus(16) reported contact (0.13) with Wing</Incident>
+<Incident et="217.9">Audrius Valantiejus(16) reported contact (1.00) with another vehicle Karolis Ulevicius(9)</Incident>
+<Incident et="218.0">Audrius Valantiejus(16) reported contact (0.61) with another vehicle Karolis Ulevicius(9)</Incident>
+<Incident et="218.0">Audrius Valantiejus(16) reported contact (0.06) with Wing</Incident>
+<Incident et="218.1">Audrius Valantiejus(16) reported contact (0.16) with Wing</Incident>
+<Incident et="218.1">Audrius Valantiejus(16) reported contact (0.03) with another vehicle Karolis Ulevicius(9)</Incident>
+<Score et="218.1">Audrius Valantiejus(16) lap=2 point=1 t=23.274 et=217.977</Score>
+<Score et="218.2">Karolis Ulevicius(9) lap=2 point=1 t=22.200 et=218.119</Score>
+<Incident et="218.2">Audrius Valantiejus(16) reported contact (0.97) with Immovable</Incident>
+<Score et="218.3">Audrius Gavenas(14) lap=2 point=0 t=74.152 et=218.306</Score>
+<Incident et="218.4">Audrius Valantiejus(16) reported contact (1.00) with Immovable</Incident>
+<Incident et="218.5">Audrius Valantiejus(16) reported contact (0.52) with Immovable</Incident>
+<Incident et="218.5">Audrius Valantiejus(16) reported contact (0.35) with Immovable</Incident>
+<Score et="220.0">Audrius Valantiejus(16) lap=3 point=0 t=-1.000 et=219.701</Score>
+<Score et="220.0">Audrius Valantiejus(16) lap=3 point=2 t=-1.000 et=219.701</Score>
+<Score et="222.7">Vaidas Balciunas(6) lap=2 point=1 t=22.623 et=222.617</Score>
+<Incident et="223.6">Paulius Paskevicius(18) reported contact (0.00) with Track</Incident>
+<Incident et="225.0">Mantas Gudaitis(20) reported contact (0.32) with Cone</Incident>
+<Score et="225.9">Paulius Paskevicius(18) lap=2 point=1 t=22.850 et=225.900</Score>
+<Score et="227.8">Mantas Gudaitis(20) lap=2 point=2 t=-1.000 et=227.797</Score>
+<Score et="227.9">Kristupas Adinavicius(2) lap=2 point=1 t=23.175 et=227.903</Score>
+<Score et="228.9">Rytis Kairys(17) lap=2 point=1 t=22.125 et=228.828</Score>
+<Score et="230.4">Mindaugas Klumbis(11) lap=2 point=0 t=77.550 et=230.403</Score>
+<Score et="231.7">Robertas Strafelas(13) lap=2 point=0 t=81.275 et=231.628</Score>
+<Incident et="232.2">Justas Vaitekunas(15) reported contact (0.29) with Cone</Incident>
+<Score et="232.6">Andrius Kuzmenko(19) lap=2 point=1 t=23.048 et=232.603</Score>
+<Incident et="233.5">Justas Gulbinas(1) reported contact (0.42) with Track</Incident>
+<Incident et="233.7">Justas Vaitekunas(15) reported contact (0.00) with another vehicle Karolis Ulevicius(9)</Incident>
+<Score et="234.1">Macaitis Petras(10) lap=0 point=2 t=-1.000 et=233.681</Score>
+<Incident et="234.1">Justas Gulbinas(1) reported contact (0.29) with Track</Incident>
+<Incident et="235.2">Paulius Paskevicius(18) reported contact (0.23) with Cone</Incident>
+<Score et="235.3">Justas Gulbinas(1) lap=2 point=1 t=-1.000 et=235.248</Score>
+<Score et="235.3">Justas Gulbinas(1) lap=2 point=2 t=-1.000 et=235.248</Score>
+<Score et="235.3">Justas Gulbinas(1) lap=3 point=0 t=-1.000 et=235.248</Score>
+<Incident et="236.7">Karolis Ulevicius(9) reported contact (0.26) with Cone</Incident>
+<Score et="236.7">Deividas Jancius(8) lap=2 point=1 t=22.850 et=236.678</Score>
+<Incident et="236.8">Karolis Ulevicius(9) reported contact (0.16) with Cone</Incident>
+<Incident et="236.8">Karolis Ulevicius(9) reported contact (0.06) with Cone</Incident>
+<Incident et="237.3">Karolis Ulevicius(9) reported contact (0.42) with Cone</Incident>
+<Incident et="237.3">Karolis Ulevicius(9) reported contact (0.19) with Cone</Incident>
+<Incident et="237.3">Karolis Ulevicius(9) reported contact (0.06) with Cone</Incident>
+<Score et="238.2">Antanas Makarovas(7) lap=2 point=1 t=23.150 et=238.133</Score>
+<Incident et="238.3">Andrius Vaitekunas(4) reported contact (0.03) with Track</Incident>
+<Incident et="238.5">Karolis Ulevicius(9) reported contact (0.03) with Track</Incident>
+<Incident et="238.5">Andrius Vaitekunas(4) reported contact (0.00) with Track</Incident>
+<Score et="239.1">Justas Vaitekunas(15) lap=2 point=2 t=44.250 et=239.072</Score>
+<Score et="239.3">Karolis Ulevicius(9) lap=2 point=2 t=43.325 et=239.244</Score>
+<Score et="239.4">Andrius Vaitekunas(4) lap=2 point=1 t=23.025 et=239.378</Score>
+<Score et="240.0">Audrius Gavenas(14) lap=2 point=1 t=21.621 et=239.928</Score>
+<Incident et="240.2">Justas Vaitekunas(15) reported contact (0.06) with another vehicle Karolis Ulevicius(9)</Incident>
+<Incident et="240.3">Justas Vaitekunas(15) reported contact (0.03) with Track</Incident>
+<Incident et="241.5">Paulius Paskevicius(18) reported contact (0.26) with Cone</Incident>
+<Incident et="241.5">Paulius Paskevicius(18) reported contact (0.10) with Cone</Incident>
+<Incident et="241.5">Paulius Paskevicius(18) reported contact (0.00) with Cone</Incident>
+<Incident et="241.5">Paulius Paskevicius(18) reported contact (0.16) with Cone</Incident>
+<Incident et="241.5">Paulius Paskevicius(18) reported contact (0.16) with Cone</Incident>
+<Incident et="242.9">Paulius Paskevicius(18) reported contact (0.10) with Cone</Incident>
+<Incident et="243.3">Kristupas Adinavicius(2) reported contact (0.23) with Cone</Incident>
+<Incident et="243.3">Kristupas Adinavicius(2) reported contact (0.10) with Cone</Incident>
+<Incident et="243.4">Kristupas Adinavicius(2) reported contact (0.06) with Cone</Incident>
+<Incident et="244.4">Vaidas Balciunas(6) reported contact (0.45) with Track</Incident>
+<Score et="244.7">Vaidas Balciunas(6) lap=2 point=2 t=44.659 et=244.653</Score>
+<Incident et="245.3">Vaidas Balciunas(6) reported contact (0.35) with Track</Incident>
+<Incident et="245.4">Paulius Paskevicius(18) reported contact (0.32) with Cone</Incident>
+<Incident et="245.4">Vaidas Balciunas(6) reported contact (0.06) with Track</Incident>
+<Incident et="245.4">Paulius Paskevicius(18) reported contact (0.32) with Cone</Incident>
+<Incident et="245.4">Paulius Paskevicius(18) reported contact (0.06) with Cone</Incident>
+<Incident et="245.5">Paulius Paskevicius(18) reported contact (0.42) with Cone</Incident>
+<Incident et="245.5">Vaidas Balciunas(6) reported contact (0.06) with Track</Incident>
+<Incident et="245.6">Paulius Paskevicius(18) reported contact (0.16) with Cone</Incident>
+<Incident et="245.6">Vaidas Balciunas(6) reported contact (0.35) with Track</Incident>
+<Incident et="245.7">Audrius Gavenas(14) reported contact (0.19) with another vehicle Antanas Makarovas(7)</Incident>
+<Incident et="245.8">Antanas Makarovas(7) reported contact (0.19) with another vehicle Audrius Gavenas(14)</Incident>
+<Incident et="245.9">Paulius Paskevicius(18) reported contact (0.58) with Cone</Incident>
+<Incident et="245.9">Paulius Paskevicius(18) reported contact (0.13) with Cone</Incident>
+<Incident et="245.9">Paulius Paskevicius(18) reported contact (0.06) with Cone</Incident>
+<Incident et="246.9">Kristupas Adinavicius(2) reported contact (0.39) with Cone</Incident>
+<Incident et="246.9">Kristupas Adinavicius(2) reported contact (0.26) with Cone</Incident>
+<Incident et="247.0">Kristupas Adinavicius(2) reported contact (0.10) with Cone</Incident>
+<Incident et="247.0">Kristupas Adinavicius(2) reported contact (0.03) with Cone</Incident>
+<Incident et="247.2">Vaidas Balciunas(6) reported contact (0.13) with Track</Incident>
+<Incident et="247.5">Vaidas Balciunas(6) reported contact (0.10) with Track</Incident>
+<Score et="248.4">Paulius Paskevicius(18) lap=2 point=2 t=45.225 et=248.275</Score>
+<Incident et="249.7">Vaidas Balciunas(6) reported contact (0.13) with Track</Incident>
+<Score et="249.8">Kristupas Adinavicius(2) lap=2 point=2 t=45.025 et=249.753</Score>
+<Incident et="249.8">Vaidas Balciunas(6) reported contact (0.03) with Track</Incident>
+<Score et="250.4">Rytis Kairys(17) lap=2 point=2 t=43.700 et=250.403</Score>
+<Score et="250.8">Vaidas Balciunas(6) lap=3 point=0 t=-1.000 et=250.752</Score>
+<Incident et="250.9">Paulius Paskevicius(18) reported contact (1.00) with Track</Incident>
+<Incident et="250.9">Paulius Paskevicius(18) reported contact (1.00) with Track</Incident>
+<Incident et="251.3">Andrius Vaitekunas(4) reported contact (0.10) with Track</Incident>
+<Incident et="251.4">Andrius Vaitekunas(4) reported contact (0.16) with Track</Incident>
+<Score et="252.2">Mindaugas Klumbis(11) lap=2 point=1 t=21.725 et=252.128</Score>
+<Incident et="252.6">Andrius Vaitekunas(4) reported contact (0.06) with Track</Incident>
+<Incident et="252.6">Andrius Vaitekunas(4) reported contact (0.10) with Track</Incident>
+<Incident et="253.2">Andrius Vaitekunas(4) reported contact (0.26) with Track</Incident>
+<Incident et="254.0">Paulius Paskevicius(18) reported contact (1.00) with Track</Incident>
+<Score et="255.2">Robertas Strafelas(13) lap=2 point=1 t=23.500 et=255.128</Score>
+<Score et="255.2">Andrius Kuzmenko(19) lap=2 point=2 t=45.598 et=255.153</Score>
+<Score et="256.6">Paulius Paskevicius(18) lap=3 point=0 t=-1.000 et=256.476</Score>
+<Score et="256.6">Paulius Paskevicius(18) lap=3 point=1 t=-1.000 et=256.476</Score>
+<Score et="256.6">Paulius Paskevicius(18) lap=4 point=0 t=-1.000 et=256.476</Score>
+<Score et="256.6">Paulius Paskevicius(18) lap=4 point=2 t=-1.000 et=256.476</Score>
+<Incident et="257.1">Antanas Makarovas(7) reported contact (0.23) with Cone</Incident>
+<Incident et="257.1">Antanas Makarovas(7) reported contact (0.06) with Cone</Incident>
+<Incident et="257.2">Antanas Makarovas(7) reported contact (0.10) with Cone</Incident>
+<Score et="258.1">Deividas Jancius(8) lap=2 point=2 t=44.250 et=258.078</Score>
+<Score et="261.4">Mantas Gudaitis(20) lap=3 point=0 t=-1.000 et=261.372</Score>
+<Score et="262.0">Audrius Gavenas(14) lap=2 point=2 t=43.646 et=261.953</Score>
+<Score et="262.6">Antanas Makarovas(7) lap=2 point=2 t=47.625 et=262.608</Score>
+<Incident et="264.8">Justas Vaitekunas(15) reported contact (0.03) with another vehicle Karolis Ulevicius(9)</Incident>
+<Score et="266.2">Macaitis Petras(10) lap=1 point=0 t=-1.000 et=265.831</Score>
+<Score et="268.3">Audrius Valantiejus(16) lap=3 point=1 t=-1.000 et=268.250</Score>
+<Score et="271.3">Karolis Ulevicius(9) lap=3 point=0 t=75.328 et=271.247</Score>
+<Score et="271.6">Justas Vaitekunas(15) lap=3 point=0 t=76.675 et=271.497</Score>
+<Score et="274.0">Mindaugas Klumbis(11) lap=2 point=2 t=43.550 et=273.953</Score>
+<Score et="275.0">Andrius Vaitekunas(4) lap=2 point=2 t=58.550 et=274.903</Score>
+<Score et="278.1">Robertas Strafelas(13) lap=2 point=2 t=46.475 et=278.103</Score>
+<Score et="283.1">Rytis Kairys(17) lap=3 point=0 t=76.350 et=283.053</Score>
+<Score et="285.1">Mantas Gudaitis(20) lap=3 point=1 t=23.650 et=285.022</Score>
+<Score et="285.7">Justas Gulbinas(1) lap=3 point=1 t=-1.000 et=285.633</Score>
+<Score et="287.5">Kristupas Adinavicius(2) lap=3 point=0 t=82.700 et=287.428</Score>
+<Score et="288.5">Andrius Kuzmenko(19) lap=3 point=0 t=78.848 et=288.403</Score>
+<Score et="288.8">Macaitis Petras(10) lap=1 point=1 t=22.725 et=288.556</Score>
+<Score et="289.9">Deividas Jancius(8) lap=3 point=0 t=76.000 et=289.828</Score>
+<Score et="290.0">Audrius Valantiejus(16) lap=3 point=2 t=-1.000 et=289.900</Score>
+<Incident et="291.7">Macaitis Petras(10) reported contact (0.00) with Track</Incident>
+<Incident et="292.3">Karolis Ulevicius(9) reported contact (0.19) with another vehicle Justas Vaitekunas(15)</Incident>
+<Incident et="292.4">Justas Vaitekunas(15) reported contact (0.16) with another vehicle Karolis Ulevicius(9)</Incident>
+<Score et="293.5">Audrius Gavenas(14) lap=3 point=0 t=75.146 et=293.453</Score>
+<Score et="294.0">Justas Vaitekunas(15) lap=3 point=1 t=22.400 et=293.897</Score>
+<Score et="294.3">Karolis Ulevicius(9) lap=3 point=1 t=22.972 et=294.219</Score>
+<Score et="295.7">Vaidas Balciunas(6) lap=3 point=1 t=-1.000 et=295.617</Score>
+<Score et="296.2">Antanas Makarovas(7) lap=3 point=0 t=81.125 et=296.108</Score>
+<Incident et="297.3">Justas Gulbinas(1) reported contact (0.10) with Track</Incident>
+<Incident et="297.5">Justas Gulbinas(1) reported contact (0.06) with Track</Incident>
+<Incident et="305.1">Justas Gulbinas(1) reported contact (0.74) with another vehicle Justas Vaitekunas(15)</Incident>
+<Incident et="305.1">Justas Vaitekunas(15) reported contact (0.42) with another vehicle Justas Gulbinas(1)</Incident>
+<Score et="305.4">Rytis Kairys(17) lap=3 point=1 t=22.300 et=305.353</Score>
+<Score et="306.3">Mindaugas Klumbis(11) lap=3 point=0 t=75.800 et=306.203</Score>
+<Incident et="306.4">Paulius Paskevicius(18) reported contact (0.55) with Immovable</Incident>
+<Score et="306.4">Paulius Paskevicius(18) lap=4 point=1 t=-1.000 et=306.250</Score>
+<Score et="307.2">Justas Gulbinas(1) lap=3 point=2 t=-1.000 et=307.102</Score>
+<Score et="307.2">Justas Gulbinas(1) lap=4 point=0 t=-1.000 et=307.102</Score>
+<Score et="307.2">Andrius Vaitekunas(4) lap=3 point=0 t=90.780 et=307.132</Score>
+<Score et="308.4">Mantas Gudaitis(20) lap=3 point=2 t=46.975 et=308.347</Score>
+<Score et="310.2">Kristupas Adinavicius(2) lap=3 point=1 t=22.700 et=310.128</Score>
+<Score et="310.3">Macaitis Petras(10) lap=1 point=2 t=44.425 et=310.256</Score>
+<Score et="310.4">Mindaugas Klumbis(11) lap=4 point=0 t=-1.000 et=310.293</Score>
+<Score et="310.4">Mindaugas Klumbis(11) lap=4 point=1 t=-1.000 et=310.293</Score>
+<Score et="310.4">Mindaugas Klumbis(11) lap=4 point=2 t=-1.000 et=310.293</Score>
+<Score et="310.6">Robertas Strafelas(13) lap=3 point=0 t=78.925 et=310.553</Score>
+<Score et="312.7">Andrius Kuzmenko(19) lap=3 point=1 t=24.250 et=312.653</Score>
+<Score et="312.9">Deividas Jancius(8) lap=3 point=1 t=23.075 et=312.903</Score>
+<Score et="314.9">Audrius Gavenas(14) lap=3 point=1 t=21.400 et=314.853</Score>
+<Incident et="315.6">Karolis Ulevicius(9) reported contact (0.03) with another vehicle Justas Vaitekunas(15)</Incident>
+<Score et="315.7">Karolis Ulevicius(9) lap=3 point=2 t=44.347 et=315.594</Score>
+<Score et="315.8">Justas Vaitekunas(15) lap=3 point=2 t=44.250 et=315.747</Score>
+<Incident et="316.3">Audrius Valantiejus(16) reported contact (1.00) with Track</Incident>
+<Score et="317.9">Vaidas Balciunas(6) lap=3 point=2 t=-1.000 et=317.892</Score>
+<Incident et="318.8">Audrius Valantiejus(16) reported contact (1.00) with Track</Incident>
+<Incident et="318.8">Audrius Valantiejus(16) reported contact (0.19) with Track</Incident>
+<Score et="320.9">Audrius Valantiejus(16) lap=4 point=0 t=-1.000 et=320.685</Score>
+<Score et="320.9">Audrius Valantiejus(16) lap=4 point=1 t=-1.000 et=320.685</Score>
+<Score et="320.9">Audrius Valantiejus(16) lap=4 point=2 t=-1.000 et=320.685</Score>
+<Score et="320.9">Audrius Valantiejus(16) lap=5 point=0 t=-1.000 et=320.685</Score>
+<Incident et="321.5">Paulius Paskevicius(18) reported contact (0.23) with Cone</Incident>
+<Incident et="324.0">Andrius Kuzmenko(19) reported contact (0.10) with another vehicle Audrius Gavenas(14)</Incident>
+<Incident et="326.1">Paulius Paskevicius(18) reported contact (0.45) with Cone</Incident>
+<Incident et="326.1">Paulius Paskevicius(18) reported contact (0.23) with Cone</Incident>
+<Score et="327.8">Rytis Kairys(17) lap=3 point=2 t=44.675 et=327.728</Score>
+<Score et="328.2">Antanas Makarovas(7) lap=3 point=1 t=32.050 et=328.158</Score>
+<Score et="329.1">Paulius Paskevicius(18) lap=4 point=2 t=-1.000 et=328.875</Score>
+<Score et="329.9">Andrius Vaitekunas(4) lap=3 point=1 t=22.695 et=329.828</Score>
+<Score et="332.0">Kristupas Adinavicius(2) lap=3 point=2 t=44.550 et=331.978</Score>
+<Score et="334.4">Robertas Strafelas(13) lap=3 point=1 t=23.825 et=334.378</Score>
+<Score et="334.6">Deividas Jancius(8) lap=3 point=2 t=44.700 et=334.528</Score>
+<Score et="336.6">Andrius Kuzmenko(19) lap=3 point=2 t=48.125 et=336.528</Score>
+<Incident et="338.6">Andrius Vaitekunas(4) reported contact (0.23) with Cone</Incident>
+<Incident et="338.6">Andrius Vaitekunas(4) reported contact (0.03) with Cone</Incident>
+<Score et="341.4">Mantas Gudaitis(20) lap=4 point=0 t=80.025 et=341.397</Score>
+<Score et="342.7">Macaitis Petras(10) lap=2 point=0 t=76.700 et=342.531</Score>
+<Score et="347.8">Justas Vaitekunas(15) lap=4 point=0 t=76.200 et=347.697</Score>
+<Score et="349.1">Karolis Ulevicius(9) lap=4 point=0 t=77.797 et=349.044</Score>
+<Score et="350.1">Antanas Makarovas(7) lap=3 point=2 t=53.950 et=350.058</Score>
+<Score et="350.9">Vaidas Balciunas(6) lap=4 point=0 t=-1.000 et=350.867</Score>
+<Score et="351.2">Andrius Vaitekunas(4) lap=3 point=2 t=43.995 et=351.128</Score>
+<Score et="357.2">Robertas Strafelas(13) lap=3 point=2 t=46.575 et=357.128</Score>
+<Score et="359.8">Rytis Kairys(17) lap=4 point=0 t=76.700 et=359.753</Score>
+<Score et="362.0">Paulius Paskevicius(18) lap=5 point=0 t=-1.000 et=361.975</Score>
+<Score et="364.5">Kristupas Adinavicius(2) lap=4 point=0 t=77.000 et=364.428</Score>
+<Score et="364.9">Mantas Gudaitis(20) lap=4 point=1 t=23.450 et=364.847</Score>
+<Score et="365.9">Macaitis Petras(10) lap=2 point=1 t=23.075 et=365.606</Score>
+<Score et="366.5">Deividas Jancius(8) lap=4 point=0 t=76.650 et=366.478</Score>
+<Score et="367.6">Audrius Gavenas(14) lap=4 point=0 t=74.150 et=367.603</Score>
+<Incident et="368.6">Karolis Ulevicius(9) reported contact (0.42) with Track</Incident>
+<Score et="369.3">Andrius Kuzmenko(19) lap=4 point=0 t=80.875 et=369.278</Score>
+<Score et="369.4">Justas Vaitekunas(15) lap=4 point=1 t=21.700 et=369.397</Score>
+<Incident et="370.0">Karolis Ulevicius(9) reported contact (0.19) with Track</Incident>
+<Score et="372.3">Karolis Ulevicius(9) lap=4 point=1 t=23.225 et=372.269</Score>
+<Incident et="372.6">Justas Vaitekunas(15) reported contact (0.06) with Track</Incident>
+<Incident et="374.0">Vaidas Balciunas(6) reported contact (0.03) with Track</Incident>
+<Score et="374.2">Mindaugas Klumbis(11) lap=4 point=1 t=-1.000 et=374.181</Score>
+<Score et="375.1">Vaidas Balciunas(6) lap=4 point=1 t=24.150 et=375.017</Score>
+<Score et="375.9">Audrius Valantiejus(16) lap=5 point=1 t=-1.000 et=375.825</Score>
+<Score et="376.8">Justas Gulbinas(1) lap=4 point=1 t=-1.000 et=376.783</Score>
+<Score et="382.1">Rytis Kairys(17) lap=4 point=1 t=22.325 et=382.078</Score>
+<Score et="383.0">Andrius Vaitekunas(4) lap=4 point=0 t=75.820 et=382.953</Score>
+<Score et="384.1">Antanas Makarovas(7) lap=4 point=0 t=88.001 et=384.110</Score>
+<Score et="384.7">Paulius Paskevicius(18) lap=5 point=1 t=22.550 et=384.525</Score>
+<Score et="387.3">Kristupas Adinavicius(2) lap=4 point=1 t=22.775 et=387.203</Score>
+<Score et="387.4">Mantas Gudaitis(20) lap=4 point=2 t=45.925 et=387.322</Score>
+<Score et="388.1">Macaitis Petras(10) lap=2 point=2 t=45.325 et=387.856</Score>
+<Score et="388.8">Deividas Jancius(8) lap=4 point=1 t=22.225 et=388.703</Score>
+<Score et="389.3">Audrius Gavenas(14) lap=4 point=1 t=21.600 et=389.203</Score>
+<Score et="390.6">Robertas Strafelas(13) lap=4 point=0 t=80.000 et=390.553</Score>
+<Score et="391.2">Justas Vaitekunas(15) lap=4 point=2 t=43.450 et=391.147</Score>
+<Score et="392.7">Andrius Kuzmenko(19) lap=4 point=1 t=23.375 et=392.653</Score>
+<Score et="394.2">Karolis Ulevicius(9) lap=4 point=2 t=45.125 et=394.169</Score>
+<Score et="397.6">Vaidas Balciunas(6) lap=4 point=2 t=46.675 et=397.542</Score>
+<Score et="397.9">Audrius Valantiejus(16) lap=5 point=2 t=-1.000 et=397.850</Score>
+<Score et="399.5">Justas Gulbinas(1) lap=4 point=2 t=-1.000 et=399.458</Score>
+<Score et="402.3">Mindaugas Klumbis(11) lap=4 point=2 t=-1.000 et=402.256</Score>
+<Score et="403.6">Rytis Kairys(17) lap=4 point=2 t=43.825 et=403.578</Score>
+<Score et="405.4">Andrius Vaitekunas(4) lap=4 point=1 t=22.350 et=405.303</Score>
+<Score et="406.3">Paulius Paskevicius(18) lap=5 point=2 t=44.200 et=406.175</Score>
+<Score et="407.1">Antanas Makarovas(7) lap=4 point=1 t=22.924 et=407.033</Score>
+<Incident et="407.5">Rytis Kairys(17) reported contact (0.13) with Track</Incident>
+<Score et="408.9">Kristupas Adinavicius(2) lap=4 point=2 t=44.475 et=408.903</Score>
+<Incident et="409.1">Rytis Kairys(17) reported contact (0.16) with another vehicle Mindaugas Klumbis(11)</Incident>
+<Score et="410.4">Audrius Gavenas(14) lap=4 point=2 t=42.750 et=410.353</Score>
+<Score et="410.8">Deividas Jancius(8) lap=4 point=2 t=44.300 et=410.778</Score>
+<Incident et="412.1">Robertas Strafelas(13) reported contact (0.16) with Track</Incident>
+<Incident et="412.3">Robertas Strafelas(13) reported contact (0.10) with Track</Incident>
+<Score et="413.7">Robertas Strafelas(13) lap=4 point=1 t=23.100 et=413.653</Score>
+<Score et="415.7">Andrius Kuzmenko(19) lap=4 point=2 t=46.375 et=415.653</Score>
+<Score et="420.5">Macaitis Petras(10) lap=3 point=0 t=77.625 et=420.156</Score>
+<Incident et="422.1">Vaidas Balciunas(6) reported contact (0.32) with another vehicle Audrius Valantiejus(16)</Incident>
+<Score et="422.4">Mantas Gudaitis(20) lap=5 point=0 t=80.975 et=422.372</Score>
+<Score et="422.8">Justas Vaitekunas(15) lap=5 point=0 t=75.025 et=422.722</Score>
+<Score et="425.9">Karolis Ulevicius(9) lap=5 point=0 t=76.825 et=425.869</Score>
+<Score et="426.8">Andrius Vaitekunas(4) lap=4 point=2 t=43.750 et=426.703</Score>
+<Score et="428.6">Antanas Makarovas(7) lap=4 point=2 t=44.474 et=428.583</Score>
+<Incident et="429.6">Antanas Makarovas(7) reported contact (0.03) with Track</Incident>
+<Incident et="430.1">Antanas Makarovas(7) reported contact (0.32) with Track</Incident>
+<Incident et="430.1">Antanas Makarovas(7) reported contact (0.52) with Track</Incident>
+<Incident et="430.7">Antanas Makarovas(7) reported contact (0.13) with Track</Incident>
+<Score et="430.9">Vaidas Balciunas(6) lap=5 point=0 t=79.952 et=430.819</Score>
+<Score et="431.3">Audrius Valantiejus(16) lap=6 point=0 t=-1.000 et=431.275</Score>
+<Score et="432.1">Mantas Gudaitis(20) lap=5 point=1 t=-1.000 et=432.080</Score>
+<Score et="432.1">Mantas Gudaitis(20) lap=5 point=2 t=-1.000 et=432.080</Score>
+<Score et="432.1">Mantas Gudaitis(20) lap=6 point=0 t=-1.000 et=432.080</Score>
+<Score et="435.0">Justas Gulbinas(1) lap=5 point=0 t=-1.000 et=434.908</Score>
+<Score et="436.4">Robertas Strafelas(13) lap=4 point=2 t=45.750 et=436.303</Score>
+<Score et="436.5">Rytis Kairys(17) lap=5 point=0 t=76.675 et=436.428</Score>
+<Score et="438.6">Paulius Paskevicius(18) lap=6 point=0 t=76.500 et=438.475</Score>
+<Score et="441.5">Kristupas Adinavicius(2) lap=5 point=0 t=77.025 et=441.453</Score>
+<Score et="441.9">Audrius Gavenas(14) lap=5 point=0 t=74.200 et=441.803</Score>
+<Incident et="442.2">Justas Vaitekunas(15) reported contact (0.29) with Track</Incident>
+<Score et="443.1">Deividas Jancius(8) lap=5 point=0 t=76.550 et=443.028</Score>
+<Score et="443.9">Macaitis Petras(10) lap=3 point=1 t=23.600 et=443.756</Score>
+<Score et="445.1">Mindaugas Klumbis(11) lap=5 point=0 t=-1.000 et=445.056</Score>
+<Score et="445.3">Justas Vaitekunas(15) lap=5 point=1 t=22.550 et=445.272</Score>
+<Score et="448.3">Karolis Ulevicius(9) lap=5 point=1 t=22.375 et=448.244</Score>
+<Score et="450.3">Andrius Kuzmenko(19) lap=5 point=0 t=80.979 et=450.257</Score>
+<Incident et="450.8">Macaitis Petras(10) reported contact (0.32) with Track</Incident>
+<Incident et="451.0">Macaitis Petras(10) reported contact (0.06) with Track</Incident>
+<Score et="453.3">Vaidas Balciunas(6) lap=5 point=1 t=22.423 et=453.242</Score>
+<Score et="453.6">Audrius Valantiejus(16) lap=6 point=1 t=22.200 et=453.475</Score>
+<Score et="457.4">Justas Gulbinas(1) lap=5 point=1 t=22.425 et=457.333</Score>
+<Score et="458.6">Rytis Kairys(17) lap=5 point=1 t=22.125 et=458.553</Score>
+<Score et="458.9">Andrius Vaitekunas(4) lap=5 point=0 t=75.875 et=458.828</Score>
+<Incident et="458.9">Rytis Kairys(17) reported contact (0.39) with Immovable</Incident>
+<Score et="460.9">Paulius Paskevicius(18) lap=6 point=1 t=22.325 et=460.800</Score>
+<Incident et="461.7">Kristupas Adinavicius(2) reported contact (0.26) with Track</Incident>
+<Score et="464.8">Kristupas Adinavicius(2) lap=5 point=1 t=23.250 et=464.703</Score>
+<Score et="465.9">Deividas Jancius(8) lap=5 point=1 t=22.775 et=465.803</Score>
+<Score et="466.0">Macaitis Petras(10) lap=3 point=2 t=45.625 et=465.781</Score>
+<Score et="466.9">Mindaugas Klumbis(11) lap=5 point=1 t=21.825 et=466.881</Score>
+<Incident et="467.9">Audrius Gavenas(14) reported contact (0.97) with Track</Incident>
+<Score et="467.9">Justas Vaitekunas(15) lap=5 point=2 t=45.125 et=467.847</Score>
+<Score et="468.0">Antanas Makarovas(7) lap=5 point=0 t=83.849 et=467.958</Score>
+<Score et="469.0">Robertas Strafelas(13) lap=5 point=0 t=78.450 et=469.003</Score>
+<Score et="469.6">Karolis Ulevicius(9) lap=5 point=2 t=43.725 et=469.594</Score>
+<Score et="473.6">Andrius Kuzmenko(19) lap=5 point=1 t=22.546 et=472.803</Score>
+<Score et="474.9">Vaidas Balciunas(6) lap=5 point=2 t=44.048 et=474.867</Score>
+<Score et="475.4">Audrius Valantiejus(16) lap=6 point=2 t=44.075 et=475.350</Score>
+<Incident et="479.4">Rytis Kairys(17) reported contact (0.03) with Track</Incident>
+<Score et="479.5">Justas Gulbinas(1) lap=5 point=2 t=44.550 et=479.458</Score>
+<Score et="480.2">Rytis Kairys(17) lap=5 point=2 t=43.675 et=480.103</Score>
+<Score et="481.8">Andrius Vaitekunas(4) lap=5 point=1 t=22.925 et=481.753</Score>
+<Score et="483.2">Paulius Paskevicius(18) lap=6 point=2 t=44.625 et=483.100</Score>
+<Score et="485.4">Audrius Gavenas(14) lap=5 point=2 t=43.575 et=485.378</Score>
+<Score et="487.0">Kristupas Adinavicius(2) lap=5 point=2 t=45.475 et=486.928</Score>
+<Score et="487.4">Deividas Jancius(8) lap=5 point=2 t=44.325 et=487.353</Score>
+<Incident et="488.0">Antanas Makarovas(7) reported contact (0.23) with Track</Incident>
+<Incident et="488.5">Antanas Makarovas(7) reported contact (0.06) with Track</Incident>
+<Score et="488.8">Mindaugas Klumbis(11) lap=5 point=2 t=43.675 et=488.731</Score>
+<Score et="491.3">Antanas Makarovas(7) lap=5 point=1 t=23.300 et=491.258</Score>
+<Score et="491.7">Robertas Strafelas(13) lap=5 point=1 t=22.625 et=491.628</Score>
+<Incident et="495.2">Antanas Makarovas(7) reported contact (1.00) with Track</Incident>
+<Incident et="495.3">Antanas Makarovas(7) reported contact (0.19) with Track</Incident>
+<Incident et="495.7">Antanas Makarovas(7) reported contact (0.06) with Track</Incident>
+<Score et="495.8">Andrius Kuzmenko(19) lap=5 point=2 t=45.121 et=495.378</Score>
+<Incident et="497.5">Rytis Kairys(17) reported contact (0.06) with another vehicle Justas Gulbinas(1)</Incident>
+<Incident et="497.5">Justas Gulbinas(1) reported contact (0.03) with another vehicle Rytis Kairys(17)</Incident>
+<Score et="498.5">Macaitis Petras(10) lap=4 point=0 t=78.177 et=498.332</Score>
+<Score et="500.1">Justas Vaitekunas(15) lap=6 point=0 t=77.304 et=500.027</Score>
+<Score et="501.6">Karolis Ulevicius(9) lap=6 point=0 t=75.650 et=501.519</Score>
+<Incident et="502.6">Andrius Vaitekunas(4) reported contact (0.55) with Sign</Incident>
+<Incident et="502.7">Andrius Vaitekunas(4) reported contact (0.16) with Sign</Incident>
+<Incident et="502.9">Andrius Vaitekunas(4) reported contact (0.58) with Sign</Incident>
+<Score et="503.2">Andrius Vaitekunas(4) lap=5 point=2 t=44.325 et=503.153</Score>
+<Incident et="507.3">Andrius Vaitekunas(4) reported contact (0.16) with Track</Incident>
+<Score et="507.5">Vaidas Balciunas(6) lap=6 point=0 t=76.648 et=507.467</Score>
+<Score et="507.7">Audrius Valantiejus(16) lap=7 point=0 t=76.325 et=507.600</Score>
+<Score et="513.0">Rytis Kairys(17) lap=6 point=0 t=76.550 et=512.978</Score>
+<Score et="513.4">Justas Gulbinas(1) lap=6 point=0 t=78.450 et=513.358</Score>
+<Score et="514.0">Mantas Gudaitis(20) lap=6 point=1 t=-1.000 et=513.947</Score>
+<Score et="514.0">Robertas Strafelas(13) lap=5 point=2 t=44.950 et=513.953</Score>
+<Score et="515.6">Paulius Paskevicius(18) lap=7 point=0 t=76.925 et=515.400</Score>
+<Score et="516.1">Antanas Makarovas(7) lap=5 point=2 t=48.075 et=516.033</Score>
+<Score et="516.7">Audrius Gavenas(14) lap=6 point=0 t=74.875 et=516.678</Score>
+<Incident et="517.3">Mantas Gudaitis(20) reported contact (0.00) with Track</Incident>
+<Score et="519.4">Kristupas Adinavicius(2) lap=6 point=0 t=77.900 et=519.353</Score>
+<Score et="520.9">Mindaugas Klumbis(11) lap=6 point=0 t=75.803 et=520.858</Score>
+<Score et="521.4">Deividas Jancius(8) lap=6 point=0 t=78.275 et=521.303</Score>
+<Score et="521.5">Macaitis Petras(10) lap=4 point=1 t=22.748 et=521.081</Score>
+<Score et="521.9">Karolis Ulevicius(9) lap=6 point=1 t=-1.000 et=521.790</Score>
+<Score et="521.9">Karolis Ulevicius(9) lap=6 point=2 t=-1.000 et=521.790</Score>
+<Score et="521.9">Karolis Ulevicius(9) lap=7 point=0 t=-1.000 et=521.790</Score>
+<Score et="522.1">Justas Vaitekunas(15) lap=6 point=1 t=21.971 et=521.997</Score>
+<Score et="529.8">Vaidas Balciunas(6) lap=6 point=1 t=22.325 et=529.792</Score>
+<Score et="530.0">Andrius Kuzmenko(19) lap=6 point=0 t=79.221 et=529.478</Score>
+<Score et="530.4">Audrius Valantiejus(16) lap=7 point=1 t=22.775 et=530.375</Score>
+<Incident et="530.9">Audrius Valantiejus(16) reported contact (0.84) with Immovable</Incident>
+<Incident et="534.6">Audrius Valantiejus(16) reported contact (0.35) with Track</Incident>
+<Score et="535.1">Rytis Kairys(17) lap=6 point=1 t=22.050 et=535.028</Score>
+<Score et="536.2">Justas Gulbinas(1) lap=6 point=1 t=22.750 et=536.108</Score>
+<Score et="537.0">Andrius Vaitekunas(4) lap=6 point=0 t=78.100 et=536.928</Score>
+<Score et="537.4">Mantas Gudaitis(20) lap=6 point=2 t=-1.000 et=537.372</Score>
+<Score et="537.9">Paulius Paskevicius(18) lap=7 point=1 t=22.400 et=537.800</Score>
+<Score et="538.5">Audrius Gavenas(14) lap=6 point=1 t=21.775 et=538.453</Score>
+<Incident et="539.2">Audrius Valantiejus(16) reported contact (0.45) with Track</Incident>
+<Incident et="539.2">Audrius Valantiejus(16) reported contact (0.52) with Track</Incident>
+<Score et="542.1">Kristupas Adinavicius(2) lap=6 point=1 t=22.700 et=542.053</Score>
+<Incident et="542.3">Audrius Valantiejus(16) reported contact (0.06) with Track</Incident>
+<Score et="542.7">Macaitis Petras(10) lap=4 point=2 t=44.323 et=542.656</Score>
+<Score et="542.9">Mindaugas Klumbis(11) lap=6 point=1 t=22.022 et=542.881</Score>
+<Score et="543.5">Justas Vaitekunas(15) lap=6 point=2 t=43.421 et=543.447</Score>
+<Score et="543.6">Deividas Jancius(8) lap=6 point=1 t=22.275 et=543.578</Score>
+<Incident et="547.1">Audrius Valantiejus(16) reported contact (0.06) with Cone</Incident>
+<Score et="547.3">Robertas Strafelas(13) lap=6 point=0 t=78.255 et=547.257</Score>
+<Score et="548.9">Antanas Makarovas(7) lap=6 point=0 t=80.853 et=548.811</Score>
+<Score et="551.9">Vaidas Balciunas(6) lap=6 point=2 t=44.375 et=551.842</Score>
+<Score et="552.6">Andrius Kuzmenko(19) lap=6 point=1 t=22.950 et=552.428</Score>
+<Incident et="553.1">Mindaugas Klumbis(11) reported contact (0.19) with Cone</Incident>
+<Incident et="553.1">Mindaugas Klumbis(11) reported contact (0.10) with Cone</Incident>
+<Incident et="553.5">Deividas Jancius(8) reported contact (0.19) with Cone</Incident>
+<Score et="556.7">Rytis Kairys(17) lap=6 point=2 t=43.700 et=556.678</Score>
+<Incident et="558.2">Karolis Ulevicius(9) reported contact (0.06) with another vehicle Antanas Makarovas(7)</Incident>
+<Score et="558.4">Justas Gulbinas(1) lap=6 point=2 t=44.975 et=558.333</Score>
+<Score et="559.8">Paulius Paskevicius(18) lap=7 point=2 t=44.350 et=559.750</Score>
+<Score et="560.9">Andrius Vaitekunas(4) lap=6 point=1 t=23.875 et=560.803</Score>
+<Score et="562.1">Audrius Valantiejus(16) lap=7 point=2 t=54.200 et=561.800</Score>
+<Score et="565.0">Deividas Jancius(8) lap=6 point=2 t=43.625 et=564.928</Score>
+<Score et="565.0">Kristupas Adinavicius(2) lap=6 point=2 t=45.600 et=564.953</Score>
+<Score et="565.5">Mindaugas Klumbis(11) lap=6 point=2 t=44.547 et=565.406</Score>
+<Score et="569.5">Robertas Strafelas(13) lap=6 point=1 t=-1.000 et=569.356</Score>
+<Score et="569.5">Robertas Strafelas(13) lap=6 point=2 t=-1.000 et=569.356</Score>
+<Score et="569.5">Robertas Strafelas(13) lap=7 point=0 t=-1.000 et=569.356</Score>
+<Incident et="569.8">Deividas Jancius(8) reported contact (0.03) with another vehicle Kristupas Adinavicius(2)</Incident>
+<Score et="570.5">Mantas Gudaitis(20) lap=7 point=0 t=-1.000 et=570.447</Score>
+<Score et="571.6">Karolis Ulevicius(9) lap=7 point=1 t=-1.000 et=571.494</Score>
+<Incident et="572.0">Andrius Vaitekunas(4) reported contact (0.42) with Track</Incident>
+<Incident et="572.4">Andrius Vaitekunas(4) reported contact (0.16) with Track</Incident>
+<Incident et="572.6">Andrius Vaitekunas(4) reported contact (0.23) with Track</Incident>
+<Score et="573.0">Antanas Makarovas(7) lap=6 point=1 t=24.097 et=572.908</Score>
+<Incident et="573.0">Andrius Vaitekunas(4) reported contact (0.45) with Track</Incident>
+<Score et="574.9">Andrius Kuzmenko(19) lap=6 point=2 t=45.350 et=574.828</Score>
+<Score et="576.0">Macaitis Petras(10) lap=5 point=0 t=77.573 et=575.906</Score>
+<Score et="576.0">Justas Vaitekunas(15) lap=7 point=0 t=75.946 et=575.972</Score>
+<Incident et="576.5">Antanas Makarovas(7) reported contact (0.13) with Track</Incident>
+<Incident et="583.8">Andrius Vaitekunas(4) reported contact (0.06) with Cone</Incident>
+<Score et="584.3">Vaidas Balciunas(6) lap=7 point=0 t=76.750 et=584.217</Score>
+<Incident et="584.7">Antanas Makarovas(7) reported contact (0.32) with Cone</Incident>
+<Score et="585.9">Justas Vaitekunas(15) lap=7 point=1 t=-1.000 et=585.779</Score>
+<Score et="585.9">Justas Vaitekunas(15) lap=7 point=2 t=-1.000 et=585.779</Score>
+<Score et="585.9">Justas Vaitekunas(15) lap=8 point=0 t=-1.000 et=585.779</Score>
+<Score et="589.4">Rytis Kairys(17) lap=7 point=0 t=76.325 et=589.303</Score>
+<Score et="591.6">Justas Gulbinas(1) lap=7 point=0 t=78.225 et=591.583</Score>
+<Score et="591.7">Audrius Gavenas(14) lap=7 point=0 t=75.025 et=591.703</Score>
+<Score et="592.5">Paulius Paskevicius(18) lap=8 point=0 t=77.025 et=592.425</Score>
+<Score et="593.0">Karolis Ulevicius(9) lap=7 point=2 t=-1.000 et=592.944</Score>
+<Score et="593.5">Audrius Valantiejus(16) lap=8 point=0 t=85.850 et=593.450</Score>
+<Score et="593.7">Mantas Gudaitis(20) lap=7 point=1 t=23.225 et=593.672</Score>
+<Score et="595.8">Antanas Makarovas(7) lap=6 point=2 t=46.922 et=595.733</Score>
+<Score et="596.2">Andrius Vaitekunas(4) lap=6 point=2 t=59.175 et=596.103</Score>
+<Incident et="596.7">Rytis Kairys(17) reported contact (0.23) with Track</Incident>
+<Incident et="596.9">Rytis Kairys(17) reported contact (0.29) with Track</Incident>
+<Incident et="597.8">Rytis Kairys(17) reported contact (0.48) with Track</Incident>
+<Score et="597.8">Deividas Jancius(8) lap=7 point=0 t=76.425 et=597.728</Score>
+<Incident et="598.1">Rytis Kairys(17) reported contact (0.13) with Track</Incident>
+<Score et="599.1">Macaitis Petras(10) lap=5 point=1 t=23.075 et=598.981</Score>
+<Incident et="599.9">Rytis Kairys(17) reported contact (0.45) with Track</Incident>
+<Incident et="600.3">Rytis Kairys(17) reported contact (0.10) with Track</Incident>
+<Score et="600.6">Mindaugas Klumbis(11) lap=7 point=0 t=79.697 et=600.556</Score>
+<Score et="603.5">Deividas Jancius(8) lap=7 point=1 t=-1.000 et=603.417</Score>
+<Score et="603.5">Deividas Jancius(8) lap=7 point=2 t=-1.000 et=603.417</Score>
+<Score et="603.5">Deividas Jancius(8) lap=8 point=0 t=-1.000 et=603.417</Score>
+<Incident et="604.0">Macaitis Petras(10) reported contact (0.87) with Track</Incident>
+<Score et="605.9">Rytis Kairys(17) lap=7 point=1 t=-1.000 et=605.322</Score>
+<Score et="605.9">Rytis Kairys(17) lap=7 point=2 t=-1.000 et=605.322</Score>
+<Score et="605.9">Rytis Kairys(17) lap=8 point=0 t=-1.000 et=605.322</Score>
+<Score et="606.6">Vaidas Balciunas(6) lap=7 point=1 t=22.350 et=606.567</Score>
+<Score et="607.4">Macaitis Petras(10) lap=5 point=2 t=-1.000 et=607.384</Score>
+<Score et="607.4">Macaitis Petras(10) lap=6 point=0 t=-1.000 et=607.384</Score>
+<Score et="609.1">Andrius Kuzmenko(19) lap=7 point=0 t=79.575 et=609.053</Score>
+<Incident et="609.7">Vaidas Balciunas(6) reported contact (0.16) with Track</Incident>
+<Incident et="611.4">Justas Gulbinas(1) reported contact (0.03) with another vehicle Paulius Paskevicius(18)</Incident>
+<Score et="613.5">Audrius Gavenas(14) lap=7 point=1 t=21.775 et=613.478</Score>
+<Score et="615.2">Paulius Paskevicius(18) lap=8 point=1 t=22.575 et=615.000</Score>
+<Score et="615.3">Justas Gulbinas(1) lap=7 point=1 t=23.675 et=615.258</Score>
+<Incident et="615.7">Andrius Kuzmenko(19) reported contact (0.52) with Track</Incident>
+<Incident et="615.9">Andrius Kuzmenko(19) reported contact (0.29) with Track</Incident>
+<Score et="616.1">Mantas Gudaitis(20) lap=7 point=2 t=45.575 et=616.022</Score>
+<Score et="616.1">Audrius Valantiejus(16) lap=8 point=1 t=22.575 et=616.025</Score>
+<Incident et="616.4">Andrius Kuzmenko(19) reported contact (0.29) with Track</Incident>
+<Incident et="619.0">Karolis Ulevicius(9) reported contact (0.55) with Track</Incident>
+<Incident et="619.3">Andrius Kuzmenko(19) reported contact (0.06) with Track</Incident>
+<Score et="619.9">Kristupas Adinavicius(2) lap=7 point=0 t=-1.000 et=619.751</Score>
+<Score et="619.9">Kristupas Adinavicius(2) lap=7 point=2 t=-1.000 et=619.751</Score>
+<Score et="619.9">Kristupas Adinavicius(2) lap=7 point=1 t=-1.000 et=619.751</Score>
+<Score et="619.9">Kristupas Adinavicius(2) lap=8 point=0 t=-1.000 et=619.751</Score>
+<Score et="622.1">Mindaugas Klumbis(11) lap=7 point=1 t=21.475 et=622.031</Score>
+<Score et="626.6">Karolis Ulevicius(9) lap=8 point=0 t=-1.000 et=626.569</Score>
+<Score et="628.1">Vaidas Balciunas(6) lap=7 point=2 t=43.828 et=628.045</Score>
+<Incident et="629.0">Mindaugas Klumbis(11) reported contact (0.52) with Track</Incident>
+<Score et="629.1">Antanas Makarovas(7) lap=7 point=0 t=80.197 et=629.008</Score>
+<Incident et="629.2">Mindaugas Klumbis(11) reported contact (0.10) with Track</Incident>
+<Score et="629.7">Andrius Vaitekunas(4) lap=7 point=0 t=92.750 et=629.678</Score>
+<Incident et="630.3">Mindaugas Klumbis(11) reported contact (0.58) with Sign</Incident>
+<Score et="634.5">Audrius Gavenas(14) lap=7 point=2 t=42.800 et=634.503</Score>
+<Score et="634.6">Justas Vaitekunas(15) lap=8 point=1 t=-1.000 et=634.547</Score>
+<Incident et="634.7">Paulius Paskevicius(18) reported contact (0.58) with Cone</Incident>
+<Score et="634.7">Mindaugas Klumbis(11) lap=8 point=0 t=-1.000 et=634.596</Score>
+<Incident et="634.7">Paulius Paskevicius(18) reported contact (0.35) with Cone</Incident>
+<Score et="636.9">Paulius Paskevicius(18) lap=8 point=2 t=44.400 et=636.825</Score>
+<Score et="637.6">Justas Gulbinas(1) lap=7 point=2 t=46.000 et=637.583</Score>
+<Score et="637.8">Audrius Valantiejus(16) lap=8 point=2 t=44.300 et=637.750</Score>
+<Score et="643.0">Justas Gulbinas(1) lap=7 point=2 t=-1.000 et=642.897</Score>
+<Score et="643.0">Justas Gulbinas(1) lap=8 point=0 t=-1.000 et=642.897</Score>
+<Score et="643.0">Justas Gulbinas(1) lap=8 point=1 t=-1.000 et=642.897</Score>
+<Score et="643.0">Justas Gulbinas(1) lap=9 point=0 t=-1.000 et=642.897</Score>
+<Score et="644.5">Andrius Kuzmenko(19) lap=7 point=1 t=35.225 et=644.278</Score>
+<Score et="649.0">Mantas Gudaitis(20) lap=8 point=0 t=78.505 et=648.952</Score>
+<Score et="649.0">Karolis Ulevicius(9) lap=8 point=1 t=22.375 et=648.944</Score>
+<Incident et="649.8">Antanas Makarovas(7) reported contact (0.06) with another vehicle Andrius Vaitekunas(4)</Incident>
+<Incident et="649.9">Andrius Vaitekunas(4) reported contact (0.39) with Track</Incident>
+<Incident et="651.1">Andrius Vaitekunas(4) reported contact (0.00) with Track</Incident>
+<Incident et="651.1">Andrius Vaitekunas(4) reported contact (0.06) with Track</Incident>
+<Incident et="651.3">Andrius Vaitekunas(4) reported contact (0.52) with Track</Incident>
+<Incident et="651.8">Andrius Vaitekunas(4) reported contact (0.06) with Track</Incident>
+<Incident et="652.0">Andrius Vaitekunas(4) reported contact (0.16) with Track</Incident>
+<Score et="652.1">Antanas Makarovas(7) lap=7 point=1 t=23.050 et=652.058</Score>
+<Score et="656.3">Justas Vaitekunas(15) lap=8 point=2 t=-1.000 et=656.297</Score>
+<Score et="660.1">Andrius Vaitekunas(4) lap=7 point=1 t=30.350 et=660.028</Score>
+<Score et="660.6">Vaidas Balciunas(6) lap=8 point=0 t=76.300 et=660.517</Score>
+<Score et="665.8">Audrius Gavenas(14) lap=8 point=0 t=74.075 et=665.778</Score>
+<Score et="667.4">Andrius Kuzmenko(19) lap=7 point=2 t=58.250 et=667.303</Score>
+<Score et="669.8">Paulius Paskevicius(18) lap=9 point=0 t=77.300 et=669.725</Score>
+<Score et="670.3">Karolis Ulevicius(9) lap=8 point=2 t=43.675 et=670.244</Score>
+<Score et="670.3">Audrius Valantiejus(16) lap=9 point=0 t=76.800 et=670.250</Score>
+<Incident et="671.1">Kristupas Adinavicius(2) reported contact (0.23) with Track</Incident>
+<Score et="671.5">Vaidas Balciunas(6) lap=9 point=0 t=-1.000 et=671.408</Score>
+<Score et="671.5">Vaidas Balciunas(6) lap=9 point=1 t=-1.000 et=671.408</Score>
+<Score et="671.5">Vaidas Balciunas(6) lap=9 point=2 t=-1.000 et=671.408</Score>
+<Incident et="671.6">Kristupas Adinavicius(2) reported contact (0.10) with Track</Incident>
+<Score et="672.3">Mantas Gudaitis(20) lap=8 point=1 t=23.320 et=672.272</Score>
+<Score et="674.3">Antanas Makarovas(7) lap=7 point=2 t=45.275 et=674.283</Score>
+<Score et="674.5">Kristupas Adinavicius(2) lap=8 point=1 t=-1.000 et=674.428</Score>
+<Incident et="674.6">Audrius Gavenas(14) reported contact (0.06) with Track</Incident>
+<Score et="674.6">Audrius Gavenas(14) lap=8 point=1 t=-1.000 et=674.596</Score>
+<Score et="674.6">Audrius Gavenas(14) lap=8 point=2 t=-1.000 et=674.596</Score>
+<Score et="674.6">Audrius Gavenas(14) lap=9 point=0 t=-1.000 et=674.596</Score>
+<Incident et="676.0">Audrius Valantiejus(16) reported contact (1.00) with Track</Incident>
+<Incident et="677.6">Audrius Valantiejus(16) reported contact (0.61) with Track</Incident>
+<Incident et="677.8">Audrius Valantiejus(16) reported contact (0.39) with Track</Incident>
+<Incident et="677.8">Audrius Valantiejus(16) reported contact (0.42) with Track</Incident>
+<Incident et="678.2">Audrius Valantiejus(16) reported contact (0.23) with Track</Incident>
+<Score et="678.3">Mantas Gudaitis(20) lap=9 point=0 t=-1.000 et=678.244</Score>
+<Score et="678.3">Mantas Gudaitis(20) lap=9 point=2 t=-1.000 et=678.244</Score>
+<Incident et="678.7">Audrius Valantiejus(16) reported contact (0.23) with Track</Incident>
+<Incident et="679.1">Audrius Valantiejus(16) reported contact (0.03) with Track</Incident>
+<Incident et="679.7">Audrius Valantiejus(16) reported contact (0.42) with Track</Incident>
+<Incident et="679.8">Audrius Valantiejus(16) reported contact (0.48) with Track</Incident>
+<Incident et="679.9">Audrius Valantiejus(16) reported contact (0.10) with Track</Incident>
+<Incident et="680.5">Audrius Valantiejus(16) reported contact (0.10) with Track</Incident>
+<Incident et="682.5">Audrius Valantiejus(16) reported contact (0.03) with Track</Incident>
+<Incident et="682.6">Audrius Valantiejus(16) reported contact (0.10) with Track</Incident>
+<Incident et="682.7">Audrius Valantiejus(16) reported contact (0.00) with Track</Incident>
+<Incident et="682.8">Audrius Valantiejus(16) reported contact (0.16) with Track</Incident>
+<Incident et="682.8">Audrius Valantiejus(16) reported contact (0.03) with Track</Incident>
+<Incident et="683.3">Audrius Valantiejus(16) reported contact (0.03) with Track</Incident>
+<Score et="684.1">Andrius Vaitekunas(4) lap=7 point=2 t=54.400 et=684.078</Score>
+<Score et="684.4">Audrius Valantiejus(16) lap=10 point=0 t=-1.000 et=684.211</Score>
+<Score et="684.4">Audrius Valantiejus(16) lap=10 point=1 t=-1.000 et=684.211</Score>
+<Score et="684.4">Audrius Valantiejus(16) lap=10 point=2 t=-1.000 et=684.211</Score>
+<Score et="684.4">Paulius Paskevicius(18) lap=10 point=0 t=-1.000 et=684.248</Score>
+<Score et="684.4">Paulius Paskevicius(18) lap=10 point=1 t=-1.000 et=684.248</Score>
+<Score et="684.4">Paulius Paskevicius(18) lap=10 point=2 t=-1.000 et=684.248</Score>
+<Incident et="688.3">Andrius Vaitekunas(4) reported contact (0.48) with Track</Incident>
+<Score et="688.7">Justas Vaitekunas(15) lap=9 point=0 t=-1.000 et=688.623</Score>
+<Score et="697.5">Kristupas Adinavicius(2) lap=8 point=2 t=-1.000 et=697.428</Score>
+<Score et="701.4">Andrius Kuzmenko(19) lap=8 point=0 t=92.100 et=701.153</Score>
+<Score et="702.3">Karolis Ulevicius(9) lap=9 point=0 t=75.701 et=702.270</Score>
+<Score et="706.9">Antanas Makarovas(7) lap=8 point=0 t=77.875 et=706.883</Score>
+<Score et="708.2">Justas Vaitekunas(15) lap=9 point=1 t=19.549 et=708.172</Score>
+<Incident et="711.7">Justas Vaitekunas(15) reported contact (0.10) with Track</Incident>
+<Score et="713.6">Antanas Makarovas(7) lap=8 point=1 t=-1.000 et=713.480</Score>
+<Score et="713.6">Antanas Makarovas(7) lap=8 point=2 t=-1.000 et=713.480</Score>
+<Score et="713.6">Antanas Makarovas(7) lap=9 point=0 t=-1.000 et=713.480</Score>
+<Score et="718.6">Andrius Vaitekunas(4) lap=8 point=0 t=88.850 et=718.528</Score>
+<Incident et="722.4">Justas Vaitekunas(15) reported contact (0.03) with Track</Incident>
+<Incident et="722.4">Justas Vaitekunas(15) reported contact (0.23) with Track</Incident>
+<Score et="724.4">Karolis Ulevicius(9) lap=9 point=1 t=22.099 et=724.369</Score>
+<Score et="725.9">Kristupas Adinavicius(2) lap=9 point=0 t=-1.000 et=725.757</Score>
+<Score et="725.9">Kristupas Adinavicius(2) lap=9 point=1 t=-1.000 et=725.757</Score>
+<Score et="725.9">Kristupas Adinavicius(2) lap=10 point=0 t=-1.000 et=725.757</Score>
+<Score et="725.9">Kristupas Adinavicius(2) lap=10 point=2 t=-1.000 et=725.757</Score>
+<Score et="729.2">Karolis Ulevicius(9) lap=9 point=2 t=-1.000 et=729.092</Score>
+<Score et="729.2">Karolis Ulevicius(9) lap=10 point=0 t=-1.000 et=729.092</Score>
+<Score et="731.0">Andrius Kuzmenko(19) lap=8 point=1 t=29.950 et=731.103</Score>
+<Incident et="732.4">Justas Vaitekunas(15) reported contact (1.00) with Track</Incident>
+<Incident et="732.4">Justas Vaitekunas(15) reported contact (0.97) with Track</Incident>
+<Incident et="732.5">Justas Vaitekunas(15) reported contact (0.23) with Track</Incident>
+<Incident et="733.2">Justas Vaitekunas(15) reported contact (0.77) with Track</Incident>
+<Incident et="733.6">Justas Vaitekunas(15) reported contact (0.19) with Track</Incident>
+<Incident et="734.1">Justas Vaitekunas(15) reported contact (0.06) with Track</Incident>
+<Incident et="734.1">Justas Vaitekunas(15) reported contact (0.29) with Track</Incident>
+<Incident et="734.6">Justas Vaitekunas(15) reported contact (0.03) with Track</Incident>
+<Incident et="734.7">Andrius Vaitekunas(4) reported contact (0.13) with Track</Incident>
+<Incident et="734.8">Andrius Vaitekunas(4) reported contact (0.00) with Track</Incident>
+<Incident et="735.0">Andrius Vaitekunas(4) reported contact (0.23) with Track</Incident>
+<Incident et="737.2">Andrius Vaitekunas(4) reported contact (0.81) with Track</Incident>
+<Score et="737.9">Justas Vaitekunas(15) lap=9 point=2 t=-1.000 et=737.832</Score>
+<Score et="737.9">Justas Vaitekunas(15) lap=10 point=0 t=-1.000 et=737.832</Score>
+<Incident et="738.5">Andrius Vaitekunas(4) reported contact (0.19) with Track</Incident>
+<Incident et="738.5">Andrius Vaitekunas(4) reported contact (0.06) with Track</Incident>
+<Score et="740.7">Andrius Vaitekunas(4) lap=8 point=1 t=-1.000 et=740.520</Score>
+<Score et="740.7">Andrius Vaitekunas(4) lap=8 point=2 t=-1.000 et=740.520</Score>
+<Score et="740.7">Andrius Vaitekunas(4) lap=9 point=0 t=-1.000 et=740.520</Score>
+<Score et="755.0">Andrius Kuzmenko(19) lap=8 point=2 t=53.625 et=754.778</Score>
+<Score et="759.1">Andrius Kuzmenko(19) lap=9 point=0 t=-1.000 et=758.604</Score>
+<Chat et="765.2">Karolis Ulevicius: sunku Q pravazuot cia...</Chat>
+<Chat et="770.5">Mindaugas Klumbis: SESIJA BAIGTA</Chat>
+<Chat et="771.1">Kristupas Adinavicius: aga...</Chat>
+<Chat et="785.8">Kristupas Adinavicius: Kazkaip nelabai man cia ;(</Chat>
+<Chat et="788.7">Karolis Ulevicius: maisosi letesni zmones labai </Chat>
+<Vote et="789.2">Mindaugas Klumbis: /callvote nextsession</Vote>
+<Sent et="789.2">&quot;advance to next session&quot; proposed by Mindaugas Klumbis (ADMIN): vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>10</MostLapsCompleted>
+<Driver>
+<Name>Audrius Gavenas</Name>
+<Connected>1</Connected>
+<VehFile>MOVIESTAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Patrick Mertens</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>Moviestar International</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.224">--.----</Lap>
+<Lap num="2" p="1" et="144.1548" s1="21.7730" s2="20.9500" s3="31.4286" fuel="0.200">74.1516</Lap>
+<Lap num="3" p="1" et="218.3064" s1="21.6214" s2="22.0250" s3="31.5000" fuel="0.180">75.1464</Lap>
+<Lap num="4" p="1" et="293.4528" s1="21.4000" fuel="0.157">74.1500</Lap>
+<Lap num="5" p="1" et="367.6028" s1="21.6000" s2="21.1500" s3="31.4500" fuel="0.137">74.2000</Lap>
+<Lap num="6" p="1" et="441.8028" fuel="0.114">74.8753</Lap>
+<Lap num="7" p="1" et="516.6780" s1="21.7747" fuel="0.094">75.0247</Lap>
+<Lap num="8" p="1" et="591.7028" s1="21.7750" s2="21.0250" s3="31.2750" fuel="0.071">74.0750</Lap>
+<Lap num="9" p="1" et="665.7778" fuel="0.247">--.----</Lap>
+<BestLapTime>74.0750</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justas Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>LMS.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>Kevin Procter</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>LMS Team</TeamName>
+<isPlayer>1</isPlayer>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="--.---" fuel="0.161">--.----</Lap>
+<Lap num="2" p="1" et="118.0472" s1="22.9250" s2="21.7500" s3="32.1000" fuel="0.137">76.7750</Lap>
+<Lap num="3" p="4" et="194.8222" s1="22.5500" s2="21.7000" s3="32.4250" fuel="0.114">76.6750</Lap>
+<Lap num="4" p="5" et="271.4972" s1="22.4000" s2="21.8500" s3="31.9500" fuel="0.090">76.2000</Lap>
+<Lap num="5" p="2" et="347.6972" s1="21.7000" s2="21.7500" s3="31.5750" fuel="0.067">75.0250</Lap>
+<Lap num="6" p="2" et="422.7222" s1="22.5500" s2="22.5750" s3="32.1793" fuel="0.043">77.3043</Lap>
+<Lap num="7" p="2" et="500.0266" s1="21.9707" s2="21.4500" s3="32.5250" fuel="0.020">75.9457</Lap>
+<Lap num="8" p="2" et="575.9722" fuel="0.188">--.----</Lap>
+<Lap num="9" p="2" et="585.7785" fuel="0.161">--.----</Lap>
+<Lap num="10" p="2" et="688.6231" s1="19.5491" fuel="0.153">--.----</Lap>
+<BestLapTime>75.0250</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Karolis Ulevicius</Name>
+<Connected>1</Connected>
+<VehFile>COLUMBIA.VEH</VehFile>
+<UpgradeCode>06000000 00000000</UpgradeCode>
+<VehName>Josef Strobl</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>Team Columbia</TeamName>
+<isPlayer>1</isPlayer>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.122">--.----</Lap>
+<Lap num="2" p="3" et="117.6723" s1="22.3472" s2="21.5750" s3="34.3250" fuel="0.102">78.2472</Lap>
+<Lap num="3" p="2" et="195.9194" s1="22.2000" s2="21.1250" s3="32.0028" fuel="0.078">75.3278</Lap>
+<Lap num="4" p="2" et="271.2473" s1="22.9722" s2="21.3750" s3="33.4500" fuel="0.059">77.7972</Lap>
+<Lap num="5" p="3" et="349.0444" s1="23.2250" s2="21.9000" s3="31.7000" fuel="0.035">76.8250</Lap>
+<Lap num="6" p="3" et="425.8694" s1="22.3750" s2="21.3500" s3="31.9250" fuel="0.016">75.6500</Lap>
+<Lap num="7" p="3" et="501.5194" fuel="0.149">--.----</Lap>
+<Lap num="8" p="3" et="521.7898" fuel="0.125">--.----</Lap>
+<Lap num="9" p="3" et="626.5695" s1="22.3750" s2="21.3000" s3="32.0256" fuel="0.102">75.7006</Lap>
+<Lap num="10" p="3" et="702.2701" s1="22.0994" fuel="0.094">--.----</Lap>
+<BestLapTime>75.3278</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>GAULOISES.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>Jean-Luc Pailler</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>Team France</TeamName>
+<isPlayer>1</isPlayer>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.161">--.----</Lap>
+<Lap num="2" p="6" et="152.8532" s1="22.7996" s2="22.4250" s3="32.3250" fuel="0.137">77.5496</Lap>
+<Lap num="3" p="3" et="230.4028" s1="21.7250" s2="21.8250" s3="32.2500" fuel="0.114">75.8000</Lap>
+<Lap num="4" p="3" et="306.2028" fuel="0.188">--.----</Lap>
+<Lap num="5" p="4" et="310.2927" fuel="0.086">--.----</Lap>
+<Lap num="6" p="4" et="445.0555" s1="21.8250" s2="21.8500" s3="32.1276" fuel="0.063">75.8026</Lap>
+<Lap num="7" p="4" et="520.8582" s1="22.0224" s2="22.5250" s3="35.1500" fuel="0.039">79.6974</Lap>
+<Lap num="8" p="4" et="600.5555" s1="21.4750" fuel="0.031">--.----</Lap>
+<BestLapTime>75.8000</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>REDBULL.VEH</VehFile>
+<UpgradeCode>05000000 00000000</UpgradeCode>
+<VehName>Mandie August</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>28</CarNumber>
+<TeamName>RedBull Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.216">--.----</Lap>
+<Lap num="2" p="1" et="139.9778" s1="22.4000" s2="21.7750" s3="32.2000" fuel="0.192">76.3750</Lap>
+<Lap num="3" p="6" et="216.3528" s1="23.0250" s2="35.5250" s3="32.2297" fuel="0.169">90.7796</Lap>
+<Lap num="4" p="4" et="307.1324" s1="22.6954" s2="21.3000" s3="31.8250" fuel="0.145">75.8204</Lap>
+<Lap num="5" p="5" et="382.9528" s1="22.3500" s2="21.4000" s3="32.1250" fuel="0.122">75.8750</Lap>
+<Lap num="6" p="5" et="458.8278" s1="22.9250" s2="21.4000" s3="33.7750" fuel="0.102">78.1000</Lap>
+<Lap num="7" p="5" et="536.9278" s1="23.8750" s2="35.3000" s3="33.5750" fuel="0.078">92.7500</Lap>
+<Lap num="8" p="5" et="629.6778" s1="30.3500" s2="24.0500" s3="34.4500" fuel="0.051">88.8500</Lap>
+<Lap num="9" p="5" et="718.5278" fuel="0.247">--.----</Lap>
+<BestLapTime>75.8204</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Deividas Jancius</Name>
+<Connected>1</Connected>
+<VehFile>AEROFLOT2.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>Timur Timerzyanov</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>25</CarNumber>
+<TeamName>Team Russia</TeamName>
+<isPlayer>1</isPlayer>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.141">--.----</Lap>
+<Lap num="2" p="3" et="136.3798" s1="23.0979" s2="22.0250" s3="32.3250" fuel="0.118">77.4479</Lap>
+<Lap num="3" p="3" et="213.8278" s1="22.8500" s2="21.4000" s3="31.7500" fuel="0.098">76.0000</Lap>
+<Lap num="4" p="4" et="289.8278" s1="23.0750" s2="21.6250" s3="31.9500" fuel="0.075">76.6500</Lap>
+<Lap num="5" p="6" et="366.4778" s1="22.2250" s2="22.0750" s3="32.2500" fuel="0.051">76.5500</Lap>
+<Lap num="6" p="6" et="443.0278" s1="22.7750" s2="21.5500" s3="33.9500" fuel="0.024">78.2750</Lap>
+<Lap num="7" p="6" et="521.3028" s1="22.2750" s2="21.3500" s3="32.8000" fuel="0.004">76.4250</Lap>
+<Lap num="8" p="6" et="597.7278" fuel="0.169">--.----</Lap>
+<BestLapTime>76.0000</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Vaidas Balciunas</Name>
+<Connected>1</Connected>
+<VehFile>MOVIESTAR2.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ulrik Linnemann</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>19</CarNumber>
+<TeamName>Moviestar International</TeamName>
+<isPlayer>1</isPlayer>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.157">--.----</Lap>
+<Lap num="2" p="3" et="121.8167" s1="23.9750" s2="21.9750" s3="32.2274" fuel="0.133">78.1774</Lap>
+<Lap num="3" p="8" et="199.9941" s1="22.6226" s2="22.0364" fuel="0.122" pit="1">--.----</Lap>
+<Lap num="4" p="11" et="250.7522" fuel="0.161">--.----</Lap>
+<Lap num="5" p="12" et="350.8667" s1="24.1500" s2="22.5250" s3="33.2769" fuel="0.137">79.9519</Lap>
+<Lap num="6" p="9" et="430.8186" s1="22.4231" s2="21.6250" s3="32.6000" fuel="0.114">76.6481</Lap>
+<Lap num="7" p="10" et="507.4667" s1="22.3250" s2="22.0500" s3="32.3750" fuel="0.086">76.7500</Lap>
+<Lap num="8" p="7" et="584.2167" s1="22.3500" s2="21.4784" s3="32.4716" fuel="0.063">76.3000</Lap>
+<Lap num="9" p="7" et="660.5167" fuel="0.188">--.----</Lap>
+<BestLapTime>76.3000</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Audrius Valantiejus</Name>
+<Connected>1</Connected>
+<VehFile>GAULOISES.VEH</VehFile>
+<UpgradeCode>05000000 00000000</UpgradeCode>
+<VehName>Jean-Luc Pailler</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>Team France</TeamName>
+<isPlayer>1</isPlayer>
+<Position>8</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.102">--.----</Lap>
+<Lap num="2" p="1" et="117.4047" s1="22.9703" s2="21.8250" s3="32.5032" fuel="0.078">77.2985</Lap>
+<Lap num="3" p="4" et="194.7032" s1="23.2740" fuel="0.075">--.----</Lap>
+<Lap num="4" p="8" et="219.7014" fuel="0.114">--.----</Lap>
+<Lap num="5" p="8" et="320.6849" fuel="0.133">--.----</Lap>
+<Lap num="6" p="10" et="320.6849" fuel="0.102">--.----</Lap>
+<Lap num="7" p="7" et="431.2750" s1="22.2000" s2="21.8750" s3="32.2500" fuel="0.078">76.3250</Lap>
+<Lap num="8" p="7" et="507.6000" s1="22.7750" s2="31.4250" s3="31.6500" fuel="0.055">85.8500</Lap>
+<Lap num="9" p="8" et="593.4500" s1="22.5750" s2="21.7250" s3="32.5000" fuel="0.031">76.8000</Lap>
+<Lap num="10" p="8" et="670.2500" fuel="0.133">--.----</Lap>
+<BestLapTime>76.3250</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="5" endLap="5">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="6" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Rytis Kairys</Name>
+<Connected>1</Connected>
+<VehFile>HEINEKEN.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>George Tracey</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>Heineken Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>9</Position>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="--.---" fuel="0.161">--.----</Lap>
+<Lap num="2" p="7" et="126.7528" s1="23.9750" s2="22.7000" s3="33.2750" fuel="0.137">79.9500</Lap>
+<Lap num="3" p="3" et="206.7028" s1="22.1250" s2="21.5750" s3="32.6500" fuel="0.114">76.3500</Lap>
+<Lap num="4" p="6" et="283.0528" s1="22.3000" s2="22.3750" s3="32.0250" fuel="0.090">76.7000</Lap>
+<Lap num="5" p="7" et="359.7528" s1="22.3250" s2="21.5000" s3="32.8500" fuel="0.067">76.6750</Lap>
+<Lap num="6" p="8" et="436.4278" s1="22.1250" s2="21.5500" s3="32.8750" fuel="0.047">76.5500</Lap>
+<Lap num="7" p="8" et="512.9778" s1="22.0500" s2="21.6500" s3="32.6254" fuel="0.024">76.3254</Lap>
+<Lap num="8" p="8" et="589.3032" fuel="0.188">--.----</Lap>
+<BestLapTime>76.3254</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Paulius Paskevicius</Name>
+<Connected>1</Connected>
+<VehFile>MONSTER.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Frode Holte</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Team Monster Energy</TeamName>
+<isPlayer>1</isPlayer>
+<Position>10</Position>
+<ClassPosition>10</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="11" et="--.---" fuel="0.859">--.----</Lap>
+<Lap num="2" p="3" et="125.4750" s1="23.3750" s2="21.9000" s3="32.3000" fuel="0.839">77.5750</Lap>
+<Lap num="3" p="7" et="203.0500" s1="22.8500" s2="22.3750" fuel="0.824" pit="1">--.----</Lap>
+<Lap num="4" p="7" et="256.4757" fuel="0.886">--.----</Lap>
+<Lap num="5" p="10" et="256.4757" fuel="0.859">--.----</Lap>
+<Lap num="6" p="8" et="361.9750" s1="22.5500" s2="21.6500" s3="32.3000" fuel="0.835">76.5000</Lap>
+<Lap num="7" p="9" et="438.4750" s1="22.3250" s2="22.3000" s3="32.3000" fuel="0.812">76.9250</Lap>
+<Lap num="8" p="9" et="515.4000" s1="22.4000" s2="21.9500" s3="32.6750" fuel="0.792">77.0250</Lap>
+<Lap num="9" p="10" et="592.4250" s1="22.5750" s2="21.8250" s3="32.9000" fuel="0.769">77.3000</Lap>
+<Lap num="10" p="10" et="669.7250" fuel="0.886">--.----</Lap>
+<BestLapTime>76.5000</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>7</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="10">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Macaitis Petras</Name>
+<Connected>1</Connected>
+<VehFile>BWIN.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>Rene Derfler</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>BWin Austria</TeamName>
+<isPlayer>1</isPlayer>
+<Position>11</Position>
+<ClassPosition>11</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.122">--.----</Lap>
+<Lap num="2" p="8" et="265.8306" s1="22.7250" s2="21.7000" s3="32.2750" fuel="0.098">76.7000</Lap>
+<Lap num="3" p="8" et="342.5305" s1="23.0750" s2="22.2500" s3="32.3004" fuel="0.078">77.6254</Lap>
+<Lap num="4" p="9" et="420.1559" s1="23.5996" s2="22.0250" s3="32.5519" fuel="0.055">78.1766</Lap>
+<Lap num="5" p="11" et="498.3325" s1="22.7481" s2="21.5750" s3="33.2500" fuel="0.031">77.5731</Lap>
+<Lap num="6" p="11" et="575.9056" s1="23.0750" fuel="0.027">--.----</Lap>
+<BestLapTime>76.7000</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Kristupas Adinavicius</Name>
+<Connected>1</Connected>
+<VehFile>NORDICBET.VEH</VehFile>
+<UpgradeCode>06000000 00000000</UpgradeCode>
+<VehName>Pavel Vimmer</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Nordic Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>12</Position>
+<ClassPosition>12</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.478">--.----</Lap>
+<Lap num="2" p="6" et="126.0817" s1="23.4711" s2="22.6750" s3="32.5000" fuel="0.455">78.6461</Lap>
+<Lap num="3" p="11" et="204.7278" s1="23.1750" s2="21.8500" s3="37.6750" fuel="0.431">82.7000</Lap>
+<Lap num="4" p="9" et="287.4278" s1="22.7000" s2="21.8500" s3="32.4500" fuel="0.408">77.0000</Lap>
+<Lap num="5" p="10" et="364.4278" s1="22.7750" s2="21.7000" s3="32.5500" fuel="0.384">77.0250</Lap>
+<Lap num="6" p="12" et="441.4528" s1="23.2500" s2="22.2250" s3="32.4250" fuel="0.357">77.9000</Lap>
+<Lap num="7" p="12" et="519.3528" s1="22.7000" s2="22.9000" fuel="0.341">--.----</Lap>
+<Lap num="8" p="12" et="619.7509" fuel="0.510">--.----</Lap>
+<Lap num="9" p="12" et="619.7509" fuel="0.490">--.----</Lap>
+<Lap num="10" p="12" et="725.7571" fuel="0.510">--.----</Lap>
+<BestLapTime>77.0000</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="8" endLap="8">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="9" endLap="9">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="10" endLap="10">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Antanas Makarovas</Name>
+<Connected>1</Connected>
+<VehFile>WSR.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>Guino Kenis</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>22</CarNumber>
+<TeamName>West Surrey Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>13</Position>
+<ClassPosition>13</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="--.---" fuel="0.498">--.----</Lap>
+<Lap num="2" p="10" et="133.4083" s1="23.2000" s2="23.9750" s3="34.4000" fuel="0.471">81.5750</Lap>
+<Lap num="3" p="14" et="214.9833" s1="23.1500" s2="24.4750" s3="33.5000" fuel="0.443">81.1250</Lap>
+<Lap num="4" p="17" et="296.1083" s1="32.0500" s2="21.9000" s3="34.0515" fuel="0.416">88.0014</Lap>
+<Lap num="5" p="17" et="384.1098" s1="22.9236" s2="21.5500" s3="39.3750" fuel="0.388">83.8486</Lap>
+<Lap num="6" p="17" et="467.9583" s1="23.3000" s2="24.7750" s3="32.7777" fuel="0.361">80.8527</Lap>
+<Lap num="7" p="17" et="548.8110" s1="24.0973" s2="22.8250" s3="33.2750" fuel="0.333">80.1973</Lap>
+<Lap num="8" p="13" et="629.0084" s1="23.0500" s2="22.2250" s3="32.6000" fuel="0.306">77.8750</Lap>
+<Lap num="9" p="13" et="706.8834" fuel="0.529">--.----</Lap>
+<BestLapTime>77.8750</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justas Gulbinas</Name>
+<Connected>1</Connected>
+<VehFile>VODAFONE.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>Samuel Peu</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>10</CarNumber>
+<TeamName>Manor RC Team</TeamName>
+<isPlayer>1</isPlayer>
+<Position>14</Position>
+<ClassPosition>14</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="--.---" fuel="0.161">--.----</Lap>
+<Lap num="2" p="7" et="132.5083" s1="23.6500" s2="22.5250" s3="32.9000" fuel="0.141">79.0750</Lap>
+<Lap num="3" p="11" et="211.5833" fuel="0.188">--.----</Lap>
+<Lap num="4" p="13" et="235.2482" fuel="0.176">--.----</Lap>
+<Lap num="5" p="15" et="307.1020" fuel="0.161">--.----</Lap>
+<Lap num="6" p="13" et="434.9083" s1="22.4250" s2="22.1250" s3="33.9000" fuel="0.141">78.4500</Lap>
+<Lap num="7" p="13" et="513.3583" s1="22.7500" s2="22.2250" s3="33.2500" fuel="0.118">78.2250</Lap>
+<Lap num="8" p="13" et="591.5833" s1="23.6750" s2="22.3250" fuel="0.102">--.----</Lap>
+<Lap num="9" p="13" et="642.8973" fuel="0.188">--.----</Lap>
+<BestLapTime>78.2250</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="9" endLap="9">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Robertas Strafelas</Name>
+<Connected>1</Connected>
+<VehFile>PHOENIX.VEH</VehFile>
+<UpgradeCode>06000000 00000000</UpgradeCode>
+<VehName>Andy Martin</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>21</CarNumber>
+<TeamName>Team Phoenix</TeamName>
+<isPlayer>1</isPlayer>
+<Position>15</Position>
+<ClassPosition>15</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="--.---" fuel="0.161">--.----</Lap>
+<Lap num="2" p="13" et="150.3528" s1="23.4500" s2="23.7750" s3="34.0500" fuel="0.133">81.2750</Lap>
+<Lap num="3" p="13" et="231.6278" s1="23.5000" s2="22.9750" s3="32.4500" fuel="0.110">78.9250</Lap>
+<Lap num="4" p="14" et="310.5528" s1="23.8250" s2="22.7500" s3="33.4250" fuel="0.086">80.0000</Lap>
+<Lap num="5" p="13" et="390.5528" s1="23.1000" s2="22.6500" s3="32.7000" fuel="0.063">78.4500</Lap>
+<Lap num="6" p="13" et="469.0028" s1="22.6250" s2="22.3250" s3="33.3045" fuel="0.039">78.2545</Lap>
+<Lap num="7" p="13" et="547.2573" fuel="0.188">--.----</Lap>
+<BestLapTime>78.2545</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mantas Gudaitis</Name>
+<Connected>1</Connected>
+<VehFile>BMS2.VEH</VehFile>
+<UpgradeCode>05000000 00000000</UpgradeCode>
+<VehName>Olivier Bossard</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>15</CarNumber>
+<TeamName>BMS Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>16</Position>
+<ClassPosition>16</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Lap num="1" p="17" et="--.---" fuel="0.165">--.----</Lap>
+<Lap num="2" p="17" et="126.6472" fuel="0.188">--.----</Lap>
+<Lap num="3" p="17" et="149.4044" fuel="0.161">--.----</Lap>
+<Lap num="4" p="15" et="261.3722" s1="23.6500" s2="23.3250" s3="33.0500" fuel="0.141">80.0250</Lap>
+<Lap num="5" p="16" et="341.3972" s1="23.4500" s2="22.4750" s3="35.0500" fuel="0.118">80.9750</Lap>
+<Lap num="6" p="16" et="422.3722" fuel="0.188">--.----</Lap>
+<Lap num="7" p="16" et="432.0796" fuel="0.051">--.----</Lap>
+<Lap num="8" p="15" et="570.4472" s1="23.2250" s2="22.3500" s3="32.9297" fuel="0.027">78.5047</Lap>
+<Lap num="9" p="15" et="648.9519" s1="23.3203" fuel="0.024">--.----</Lap>
+<BestLapTime>78.5047</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Kuzmenko</Name>
+<Connected>1</Connected>
+<VehFile>BWIN2.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>Peter Ramler</VehName>
+<CarType>VWPolo RC</CarType>
+<CarClass>VWPolo RC</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>BWin Austria</TeamName>
+<isPlayer>1</isPlayer>
+<Position>17</Position>
+<ClassPosition>17</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.537">--.----</Lap>
+<Lap num="2" p="8" et="125.7528" s1="24.6750" s2="23.0500" s3="36.0769" fuel="0.514">83.8019</Lap>
+<Lap num="3" p="12" et="209.5547" s1="23.0481" s2="22.5500" s3="33.2500" fuel="0.486">78.8481</Lap>
+<Lap num="4" p="13" et="288.4028" s1="24.2500" s2="23.8750" s3="32.7500" fuel="0.463">80.8750</Lap>
+<Lap num="5" p="13" et="369.2778" s1="23.3750" s2="23.0000" s3="34.6038" fuel="0.439">80.9788</Lap>
+<Lap num="6" p="15" et="450.2566" s1="22.5462" s2="22.5750" s3="34.1000" fuel="0.416">79.2212</Lap>
+<Lap num="7" p="15" et="529.4778" s1="22.9500" s2="22.4000" s3="34.2250" fuel="0.392">79.5750</Lap>
+<Lap num="8" p="16" et="609.0528" s1="35.2250" s2="23.0250" s3="33.8500" fuel="0.369">92.1000</Lap>
+<Lap num="9" p="17" et="701.1528" s1="29.9500" s2="23.6750" fuel="0.353" pit="1">--.----</Lap>
+<BestLapTime>78.8481</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

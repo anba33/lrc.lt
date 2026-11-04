@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC Singapuras Oficialus</ServerName>
+<PlayerFile>Oficialus</PlayerFile>
+<DateTime>1396197827</DateTime>
+<TimeString>2014/03/30 19:43:47</TimeString>
+<Mod>LRC_F1_2013.rfm</Mod>
+<Season></Season>
+<TrackVenue>LRC 2013-2014</TrackVenue>
+<TrackCourse>Marina Bay Street Circuit</TrackCourse>
+<TrackEvent>#13 Singapuro GP</TrackEvent>
+<TrackLength>5115.3</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>46</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|LRC_F1_2013</VehiclesAllowed>
+<ParcFerme>1</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>252</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1396200112</DateTime>
+<TimeString>2014/03/30 20:21:52</TimeString>
+<Laps>46</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Score et="74.4">Dovydas Polaras(8) lap=0 point=1 t=-1.000 et=74.378</Score>
+<Score et="74.8">Mindaugas Klumbis(0) lap=0 point=1 t=-1.000 et=74.815</Score>
+<Score et="75.3">Adomas Minevicius(3) lap=0 point=1 t=-1.000 et=75.314</Score>
+<Score et="75.6">Valentas Tyla(6) lap=0 point=1 t=-1.000 et=75.584</Score>
+<Score et="77.6">Justas Gulbinas(1) lap=0 point=1 t=-1.000 et=77.514</Score>
+<Score et="78.6">Andrius Vaitekunas(9) lap=0 point=1 t=-1.000 et=78.598</Score>
+<Score et="130.6">Dovydas Polaras(8) lap=0 point=2 t=-1.000 et=130.602</Score>
+<Score et="131.2">Mindaugas Klumbis(0) lap=0 point=2 t=-1.000 et=131.128</Score>
+<Score et="131.8">Adomas Minevicius(3) lap=0 point=2 t=-1.000 et=131.756</Score>
+<Score et="133.3">Valentas Tyla(6) lap=0 point=2 t=-1.000 et=133.250</Score>
+<Score et="135.3">Justas Gulbinas(1) lap=0 point=2 t=-1.000 et=135.219</Score>
+<Score et="136.9">Andrius Vaitekunas(9) lap=0 point=2 t=-1.000 et=136.849</Score>
+<Score et="222.7">Dovydas Polaras(8) lap=0 point=1 t=32.128 et=222.686</Score>
+<Score et="222.8">Valentas Tyla(6) lap=0 point=1 t=32.169 et=222.727</Score>
+<Score et="223.4">Mindaugas Klumbis(0) lap=0 point=1 t=32.782 et=223.341</Score>
+<Score et="223.6">Justas Gulbinas(1) lap=0 point=1 t=32.983 et=223.541</Score>
+<Score et="224.8">Andrius Vaitekunas(9) lap=0 point=1 t=34.148 et=224.706</Score>
+<Score et="224.8">Adomas Minevicius(3) lap=0 point=1 t=34.254 et=224.813</Score>
+<Score et="269.2">Valentas Tyla(6) lap=0 point=2 t=78.601 et=269.159</Score>
+<Score et="269.8">Dovydas Polaras(8) lap=0 point=2 t=79.221 et=269.779</Score>
+<Score et="270.0">Mindaugas Klumbis(0) lap=0 point=2 t=79.461 et=270.019</Score>
+<Score et="270.6">Justas Gulbinas(1) lap=0 point=2 t=80.022 et=270.581</Score>
+<Score et="273.6">Andrius Vaitekunas(9) lap=0 point=2 t=82.996 et=273.554</Score>
+<Score et="273.8">Adomas Minevicius(3) lap=0 point=2 t=83.198 et=273.756</Score>
+<Score et="300.8">Valentas Tyla(6) lap=1 point=0 t=110.250 et=300.808</Score>
+<Score et="301.3">Dovydas Polaras(8) lap=1 point=0 t=110.748 et=301.306</Score>
+<Score et="302.0">Mindaugas Klumbis(0) lap=1 point=0 t=111.414 et=301.972</Score>
+<Score et="302.3">Justas Gulbinas(1) lap=1 point=0 t=111.711 et=302.269</Score>
+<Score et="306.0">Adomas Minevicius(3) lap=1 point=0 t=115.424 et=305.982</Score>
+<Score et="307.1">Andrius Vaitekunas(9) lap=1 point=0 t=116.484 et=307.042</Score>
+<Score et="328.2">Valentas Tyla(6) lap=1 point=1 t=27.312 et=328.120</Score>
+<Score et="328.3">Dovydas Polaras(8) lap=1 point=1 t=26.930 et=328.236</Score>
+<Score et="329.0">Mindaugas Klumbis(0) lap=1 point=1 t=27.010 et=328.982</Score>
+<Score et="329.5">Justas Gulbinas(1) lap=1 point=1 t=27.141 et=329.410</Score>
+<Score et="333.1">Adomas Minevicius(3) lap=1 point=1 t=27.102 et=333.084</Score>
+<Score et="334.7">Andrius Vaitekunas(9) lap=1 point=1 t=27.578 et=334.619</Score>
+<Incident et="341.2">Andrius Vaitekunas(9) reported contact (0.42) with Immovable</Incident>
+<Incident et="342.7">Andrius Vaitekunas(9) reported contact (0.35) with Immovable</Incident>
+<Score et="375.7">Valentas Tyla(6) lap=1 point=2 t=74.861 et=375.669</Score>
+<Score et="375.9">Dovydas Polaras(8) lap=1 point=2 t=74.616 et=375.922</Score>
+<Score et="376.8">Justas Gulbinas(1) lap=1 point=2 t=74.438 et=376.707</Score>
+<Score et="377.0">Mindaugas Klumbis(0) lap=1 point=2 t=74.978 et=376.950</Score>
+<Score et="379.2">Adomas Minevicius(3) lap=1 point=2 t=73.206 et=379.188</Score>
+<Incident et="385.8">Mindaugas Klumbis(0) reported contact (0.13) with Immovable</Incident>
+<Score et="399.6">Andrius Vaitekunas(9) lap=1 point=2 t=92.554 et=399.596</Score>
+<Score et="407.5">Valentas Tyla(6) lap=2 point=0 t=106.634 et=407.442</Score>
+<Score et="407.9">Dovydas Polaras(8) lap=2 point=0 t=106.505 et=407.811</Score>
+<Score et="407.9">Justas Gulbinas(1) lap=2 point=0 t=105.623 et=407.892</Score>
+<Score et="408.7">Mindaugas Klumbis(0) lap=2 point=0 t=106.717 et=408.689</Score>
+<Score et="411.1">Adomas Minevicius(3) lap=2 point=0 t=105.057 et=411.039</Score>
+<Incident et="428.7">Mindaugas Klumbis(0) reported contact (0.03) with Immovable</Incident>
+<Incident et="433.2">Mindaugas Klumbis(0) reported contact (0.13) with Immovable</Incident>
+<Incident et="433.2">Mindaugas Klumbis(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="433.2">Mindaugas Klumbis(0) reported contact (0.03) with Immovable</Incident>
+<Score et="435.1">Valentas Tyla(6) lap=2 point=1 t=27.599 et=435.041</Score>
+<Score et="435.7">Dovydas Polaras(8) lap=2 point=1 t=27.870 et=435.682</Score>
+<Score et="435.7">Justas Gulbinas(1) lap=2 point=1 t=27.807 et=435.699</Score>
+<Score et="436.1">Mindaugas Klumbis(0) lap=2 point=1 t=27.364 et=436.053</Score>
+<Score et="438.1">Adomas Minevicius(3) lap=2 point=1 t=27.015 et=438.054</Score>
+<Incident et="469.2">Dovydas Polaras(8) reported contact (0.29) with Immovable</Incident>
+<Score et="481.6">Valentas Tyla(6) lap=2 point=2 t=74.170 et=481.612</Score>
+<Score et="482.2">Justas Gulbinas(1) lap=2 point=2 t=74.303 et=482.195</Score>
+<Score et="482.8">Mindaugas Klumbis(0) lap=2 point=2 t=74.102 et=482.791</Score>
+<Score et="483.7">Dovydas Polaras(8) lap=2 point=2 t=75.825 et=483.636</Score>
+<Score et="484.4">Adomas Minevicius(3) lap=2 point=2 t=73.369 et=484.408</Score>
+<Incident et="510.1">Justas Gulbinas(1) reported contact (0.10) with Immovable</Incident>
+<Score et="513.1">Valentas Tyla(6) lap=3 point=0 t=105.642 et=513.084</Score>
+<Score et="513.6">Justas Gulbinas(1) lap=3 point=0 t=105.677 et=513.569</Score>
+<Score et="514.2">Mindaugas Klumbis(0) lap=3 point=0 t=105.521 et=514.210</Score>
+<Score et="514.9">Dovydas Polaras(8) lap=3 point=0 t=107.050 et=514.861</Score>
+<Score et="516.2">Adomas Minevicius(3) lap=3 point=0 t=105.122 et=516.161</Score>
+<Score et="540.4">Valentas Tyla(6) lap=3 point=1 t=27.305 et=540.389</Score>
+<Score et="540.7">Justas Gulbinas(1) lap=3 point=1 t=27.045 et=540.615</Score>
+<Score et="541.2">Mindaugas Klumbis(0) lap=3 point=1 t=27.010 et=541.220</Score>
+<Score et="541.6">Dovydas Polaras(8) lap=3 point=1 t=26.725 et=541.586</Score>
+<Score et="543.1">Adomas Minevicius(3) lap=3 point=1 t=26.955 et=543.116</Score>
+<Score et="587.1">Valentas Tyla(6) lap=3 point=2 t=74.010 et=587.094</Score>
+<Score et="587.5">Justas Gulbinas(1) lap=3 point=2 t=73.897 et=587.466</Score>
+<Score et="587.9">Dovydas Polaras(8) lap=3 point=2 t=73.044 et=587.905</Score>
+<Score et="588.4">Mindaugas Klumbis(0) lap=3 point=2 t=74.148 et=588.358</Score>
+<Score et="589.4">Adomas Minevicius(3) lap=3 point=2 t=73.218 et=589.379</Score>
+<Incident et="599.9">Mindaugas Klumbis(0) reported contact (0.32) with another vehicle Dovydas Polaras(8)</Incident>
+<Incident et="600.0">Dovydas Polaras(8) reported contact (0.06) with another vehicle Mindaugas Klumbis(0)</Incident>
+<Incident et="600.9">Dovydas Polaras(8) reported contact (0.29) with Immovable</Incident>
+<Incident et="617.8">Adomas Minevicius(3) reported contact (0.10) with Immovable</Incident>
+<Score et="618.7">Valentas Tyla(6) lap=4 point=0 t=105.620 et=618.705</Score>
+<Score et="619.2">Justas Gulbinas(1) lap=4 point=0 t=105.548 et=619.118</Score>
+<Score et="620.5">Dovydas Polaras(8) lap=4 point=0 t=105.584 et=620.445</Score>
+<Score et="621.2">Adomas Minevicius(3) lap=4 point=0 t=105.042 et=621.203</Score>
+<Score et="621.8">Mindaugas Klumbis(0) lap=4 point=0 t=107.554 et=621.764</Score>
+<Incident et="639.5">Mindaugas Klumbis(0) reported contact (0.10) with Immovable</Incident>
+<Incident et="639.6">Mindaugas Klumbis(0) reported contact (0.23) with Immovable</Incident>
+<Score et="646.1">Valentas Tyla(6) lap=4 point=1 t=27.375 et=646.080</Score>
+<Score et="646.1">Justas Gulbinas(1) lap=4 point=1 t=26.967 et=646.085</Score>
+<Score et="647.6">Dovydas Polaras(8) lap=4 point=1 t=27.109 et=647.554</Score>
+<Score et="648.3">Adomas Minevicius(3) lap=4 point=1 t=27.029 et=648.232</Score>
+<Score et="649.0">Mindaugas Klumbis(0) lap=4 point=1 t=27.235 et=648.999</Score>
+<Score et="692.6">Justas Gulbinas(1) lap=4 point=2 t=73.363 et=692.481</Score>
+<Score et="693.2">Valentas Tyla(6) lap=4 point=2 t=74.498 et=693.203</Score>
+<Score et="693.6">Dovydas Polaras(8) lap=4 point=2 t=73.149 et=693.594</Score>
+<Score et="694.7">Adomas Minevicius(3) lap=4 point=2 t=73.503 et=694.706</Score>
+<Score et="695.1">Mindaugas Klumbis(0) lap=4 point=2 t=73.306 et=695.070</Score>
+<Score et="723.9">Justas Gulbinas(1) lap=5 point=0 t=104.707 et=723.825</Score>
+<Score et="724.6">Valentas Tyla(6) lap=5 point=0 t=105.835 et=724.540</Score>
+<Score et="724.7">Dovydas Polaras(8) lap=5 point=0 t=104.256 et=724.701</Score>
+<Score et="726.6">Adomas Minevicius(3) lap=5 point=0 t=105.384 et=726.587</Score>
+<Score et="727.1">Mindaugas Klumbis(0) lap=5 point=0 t=105.301 et=727.065</Score>
+<Incident et="739.0">Mindaugas Klumbis(0) reported contact (0.39) with Immovable</Incident>
+<Incident et="739.1">Mindaugas Klumbis(0) reported contact (0.10) with Immovable</Incident>
+<Incident et="739.1">Mindaugas Klumbis(0) reported contact (0.23) with Immovable</Incident>
+<Score et="750.9">Justas Gulbinas(1) lap=5 point=1 t=26.998 et=750.823</Score>
+<Score et="751.6">Valentas Tyla(6) lap=5 point=1 t=27.073 et=751.613</Score>
+<Score et="751.9">Dovydas Polaras(8) lap=5 point=1 t=27.210 et=751.911</Score>
+<Score et="753.6">Adomas Minevicius(3) lap=5 point=1 t=26.966 et=753.553</Score>
+<Score et="755.3">Mindaugas Klumbis(0) lap=5 point=1 t=28.201 et=755.265</Score>
+<Score et="796.8">Justas Gulbinas(1) lap=5 point=2 t=72.917 et=796.742</Score>
+<Score et="797.8">Valentas Tyla(6) lap=5 point=2 t=73.226 et=797.766</Score>
+<Score et="798.6">Dovydas Polaras(8) lap=5 point=2 t=73.872 et=798.573</Score>
+<Score et="799.9">Adomas Minevicius(3) lap=5 point=2 t=73.244 et=799.831</Score>
+<Score et="800.8">Mindaugas Klumbis(0) lap=5 point=2 t=73.754 et=800.819</Score>
+<Incident et="809.3">Mindaugas Klumbis(0) reported contact (0.03) with Immovable</Incident>
+<Incident et="809.4">Mindaugas Klumbis(0) reported contact (0.13) with Immovable</Incident>
+<Score et="828.1">Justas Gulbinas(1) lap=6 point=0 t=104.211 et=828.035</Score>
+<Score et="829.3">Valentas Tyla(6) lap=6 point=0 t=104.700 et=829.240</Score>
+<Score et="830.0">Dovydas Polaras(8) lap=6 point=0 t=105.296 et=829.998</Score>
+<Score et="831.3">Adomas Minevicius(3) lap=6 point=0 t=104.699 et=831.286</Score>
+<Score et="832.0">Mindaugas Klumbis(0) lap=6 point=0 t=104.962 et=832.026</Score>
+<Score et="854.9">Justas Gulbinas(1) lap=6 point=1 t=26.801 et=854.836</Score>
+<Score et="856.3">Valentas Tyla(6) lap=6 point=1 t=27.017 et=856.257</Score>
+<Score et="856.7">Dovydas Polaras(8) lap=6 point=1 t=26.699 et=856.696</Score>
+<Score et="858.3">Adomas Minevicius(3) lap=6 point=1 t=26.942 et=858.228</Score>
+<Score et="858.9">Mindaugas Klumbis(0) lap=6 point=1 t=26.882 et=858.909</Score>
+<Score et="901.2">Justas Gulbinas(1) lap=6 point=2 t=73.147 et=901.182</Score>
+<Score et="902.2">Valentas Tyla(6) lap=6 point=2 t=72.918 et=902.158</Score>
+<Score et="903.0">Dovydas Polaras(8) lap=6 point=2 t=72.949 et=902.946</Score>
+<Score et="904.0">Adomas Minevicius(3) lap=6 point=2 t=72.686 et=903.972</Score>
+<Score et="904.7">Mindaugas Klumbis(0) lap=6 point=2 t=72.635 et=904.661</Score>
+<Incident et="929.0">Justas Gulbinas(1) reported contact (0.06) with Immovable</Incident>
+<Score et="932.2">Justas Gulbinas(1) lap=7 point=0 t=104.123 et=932.158</Score>
+<Score et="933.3">Valentas Tyla(6) lap=7 point=0 t=104.097 et=933.336</Score>
+<Score et="934.0">Dovydas Polaras(8) lap=7 point=0 t=103.968 et=933.966</Score>
+<Score et="935.7">Adomas Minevicius(3) lap=7 point=0 t=104.386 et=935.672</Score>
+<Score et="936.0">Mindaugas Klumbis(0) lap=7 point=0 t=103.925 et=935.951</Score>
+<Score et="959.3">Justas Gulbinas(1) lap=7 point=1 t=27.108 et=959.266</Score>
+<Score et="960.4">Valentas Tyla(6) lap=7 point=1 t=27.078 et=960.414</Score>
+<Score et="960.7">Dovydas Polaras(8) lap=7 point=1 t=26.723 et=960.690</Score>
+<Score et="962.8">Adomas Minevicius(3) lap=7 point=1 t=27.117 et=962.789</Score>
+<Score et="963.4">Mindaugas Klumbis(0) lap=7 point=1 t=27.380 et=963.331</Score>
+<Score et="1004.7">Justas Gulbinas(1) lap=7 point=2 t=72.485 et=1004.643</Score>
+<Score et="1006.3">Valentas Tyla(6) lap=7 point=2 t=72.977 et=1006.314</Score>
+<Score et="1006.9">Dovydas Polaras(8) lap=7 point=2 t=72.895 et=1006.861</Score>
+<Score et="1009.0">Adomas Minevicius(3) lap=7 point=2 t=73.252 et=1008.924</Score>
+<Score et="1009.6">Mindaugas Klumbis(0) lap=7 point=2 t=73.633 et=1009.584</Score>
+<Incident et="1032.5">Justas Gulbinas(1) reported contact (0.16) with Immovable</Incident>
+<Score et="1037.4">Valentas Tyla(6) lap=8 point=0 t=104.048 et=1037.384</Score>
+<Score et="1038.1">Dovydas Polaras(8) lap=8 point=0 t=104.070 et=1038.036</Score>
+<Score et="1040.9">Adomas Minevicius(3) lap=8 point=0 t=105.160 et=1040.833</Score>
+<Score et="1041.0">Mindaugas Klumbis(0) lap=8 point=0 t=105.044 et=1040.995</Score>
+<Score et="1048.3">Justas Gulbinas(1) lap=8 point=0 t=116.048 et=1048.206</Score>
+<Score et="1064.5">Valentas Tyla(6) lap=8 point=1 t=27.089 et=1064.473</Score>
+<Score et="1065.0">Dovydas Polaras(8) lap=8 point=1 t=26.929 et=1064.965</Score>
+<Score et="1068.0">Adomas Minevicius(3) lap=8 point=1 t=27.065 et=1067.897</Score>
+<Score et="1068.3">Mindaugas Klumbis(0) lap=8 point=1 t=27.319 et=1068.314</Score>
+<Incident et="1073.5">Valentas Tyla(6) reported contact (0.39) with Immovable</Incident>
+<Score et="1075.8">Justas Gulbinas(1) lap=8 point=1 t=27.522 et=1075.728</Score>
+<Score et="1111.6">Dovydas Polaras(8) lap=8 point=2 t=73.528 et=1111.564</Score>
+<Score et="1111.9">Valentas Tyla(6) lap=8 point=2 t=74.519 et=1111.904</Score>
+<Score et="1113.9">Adomas Minevicius(3) lap=8 point=2 t=73.000 et=1113.833</Score>
+<Score et="1114.4">Mindaugas Klumbis(0) lap=8 point=2 t=73.344 et=1114.339</Score>
+<Score et="1121.6">Justas Gulbinas(1) lap=8 point=2 t=73.292 et=1121.498</Score>
+<Score et="1143.4">Dovydas Polaras(8) lap=9 point=0 t=105.335 et=1143.371</Score>
+<Score et="1143.9">Valentas Tyla(6) lap=9 point=0 t=106.528 et=1143.912</Score>
+<Score et="1145.5">Adomas Minevicius(3) lap=9 point=0 t=104.578 et=1145.410</Score>
+<Score et="1146.2">Mindaugas Klumbis(0) lap=9 point=0 t=105.215 et=1146.210</Score>
+<Score et="1152.7">Justas Gulbinas(1) lap=9 point=0 t=104.468 et=1152.674</Score>
+<Score et="1170.1">Dovydas Polaras(8) lap=9 point=1 t=26.643 et=1170.014</Score>
+<Score et="1170.7">Valentas Tyla(6) lap=9 point=1 t=26.769 et=1170.680</Score>
+<Score et="1172.4">Adomas Minevicius(3) lap=9 point=1 t=26.967 et=1172.377</Score>
+<Score et="1173.4">Mindaugas Klumbis(0) lap=9 point=1 t=27.121 et=1173.331</Score>
+<Score et="1179.9">Justas Gulbinas(1) lap=9 point=1 t=27.137 et=1179.811</Score>
+<Score et="1216.5">Dovydas Polaras(8) lap=9 point=2 t=73.127 et=1216.498</Score>
+<Score et="1217.0">Valentas Tyla(6) lap=9 point=2 t=73.065 et=1216.977</Score>
+<Score et="1218.5">Adomas Minevicius(3) lap=9 point=2 t=73.093 et=1218.503</Score>
+<Score et="1219.1">Mindaugas Klumbis(0) lap=9 point=2 t=72.909 et=1219.119</Score>
+<Incident et="1221.9">Valentas Tyla(6) reported contact (0.10) with Immovable</Incident>
+<Score et="1225.6">Justas Gulbinas(1) lap=9 point=2 t=72.836 et=1225.510</Score>
+<Incident et="1240.5">Adomas Minevicius(3) reported contact (0.06) with Immovable</Incident>
+<Incident et="1246.5">Adomas Minevicius(3) reported contact (0.13) with Immovable</Incident>
+<Incident et="1246.5">Adomas Minevicius(3) reported contact (0.61) with Immovable</Incident>
+<Score et="1248.2">Dovydas Polaras(8) lap=10 point=0 t=104.774 et=1248.146</Score>
+<Score et="1249.1">Valentas Tyla(6) lap=10 point=0 t=105.205 et=1249.117</Score>
+<Score et="1250.3">Adomas Minevicius(3) lap=10 point=0 t=104.874 et=1250.285</Score>
+<Score et="1256.9">Justas Gulbinas(1) lap=10 point=0 t=104.150 et=1256.824</Score>
+<Score et="1262.5">Mindaugas Klumbis(0) lap=10 point=0 t=116.267 et=1262.478</Score>
+<Score et="1275.4">Dovydas Polaras(8) lap=10 point=1 t=27.249 et=1275.395</Score>
+<Score et="1276.2">Valentas Tyla(6) lap=10 point=1 t=27.086 et=1276.203</Score>
+<Score et="1277.6">Adomas Minevicius(3) lap=10 point=1 t=27.253 et=1277.538</Score>
+<Score et="1284.3">Justas Gulbinas(1) lap=10 point=1 t=27.417 et=1284.242</Score>
+<Score et="1302.1">Mindaugas Klumbis(0) lap=10 point=1 t=39.584 et=1302.062</Score>
+<Score et="1321.9">Dovydas Polaras(8) lap=10 point=2 t=73.741 et=1321.886</Score>
+<Score et="1322.5">Valentas Tyla(6) lap=10 point=2 t=73.343 et=1322.460</Score>
+<Score et="1324.0">Adomas Minevicius(3) lap=10 point=2 t=73.725 et=1324.010</Score>
+<Score et="1331.0">Justas Gulbinas(1) lap=10 point=2 t=74.055 et=1330.880</Score>
+<Score et="1347.0">Mindaugas Klumbis(0) lap=10 point=2 t=84.538 et=1347.016</Score>
+<Incident et="1352.1">Adomas Minevicius(3) reported contact (0.03) with Immovable</Incident>
+<Incident et="1352.2">Adomas Minevicius(3) reported contact (0.19) with Immovable</Incident>
+<Score et="1354.3">Valentas Tyla(6) lap=11 point=0 t=105.193 et=1354.310</Score>
+<Score et="1354.9">Dovydas Polaras(8) lap=11 point=0 t=106.734 et=1354.879</Score>
+<Score et="1355.9">Adomas Minevicius(3) lap=11 point=0 t=105.624 et=1355.909</Score>
+<Score et="1362.6">Justas Gulbinas(1) lap=11 point=0 t=105.672 et=1362.497</Score>
+<Score et="1378.0">Mindaugas Klumbis(0) lap=11 point=0 t=115.484 et=1377.962</Score>
+<Score et="1381.5">Valentas Tyla(6) lap=11 point=1 t=27.178 et=1381.488</Score>
+<Score et="1381.9">Dovydas Polaras(8) lap=11 point=1 t=27.013 et=1381.893</Score>
+<Score et="1383.4">Adomas Minevicius(3) lap=11 point=1 t=27.388 et=1383.297</Score>
+<Incident et="1386.0">Dovydas Polaras(8) reported contact (0.10) with Immovable</Incident>
+<Score et="1389.9">Justas Gulbinas(1) lap=11 point=1 t=27.363 et=1389.860</Score>
+<Score et="1404.5">Mindaugas Klumbis(0) lap=11 point=1 t=26.507 et=1404.469</Score>
+<Score et="1428.0">Valentas Tyla(6) lap=11 point=2 t=73.638 et=1427.948</Score>
+<Score et="1428.2">Dovydas Polaras(8) lap=11 point=2 t=73.314 et=1428.193</Score>
+<Score et="1429.9">Adomas Minevicius(3) lap=11 point=2 t=73.963 et=1429.872</Score>
+<Score et="1436.3">Justas Gulbinas(1) lap=11 point=2 t=73.688 et=1436.185</Score>
+<Score et="1449.6">Mindaugas Klumbis(0) lap=11 point=2 t=71.614 et=1449.575</Score>
+<Score et="1459.9">Valentas Tyla(6) lap=12 point=0 t=105.535 et=1459.845</Score>
+<Score et="1460.1">Dovydas Polaras(8) lap=12 point=0 t=105.136 et=1460.015</Score>
+<Score et="1462.1">Adomas Minevicius(3) lap=12 point=0 t=106.124 et=1462.033</Score>
+<Score et="1477.6">Justas Gulbinas(1) lap=12 point=0 t=115.011 et=1477.508</Score>
+<Score et="1480.6">Mindaugas Klumbis(0) lap=12 point=0 t=102.644 et=1480.605</Score>
+<Score et="1487.4">Valentas Tyla(6) lap=12 point=1 t=27.572 et=1487.417</Score>
+<Score et="1487.6">Dovydas Polaras(8) lap=12 point=1 t=27.575 et=1487.591</Score>
+<Score et="1489.3">Adomas Minevicius(3) lap=12 point=1 t=27.189 et=1489.222</Score>
+<Score et="1506.9">Mindaugas Klumbis(0) lap=12 point=1 t=26.259 et=1506.865</Score>
+<Score et="1518.0">Justas Gulbinas(1) lap=12 point=1 t=40.487 et=1517.995</Score>
+<Score et="1535.5">Valentas Tyla(6) lap=12 point=2 t=75.634 et=1535.479</Score>
+<Score et="1536.2">Adomas Minevicius(3) lap=12 point=2 t=74.093 et=1536.126</Score>
+<Score et="1536.7">Dovydas Polaras(8) lap=12 point=2 t=76.671 et=1536.686</Score>
+<Score et="1551.8">Mindaugas Klumbis(0) lap=12 point=2 t=71.205 et=1551.810</Score>
+<Score et="1562.9">Justas Gulbinas(1) lap=12 point=2 t=85.300 et=1562.807</Score>
+<Score et="1568.5">Adomas Minevicius(3) lap=13 point=0 t=106.480 et=1568.513</Score>
+<Score et="1568.9">Dovydas Polaras(8) lap=13 point=0 t=108.809 et=1568.824</Score>
+<Score et="1577.9">Valentas Tyla(6) lap=13 point=0 t=118.024 et=1577.869</Score>
+<Score et="1583.8">Mindaugas Klumbis(0) lap=13 point=0 t=103.153 et=1583.758</Score>
+<Incident et="1586.9">Dovydas Polaras(8) reported contact (0.23) with Immovable</Incident>
+<Incident et="1587.0">Dovydas Polaras(8) reported contact (0.13) with Immovable</Incident>
+<Incident et="1587.0">Dovydas Polaras(8) reported contact (0.23) with Immovable</Incident>
+<Score et="1593.3">Justas Gulbinas(1) lap=13 point=0 t=115.698 et=1593.205</Score>
+<Score et="1595.7">Adomas Minevicius(3) lap=13 point=1 t=27.123 et=1595.637</Score>
+<Score et="1596.7">Dovydas Polaras(8) lap=13 point=1 t=27.830 et=1596.654</Score>
+<Score et="1610.4">Mindaugas Klumbis(0) lap=13 point=1 t=26.571 et=1610.329</Score>
+<Score et="1617.6">Valentas Tyla(6) lap=13 point=1 t=39.662 et=1617.531</Score>
+<Score et="1619.8">Justas Gulbinas(1) lap=13 point=1 t=26.580 et=1619.785</Score>
+<Score et="1642.6">Adomas Minevicius(3) lap=13 point=2 t=74.068 et=1642.581</Score>
+<Score et="1643.1">Dovydas Polaras(8) lap=13 point=2 t=74.229 et=1643.053</Score>
+<Score et="1655.6">Mindaugas Klumbis(0) lap=13 point=2 t=71.820 et=1655.578</Score>
+<Score et="1662.5">Valentas Tyla(6) lap=13 point=2 t=84.641 et=1662.511</Score>
+<Score et="1665.0">Justas Gulbinas(1) lap=13 point=2 t=71.695 et=1664.900</Score>
+<Score et="1675.1">Dovydas Polaras(8) lap=14 point=0 t=106.241 et=1675.065</Score>
+<Score et="1683.9">Adomas Minevicius(3) lap=14 point=0 t=115.315 et=1683.829</Score>
+<Score et="1686.7">Mindaugas Klumbis(0) lap=14 point=0 t=102.945 et=1686.703</Score>
+<Score et="1693.4">Valentas Tyla(6) lap=14 point=0 t=115.462 et=1693.331</Score>
+<Score et="1695.4">Justas Gulbinas(1) lap=14 point=0 t=102.145 et=1695.351</Score>
+<Score et="1702.1">Dovydas Polaras(8) lap=14 point=1 t=26.956 et=1702.021</Score>
+<Score et="1713.4">Mindaugas Klumbis(0) lap=14 point=1 t=26.641 et=1713.343</Score>
+<Score et="1720.0">Valentas Tyla(6) lap=14 point=1 t=26.664 et=1719.995</Score>
+<Score et="1722.1">Justas Gulbinas(1) lap=14 point=1 t=26.659 et=1722.010</Score>
+<Score et="1725.0">Adomas Minevicius(3) lap=14 point=1 t=41.108 et=1724.937</Score>
+<Score et="1748.4">Dovydas Polaras(8) lap=14 point=2 t=73.296 et=1748.361</Score>
+<Score et="1758.4">Mindaugas Klumbis(0) lap=14 point=2 t=71.645 et=1758.348</Score>
+<Score et="1765.9">Valentas Tyla(6) lap=14 point=2 t=72.521 et=1765.852</Score>
+<Score et="1766.8">Justas Gulbinas(1) lap=14 point=2 t=71.409 et=1766.759</Score>
+<Score et="1770.5">Adomas Minevicius(3) lap=14 point=2 t=86.656 et=1770.485</Score>
+<Incident et="1785.9">Mindaugas Klumbis(0) reported contact (0.06) with Immovable</Incident>
+<Score et="1789.1">Mindaugas Klumbis(0) lap=15 point=0 t=102.393 et=1789.096</Score>
+<Score et="1796.5">Dovydas Polaras(8) lap=15 point=0 t=121.446 et=1796.511</Score>
+<Score et="1797.1">Valentas Tyla(6) lap=15 point=0 t=103.732 et=1797.063</Score>
+<Score et="1797.7">Justas Gulbinas(1) lap=15 point=0 t=102.274 et=1797.625</Score>
+<Score et="1801.6">Adomas Minevicius(3) lap=15 point=0 t=117.740 et=1801.569</Score>
+<Score et="1815.7">Mindaugas Klumbis(0) lap=15 point=1 t=26.607 et=1815.703</Score>
+<Score et="1823.9">Valentas Tyla(6) lap=15 point=1 t=26.835 et=1823.898</Score>
+<Score et="1824.3">Justas Gulbinas(1) lap=15 point=1 t=26.642 et=1824.266</Score>
+<Score et="1828.2">Adomas Minevicius(3) lap=15 point=1 t=26.648 et=1828.217</Score>
+<Score et="1829.5">Dovydas Polaras(8) lap=15 point=1 t=32.934 et=1829.445</Score>
+<Score et="1860.8">Mindaugas Klumbis(0) lap=15 point=2 t=71.686 et=1860.782</Score>
+<Score et="1869.3">Valentas Tyla(6) lap=15 point=2 t=72.190 et=1869.253</Score>
+<Score et="1870.4">Justas Gulbinas(1) lap=15 point=2 t=72.764 et=1870.389</Score>
+<Score et="1873.6">Adomas Minevicius(3) lap=15 point=2 t=72.043 et=1873.612</Score>
+<Score et="1874.4">Dovydas Polaras(8) lap=15 point=2 t=77.828 et=1874.339</Score>
+<Incident et="1878.7">Justas Gulbinas(1) reported contact (0.03) with Immovable</Incident>
+<Incident et="1878.8">Justas Gulbinas(1) reported contact (0.19) with Immovable</Incident>
+<Incident et="1888.3">Mindaugas Klumbis(0) reported contact (0.06) with Immovable</Incident>
+<Score et="1891.5">Mindaugas Klumbis(0) lap=16 point=0 t=102.427 et=1891.522</Score>
+<Incident et="1897.9">Justas Gulbinas(1) reported contact (0.03) with Immovable</Incident>
+<Incident et="1898.0">Justas Gulbinas(1) reported contact (0.06) with Immovable</Incident>
+<Score et="1899.9">Valentas Tyla(6) lap=16 point=0 t=102.759 et=1899.822</Score>
+<Score et="1901.3">Justas Gulbinas(1) lap=16 point=0 t=103.589 et=1901.214</Score>
+<Score et="1904.6">Adomas Minevicius(3) lap=16 point=0 t=102.957 et=1904.525</Score>
+<Score et="1905.0">Dovydas Polaras(8) lap=16 point=0 t=108.481 et=1904.992</Score>
+<Score et="1918.1">Mindaugas Klumbis(0) lap=16 point=1 t=26.505 et=1918.028</Score>
+<Score et="1926.5">Valentas Tyla(6) lap=16 point=1 t=26.694 et=1926.516</Score>
+<Score et="1927.9">Justas Gulbinas(1) lap=16 point=1 t=26.664 et=1927.878</Score>
+<Score et="1931.0">Adomas Minevicius(3) lap=16 point=1 t=26.493 et=1931.018</Score>
+<Score et="1931.3">Dovydas Polaras(8) lap=16 point=1 t=26.244 et=1931.236</Score>
+<Incident et="1959.4">Dovydas Polaras(8) reported contact (0.10) with another vehicle Adomas Minevicius(3)</Incident>
+<Score et="1963.1">Mindaugas Klumbis(0) lap=16 point=2 t=71.520 et=1963.042</Score>
+<Score et="1971.5">Valentas Tyla(6) lap=16 point=2 t=71.691 et=1971.513</Score>
+<Score et="1973.4">Justas Gulbinas(1) lap=16 point=2 t=72.161 et=1973.375</Score>
+<Score et="1979.3">Dovydas Polaras(8) lap=16 point=2 t=74.259 et=1979.251</Score>
+<Score et="1981.2">Adomas Minevicius(3) lap=16 point=2 t=76.685 et=1981.210</Score>
+<Incident et="1987.6">Dovydas Polaras(8) reported contact (0.06) with Immovable</Incident>
+<Score et="1994.1">Mindaugas Klumbis(0) lap=17 point=0 t=102.586 et=1994.108</Score>
+<Score et="2002.0">Valentas Tyla(6) lap=17 point=0 t=102.168 et=2001.990</Score>
+<Score et="2003.8">Justas Gulbinas(1) lap=17 point=0 t=102.489 et=2003.703</Score>
+<Score et="2010.0">Dovydas Polaras(8) lap=17 point=0 t=104.931 et=2009.923</Score>
+<Score et="2012.6">Adomas Minevicius(3) lap=17 point=0 t=108.042 et=2012.567</Score>
+<Score et="2020.6">Mindaugas Klumbis(0) lap=17 point=1 t=26.423 et=2020.531</Score>
+<Incident et="2027.2">Dovydas Polaras(8) reported contact (0.13) with Immovable</Incident>
+<Score et="2028.6">Valentas Tyla(6) lap=17 point=1 t=26.605 et=2028.594</Score>
+<Score et="2030.1">Justas Gulbinas(1) lap=17 point=1 t=26.360 et=2030.063</Score>
+<Score et="2036.3">Dovydas Polaras(8) lap=17 point=1 t=26.291 et=2036.214</Score>
+<Score et="2039.1">Adomas Minevicius(3) lap=17 point=1 t=26.522 et=2039.089</Score>
+<Incident et="2047.6">Adomas Minevicius(3) reported contact (0.10) with Immovable</Incident>
+<Incident et="2047.8">Adomas Minevicius(3) reported contact (0.10) with Immovable</Incident>
+<Score et="2065.5">Mindaugas Klumbis(0) lap=17 point=2 t=71.361 et=2065.469</Score>
+<Score et="2073.9">Valentas Tyla(6) lap=17 point=2 t=71.909 et=2073.898</Score>
+<Incident et="2074.8">Mindaugas Klumbis(0) reported contact (0.03) with Immovable</Incident>
+<Score et="2075.4">Justas Gulbinas(1) lap=17 point=2 t=71.633 et=2075.336</Score>
+<Score et="2081.9">Dovydas Polaras(8) lap=17 point=2 t=71.921 et=2081.844</Score>
+<Score et="2084.1">Adomas Minevicius(3) lap=17 point=2 t=71.553 et=2084.120</Score>
+<Score et="2096.8">Mindaugas Klumbis(0) lap=18 point=0 t=102.707 et=2096.815</Score>
+<Score et="2104.5">Valentas Tyla(6) lap=18 point=0 t=102.481 et=2104.471</Score>
+<Score et="2105.7">Justas Gulbinas(1) lap=18 point=0 t=101.973 et=2105.676</Score>
+<Score et="2112.5">Dovydas Polaras(8) lap=18 point=0 t=102.492 et=2112.415</Score>
+<Score et="2115.0">Adomas Minevicius(3) lap=18 point=0 t=102.452 et=2115.019</Score>
+<Score et="2123.4">Mindaugas Klumbis(0) lap=18 point=1 t=26.552 et=2123.367</Score>
+<Score et="2131.2">Valentas Tyla(6) lap=18 point=1 t=26.688 et=2131.159</Score>
+<Score et="2132.6">Justas Gulbinas(1) lap=18 point=1 t=26.907 et=2132.583</Score>
+<Incident et="2132.7">Adomas Minevicius(3) reported contact (0.06) with Immovable</Incident>
+<Score et="2138.9">Dovydas Polaras(8) lap=18 point=1 t=26.396 et=2138.811</Score>
+<Score et="2141.6">Adomas Minevicius(3) lap=18 point=1 t=26.522 et=2141.541</Score>
+<Score et="2169.0">Mindaugas Klumbis(0) lap=18 point=2 t=72.124 et=2168.938</Score>
+<Score et="2176.0">Valentas Tyla(6) lap=18 point=2 t=71.540 et=2176.011</Score>
+<Score et="2177.6">Justas Gulbinas(1) lap=18 point=2 t=71.837 et=2177.512</Score>
+<Score et="2184.3">Dovydas Polaras(8) lap=18 point=2 t=71.845 et=2184.260</Score>
+<Score et="2186.6">Adomas Minevicius(3) lap=18 point=2 t=71.521 et=2186.540</Score>
+<Incident et="2197.0">Mindaugas Klumbis(0) reported contact (0.03) with Immovable</Incident>
+<Score et="2200.2">Mindaugas Klumbis(0) lap=19 point=0 t=103.368 et=2200.183</Score>
+<Score et="2207.2">Valentas Tyla(6) lap=19 point=0 t=102.674 et=2207.145</Score>
+<Score et="2208.4">Justas Gulbinas(1) lap=19 point=0 t=102.713 et=2208.388</Score>
+<Score et="2214.9">Dovydas Polaras(8) lap=19 point=0 t=102.435 et=2214.850</Score>
+<Score et="2217.2">Adomas Minevicius(3) lap=19 point=0 t=102.139 et=2217.157</Score>
+<Score et="2226.5">Mindaugas Klumbis(0) lap=19 point=1 t=26.267 et=2226.449</Score>
+<Score et="2233.7">Valentas Tyla(6) lap=19 point=1 t=26.528 et=2233.674</Score>
+<Score et="2234.8">Justas Gulbinas(1) lap=19 point=1 t=26.380 et=2234.769</Score>
+<Score et="2241.1">Dovydas Polaras(8) lap=19 point=1 t=26.211 et=2241.061</Score>
+<Score et="2244.0">Adomas Minevicius(3) lap=19 point=1 t=26.836 et=2243.993</Score>
+<Score et="2271.6">Mindaugas Klumbis(0) lap=19 point=2 t=71.373 et=2271.555</Score>
+<Score et="2279.1">Valentas Tyla(6) lap=19 point=2 t=71.956 et=2279.102</Score>
+<Score et="2279.7">Justas Gulbinas(1) lap=19 point=2 t=71.275 et=2279.663</Score>
+<Score et="2286.1">Dovydas Polaras(8) lap=19 point=2 t=71.261 et=2286.111</Score>
+<Score et="2289.2">Adomas Minevicius(3) lap=19 point=2 t=72.016 et=2289.173</Score>
+<Incident et="2291.5">Valentas Tyla(6) reported contact (0.03) with Immovable</Incident>
+<Incident et="2294.4">Dovydas Polaras(8) reported contact (0.03) with Immovable</Incident>
+<Score et="2302.6">Mindaugas Klumbis(0) lap=20 point=0 t=102.437 et=2302.620</Score>
+<Score et="2310.1">Valentas Tyla(6) lap=20 point=0 t=102.917 et=2310.063</Score>
+<Score et="2310.4">Justas Gulbinas(1) lap=20 point=0 t=101.999 et=2310.387</Score>
+<Incident et="2313.2">Dovydas Polaras(8) reported contact (0.16) with Immovable</Incident>
+<Score et="2316.4">Dovydas Polaras(8) lap=20 point=0 t=101.465 et=2316.315</Score>
+<Score et="2319.9">Adomas Minevicius(3) lap=20 point=0 t=102.671 et=2319.829</Score>
+<Score et="2328.9">Mindaugas Klumbis(0) lap=20 point=1 t=26.290 et=2328.910</Score>
+<Score et="2336.4">Valentas Tyla(6) lap=20 point=1 t=26.332 et=2336.395</Score>
+<Score et="2337.2">Justas Gulbinas(1) lap=20 point=1 t=26.793 et=2337.180</Score>
+<Score et="2342.8">Dovydas Polaras(8) lap=20 point=1 t=26.453 et=2342.768</Score>
+<Score et="2346.2">Adomas Minevicius(3) lap=20 point=1 t=26.336 et=2346.165</Score>
+<Score et="2375.1">Mindaugas Klumbis(0) lap=20 point=2 t=72.458 et=2375.078</Score>
+<Score et="2381.9">Valentas Tyla(6) lap=20 point=2 t=71.839 et=2381.902</Score>
+<Score et="2383.0">Justas Gulbinas(1) lap=20 point=2 t=72.541 et=2382.928</Score>
+<Score et="2388.3">Dovydas Polaras(8) lap=20 point=2 t=71.949 et=2388.264</Score>
+<Score et="2390.9">Adomas Minevicius(3) lap=20 point=2 t=71.084 et=2390.913</Score>
+<Score et="2413.2">Valentas Tyla(6) lap=21 point=0 t=103.082 et=2413.145</Score>
+<Score et="2413.8">Justas Gulbinas(1) lap=21 point=0 t=103.359 et=2413.746</Score>
+<Score et="2417.0">Mindaugas Klumbis(0) lap=21 point=0 t=114.339 et=2416.959</Score>
+<Score et="2418.9">Dovydas Polaras(8) lap=21 point=0 t=102.526 et=2418.842</Score>
+<Score et="2421.5">Adomas Minevicius(3) lap=21 point=0 t=101.658 et=2421.487</Score>
+<Score et="2439.6">Valentas Tyla(6) lap=21 point=1 t=26.436 et=2439.581</Score>
+<Score et="2440.2">Justas Gulbinas(1) lap=21 point=1 t=26.401 et=2440.147</Score>
+<Score et="2445.4">Dovydas Polaras(8) lap=21 point=1 t=26.552 et=2445.394</Score>
+<Score et="2447.9">Adomas Minevicius(3) lap=21 point=1 t=26.407 et=2447.894</Score>
+<Sent et="2451.9">Dovydas Polaras has left the game but vehicle has been stored in the garage</Sent>
+<Score et="2456.2">Mindaugas Klumbis(0) lap=21 point=1 t=39.207 et=2456.165</Score>
+<Score et="2485.3">Valentas Tyla(6) lap=21 point=2 t=72.107 et=2485.251</Score>
+<Score et="2485.8">Justas Gulbinas(1) lap=21 point=2 t=72.049 et=2485.795</Score>
+<Score et="2493.5">Adomas Minevicius(3) lap=21 point=2 t=71.936 et=2493.422</Score>
+<Score et="2501.0">Mindaugas Klumbis(0) lap=21 point=2 t=84.040 et=2500.999</Score>
+<Score et="2516.2">Valentas Tyla(6) lap=22 point=0 t=103.016 et=2516.161</Score>
+<Score et="2516.8">Justas Gulbinas(1) lap=22 point=0 t=102.982 et=2516.728</Score>
+<Score et="2524.4">Adomas Minevicius(3) lap=22 point=0 t=102.928 et=2524.415</Score>
+<Score et="2531.4">Mindaugas Klumbis(0) lap=22 point=0 t=114.424 et=2531.383</Score>
+<Score et="2542.8">Valentas Tyla(6) lap=22 point=1 t=26.571 et=2542.732</Score>
+<Score et="2543.4">Justas Gulbinas(1) lap=22 point=1 t=26.642 et=2543.370</Score>
+<Score et="2550.8">Adomas Minevicius(3) lap=22 point=1 t=26.332 et=2550.747</Score>
+<Score et="2557.3">Mindaugas Klumbis(0) lap=22 point=1 t=25.870 et=2557.253</Score>
+<Score et="2588.3">Valentas Tyla(6) lap=22 point=2 t=72.152 et=2588.313</Score>
+<Score et="2588.7">Justas Gulbinas(1) lap=22 point=2 t=71.971 et=2588.698</Score>
+<Score et="2595.7">Adomas Minevicius(3) lap=22 point=2 t=71.234 et=2595.648</Score>
+<Score et="2601.6">Mindaugas Klumbis(0) lap=22 point=2 t=70.163 et=2601.545</Score>
+<Score et="2619.1">Valentas Tyla(6) lap=23 point=0 t=102.872 et=2619.033</Score>
+<Score et="2619.8">Justas Gulbinas(1) lap=23 point=0 t=102.985 et=2619.712</Score>
+<Score et="2626.4">Adomas Minevicius(3) lap=23 point=0 t=101.940 et=2626.355</Score>
+<Score et="2632.0">Mindaugas Klumbis(0) lap=23 point=0 t=100.558 et=2631.941</Score>
+<Score et="2645.7">Valentas Tyla(6) lap=23 point=1 t=26.662 et=2645.694</Score>
+<Score et="2646.5">Justas Gulbinas(1) lap=23 point=1 t=26.720 et=2646.433</Score>
+<Score et="2652.8">Adomas Minevicius(3) lap=23 point=1 t=26.375 et=2652.729</Score>
+<Score et="2658.0">Mindaugas Klumbis(0) lap=23 point=1 t=26.022 et=2657.963</Score>
+<Score et="2691.1">Valentas Tyla(6) lap=23 point=2 t=72.027 et=2691.060</Score>
+<Score et="2692.1">Justas Gulbinas(1) lap=23 point=2 t=72.278 et=2691.990</Score>
+<Score et="2697.8">Adomas Minevicius(3) lap=23 point=2 t=71.384 et=2697.739</Score>
+<Score et="2702.6">Mindaugas Klumbis(0) lap=23 point=2 t=70.637 et=2702.578</Score>
+<Score et="2722.5">Valentas Tyla(6) lap=24 point=0 t=103.400 et=2722.432</Score>
+<Score et="2724.1">Justas Gulbinas(1) lap=24 point=0 t=104.291 et=2724.003</Score>
+<Score et="2730.6">Adomas Minevicius(3) lap=24 point=0 t=104.208 et=2730.563</Score>
+<Score et="2732.9">Mindaugas Klumbis(0) lap=24 point=0 t=100.919 et=2732.859</Score>
+<Score et="2749.1">Valentas Tyla(6) lap=24 point=1 t=26.670 et=2749.102</Score>
+<Score et="2750.8">Justas Gulbinas(1) lap=24 point=1 t=26.710 et=2750.713</Score>
+<Score et="2757.0">Adomas Minevicius(3) lap=24 point=1 t=26.436 et=2756.999</Score>
+<Score et="2759.1">Mindaugas Klumbis(0) lap=24 point=1 t=26.181 et=2759.040</Score>
+<Score et="2794.6">Valentas Tyla(6) lap=24 point=2 t=72.099 et=2794.531</Score>
+<Score et="2796.8">Justas Gulbinas(1) lap=24 point=2 t=72.727 et=2796.730</Score>
+<Score et="2802.6">Adomas Minevicius(3) lap=24 point=2 t=72.027 et=2802.590</Score>
+<Score et="2803.8">Mindaugas Klumbis(0) lap=24 point=2 t=70.873 et=2803.732</Score>
+<Score et="2825.6">Valentas Tyla(6) lap=25 point=0 t=103.152 et=2825.584</Score>
+<Incident et="2830.6">Mindaugas Klumbis(0) reported contact (0.19) with Immovable</Incident>
+<Incident et="2830.6">Mindaugas Klumbis(0) reported contact (0.13) with Immovable</Incident>
+<Incident et="2830.6">Mindaugas Klumbis(0) reported contact (0.19) with Immovable</Incident>
+<Incident et="2831.8">Mindaugas Klumbis(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="2831.8">Mindaugas Klumbis(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="2832.0">Mindaugas Klumbis(0) reported contact (0.61) with Immovable</Incident>
+<Incident et="2832.0">Mindaugas Klumbis(0) reported contact (0.29) with Immovable</Incident>
+<Score et="2833.5">Adomas Minevicius(3) lap=25 point=0 t=102.894 et=2833.456</Score>
+<Incident et="2833.9">Mindaugas Klumbis(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="2833.9">Mindaugas Klumbis(0) reported contact (0.55) with Immovable</Incident>
+<Incident et="2834.4">Mindaugas Klumbis(0) reported contact (0.16) with Immovable</Incident>
+<Score et="2837.0">Justas Gulbinas(1) lap=25 point=0 t=112.958 et=2836.961</Score>
+<Sent et="2842.2">Mindaugas Klumbis has left the game but vehicle has been stored in the garage</Sent>
+<Score et="2852.3">Valentas Tyla(6) lap=25 point=1 t=26.747 et=2852.332</Score>
+<Score et="2860.6">Adomas Minevicius(3) lap=25 point=1 t=27.067 et=2860.523</Score>
+<Score et="2876.4">Justas Gulbinas(1) lap=25 point=1 t=39.357 et=2876.319</Score>
+<Score et="2897.9">Valentas Tyla(6) lap=25 point=2 t=72.268 et=2897.852</Score>
+<Score et="2906.3">Adomas Minevicius(3) lap=25 point=2 t=72.834 et=2906.290</Score>
+<Score et="2920.6">Justas Gulbinas(1) lap=25 point=2 t=83.623 et=2920.584</Score>
+<Score et="2937.4">Adomas Minevicius(3) lap=26 point=0 t=103.949 et=2937.405</Score>
+<Score et="2939.0">Valentas Tyla(6) lap=26 point=0 t=113.363 et=2938.948</Score>
+<Score et="2950.6">Justas Gulbinas(1) lap=26 point=0 t=113.582 et=2950.543</Score>
+<Score et="2964.1">Adomas Minevicius(3) lap=26 point=1 t=26.714 et=2964.119</Score>
+<Score et="2976.9">Justas Gulbinas(1) lap=26 point=1 t=26.276 et=2976.820</Score>
+<Score et="2977.8">Valentas Tyla(6) lap=26 point=1 t=38.800 et=2977.747</Score>
+<Score et="3009.8">Adomas Minevicius(3) lap=26 point=2 t=72.322 et=3009.727</Score>
+<Score et="3021.3">Justas Gulbinas(1) lap=26 point=2 t=70.662 et=3021.206</Score>
+<Score et="3021.8">Valentas Tyla(6) lap=26 point=2 t=82.869 et=3021.816</Score>
+<Incident et="3048.4">Justas Gulbinas(1) reported contact (0.06) with Immovable</Incident>
+<Incident et="3048.4">Justas Gulbinas(1) reported contact (0.26) with Immovable</Incident>
+<Score et="3050.7">Adomas Minevicius(3) lap=27 point=0 t=113.270 et=3050.675</Score>
+<Score et="3051.7">Justas Gulbinas(1) lap=27 point=0 t=101.055 et=3051.598</Score>
+<Score et="3052.0">Valentas Tyla(6) lap=27 point=0 t=113.037 et=3051.985</Score>
+<Score et="3077.7">Justas Gulbinas(1) lap=27 point=1 t=26.037 et=3077.635</Score>
+<Score et="3078.0">Valentas Tyla(6) lap=27 point=1 t=25.945 et=3077.930</Score>
+<Score et="3090.4">Adomas Minevicius(3) lap=27 point=1 t=39.648 et=3090.323</Score>
+<Score et="3122.2">Justas Gulbinas(1) lap=27 point=2 t=70.568 et=3122.166</Score>
+<Score et="3122.6">Valentas Tyla(6) lap=27 point=2 t=70.580 et=3122.565</Score>
+<Score et="3134.9">Adomas Minevicius(3) lap=27 point=2 t=84.173 et=3134.847</Score>
+<Score et="3152.3">Justas Gulbinas(1) lap=28 point=0 t=100.670 et=3152.268</Score>
+<Score et="3153.1">Valentas Tyla(6) lap=28 point=0 t=101.051 et=3153.036</Score>
+<Score et="3165.4">Adomas Minevicius(3) lap=28 point=0 t=114.661 et=3165.335</Score>
+<Score et="3178.6">Justas Gulbinas(1) lap=28 point=1 t=26.242 et=3178.510</Score>
+<Score et="3179.1">Valentas Tyla(6) lap=28 point=1 t=26.080 et=3179.116</Score>
+<Score et="3191.4">Adomas Minevicius(3) lap=28 point=1 t=26.049 et=3191.385</Score>
+<Score et="3222.7">Justas Gulbinas(1) lap=28 point=2 t=70.410 et=3222.678</Score>
+<Score et="3223.3">Valentas Tyla(6) lap=28 point=2 t=70.196 et=3223.232</Score>
+<Score et="3235.9">Adomas Minevicius(3) lap=28 point=2 t=70.512 et=3235.847</Score>
+<Score et="3253.3">Justas Gulbinas(1) lap=29 point=0 t=100.947 et=3253.215</Score>
+<Score et="3253.6">Valentas Tyla(6) lap=29 point=0 t=100.496 et=3253.532</Score>
+<Incident et="3263.1">Adomas Minevicius(3) reported contact (0.13) with Immovable</Incident>
+<Score et="3266.2">Adomas Minevicius(3) lap=29 point=0 t=100.859 et=3266.194</Score>
+<Score et="3279.7">Justas Gulbinas(1) lap=29 point=1 t=26.440 et=3279.655</Score>
+<Score et="3279.7">Valentas Tyla(6) lap=29 point=1 t=26.173 et=3279.706</Score>
+<Score et="3292.6">Adomas Minevicius(3) lap=29 point=1 t=26.417 et=3292.611</Score>
+<Score et="3325.1">Valentas Tyla(6) lap=29 point=2 t=71.502 et=3325.033</Score>
+<Score et="3325.2">Justas Gulbinas(1) lap=29 point=2 t=71.932 et=3325.146</Score>
+<Score et="3337.4">Adomas Minevicius(3) lap=29 point=2 t=71.156 et=3337.351</Score>
+<Incident et="3353.9">Justas Gulbinas(1) reported contact (0.10) with Immovable</Incident>
+<Score et="3357.0">Justas Gulbinas(1) lap=30 point=0 t=103.733 et=3356.948</Score>
+<Score et="3357.3">Valentas Tyla(6) lap=30 point=0 t=103.702 et=3357.234</Score>
+<Score et="3367.7">Adomas Minevicius(3) lap=30 point=0 t=101.513 et=3367.707</Score>
+<Score et="3383.1">Justas Gulbinas(1) lap=30 point=1 t=26.112 et=3383.060</Score>
+<Score et="3383.3">Valentas Tyla(6) lap=30 point=1 t=26.032 et=3383.266</Score>
+<Incident et="3389.3">Valentas Tyla(6) reported contact (0.45) with Immovable</Incident>
+<Score et="3393.7">Adomas Minevicius(3) lap=30 point=1 t=25.918 et=3393.625</Score>
+<Score et="3427.8">Justas Gulbinas(1) lap=30 point=2 t=70.780 et=3427.728</Score>
+<Score et="3435.2">Valentas Tyla(6) lap=30 point=2 t=77.897 et=3435.130</Score>
+<Score et="3438.3">Adomas Minevicius(3) lap=30 point=2 t=70.578 et=3438.285</Score>
+<Score et="3457.7">Justas Gulbinas(1) lap=31 point=0 t=100.687 et=3457.635</Score>
+<Score et="3465.3">Valentas Tyla(6) lap=31 point=0 t=108.054 et=3465.287</Score>
+<Score et="3468.5">Adomas Minevicius(3) lap=31 point=0 t=100.748 et=3468.455</Score>
+<Score et="3469.8">Andrius Vaitekunas(9) lap=2 point=0 t=3162.762 et=3469.804</Score>
+<Penalty et="3476.1">Andrius Vaitekunas received Drive Thru penalty, 0s, 0laps. Result: penalties=1, 1st=Drive Thru,0s</Penalty>
+<Incident et="3482.7">Valentas Tyla(6) reported contact (0.03) with Immovable</Incident>
+<Score et="3483.7">Justas Gulbinas(1) lap=31 point=1 t=26.061 et=3483.696</Score>
+<Score et="3491.4">Valentas Tyla(6) lap=31 point=1 t=26.066 et=3491.353</Score>
+<Score et="3494.4">Adomas Minevicius(3) lap=31 point=1 t=25.931 et=3494.386</Score>
+<Score et="3507.9">Andrius Vaitekunas(9) lap=2 point=1 t=38.081 et=3507.884</Score>
+<Score et="3528.5">Justas Gulbinas(1) lap=31 point=2 t=70.849 et=3528.484</Score>
+<Score et="3536.1">Valentas Tyla(6) lap=31 point=2 t=70.732 et=3536.020</Score>
+<Score et="3538.3">Adomas Minevicius(3) lap=31 point=2 t=69.778 et=3538.233</Score>
+<Incident et="3555.3">Justas Gulbinas(1) reported contact (0.10) with Immovable</Incident>
+<Score et="3558.7">Andrius Vaitekunas(9) lap=2 point=2 t=88.866 et=3558.669</Score>
+<Score et="3558.8">Justas Gulbinas(1) lap=32 point=0 t=101.111 et=3558.746</Score>
+<Score et="3566.3">Valentas Tyla(6) lap=32 point=0 t=101.007 et=3566.294</Score>
+<Score et="3568.4">Adomas Minevicius(3) lap=32 point=0 t=99.879 et=3568.334</Score>
+<Score et="3585.2">Justas Gulbinas(1) lap=32 point=1 t=26.357 et=3585.103</Score>
+<Score et="3592.6">Valentas Tyla(6) lap=32 point=1 t=26.308 et=3592.603</Score>
+<Score et="3594.4">Adomas Minevicius(3) lap=32 point=1 t=26.019 et=3594.353</Score>
+<Score et="3603.0">Andrius Vaitekunas(9) lap=3 point=0 t=133.109 et=3602.913</Score>
+<Penalty et="3608.5">Andrius Vaitekunas served 1st Drive Thru penalty, result: penalties=0, 1st=Drive Thru,0s</Penalty>
+<Score et="3630.2">Justas Gulbinas(1) lap=32 point=2 t=71.425 et=3630.171</Score>
+<Score et="3637.7">Valentas Tyla(6) lap=32 point=2 t=71.389 et=3637.683</Score>
+<Score et="3638.1">Andrius Vaitekunas(9) lap=3 point=1 t=35.162 et=3638.075</Score>
+<Score et="3638.7">Adomas Minevicius(3) lap=32 point=2 t=70.339 et=3638.672</Score>
+<Incident et="3648.0">Andrius Vaitekunas(9) reported contact (0.32) with Immovable</Incident>
+<Incident et="3648.2">Andrius Vaitekunas(9) reported contact (0.32) with Immovable</Incident>
+<Score et="3660.5">Justas Gulbinas(1) lap=33 point=0 t=101.688 et=3660.434</Score>
+<Score et="3668.1">Valentas Tyla(6) lap=33 point=0 t=101.746 et=3668.041</Score>
+<Score et="3668.9">Adomas Minevicius(3) lap=33 point=0 t=100.533 et=3668.866</Score>
+<Score et="3687.0">Justas Gulbinas(1) lap=33 point=1 t=26.469 et=3686.903</Score>
+<Score et="3688.4">Andrius Vaitekunas(9) lap=3 point=2 t=85.446 et=3688.359</Score>
+<Score et="3694.3">Valentas Tyla(6) lap=33 point=1 t=26.237 et=3694.277</Score>
+<Score et="3694.9">Adomas Minevicius(3) lap=33 point=1 t=26.031 et=3694.897</Score>
+<Score et="3722.3">Andrius Vaitekunas(9) lap=4 point=0 t=119.342 et=3722.254</Score>
+<Score et="3731.3">Justas Gulbinas(1) lap=33 point=2 t=70.825 et=3731.259</Score>
+<Incident et="3740.4">Andrius Vaitekunas(9) reported contact (0.65) with Immovable</Incident>
+<Incident et="3740.5">Andrius Vaitekunas(9) reported contact (0.84) with Immovable</Incident>
+<Incident et="3740.5">Andrius Vaitekunas(9) reported contact (0.45) with Immovable</Incident>
+<Score et="3741.0">Adomas Minevicius(3) lap=33 point=2 t=72.044 et=3740.911</Score>
+<Score et="3742.0">Valentas Tyla(6) lap=33 point=2 t=73.879 et=3741.919</Score>
+<Incident et="3747.5">Andrius Vaitekunas(9) reported contact (0.26) with Immovable</Incident>
+<Incident et="3747.6">Andrius Vaitekunas(9) reported contact (0.03) with Immovable</Incident>
+<Incident et="3747.6">Andrius Vaitekunas(9) reported contact (0.13) with Immovable</Incident>
+<Incident et="3748.3">Andrius Vaitekunas(9) reported contact (1.00) with Immovable</Incident>
+<Incident et="3748.4">Andrius Vaitekunas(9) reported contact (0.35) with Immovable</Incident>
+<Incident et="3748.4">Andrius Vaitekunas(9) reported contact (0.45) with Immovable</Incident>
+<Incident et="3748.4">Andrius Vaitekunas(9) reported contact (0.13) with Immovable</Incident>
+<Incident et="3750.0">Andrius Vaitekunas(9) reported contact (0.10) with Immovable</Incident>
+<Incident et="3750.1">Andrius Vaitekunas(9) reported contact (0.03) with Immovable</Incident>
+<Score et="3752.1">Andrius Vaitekunas(9) lap=4 point=1 t=29.815 et=3752.069</Score>
+<Score et="3761.6">Justas Gulbinas(1) lap=34 point=0 t=101.119 et=3761.553</Score>
+<Score et="3771.4">Adomas Minevicius(3) lap=34 point=0 t=102.539 et=3771.405</Score>
+<Sent et="3781.7">Andrius Vaitekunas has left the game but vehicle has been stored in the garage</Sent>
+<Score et="3782.9">Valentas Tyla(6) lap=34 point=0 t=114.858 et=3782.898</Score>
+<Score et="3787.8">Justas Gulbinas(1) lap=34 point=1 t=26.171 et=3787.723</Score>
+<Score et="3797.8">Adomas Minevicius(3) lap=34 point=1 t=26.384 et=3797.789</Score>
+<Incident et="3812.1">Justas Gulbinas(1) reported contact (0.19) with Immovable</Incident>
+<Score et="3821.3">Valentas Tyla(6) lap=34 point=1 t=38.379 et=3821.277</Score>
+<Score et="3839.0">Justas Gulbinas(1) lap=34 point=2 t=77.417 et=3838.970</Score>
+<Score et="3843.2">Adomas Minevicius(3) lap=34 point=2 t=71.720 et=3843.125</Score>
+<Score et="3865.3">Valentas Tyla(6) lap=34 point=2 t=82.335 et=3865.234</Score>
+<Score et="3869.2">Justas Gulbinas(1) lap=35 point=0 t=107.580 et=3869.133</Score>
+<Score et="3873.6">Adomas Minevicius(3) lap=35 point=0 t=102.174 et=3873.579</Score>
+<Score et="3895.5">Justas Gulbinas(1) lap=35 point=1 t=26.276 et=3895.409</Score>
+<Score et="3895.6">Valentas Tyla(6) lap=35 point=0 t=112.655 et=3895.554</Score>
+<Score et="3899.7">Adomas Minevicius(3) lap=35 point=1 t=26.049 et=3899.628</Score>
+<Score et="3921.3">Valentas Tyla(6) lap=35 point=1 t=25.756 et=3921.310</Score>
+<Score et="3940.8">Justas Gulbinas(1) lap=35 point=2 t=71.579 et=3940.712</Score>
+<Score et="3943.9">Adomas Minevicius(3) lap=35 point=2 t=70.318 et=3943.897</Score>
+<Score et="3964.7">Valentas Tyla(6) lap=35 point=2 t=69.186 et=3964.740</Score>
+<Score et="3971.2">Justas Gulbinas(1) lap=36 point=0 t=101.980 et=3971.113</Score>
+<Score et="3973.9">Adomas Minevicius(3) lap=36 point=0 t=100.298 et=3973.877</Score>
+<Score et="3994.8">Valentas Tyla(6) lap=36 point=0 t=99.177 et=3994.731</Score>
+<Score et="3997.2">Justas Gulbinas(1) lap=36 point=1 t=26.041 et=3997.154</Score>
+<Score et="4000.0">Adomas Minevicius(3) lap=36 point=1 t=26.108 et=3999.985</Score>
+<Score et="4020.7">Valentas Tyla(6) lap=36 point=1 t=25.914 et=4020.645</Score>
+<Score et="4041.5">Justas Gulbinas(1) lap=36 point=2 t=70.376 et=4041.489</Score>
+<Score et="4044.4">Adomas Minevicius(3) lap=36 point=2 t=70.461 et=4044.338</Score>
+<Score et="4065.0">Valentas Tyla(6) lap=36 point=2 t=70.264 et=4064.994</Score>
+<Score et="4071.5">Justas Gulbinas(1) lap=37 point=0 t=100.313 et=4071.426</Score>
+<Score et="4074.5">Adomas Minevicius(3) lap=37 point=0 t=100.603 et=4074.480</Score>
+<Score et="4094.7">Valentas Tyla(6) lap=37 point=0 t=99.957 et=4094.688</Score>
+<Score et="4097.5">Justas Gulbinas(1) lap=37 point=1 t=25.977 et=4097.403</Score>
+<Score et="4100.7">Adomas Minevicius(3) lap=37 point=1 t=26.236 et=4100.716</Score>
+<Score et="4120.6">Valentas Tyla(6) lap=37 point=1 t=25.887 et=4120.575</Score>
+<Score et="4142.5">Justas Gulbinas(1) lap=37 point=2 t=71.059 et=4142.484</Score>
+<Score et="4145.0">Adomas Minevicius(3) lap=37 point=2 t=70.459 et=4144.939</Score>
+<Score et="4164.9">Valentas Tyla(6) lap=37 point=2 t=70.184 et=4164.872</Score>
+<Incident et="4169.8">Justas Gulbinas(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="4171.4">Justas Gulbinas(1) reported contact (0.16) with Immovable</Incident>
+<Incident et="4172.8">Justas Gulbinas(1) reported contact (0.52) with Immovable</Incident>
+<Score et="4175.3">Adomas Minevicius(3) lap=38 point=0 t=100.732 et=4175.212</Score>
+<Score et="4186.5">Justas Gulbinas(1) lap=38 point=0 t=115.063 et=4186.489</Score>
+<Score et="4194.9">Valentas Tyla(6) lap=38 point=0 t=100.188 et=4194.876</Score>
+<Score et="4201.4">Adomas Minevicius(3) lap=38 point=1 t=26.197 et=4201.409</Score>
+<Score et="4221.1">Valentas Tyla(6) lap=38 point=1 t=26.177 et=4221.053</Score>
+<Score et="4231.6">Justas Gulbinas(1) lap=38 point=1 t=45.078 et=4231.567</Score>
+<Score et="4246.4">Adomas Minevicius(3) lap=38 point=2 t=71.190 et=4246.401</Score>
+<Score et="4265.4">Valentas Tyla(6) lap=38 point=2 t=70.525 et=4265.401</Score>
+<Score et="4275.2">Justas Gulbinas(1) lap=38 point=2 t=88.605 et=4275.094</Score>
+<Score et="4287.1">Adomas Minevicius(3) lap=39 point=0 t=111.890 et=4287.102</Score>
+<Score et="4295.2">Valentas Tyla(6) lap=39 point=0 t=100.273 et=4295.149</Score>
+<Score et="4305.1">Justas Gulbinas(1) lap=39 point=0 t=118.528 et=4305.016</Score>
+<Score et="4321.2">Valentas Tyla(6) lap=39 point=1 t=26.053 et=4321.202</Score>
+<Score et="4326.9">Adomas Minevicius(3) lap=39 point=1 t=39.736 et=4326.837</Score>
+<Score et="4330.9">Justas Gulbinas(1) lap=39 point=1 t=25.805 et=4330.821</Score>
+<Score et="4365.6">Valentas Tyla(6) lap=39 point=2 t=70.463 et=4365.612</Score>
+<Score et="4371.1">Adomas Minevicius(3) lap=39 point=2 t=84.014 et=4371.115</Score>
+<Score et="4374.4">Justas Gulbinas(1) lap=39 point=2 t=69.381 et=4374.397</Score>
+<Score et="4395.6">Valentas Tyla(6) lap=40 point=0 t=100.414 et=4395.563</Score>
+<Score et="4401.0">Adomas Minevicius(3) lap=40 point=0 t=113.900 et=4401.001</Score>
+<Score et="4404.0">Justas Gulbinas(1) lap=40 point=0 t=98.974 et=4403.990</Score>
+<Score et="4421.7">Valentas Tyla(6) lap=40 point=1 t=26.146 et=4421.708</Score>
+<Score et="4426.7">Adomas Minevicius(3) lap=40 point=1 t=25.662 et=4426.663</Score>
+<Score et="4429.9">Justas Gulbinas(1) lap=40 point=1 t=25.838 et=4429.829</Score>
+<Score et="4465.7">Valentas Tyla(6) lap=40 point=2 t=70.116 et=4465.679</Score>
+<Score et="4470.2">Adomas Minevicius(3) lap=40 point=2 t=69.153 et=4470.154</Score>
+<Score et="4473.5">Justas Gulbinas(1) lap=40 point=2 t=69.466 et=4473.456</Score>
+<Score et="4495.9">Valentas Tyla(6) lap=41 point=0 t=100.350 et=4495.912</Score>
+<Score et="4500.1">Adomas Minevicius(3) lap=41 point=0 t=99.029 et=4500.030</Score>
+<Score et="4503.1">Justas Gulbinas(1) lap=41 point=0 t=99.064 et=4503.054</Score>
+<Score et="4521.9">Valentas Tyla(6) lap=41 point=1 t=25.907 et=4521.819</Score>
+<Score et="4525.9">Adomas Minevicius(3) lap=41 point=1 t=25.820 et=4525.850</Score>
+<Score et="4529.1">Justas Gulbinas(1) lap=41 point=1 t=25.956 et=4529.010</Score>
+<Score et="4566.2">Valentas Tyla(6) lap=41 point=2 t=70.284 et=4566.196</Score>
+<Score et="4569.6">Adomas Minevicius(3) lap=41 point=2 t=69.501 et=4569.531</Score>
+<Score et="4573.0">Justas Gulbinas(1) lap=41 point=2 t=69.870 et=4572.924</Score>
+<Incident et="4581.2">Justas Gulbinas(1) reported contact (0.03) with Immovable</Incident>
+<Score et="4595.9">Valentas Tyla(6) lap=42 point=0 t=99.971 et=4595.883</Score>
+<Score et="4599.1">Adomas Minevicius(3) lap=42 point=0 t=98.992 et=4599.022</Score>
+<Score et="4602.7">Justas Gulbinas(1) lap=42 point=0 t=99.614 et=4602.667</Score>
+<Score et="4621.8">Valentas Tyla(6) lap=42 point=1 t=25.909 et=4621.792</Score>
+<Score et="4624.6">Adomas Minevicius(3) lap=42 point=1 t=25.559 et=4624.582</Score>
+<Score et="4628.7">Justas Gulbinas(1) lap=42 point=1 t=25.947 et=4628.614</Score>
+<Score et="4665.6">Valentas Tyla(6) lap=42 point=2 t=69.702 et=4665.585</Score>
+<Score et="4668.1">Adomas Minevicius(3) lap=42 point=2 t=69.029 et=4668.051</Score>
+<Score et="4673.2">Justas Gulbinas(1) lap=42 point=2 t=70.520 et=4673.188</Score>
+<Incident et="4694.2">Adomas Minevicius(3) reported contact (0.03) with Immovable</Incident>
+<Incident et="4694.2">Adomas Minevicius(3) reported contact (0.23) with Immovable</Incident>
+<Score et="4695.3">Valentas Tyla(6) lap=43 point=0 t=99.412 et=4695.294</Score>
+<Score et="4697.5">Adomas Minevicius(3) lap=43 point=0 t=98.469 et=4697.491</Score>
+<Score et="4703.0">Justas Gulbinas(1) lap=43 point=0 t=100.245 et=4702.913</Score>
+<Score et="4721.0">Valentas Tyla(6) lap=43 point=1 t=25.732 et=4721.026</Score>
+<Score et="4723.1">Adomas Minevicius(3) lap=43 point=1 t=25.560 et=4723.051</Score>
+<Score et="4729.2">Justas Gulbinas(1) lap=43 point=1 t=26.202 et=4729.115</Score>
+<Score et="4765.6">Valentas Tyla(6) lap=43 point=2 t=70.232 et=4765.526</Score>
+<Score et="4766.5">Adomas Minevicius(3) lap=43 point=2 t=69.013 et=4766.504</Score>
+<Score et="4773.4">Justas Gulbinas(1) lap=43 point=2 t=70.449 et=4773.361</Score>
+<Incident et="4792.9">Adomas Minevicius(3) reported contact (0.13) with Immovable</Incident>
+<Score et="4795.5">Valentas Tyla(6) lap=44 point=0 t=100.211 et=4795.505</Score>
+<Score et="4796.2">Adomas Minevicius(3) lap=44 point=0 t=98.686 et=4796.177</Score>
+<Score et="4802.8">Justas Gulbinas(1) lap=44 point=0 t=99.861 et=4802.773</Score>
+<Score et="4821.5">Valentas Tyla(6) lap=44 point=1 t=25.978 et=4821.483</Score>
+<Score et="4821.8">Adomas Minevicius(3) lap=44 point=1 t=25.612 et=4821.789</Score>
+<Score et="4828.8">Justas Gulbinas(1) lap=44 point=1 t=25.989 et=4828.762</Score>
+<Score et="4865.7">Valentas Tyla(6) lap=44 point=2 t=70.168 et=4865.673</Score>
+<Score et="4870.0">Adomas Minevicius(3) lap=44 point=2 t=73.770 et=4869.947</Score>
+<Score et="4873.3">Justas Gulbinas(1) lap=44 point=2 t=70.466 et=4873.239</Score>
+<Incident et="4881.6">Justas Gulbinas(1) reported contact (0.06) with Immovable</Incident>
+<Score et="4895.6">Valentas Tyla(6) lap=45 point=0 t=100.102 et=4895.607</Score>
+<Score et="4899.9">Adomas Minevicius(3) lap=45 point=0 t=103.670 et=4899.847</Score>
+<Score et="4903.2">Justas Gulbinas(1) lap=45 point=0 t=100.357 et=4903.130</Score>
+<Score et="4921.7">Valentas Tyla(6) lap=45 point=1 t=26.023 et=4921.630</Score>
+<Score et="4925.3">Adomas Minevicius(3) lap=45 point=1 t=25.440 et=4925.287</Score>
+<Score et="4929.5">Justas Gulbinas(1) lap=45 point=1 t=26.274 et=4929.404</Score>
+<Score et="4965.8">Valentas Tyla(6) lap=45 point=2 t=70.191 et=4965.798</Score>
+<Score et="4969.1">Adomas Minevicius(3) lap=45 point=2 t=69.261 et=4969.108</Score>
+<Incident et="4974.0">Valentas Tyla(6) reported contact (0.00) with Immovable</Incident>
+<Score et="4975.0">Justas Gulbinas(1) lap=45 point=2 t=71.868 et=4974.999</Score>
+<Score et="4997.0">Checkered for Valentas Tyla, laps=46/46, endET=4997.039063/306254101833471170000000000000000000000.000000, crossedAfterTime=0</Score>
+<Score et="4997.0">Valentas Tyla(6) lap=46 point=0 t=101.432 et=4997.039</Score>
+<Score et="4998.5">Adomas Minevicius(3) lap=46 point=0 t=98.652 et=4998.500</Score>
+<Score et="5006.0">Justas Gulbinas(1) lap=46 point=0 t=102.842 et=5005.972</Score>
+<Chat et="5018.7">Adomas Minevicius: sveikinu</Chat>
+<Incident et="5020.2">Justas Gulbinas(1) reported contact (0.74) with Immovable</Incident>
+<Chat et="5025.5">Valentas Tyla: dekui :)</Chat>
+<Chat et="5035.1">&gt; kas laimejo</Chat>
+<Chat et="5045.8">Valentas Tyla: sunkios race. atrodo vos 6iese, o 5siese del pergales kovojom</Chat>
+<Chat et="5046.6">Valentas Tyla: as</Chat>
+<Chat et="5050.8">Justas Gulbinas: tylius</Chat>
+<Chat et="5052.4">&gt; talentas</Chat>
+<Chat et="5061.3">Valentas Tyla: Gulbi, tu ten mane i siena tai negraziai</Chat>
+<Chat et="5065.0">&gt; susipsau, butu buve idomu</Chat>
+<Chat et="5067.6">Justas Gulbinas: qrwa dar taip nebuvo</Chat>
+<Chat et="5082.5">Justas Gulbinas: vaziuoju ir pyst sinchronising game</Chat>
+<Chat et="5083.4">&gt; adomo vakumas taip pagadino kai pisau i siena</Chat>
+<Chat et="5089.6">Adomas Minevicius: maciau</Chat>
+<Chat et="5090.8">Valentas Tyla: :D</Chat>
+<Chat et="5095.4">Justas Gulbinas: o as girdejau</Chat>
+<Chat et="5100.4">Valentas Tyla: :D:D:D</Chat>
+<Chat et="5100.6">Justas Gulbinas: pituose stoviu tik pyst</Chat>
+<Chat et="5103.6">&gt; na nieko</Chat>
+<Chat et="5108.7">Justas Gulbinas: ir ziuriu geltona veliava</Chat>
+<Chat et="5118.3">Valentas Tyla: kas polarui?</Chat>
+<Chat et="5120.0">Valentas Tyla: buvo</Chat>
+<Chat et="5122.0">&gt; turejai islipt is masinos man padeti</Chat>
+<Chat et="5139.9">&gt; nzn, gal butu laimejas vaikis</Chat>
+<Chat et="5148.9">&gt; Justai gal sumesi rezus?</Chat>
+<Chat et="5157.3">Valentas Tyla: su polaru lygu tempa turejom</Chat>
+<Chat et="5158.5">Justas Gulbinas: pizdu</Chat>
+<Chat et="5159.0">&gt; foto lyg ka¿¾kokia jau yr</Chat>
+<Chat et="5171.2">Justas Gulbinas: einu</Chat>
+<Chat et="5174.5">Valentas Tyla: ok, iki kito etapo. aciu uz kovas</Chat>
+<Sent et="5174.5">Justas Gulbinas has left the game but vehicle has been stored in the garage</Sent>
+<Sent et="5184.9">Valentas Tyla has left the game but vehicle has been stored in the garage</Sent>
+<Chat et="5200.9">&gt; iki</Chat>
+<Sent et="5204.2">Adomas Minevicius has left the game but vehicle has been stored in the garage</Sent>
+</Stream>
+<MostLapsCompleted>46</MostLapsCompleted>
+<Driver>
+<Name>Adomas Minevicius</Name>
+<Connected>1</Connected>
+<VehFile>MC04.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McLaren #04</VehName>
+<CarType>LRC_F1_2013</CarType>
+<CarClass>LRC_F1_2013</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>3</GridPos>
+<Position>2</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>5</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="190.5581" s1="34.2544" s2="48.9433" s3="32.2265" fuel="0.961">115.4242</Lap>
+<Lap num="2" p="5" et="305.9823" s1="27.1021" s2="46.1034" s3="31.8514" fuel="0.937">105.0569</Lap>
+<Lap num="3" p="5" et="411.0392" s1="27.0153" s2="46.3534" s3="31.7532" fuel="0.914">105.1218</Lap>
+<Lap num="4" p="4" et="516.1609" s1="26.9550" s2="46.2630" s3="31.8237" fuel="0.894">105.0417</Lap>
+<Lap num="5" p="4" et="621.2026" s1="27.0295" s2="46.4740" s3="31.8805" fuel="0.875">105.3840</Lap>
+<Lap num="6" p="4" et="726.5866" s1="26.9659" s2="46.2783" s3="31.4552" fuel="0.851">104.6994</Lap>
+<Lap num="7" p="4" et="831.2859" s1="26.9419" s2="45.7444" s3="31.7000" fuel="0.831">104.3863</Lap>
+<Lap num="8" p="4" et="935.6722" s1="27.1166" s2="46.1352" s3="31.9086" fuel="0.812">105.1604</Lap>
+<Lap num="9" p="3" et="1040.8326" s1="27.0646" s2="45.9354" s3="31.5778" fuel="0.792">104.5777</Lap>
+<Lap num="10" p="3" et="1145.4104" s1="26.9671" s2="46.1257" s3="31.7816" fuel="0.769">104.8744</Lap>
+<Lap num="11" p="3" et="1250.2848" s1="27.2532" s2="46.4720" s3="31.8990" fuel="0.749">105.6242</Lap>
+<Lap num="12" p="3" et="1355.9091" s1="27.3883" s2="46.5749" s3="32.1609" fuel="0.729">106.1241</Lap>
+<Lap num="13" p="1" et="1462.0332" s1="27.1890" s2="46.9039" s3="32.3872" fuel="0.710">106.4801</Lap>
+<Lap num="14" p="2" et="1568.5133" s1="27.1235" s2="46.9446" s3="41.2473" fuel="0.690" pit="1">115.3154</Lap>
+<Lap num="15" p="5" et="1683.8286" s1="41.1084" s2="45.5481" s3="31.0838" fuel="0.667">117.7402</Lap>
+<Lap num="16" p="4" et="1801.5688" s1="26.6480" s2="45.3953" s3="30.9133" fuel="0.647">102.9566</Lap>
+<Lap num="17" p="5" et="1904.5254" s1="26.4927" s2="50.1918" s3="31.3572" fuel="0.624">108.0417</Lap>
+<Lap num="18" p="5" et="2012.5670" s1="26.5223" s2="45.0303" s3="30.8993" fuel="0.604">102.4519</Lap>
+<Lap num="19" p="5" et="2115.0188" s1="26.5218" s2="44.9992" s3="30.6175" fuel="0.580">102.1385</Lap>
+<Lap num="20" p="5" et="2217.1572" s1="26.8358" s2="45.1802" s3="30.6556" fuel="0.561">102.6715</Lap>
+<Lap num="21" p="5" et="2319.8286" s1="26.3363" s2="44.7476" s3="30.5743" fuel="0.537">101.6582</Lap>
+<Lap num="22" p="3" et="2421.4868" s1="26.4071" s2="45.5285" s3="30.9925" fuel="0.518">102.9280</Lap>
+<Lap num="23" p="3" et="2524.4148" s1="26.3324" s2="44.9012" s3="30.7065" fuel="0.494">101.9401</Lap>
+<Lap num="24" p="3" et="2626.3550" s1="26.3746" s2="45.0094" s3="32.8237" fuel="0.475">104.2077</Lap>
+<Lap num="25" p="2" et="2730.5627" s1="26.4362" s2="45.5911" s3="30.8662" fuel="0.451">102.8935</Lap>
+<Lap num="26" p="1" et="2833.4563" s1="27.0672" s2="45.7664" s3="31.1151" fuel="0.431">103.9487</Lap>
+<Lap num="27" p="1" et="2937.4050" s1="26.7138" s2="45.6079" s3="40.9480" fuel="0.412" pit="1">113.2697</Lap>
+<Lap num="28" p="3" et="3050.6748" s1="39.6477" s2="44.5250" s3="30.4881" fuel="0.388">114.6608</Lap>
+<Lap num="29" p="3" et="3165.3354" s1="26.0494" s2="44.4624" s3="30.3472" fuel="0.365">100.8590</Lap>
+<Lap num="30" p="3" et="3266.1943" s1="26.4169" s2="44.7395" s3="30.3562" fuel="0.345">101.5127</Lap>
+<Lap num="31" p="3" et="3367.7070" s1="25.9181" s2="44.6598" s3="30.1697" fuel="0.322">100.7476</Lap>
+<Lap num="32" p="3" et="3468.4546" s1="25.9313" s2="43.8467" s3="30.1011" fuel="0.298">99.8791</Lap>
+<Lap num="33" p="3" et="3568.3337" s1="26.0194" s2="44.3191" s3="30.1942" fuel="0.278">100.5327</Lap>
+<Lap num="34" p="2" et="3668.8665" s1="26.0308" s2="46.0134" s3="30.4945" fuel="0.255">102.5387</Lap>
+<Lap num="35" p="2" et="3771.4053" s1="26.3840" s2="45.3357" s3="30.4538" fuel="0.235">102.1736</Lap>
+<Lap num="36" p="2" et="3873.5789" s1="26.0492" s2="44.2691" s3="29.9801" fuel="0.212">100.2984</Lap>
+<Lap num="37" p="2" et="3973.8772" s1="26.1080" s2="44.3530" s3="30.1419" fuel="0.192">100.6029</Lap>
+<Lap num="38" p="1" et="4074.4800" s1="26.2357" s2="44.2238" s3="30.2725" fuel="0.173">100.7320</Lap>
+<Lap num="39" p="1" et="4175.2119" s1="26.1968" s2="44.9929" s3="40.7002" fuel="0.153" pit="1">111.8899</Lap>
+<Lap num="40" p="2" et="4287.1016" s1="39.7360" s2="44.2776" s3="29.8860" fuel="0.129">113.8996</Lap>
+<Lap num="41" p="2" et="4401.0010" s1="25.6620" s2="43.4910" s3="29.8759" fuel="0.110">99.0289</Lap>
+<Lap num="42" p="2" et="4500.0298" s1="25.8201" s2="43.6814" s3="29.4910" fuel="0.086">98.9924</Lap>
+<Lap num="43" p="2" et="4599.0225" s1="25.5592" s2="43.4695" s3="29.4401" fuel="0.067">98.4688</Lap>
+<Lap num="44" p="2" et="4697.4912" s1="25.5601" s2="43.4532" s3="29.6729" fuel="0.047">98.6862</Lap>
+<Lap num="45" p="2" et="4796.1772" s1="25.6120" s2="48.1579" s3="29.9000" fuel="0.024">103.6700</Lap>
+<Lap num="46" p="2" et="4899.8472" s1="25.4396" s2="43.8215" s3="29.3911" fuel="0.004">98.6522</Lap>
+<BestLapTime>98.4688</BestLapTime>
+<FinishTime>4807.9414</FinishTime>
+<Laps>46</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="46">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justas Gulbinas</Name>
+<Connected>1</Connected>
+<VehFile>FE06.VEH</VehFile>
+<UpgradeCode>1b000000 00000000</UpgradeCode>
+<VehName>Ferrari #06</VehName>
+<CarType>LRC_F1_2013</CarType>
+<CarClass>LRC_F1_2013</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>5</GridPos>
+<Position>3</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>3</Points>
+<ClassPoints>3</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="190.5581" s1="32.9834" s2="47.0391" s3="31.6885" fuel="0.965">111.7109</Lap>
+<Lap num="2" p="3" et="302.2690" s1="27.1407" s2="47.2970" s3="31.1852" fuel="0.941">105.6230</Lap>
+<Lap num="3" p="2" et="407.8920" s1="27.8065" s2="46.4965" s3="31.3744" fuel="0.922">105.6774</Lap>
+<Lap num="4" p="2" et="513.5694" s1="27.0455" s2="46.8516" s3="31.6513" fuel="0.898">105.5484</Lap>
+<Lap num="5" p="1" et="619.1178" s1="26.9671" s2="46.3960" s3="31.3437" fuel="0.878">104.7067</Lap>
+<Lap num="6" p="1" et="723.8245" s1="26.9983" s2="45.9188" s3="31.2934" fuel="0.855">104.2106</Lap>
+<Lap num="7" p="1" et="828.0351" s1="26.8013" s2="46.3458" s3="30.9758" fuel="0.835">104.1229</Lap>
+<Lap num="8" p="5" et="932.1580" s1="27.1083" s2="45.3766" s3="43.5632" fuel="0.816">116.0481</Lap>
+<Lap num="9" p="5" et="1048.2061" s1="27.5221" s2="45.7695" s3="31.1764" fuel="0.792">104.4681</Lap>
+<Lap num="10" p="4" et="1152.6742" s1="27.1369" s2="45.6986" s3="31.3147" fuel="0.773">104.1503</Lap>
+<Lap num="11" p="4" et="1256.8245" s1="27.4172" s2="46.6380" s3="31.6170" fuel="0.749">105.6722</Lap>
+<Lap num="12" p="4" et="1362.4967" s1="27.3634" s2="46.3249" s3="41.3226" fuel="0.729" pit="1">115.0108</Lap>
+<Lap num="13" p="5" et="1477.5076" s1="40.4869" s2="44.8127" s3="30.3980" fuel="0.710">115.6976</Lap>
+<Lap num="14" p="5" et="1593.2052" s1="26.5798" s2="45.1152" s3="30.4504" fuel="0.686">102.1454</Lap>
+<Lap num="15" p="4" et="1695.3506" s1="26.6594" s2="44.7491" s3="30.8656" fuel="0.667">102.2741</Lap>
+<Lap num="16" p="3" et="1797.6248" s1="26.6415" s2="46.1222" s3="30.8257" fuel="0.647">103.5894</Lap>
+<Lap num="17" p="3" et="1901.2142" s1="26.6635" s2="45.4971" s3="30.3279" fuel="0.624">102.4885</Lap>
+<Lap num="18" p="3" et="2003.7028" s1="26.3601" s2="45.2734" s3="30.3392" fuel="0.604">101.9727</Lap>
+<Lap num="19" p="3" et="2105.6755" s1="26.9075" s2="44.9291" s3="30.8761" fuel="0.584">102.7126</Lap>
+<Lap num="20" p="3" et="2208.3882" s1="26.3804" s2="44.8941" s3="30.7242" fuel="0.561">101.9988</Lap>
+<Lap num="21" p="2" et="2310.3870" s1="26.7931" s2="45.7477" s3="30.8179" fuel="0.541">103.3588</Lap>
+<Lap num="22" p="2" et="2413.7456" s1="26.4011" s2="45.6479" s3="30.9332" fuel="0.518">102.9822</Lap>
+<Lap num="23" p="2" et="2516.7278" s1="26.6421" s2="45.3286" s3="31.0139" fuel="0.498">102.9846</Lap>
+<Lap num="24" p="2" et="2619.7124" s1="26.7202" s2="45.5575" s3="32.0131" fuel="0.478">104.2909</Lap>
+<Lap num="25" p="3" et="2724.0032" s1="26.7102" s2="46.0169" s3="40.2308" fuel="0.459" pit="1">112.9580</Lap>
+<Lap num="26" p="3" et="2836.9612" s1="39.3575" s2="44.2652" s3="29.9596" fuel="0.435">113.5823</Lap>
+<Lap num="27" p="2" et="2950.5435" s1="26.2760" s2="44.3863" s3="30.3923" fuel="0.416">101.0546</Lap>
+<Lap num="28" p="1" et="3051.5981" s1="26.0367" s2="44.5312" s3="30.1016" fuel="0.392">100.6696</Lap>
+<Lap num="29" p="1" et="3152.2678" s1="26.2421" s2="44.1679" s3="30.5371" fuel="0.373">100.9471</Lap>
+<Lap num="30" p="1" et="3253.2148" s1="26.4398" s2="45.4919" s3="31.8013" fuel="0.349">103.7329</Lap>
+<Lap num="31" p="1" et="3356.9478" s1="26.1124" s2="44.6676" s3="29.9071" fuel="0.329">100.6871</Lap>
+<Lap num="32" p="1" et="3457.6350" s1="26.0606" s2="44.7888" s3="30.2619" fuel="0.310">101.1113</Lap>
+<Lap num="33" p="1" et="3558.7463" s1="26.3570" s2="45.0676" s3="30.2631" fuel="0.286">101.6878</Lap>
+<Lap num="34" p="1" et="3660.4341" s1="26.4687" s2="44.3560" s3="30.2940" fuel="0.267">101.1187</Lap>
+<Lap num="35" p="1" et="3761.5527" s1="26.1706" s2="51.2465" s3="30.1632" fuel="0.247">107.5803</Lap>
+<Lap num="36" p="1" et="3869.1331" s1="26.2757" s2="45.3034" s3="30.4009" fuel="0.224">101.9799</Lap>
+<Lap num="37" p="1" et="3971.1130" s1="26.0412" s2="44.3347" s3="29.9367" fuel="0.204">100.3125</Lap>
+<Lap num="38" p="2" et="4071.4255" s1="25.9773" s2="45.0816" s3="44.0041" fuel="0.184" pit="1">115.0630</Lap>
+<Lap num="39" p="3" et="4186.4888" s1="45.0781" s2="43.5269" s3="29.9224" fuel="0.161">118.5275</Lap>
+<Lap num="40" p="3" et="4305.0161" s1="25.8046" s2="43.5768" s3="29.5929" fuel="0.141">98.9743</Lap>
+<Lap num="41" p="3" et="4403.9902" s1="25.8385" s2="43.6274" s3="29.5978" fuel="0.118">99.0636</Lap>
+<Lap num="42" p="3" et="4503.0537" s1="25.9560" s2="43.9142" s3="29.7434" fuel="0.098">99.6137</Lap>
+<Lap num="43" p="3" et="4602.6675" s1="25.9466" s2="44.5738" s3="29.7245" fuel="0.075">100.2450</Lap>
+<Lap num="44" p="3" et="4702.9126" s1="26.2024" s2="44.2465" s3="29.4115" fuel="0.055">99.8605</Lap>
+<Lap num="45" p="3" et="4802.7729" s1="25.9888" s2="44.4775" s3="29.8906" fuel="0.035">100.3569</Lap>
+<Lap num="46" p="3" et="4903.1299" s1="26.2738" s2="45.5946" s3="30.9734" fuel="0.012">102.8419</Lap>
+<BestLapTime>98.9743</BestLapTime>
+<FinishTime>4815.4136</FinishTime>
+<Laps>46</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="46">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Valentas Tyla</Name>
+<Connected>1</Connected>
+<VehFile>ME08.VEH</VehFile>
+<UpgradeCode>10000000 00000000</UpgradeCode>
+<VehName>Mercedes #08</VehName>
+<CarType>LRC_F1_2013</CarType>
+<CarClass>LRC_F1_2013</CarClass>
+<CarNumber>08</CarNumber>
+<TeamName>Mercedes</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>4</GridPos>
+<Position>1</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>8</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="190.5581" s1="32.1689" s2="46.4318" s3="31.6493" fuel="0.965">110.2500</Lap>
+<Lap num="2" p="1" et="300.8081" s1="27.3120" s2="47.5494" s3="31.7725" fuel="0.941">106.6338</Lap>
+<Lap num="3" p="1" et="407.4419" s1="27.5989" s2="46.5716" s3="31.4718" fuel="0.922">105.6423</Lap>
+<Lap num="4" p="1" et="513.0842" s1="27.3050" s2="46.7052" s3="31.6103" fuel="0.902">105.6205</Lap>
+<Lap num="5" p="2" et="618.7047" s1="27.3749" s2="47.1231" s3="31.3370" fuel="0.882">105.8349</Lap>
+<Lap num="6" p="2" et="724.5397" s1="27.0732" s2="46.1530" s3="31.4739" fuel="0.859">104.7000</Lap>
+<Lap num="7" p="2" et="829.2397" s1="27.0173" s2="45.9011" s3="31.1781" fuel="0.839">104.0965</Lap>
+<Lap num="8" p="2" et="933.3362" s1="27.0779" s2="45.8994" s3="31.0707" fuel="0.820">104.0480</Lap>
+<Lap num="9" p="2" et="1037.3843" s1="27.0887" s2="47.4308" s3="32.0081" fuel="0.796">106.5276</Lap>
+<Lap num="10" p="2" et="1143.9119" s1="26.7686" s2="46.2966" s3="32.1401" fuel="0.776">105.2052</Lap>
+<Lap num="11" p="1" et="1249.1171" s1="27.0863" s2="46.2566" s3="31.8499" fuel="0.757">105.1929</Lap>
+<Lap num="12" p="1" et="1354.3099" s1="27.1783" s2="46.4593" s3="31.8975" fuel="0.733">105.5351</Lap>
+<Lap num="13" p="3" et="1459.8450" s1="27.5719" s2="48.0624" s3="42.3901" fuel="0.714" pit="1">118.0245</Lap>
+<Lap num="14" p="4" et="1577.8694" s1="39.6617" s2="44.9797" s3="30.8204" fuel="0.694">115.4618</Lap>
+<Lap num="15" p="3" et="1693.3312" s1="26.6638" s2="45.8571" s3="31.2108" fuel="0.675">103.7317</Lap>
+<Lap num="16" p="2" et="1797.0629" s1="26.8354" s2="45.3550" s3="30.5685" fuel="0.651">102.7588</Lap>
+<Lap num="17" p="2" et="1899.8217" s1="26.6939" s2="44.9971" s3="30.4773" fuel="0.631">102.1683</Lap>
+<Lap num="18" p="2" et="2001.9899" s1="26.6046" s2="45.3040" s3="30.5728" fuel="0.608">102.4814</Lap>
+<Lap num="19" p="2" et="2104.4712" s1="26.6877" s2="44.8520" s3="31.1344" fuel="0.588">102.6740</Lap>
+<Lap num="20" p="2" et="2207.1453" s1="26.5283" s2="45.4282" s3="30.9610" fuel="0.565">102.9175</Lap>
+<Lap num="21" p="1" et="2310.0627" s1="26.3318" s2="45.5074" s3="31.2424" fuel="0.545">103.0817</Lap>
+<Lap num="22" p="1" et="2413.1445" s1="26.4360" s2="45.6708" s3="30.9095" fuel="0.522">103.0163</Lap>
+<Lap num="23" p="1" et="2516.1609" s1="26.5715" s2="45.5803" s3="30.7200" fuel="0.502">102.8717</Lap>
+<Lap num="24" p="1" et="2619.0327" s1="26.6617" s2="45.3657" s3="31.3723" fuel="0.482">103.3997</Lap>
+<Lap num="25" p="1" et="2722.4324" s1="26.6697" s2="45.4288" s3="31.0532" fuel="0.459">103.1517</Lap>
+<Lap num="26" p="2" et="2825.5842" s1="26.7472" s2="45.5207" s3="41.0952" fuel="0.439" pit="1">113.3632</Lap>
+<Lap num="27" p="3" et="2938.9475" s1="38.7998" s2="44.0690" s3="30.1686" fuel="0.416">113.0375</Lap>
+<Lap num="28" p="2" et="3051.9851" s1="25.9447" s2="44.6354" s3="30.4706" fuel="0.396">101.0507</Lap>
+<Lap num="29" p="2" et="3153.0359" s1="26.0803" s2="44.1157" s3="30.3001" fuel="0.376">100.4962</Lap>
+<Lap num="30" p="2" et="3253.5320" s1="26.1735" s2="45.3281" s3="32.2001" fuel="0.353">103.7017</Lap>
+<Lap num="31" p="2" et="3357.2336" s1="26.0321" s2="51.8646" s3="30.1569" fuel="0.333">108.0536</Lap>
+<Lap num="32" p="2" et="3465.2874" s1="26.0657" s2="44.6664" s3="30.2749" fuel="0.310">101.0071</Lap>
+<Lap num="33" p="2" et="3566.2944" s1="26.3083" s2="45.0803" s3="30.3574" fuel="0.290">101.7461</Lap>
+<Lap num="34" p="3" et="3668.0405" s1="26.2366" s2="47.6424" s3="40.9786" fuel="0.271" pit="1">114.8576</Lap>
+<Lap num="35" p="3" et="3782.8982" s1="38.3787" s2="43.9566" s3="30.3201" fuel="0.247">112.6555</Lap>
+<Lap num="36" p="3" et="3895.5537" s1="25.7561" s2="43.4301" s3="29.9909" fuel="0.227">99.1770</Lap>
+<Lap num="37" p="3" et="3994.7307" s1="25.9137" s2="44.3500" s3="29.6932" fuel="0.204">99.9569</Lap>
+<Lap num="38" p="3" et="4094.6877" s1="25.8869" s2="44.2974" s3="30.0042" fuel="0.184">100.1884</Lap>
+<Lap num="39" p="2" et="4194.8760" s1="26.1770" s2="44.3479" s3="29.7479" fuel="0.161">100.2728</Lap>
+<Lap num="40" p="1" et="4295.1489" s1="26.0530" s2="44.4102" s3="29.9503" fuel="0.141">100.4135</Lap>
+<Lap num="41" p="1" et="4395.5625" s1="26.1458" s2="43.9703" s3="30.2338" fuel="0.122">100.3498</Lap>
+<Lap num="42" p="1" et="4495.9121" s1="25.9073" s2="44.3770" s3="29.6866" fuel="0.098">99.9709</Lap>
+<Lap num="43" p="1" et="4595.8828" s1="25.9088" s2="43.7934" s3="29.7095" fuel="0.078">99.4116</Lap>
+<Lap num="44" p="1" et="4695.2944" s1="25.7319" s2="44.5001" s3="29.9790" fuel="0.059">100.2110</Lap>
+<Lap num="45" p="1" et="4795.5054" s1="25.9781" s2="44.1896" s3="29.9341" fuel="0.035">100.1018</Lap>
+<Lap num="46" p="1" et="4895.6069" s1="26.0229" s2="44.1681" s3="31.2411" fuel="0.016">101.4321</Lap>
+<BestLapTime>99.1770</BestLapTime>
+<FinishTime>4806.4810</FinishTime>
+<Laps>46</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="46">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>FE05.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ferrari #05</VehName>
+<CarType>LRC_F1_2013</CarType>
+<CarClass>LRC_F1_2013</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>2</GridPos>
+<Position>4</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="190.5581" s1="32.7825" s2="46.6784" s3="31.9529" fuel="0.965">111.4138</Lap>
+<Lap num="2" p="4" et="301.9719" s1="27.0102" s2="47.9682" s3="31.7389" fuel="0.941">106.7173</Lap>
+<Lap num="3" p="3" et="408.6892" s1="27.3636" s2="46.7385" s3="31.4191" fuel="0.922">105.5211</Lap>
+<Lap num="4" p="5" et="514.2103" s1="27.0096" s2="47.1385" s3="33.4055" fuel="0.902">107.5536</Lap>
+<Lap num="5" p="5" et="621.7640" s1="27.2353" s2="46.0708" s3="31.9945" fuel="0.878">105.3006</Lap>
+<Lap num="6" p="5" et="727.0645" s1="28.2008" s2="45.5535" s3="31.2074" fuel="0.859">104.9616</Lap>
+<Lap num="7" p="5" et="832.0261" s1="26.8825" s2="45.7528" s3="31.2894" fuel="0.839">103.9247</Lap>
+<Lap num="8" p="5" et="935.9508" s1="27.3798" s2="46.2530" s3="31.4115" fuel="0.816">105.0443</Lap>
+<Lap num="9" p="4" et="1040.9951" s1="27.3186" s2="46.0255" s3="31.8713" fuel="0.796">105.2153</Lap>
+<Lap num="10" p="5" et="1146.2104" s1="27.1208" s2="45.7880" s3="43.3585" fuel="0.776" pit="1">116.2673</Lap>
+<Lap num="11" p="5" et="1262.4778" s1="39.5838" s2="44.9539" s3="30.9461" fuel="0.753">115.4838</Lap>
+<Lap num="12" p="5" et="1377.9615" s1="26.5069" s2="45.1069" s3="31.0299" fuel="0.729">102.6438</Lap>
+<Lap num="13" p="4" et="1480.6053" s1="26.2594" s2="44.9456" s3="31.9477" fuel="0.710">103.1527</Lap>
+<Lap num="14" p="3" et="1583.7581" s1="26.5714" s2="45.2490" s3="31.1243" fuel="0.686">102.9447</Lap>
+<Lap num="15" p="1" et="1686.7028" s1="26.6405" s2="45.0043" s3="30.7479" fuel="0.667">102.3928</Lap>
+<Lap num="16" p="1" et="1789.0956" s1="26.6073" s2="45.0787" s3="30.7409" fuel="0.643">102.4269</Lap>
+<Lap num="17" p="1" et="1891.5225" s1="26.5053" s2="45.0145" s3="31.0660" fuel="0.624">102.5859</Lap>
+<Lap num="18" p="1" et="1994.1084" s1="26.4229" s2="44.9376" s3="31.3461" fuel="0.604">102.7066</Lap>
+<Lap num="19" p="1" et="2096.8149" s1="26.5522" s2="45.5713" s3="31.2442" fuel="0.580">103.3677</Lap>
+<Lap num="20" p="1" et="2200.1826" s1="26.2665" s2="45.1061" s3="31.0646" fuel="0.561">102.4372</Lap>
+<Lap num="21" p="3" et="2302.6199" s1="26.2902" s2="46.1677" s3="41.8811" fuel="0.541" pit="1">114.3390</Lap>
+<Lap num="22" p="4" et="2416.9587" s1="39.2066" s2="44.8335" s3="30.3838" fuel="0.518">114.4239</Lap>
+<Lap num="23" p="4" et="2531.3826" s1="25.8704" s2="44.2923" s3="30.3953" fuel="0.494">100.5580</Lap>
+<Lap num="24" p="4" et="2631.9407" s1="26.0224" s2="44.6150" s3="30.2812" fuel="0.475">100.9185</Lap>
+<BestLapTime>100.5580</BestLapTime>
+<Laps>24</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+<ControlAndAids startLap="1" endLap="24">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Dovydas Polaras</Name>
+<Connected>1</Connected>
+<VehFile>CA20.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Caterham #20</VehName>
+<CarType>LRC_F1_2013</CarType>
+<CarClass>LRC_F1_2013</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Caterham</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>1</GridPos>
+<Position>5</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="190.5581" s1="32.1280" s2="47.0933" s3="31.5268" fuel="0.961">110.7482</Lap>
+<Lap num="2" p="2" et="301.3063" s1="26.9298" s2="47.6860" s3="31.8890" fuel="0.941">106.5048</Lap>
+<Lap num="3" p="4" et="407.8111" s1="27.8704" s2="47.9546" s3="31.2250" fuel="0.918">107.0500</Lap>
+<Lap num="4" p="3" et="514.8611" s1="26.7250" s2="46.3187" s3="32.5403" fuel="0.898">105.5840</Lap>
+<Lap num="5" p="3" et="620.4451" s1="27.1091" s2="46.0397" s3="31.1074" fuel="0.875">104.2563</Lap>
+<Lap num="6" p="3" et="724.7014" s1="27.2097" s2="46.6623" s3="31.4242" fuel="0.855">105.2962</Lap>
+<Lap num="7" p="3" et="829.9976" s1="26.6988" s2="46.2502" s3="31.0196" fuel="0.831">103.9685</Lap>
+<Lap num="8" p="3" et="933.9661" s1="26.7235" s2="46.1716" s3="31.1750" fuel="0.812">104.0700</Lap>
+<Lap num="9" p="1" et="1038.0361" s1="26.9289" s2="46.5993" s3="31.8071" fuel="0.792">105.3352</Lap>
+<Lap num="10" p="1" et="1143.3713" s1="26.6427" s2="46.4840" s3="31.6475" fuel="0.769">104.7742</Lap>
+<Lap num="11" p="2" et="1248.1455" s1="27.2491" s2="46.4915" s3="32.9931" fuel="0.749">106.7337</Lap>
+<Lap num="12" p="2" et="1354.8793" s1="27.0133" s2="46.3007" s3="31.8222" fuel="0.729">105.1361</Lap>
+<Lap num="13" p="2" et="1460.0154" s1="27.5753" s2="49.0955" s3="32.1381" fuel="0.710">108.8089</Lap>
+<Lap num="14" p="1" et="1568.8242" s1="27.8302" s2="46.3984" s3="32.0127" fuel="0.690">106.2412</Lap>
+<Lap num="15" p="2" et="1675.0654" s1="26.9560" s2="46.3397" s3="48.1500" fuel="0.671" pit="1">121.4457</Lap>
+<Lap num="16" p="5" et="1796.5111" s1="32.9342" s2="44.8937" s3="30.6527" fuel="0.651">108.4806</Lap>
+<Lap num="17" p="4" et="1904.9917" s1="26.2444" s2="48.0151" s3="30.6715" fuel="0.627">104.9310</Lap>
+<Lap num="18" p="4" et="2009.9227" s1="26.2909" s2="45.6305" s3="30.5708" fuel="0.608">102.4922</Lap>
+<Lap num="19" p="4" et="2112.4150" s1="26.3961" s2="45.4484" s3="30.5908" fuel="0.584">102.4353</Lap>
+<Lap num="20" p="4" et="2214.8503" s1="26.2108" s2="45.0500" s3="30.2042" fuel="0.561">101.4650</Lap>
+<Lap num="21" p="4" et="2316.3152" s1="26.4529" s2="45.4961" s3="30.5772" fuel="0.541">102.5263</Lap>
+<BestLapTime>101.4650</BestLapTime>
+<Laps>21</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="21">PlayerControl,ABS=2,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>ME08.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Mercedes #08</VehName>
+<CarType>LRC_F1_2013</CarType>
+<CarClass>LRC_F1_2013</CarClass>
+<CarNumber>08</CarNumber>
+<TeamName>Mercedes</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>6</GridPos>
+<Position>6</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="190.5581" s1="34.1481" s2="48.8482" s3="33.4873" fuel="0.949">116.4835</Lap>
+<Lap num="2" p="6" et="307.0416" s1="27.5778" s2="64.9766" s3="3070.2075" fuel="0.922" pit="1">3162.7620</Lap>
+<Lap num="3" p="6" et="3469.8037" s1="38.0806" s2="50.7851" s3="44.2431" fuel="0.898" pit="1">133.1088</Lap>
+<Lap num="4" p="6" et="3602.9126" s1="35.1622" s2="50.2842" s3="33.8953" fuel="0.878">119.3417</Lap>
+<BestLapTime>116.4835</BestLapTime>
+<Laps>4</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,TC=2,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="2" endLap="2">PlayerControl,TC=3,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="3" endLap="4">PlayerControl,TC=2,ABS=1</ControlAndAids>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC Italija Oficialus</ServerName>
+<PlayerFile>Oficialus</PlayerFile>
+<DateTime>1426440742</DateTime>
+<TimeString>2015/03/15 19:32:22</TimeString>
+<Mod>LRC_F1_2014.rfm</Mod>
+<Season></Season>
+<TrackVenue>LRC 2014-2015</TrackVenue>
+<TrackCourse>Autodromo di Monza</TrackCourse>
+<TrackEvent>#13 LTC.LT Italijos GP</TrackEvent>
+<TrackLength>5805.2</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>40</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|F1_2013</VehiclesAllowed>
+<ParcFerme>1</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>252</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1426442773</DateTime>
+<TimeString>2015/03/15 20:06:13</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>15</Minutes>
+<Stream>
+<Chat et="0.5">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="0.5">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Chat et="2.4">Justas Vaitekunas: priminkit kaip su padangom reikia per varzybas keisti?</Chat>
+<Chat et="4.3">Mindaugas Klumbis: DABAR Q</Chat>
+<Chat et="8.2">Mindaugas Klumbis: GAELSIT PASKUI KEISTI</Chat>
+<Chat et="19.0">Mindaugas Klumbis: PACIAM BUS GERAI SU RACE APSILTI</Chat>
+<Chat et="22.5">Justinas Ribelis: Mynde dw 1 rato Q</Chat>
+<Chat et="30.2">Justinas Ribelis: arba tegul 15 min</Chat>
+<Chat et="31.9">Justinas Ribelis: gerai bus</Chat>
+<Chat et="32.2">Aurimas Zamzickas: klai benzo reikia?</Chat>
+<Chat et="39.0">Aurimas Zamzickas: kvalai?</Chat>
+<Chat et="50.1">Modestas Paulauskas: Pilk kiek nori</Chat>
+<Chat et="53.2">Modestas Paulauskas: Dabar</Chat>
+<Chat et="56.4">Mindaugas Klumbis: 5.2 RATUI</Chat>
+<Chat et="58.3">Modestas Paulauskas: Laisvi setai</Chat>
+<Chat et="62.5">Mindaugas Klumbis: LAISVI SERTAI</Chat>
+<Chat et="62.8">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="62.8">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Chat et="67.6">Mindaugas Klumbis: 15 MIN KVALA</Chat>
+<Score et="69.0">Justinas Ribelis(2) lap=0 point=1 t=-1.000 et=69.007</Score>
+<Score et="97.9">Justinas Ribelis(2) lap=0 point=2 t=-1.000 et=97.878</Score>
+<Score et="104.7">Justas Vaitekunas(5) lap=0 point=1 t=-1.000 et=104.608</Score>
+<Incident et="115.6">Aurimas Zamzickas(9) reported contact (0.48) with Immovable</Incident>
+<Incident et="115.6">Aurimas Zamzickas(9) reported contact (0.26) with Immovable</Incident>
+<Incident et="115.6">Aurimas Zamzickas(9) reported contact (0.03) with Immovable</Incident>
+<Incident et="115.6">Aurimas Zamzickas(9) reported contact (0.90) with Immovable</Incident>
+<Score et="120.6">Modestas Paulauskas(8) lap=0 point=1 t=-1.000 et=120.516</Score>
+<Score et="121.3">Aurimas Zamzickas(9) lap=0 point=2 t=-1.000 et=121.223</Score>
+<Score et="121.3">Aurimas Zamzickas(9) lap=0 point=1 t=-1.000 et=121.223</Score>
+<Score et="121.3">Aurimas Zamzickas(9) lap=1 point=0 t=-1.000 et=121.223</Score>
+<Score et="127.5">Justinas Ribelis(2) lap=1 point=0 t=-1.000 et=127.413</Score>
+<Score et="133.9">Deividas Misiulis(4) lap=0 point=1 t=-1.000 et=133.830</Score>
+<Score et="135.3">Mindaugas Klumbis(3) lap=0 point=1 t=-1.000 et=135.321</Score>
+<Score et="137.9">Justas Vaitekunas(5) lap=0 point=2 t=-1.000 et=137.810</Score>
+<Score et="149.8">Modestas Paulauskas(8) lap=0 point=2 t=-1.000 et=149.772</Score>
+<Score et="154.7">Justinas Ribelis(2) lap=1 point=1 t=27.267 et=154.680</Score>
+<Score et="163.7">Deividas Misiulis(4) lap=0 point=2 t=-1.000 et=163.649</Score>
+<Score et="165.7">Mindaugas Klumbis(3) lap=0 point=2 t=-1.000 et=165.712</Score>
+<Score et="167.3">Aurimas Zamzickas(9) lap=1 point=1 t=-1.000 et=167.288</Score>
+<Score et="167.8">Justas Vaitekunas(5) lap=1 point=0 t=-1.000 et=167.785</Score>
+<Score et="178.4">Modestas Paulauskas(8) lap=1 point=0 t=-1.000 et=178.391</Score>
+<Score et="183.1">Justinas Ribelis(2) lap=1 point=2 t=55.542 et=182.956</Score>
+<Score et="195.5">Justas Vaitekunas(5) lap=1 point=1 t=27.637 et=195.422</Score>
+<Score et="195.6">Mindaugas Klumbis(3) lap=1 point=0 t=-1.000 et=195.536</Score>
+<Incident et="195.7">Dovydas Petravicius(0) reported contact (0.97) with Sign</Incident>
+<Score et="196.9">Aurimas Zamzickas(9) lap=1 point=2 t=-1.000 et=196.924</Score>
+<Score et="200.3">Deividas Misiulis(4) lap=1 point=0 t=-1.000 et=200.228</Score>
+<Score et="205.9">Modestas Paulauskas(8) lap=1 point=1 t=27.435 et=205.826</Score>
+<Incident et="209.3">Justas Vaitekunas(5) reported contact (1.00) with Immovable</Incident>
+<Incident et="209.3">Justas Vaitekunas(5) reported contact (0.39) with Wing</Incident>
+<Incident et="209.3">Justas Vaitekunas(5) reported contact (0.13) with Immovable</Incident>
+<Incident et="209.4">Justas Vaitekunas(5) reported contact (0.03) with Wing</Incident>
+<Score et="211.1">Justas Vaitekunas(5) lap=1 point=2 t=-1.000 et=210.975</Score>
+<Score et="211.1">Justas Vaitekunas(5) lap=2 point=0 t=-1.000 et=210.975</Score>
+<Score et="212.0">Justinas Ribelis(2) lap=2 point=0 t=84.549 et=211.963</Score>
+<Chat et="212.9">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="212.9">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Score et="216.5">Justinas Ribelis(2) lap=2 point=1 t=-1.000 et=216.383</Score>
+<Score et="216.5">Justinas Ribelis(2) lap=2 point=2 t=-1.000 et=216.383</Score>
+<Score et="216.5">Justinas Ribelis(2) lap=3 point=0 t=-1.000 et=216.383</Score>
+<Incident et="217.8">Aurimas Zamzickas(9) reported contact (1.00) with Immovable</Incident>
+<Incident et="217.8">Aurimas Zamzickas(9) reported contact (0.74) with Immovable</Incident>
+<Incident et="218.1">Aurimas Zamzickas(9) reported contact (0.19) with Immovable</Incident>
+<Incident et="218.5">Aurimas Zamzickas(9) reported contact (0.10) with Track</Incident>
+<Score et="223.4">Mindaugas Klumbis(3) lap=1 point=1 t=27.896 et=223.433</Score>
+<Score et="224.5">Dovydas Petravicius(0) lap=0 point=1 t=-1.000 et=224.497</Score>
+<Score et="229.1">Aurimas Zamzickas(9) lap=2 point=0 t=-1.000 et=229.065</Score>
+<Score et="234.0">Modestas Paulauskas(8) lap=1 point=2 t=55.576 et=233.967</Score>
+<Score et="250.9">Deividas Misiulis(4) lap=1 point=1 t=50.648 et=250.876</Score>
+<Score et="252.5">Justas Vaitekunas(5) lap=2 point=1 t=-1.000 et=252.442</Score>
+<Score et="252.8">Mindaugas Klumbis(3) lap=1 point=2 t=57.246 et=252.783</Score>
+<Score et="254.0">Dovydas Petravicius(0) lap=0 point=2 t=-1.000 et=253.983</Score>
+<Score et="259.6">Justinas Ribelis(2) lap=3 point=1 t=-1.000 et=259.570</Score>
+<Score et="262.5">Modestas Paulauskas(8) lap=2 point=0 t=84.010 et=262.401</Score>
+<Score et="273.4">Aurimas Zamzickas(9) lap=2 point=1 t=-1.000 et=273.393</Score>
+<Score et="280.5">Deividas Misiulis(4) lap=1 point=2 t=80.259 et=280.488</Score>
+<Score et="282.3">Justas Vaitekunas(5) lap=2 point=2 t=-1.000 et=282.250</Score>
+<Score et="282.4">Mindaugas Klumbis(3) lap=2 point=0 t=86.857 et=282.394</Score>
+<Score et="283.7">Dovydas Petravicius(0) lap=1 point=0 t=-1.000 et=283.675</Score>
+<Score et="289.9">Justinas Ribelis(2) lap=3 point=2 t=-1.000 et=289.864</Score>
+<Score et="289.9">Justinas Ribelis(2) lap=4 point=0 t=-1.000 et=289.864</Score>
+<Score et="290.0">Modestas Paulauskas(8) lap=2 point=1 t=27.486 et=289.887</Score>
+<Score et="303.7">Aurimas Zamzickas(9) lap=2 point=2 t=-1.000 et=303.692</Score>
+<Score et="311.9">Dovydas Petravicius(0) lap=1 point=1 t=28.203 et=311.879</Score>
+<Score et="312.0">Justas Vaitekunas(5) lap=3 point=0 t=-1.000 et=311.945</Score>
+<Score et="312.2">Deividas Misiulis(4) lap=2 point=0 t=111.939 et=312.167</Score>
+<Score et="313.8">Mindaugas Klumbis(3) lap=2 point=1 t=31.426 et=313.819</Score>
+<Score et="318.0">Modestas Paulauskas(8) lap=2 point=2 t=55.528 et=317.929</Score>
+<Score et="326.6">Justinas Ribelis(2) lap=4 point=1 t=-1.000 et=326.572</Score>
+<Score et="333.1">Aurimas Zamzickas(9) lap=3 point=0 t=-1.000 et=333.083</Score>
+<Score et="339.5">Justas Vaitekunas(5) lap=3 point=1 t=27.552 et=339.497</Score>
+<Score et="341.3">Dovydas Petravicius(0) lap=1 point=2 t=57.567 et=341.242</Score>
+<Score et="343.5">Mindaugas Klumbis(3) lap=2 point=2 t=61.139 et=343.533</Score>
+<Score et="346.4">Modestas Paulauskas(8) lap=3 point=0 t=83.926 et=346.326</Score>
+<Incident et="350.0">Modestas Paulauskas(8) reported contact (0.52) with Immovable</Incident>
+<Incident et="351.0">Modestas Paulauskas(8) reported contact (0.52) with Immovable</Incident>
+<Score et="352.9">Modestas Paulauskas(8) lap=4 point=0 t=-1.000 et=352.831</Score>
+<Score et="353.0">Modestas Paulauskas(8) lap=4 point=1 t=-1.000 et=352.831</Score>
+<Score et="353.0">Modestas Paulauskas(8) lap=4 point=2 t=-1.000 et=352.831</Score>
+<Score et="354.7">Deividas Misiulis(4) lap=2 point=1 t=42.483 et=354.650</Score>
+<Score et="355.6">Justinas Ribelis(2) lap=4 point=2 t=-1.000 et=355.595</Score>
+<Score et="361.3">Aurimas Zamzickas(9) lap=3 point=1 t=28.160 et=361.243</Score>
+<Incident et="366.4">Justinas Ribelis(2) reported contact (0.42) with Immovable</Incident>
+<Score et="366.4">Aurimas Zamzickas(9) lap=3 point=2 t=-1.000 et=366.340</Score>
+<Score et="366.4">Aurimas Zamzickas(9) lap=4 point=0 t=-1.000 et=366.340</Score>
+<Incident et="366.6">Justinas Ribelis(2) reported contact (0.45) with Immovable</Incident>
+<Score et="368.4">Justas Vaitekunas(5) lap=3 point=2 t=56.440 et=368.385</Score>
+<Score et="369.6">Justinas Ribelis(2) lap=5 point=0 t=-1.000 et=369.582</Score>
+<Score et="370.9">Dovydas Petravicius(0) lap=2 point=0 t=87.174 et=370.849</Score>
+<Score et="373.1">Mindaugas Klumbis(3) lap=3 point=0 t=90.663 et=373.056</Score>
+<Score et="383.9">Deividas Misiulis(4) lap=2 point=2 t=71.672 et=383.839</Score>
+<Score et="397.6">Justas Vaitekunas(5) lap=4 point=0 t=85.652 et=397.597</Score>
+<Score et="399.0">Dovydas Petravicius(0) lap=2 point=1 t=28.075 et=398.923</Score>
+<Score et="401.1">Mindaugas Klumbis(3) lap=3 point=1 t=28.032 et=401.089</Score>
+<Score et="407.9">Justinas Ribelis(2) lap=5 point=1 t=-1.000 et=407.815</Score>
+<Score et="414.2">Deividas Misiulis(4) lap=3 point=0 t=102.028 et=414.195</Score>
+<Score et="417.7">Aurimas Zamzickas(9) lap=4 point=1 t=-1.000 et=417.724</Score>
+<Score et="418.6">Dovydas Petravicius(0) lap=2 point=2 t=-1.000 et=418.563</Score>
+<Score et="418.6">Dovydas Petravicius(0) lap=3 point=0 t=-1.000 et=418.563</Score>
+<Score et="425.2">Justas Vaitekunas(5) lap=4 point=1 t=27.580 et=425.177</Score>
+<Score et="430.6">Mindaugas Klumbis(3) lap=3 point=2 t=57.519 et=430.575</Score>
+<Score et="437.4">Justinas Ribelis(2) lap=5 point=2 t=-1.000 et=437.361</Score>
+<Score et="446.8">Aurimas Zamzickas(9) lap=4 point=2 t=-1.000 et=446.800</Score>
+<Score et="458.4">Modestas Paulauskas(8) lap=4 point=1 t=-1.000 et=458.293</Score>
+<Score et="458.5">Justas Vaitekunas(5) lap=4 point=2 t=60.832 et=458.429</Score>
+<Score et="459.0">Deividas Misiulis(4) lap=3 point=1 t=44.773 et=458.968</Score>
+<Score et="460.3">Mindaugas Klumbis(3) lap=4 point=0 t=87.179 et=460.236</Score>
+<Score et="466.1">Justinas Ribelis(2) lap=6 point=0 t=-1.000 et=466.058</Score>
+<Score et="476.3">Aurimas Zamzickas(9) lap=5 point=0 t=-1.000 et=476.255</Score>
+<Score et="486.5">Modestas Paulauskas(8) lap=4 point=2 t=-1.000 et=486.460</Score>
+<Score et="488.1">Mindaugas Klumbis(3) lap=4 point=1 t=27.853 et=488.089</Score>
+<Score et="488.8">Deividas Misiulis(4) lap=3 point=2 t=74.546 et=488.741</Score>
+<Score et="493.3">Justinas Ribelis(2) lap=6 point=1 t=27.269 et=493.327</Score>
+<Score et="494.5">Justas Vaitekunas(5) lap=5 point=0 t=96.887 et=494.484</Score>
+<Incident et="500.4">Dovydas Petravicius(0) reported contact (0.48) with Sign</Incident>
+<Incident et="500.4">Dovydas Petravicius(0) reported contact (0.29) with Sign</Incident>
+<Incident et="500.4">Dovydas Petravicius(0) reported contact (1.00) with Sign</Incident>
+<Score et="504.2">Aurimas Zamzickas(9) lap=5 point=1 t=27.890 et=504.144</Score>
+<Score et="510.7">Dovydas Petravicius(0) lap=3 point=1 t=-1.000 et=510.706</Score>
+<Score et="515.0">Modestas Paulauskas(8) lap=5 point=0 t=-1.000 et=514.975</Score>
+<Score et="517.4">Mindaugas Klumbis(3) lap=4 point=2 t=57.144 et=517.379</Score>
+<Score et="518.8">Deividas Misiulis(4) lap=4 point=0 t=104.576 et=518.771</Score>
+<Score et="521.6">Justinas Ribelis(2) lap=6 point=2 t=55.479 et=521.538</Score>
+<Score et="522.1">Justas Vaitekunas(5) lap=5 point=1 t=27.548 et=522.032</Score>
+<Score et="533.4">Aurimas Zamzickas(9) lap=5 point=2 t=57.162 et=533.417</Score>
+<Score et="542.3">Modestas Paulauskas(8) lap=5 point=1 t=27.243 et=542.218</Score>
+<Score et="544.6">Dovydas Petravicius(0) lap=3 point=2 t=-1.000 et=544.610</Score>
+<Score et="546.9">Deividas Misiulis(4) lap=4 point=1 t=28.128 et=546.899</Score>
+<Score et="547.0">Mindaugas Klumbis(3) lap=5 point=0 t=86.735 et=546.971</Score>
+<Score et="550.3">Justinas Ribelis(2) lap=7 point=0 t=84.163 et=550.222</Score>
+<Score et="551.1">Justas Vaitekunas(5) lap=5 point=2 t=56.614 et=551.099</Score>
+<Score et="562.5">Aurimas Zamzickas(9) lap=6 point=0 t=86.196 et=562.451</Score>
+<Incident et="566.7">Justinas Ribelis(2) reported contact (1.00) with Immovable</Incident>
+<Incident et="566.8">Justinas Ribelis(2) reported contact (0.13) with Wing</Incident>
+<Score et="568.2">Aurimas Zamzickas(9) lap=6 point=1 t=-1.000 et=568.119</Score>
+<Score et="568.2">Aurimas Zamzickas(9) lap=6 point=2 t=-1.000 et=568.119</Score>
+<Score et="568.2">Aurimas Zamzickas(9) lap=7 point=0 t=-1.000 et=568.119</Score>
+<Score et="568.2">Justinas Ribelis(2) lap=7 point=1 t=-1.000 et=568.172</Score>
+<Score et="568.2">Justinas Ribelis(2) lap=7 point=2 t=-1.000 et=568.172</Score>
+<Score et="568.2">Justinas Ribelis(2) lap=8 point=0 t=-1.000 et=568.172</Score>
+<Score et="570.2">Modestas Paulauskas(8) lap=5 point=2 t=55.204 et=570.179</Score>
+<Score et="574.3">Dovydas Petravicius(0) lap=4 point=0 t=-1.000 et=574.274</Score>
+<Score et="575.1">Mindaugas Klumbis(3) lap=5 point=1 t=28.099 et=575.070</Score>
+<Score et="578.1">Deividas Misiulis(4) lap=4 point=2 t=59.340 et=578.111</Score>
+<Score et="580.2">Justas Vaitekunas(5) lap=6 point=0 t=85.702 et=580.186</Score>
+<Score et="586.9">Justas Vaitekunas(5) lap=6 point=1 t=-1.000 et=586.732</Score>
+<Score et="586.9">Justas Vaitekunas(5) lap=6 point=2 t=-1.000 et=586.732</Score>
+<Score et="586.9">Justas Vaitekunas(5) lap=7 point=0 t=-1.000 et=586.732</Score>
+<Incident et="592.7">Aurimas Zamzickas(9) reported contact (0.94) with Cone</Incident>
+<Incident et="592.9">Aurimas Zamzickas(9) reported contact (0.42) with Cone</Incident>
+<Incident et="593.5">Aurimas Zamzickas(9) reported contact (1.00) with Sign</Incident>
+<Chat et="594.9">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="594.9">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Score et="602.1">Dovydas Petravicius(0) lap=4 point=1 t=27.831 et=602.104</Score>
+<Score et="603.7">Aurimas Zamzickas(9) lap=7 point=1 t=-1.000 et=603.636</Score>
+<Score et="604.4">Mindaugas Klumbis(3) lap=5 point=2 t=57.401 et=604.372</Score>
+<Score et="609.7">Deividas Misiulis(4) lap=5 point=0 t=90.934 et=609.705</Score>
+<Score et="609.8">Modestas Paulauskas(8) lap=6 point=0 t=94.769 et=609.744</Score>
+<Score et="615.4">Justinas Ribelis(2) lap=8 point=1 t=-1.000 et=615.373</Score>
+<Score et="629.1">Justas Vaitekunas(5) lap=7 point=1 t=-1.000 et=629.073</Score>
+<Score et="631.3">Dovydas Petravicius(0) lap=4 point=2 t=56.977 et=631.251</Score>
+<Score et="633.9">Mindaugas Klumbis(3) lap=6 point=0 t=86.852 et=633.823</Score>
+<Score et="637.0">Modestas Paulauskas(8) lap=6 point=1 t=27.164 et=636.908</Score>
+<Score et="639.6">Aurimas Zamzickas(9) lap=7 point=2 t=-1.000 et=639.611</Score>
+<Incident et="639.7">Deividas Misiulis(4) reported contact (0.19) with Cone</Incident>
+<Score et="644.2">Justinas Ribelis(2) lap=8 point=2 t=-1.000 et=644.219</Score>
+<Score et="655.3">Deividas Misiulis(4) lap=5 point=1 t=45.598 et=655.303</Score>
+<Incident et="656.0">Dovydas Petravicius(0) reported contact (0.58) with Immovable</Incident>
+<Incident et="656.0">Dovydas Petravicius(0) reported contact (0.52) with Immovable</Incident>
+<Incident et="656.0">Dovydas Petravicius(0) reported contact (1.00) with Immovable</Incident>
+<Score et="658.3">Justas Vaitekunas(5) lap=7 point=2 t=-1.000 et=658.246</Score>
+<Score et="659.9">Dovydas Petravicius(0) lap=5 point=0 t=-1.000 et=659.886</Score>
+<Score et="661.8">Mindaugas Klumbis(3) lap=6 point=1 t=27.947 et=661.769</Score>
+<Score et="664.9">Modestas Paulauskas(8) lap=6 point=2 t=55.150 et=664.894</Score>
+<Score et="668.7">Aurimas Zamzickas(9) lap=8 point=0 t=-1.000 et=668.697</Score>
+<Score et="672.8">Justinas Ribelis(2) lap=9 point=0 t=-1.000 et=672.733</Score>
+<Score et="681.4">Aurimas Zamzickas(9) lap=8 point=1 t=-1.000 et=681.322</Score>
+<Score et="681.4">Aurimas Zamzickas(9) lap=8 point=2 t=-1.000 et=681.322</Score>
+<Score et="681.4">Aurimas Zamzickas(9) lap=9 point=0 t=-1.000 et=681.322</Score>
+<Score et="684.9">Deividas Misiulis(4) lap=5 point=2 t=75.108 et=684.813</Score>
+<Score et="687.5">Justas Vaitekunas(5) lap=8 point=0 t=-1.000 et=687.421</Score>
+<Score et="691.3">Mindaugas Klumbis(3) lap=6 point=2 t=57.464 et=691.286</Score>
+<Score et="693.5">Modestas Paulauskas(8) lap=7 point=0 t=83.690 et=693.434</Score>
+<Score et="700.0">Justinas Ribelis(2) lap=9 point=1 t=27.202 et=699.935</Score>
+<Score et="701.3">Modestas Paulauskas(8) lap=7 point=1 t=-1.000 et=701.238</Score>
+<Score et="701.3">Modestas Paulauskas(8) lap=7 point=2 t=-1.000 et=701.238</Score>
+<Score et="701.3">Modestas Paulauskas(8) lap=8 point=0 t=-1.000 et=701.238</Score>
+<Score et="710.7">Aurimas Zamzickas(9) lap=9 point=1 t=-1.000 et=710.723</Score>
+<Score et="714.1">Dovydas Petravicius(0) lap=5 point=1 t=-1.000 et=714.060</Score>
+<Score et="715.0">Deividas Misiulis(4) lap=6 point=0 t=105.322 et=715.027</Score>
+<Score et="716.9">Justas Vaitekunas(5) lap=8 point=1 t=29.470 et=716.891</Score>
+<Score et="720.8">Mindaugas Klumbis(3) lap=7 point=0 t=86.946 et=720.769</Score>
+<Score et="723.4">Justas Vaitekunas(5) lap=8 point=2 t=-1.000 et=723.242</Score>
+<Score et="723.4">Justas Vaitekunas(5) lap=9 point=0 t=-1.000 et=723.242</Score>
+<Chat et="726.7">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="726.7">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Score et="728.3">Justinas Ribelis(2) lap=9 point=2 t=55.480 et=728.213</Score>
+<Score et="743.2">Deividas Misiulis(4) lap=6 point=1 t=28.131 et=743.157</Score>
+<Incident et="745.9">Justas Vaitekunas(5) reported contact (1.00) with Sign</Incident>
+<Score et="748.3">Aurimas Zamzickas(9) lap=9 point=2 t=-1.000 et=748.261</Score>
+<Score et="748.7">Mindaugas Klumbis(3) lap=7 point=1 t=27.902 et=748.671</Score>
+<Score et="749.6">Dovydas Petravicius(0) lap=5 point=2 t=-1.000 et=749.575</Score>
+<Score et="756.1">Justas Vaitekunas(5) lap=9 point=1 t=-1.000 et=756.070</Score>
+<Score et="757.0">Justinas Ribelis(2) lap=10 point=0 t=84.176 et=756.909</Score>
+<Incident et="762.0">Justas Vaitekunas(5) reported contact (1.00) with Immovable</Incident>
+<Incident et="762.0">Justas Vaitekunas(5) reported contact (0.06) with Wing</Incident>
+<Incident et="762.0">Justas Vaitekunas(5) reported contact (0.00) with Wing</Incident>
+<Incident et="762.1">Justas Vaitekunas(5) reported contact (0.10) with Immovable</Incident>
+<Score et="764.9">Justas Vaitekunas(5) lap=9 point=2 t=-1.000 et=764.826</Score>
+<Score et="764.9">Justas Vaitekunas(5) lap=10 point=0 t=-1.000 et=764.826</Score>
+<Chat et="766.4">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="766.4">Justas Vaitekunas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Incident et="769.3">Dovydas Petravicius(0) reported contact (0.19) with Immovable</Incident>
+<Incident et="769.4">Dovydas Petravicius(0) reported contact (0.03) with Immovable</Incident>
+<Incident et="769.6">Dovydas Petravicius(0) reported contact (0.48) with Immovable</Incident>
+<Incident et="770.3">Dovydas Petravicius(0) reported contact (0.06) with Track</Incident>
+<Incident et="770.3">Dovydas Petravicius(0) reported contact (0.06) with Track</Incident>
+<Incident et="771.7">Dovydas Petravicius(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="771.7">Dovydas Petravicius(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="771.7">Dovydas Petravicius(0) reported contact (0.87) with Immovable</Incident>
+<Incident et="771.7">Dovydas Petravicius(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="771.8">Dovydas Petravicius(0) reported contact (0.35) with Immovable</Incident>
+<Score et="772.2">Deividas Misiulis(4) lap=6 point=2 t=57.141 et=772.167</Score>
+<Incident et="772.8">Dovydas Petravicius(0) reported contact (0.39) with Immovable</Incident>
+<Score et="774.9">Modestas Paulauskas(8) lap=8 point=1 t=-1.000 et=774.805</Score>
+<Score et="777.6">Aurimas Zamzickas(9) lap=10 point=0 t=-1.000 et=777.604</Score>
+<Score et="778.1">Mindaugas Klumbis(3) lap=7 point=2 t=57.352 et=778.121</Score>
+<Incident et="779.8">Dovydas Petravicius(0) reported contact (0.06) with Immovable</Incident>
+<Score et="784.0">Justinas Ribelis(2) lap=10 point=1 t=27.050 et=783.959</Score>
+<Score et="793.9">Justas Vaitekunas(5) lap=10 point=1 t=-1.000 et=793.847</Score>
+<Score et="801.9">Deividas Misiulis(4) lap=7 point=0 t=86.828 et=801.854</Score>
+<Score et="802.0">Justinas Ribelis(2) lap=11 point=0 t=-1.000 et=801.948</Score>
+<Score et="802.0">Justinas Ribelis(2) lap=11 point=2 t=-1.000 et=801.948</Score>
+<Score et="802.9">Modestas Paulauskas(8) lap=8 point=2 t=-1.000 et=802.837</Score>
+<Score et="803.5">Dovydas Petravicius(0) lap=6 point=0 t=-1.000 et=803.430</Score>
+<Score et="805.7">Aurimas Zamzickas(9) lap=10 point=1 t=28.045 et=805.649</Score>
+<Score et="807.6">Mindaugas Klumbis(3) lap=8 point=0 t=86.829 et=807.598</Score>
+<Score et="826.0">Justas Vaitekunas(5) lap=10 point=2 t=-1.000 et=825.914</Score>
+<Score et="830.1">Deividas Misiulis(4) lap=7 point=1 t=28.181 et=830.036</Score>
+<Score et="831.4">Modestas Paulauskas(8) lap=9 point=0 t=-1.000 et=831.318</Score>
+<Score et="834.5">Dovydas Petravicius(0) lap=6 point=1 t=-1.000 et=834.505</Score>
+<Score et="834.8">Aurimas Zamzickas(9) lap=10 point=2 t=57.161 et=834.765</Score>
+<Score et="835.6">Mindaugas Klumbis(3) lap=8 point=1 t=27.930 et=835.528</Score>
+<Score et="844.1">Justinas Ribelis(2) lap=11 point=1 t=-1.000 et=844.033</Score>
+<Score et="858.6">Modestas Paulauskas(8) lap=9 point=1 t=27.205 et=858.523</Score>
+<Score et="859.2">Deividas Misiulis(4) lap=7 point=2 t=57.313 et=859.167</Score>
+<Score et="862.0">Justas Vaitekunas(5) lap=11 point=0 t=-1.000 et=862.000</Score>
+<Score et="863.7">Aurimas Zamzickas(9) lap=11 point=0 t=86.036 et=863.640</Score>
+<Score et="865.0">Mindaugas Klumbis(3) lap=8 point=2 t=57.380 et=864.978</Score>
+<Score et="866.7">Dovydas Petravicius(0) lap=6 point=2 t=-1.000 et=866.702</Score>
+<Score et="869.2">Aurimas Zamzickas(9) lap=11 point=1 t=-1.000 et=869.122</Score>
+<Score et="869.2">Aurimas Zamzickas(9) lap=11 point=2 t=-1.000 et=869.122</Score>
+<Score et="869.2">Aurimas Zamzickas(9) lap=12 point=0 t=-1.000 et=869.122</Score>
+<Incident et="870.7">Mindaugas Klumbis(3) reported contact (0.52) with Immovable</Incident>
+<Incident et="870.8">Mindaugas Klumbis(3) reported contact (0.65) with Immovable</Incident>
+<Incident et="870.8">Mindaugas Klumbis(3) reported contact (0.16) with Immovable</Incident>
+<Incident et="870.8">Mindaugas Klumbis(3) reported contact (0.29) with Immovable</Incident>
+<Incident et="870.9">Mindaugas Klumbis(3) reported contact (0.13) with Immovable</Incident>
+<Incident et="875.1">Mindaugas Klumbis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="875.1">Mindaugas Klumbis(3) reported contact (0.35) with Wing</Incident>
+<Incident et="875.2">Mindaugas Klumbis(3) reported contact (0.03) with Wing</Incident>
+<Incident et="875.2">Mindaugas Klumbis(3) reported contact (0.10) with Wing</Incident>
+<Score et="875.6">Justinas Ribelis(2) lap=11 point=2 t=-1.000 et=875.578</Score>
+<Incident et="885.0">Justinas Ribelis(2) reported contact (0.19) with Immovable</Incident>
+<Incident et="885.4">Justinas Ribelis(2) reported contact (0.13) with Immovable</Incident>
+<Incident et="886.4">Mindaugas Klumbis(3) reported contact (0.10) with Immovable</Incident>
+<Score et="886.6">Modestas Paulauskas(8) lap=9 point=2 t=55.250 et=886.568</Score>
+<Score et="888.8">Deividas Misiulis(4) lap=8 point=0 t=86.913 et=888.768</Score>
+<Score et="889.6">Justas Vaitekunas(5) lap=11 point=1 t=27.594 et=889.594</Score>
+<Score et="896.7">Dovydas Petravicius(0) lap=7 point=0 t=-1.000 et=896.693</Score>
+<Score et="909.3">Justinas Ribelis(2) lap=12 point=0 t=-1.000 et=909.298</Score>
+<Score et="911.4">Mindaugas Klumbis(3) lap=9 point=0 t=-1.000 et=911.352</Score>
+<Score et="915.1">Modestas Paulauskas(8) lap=10 point=0 t=83.687 et=915.005</Score>
+<Score et="916.8">Deividas Misiulis(4) lap=8 point=1 t=27.973 et=916.741</Score>
+<Score et="918.4">Justas Vaitekunas(5) lap=11 point=2 t=56.388 et=918.388</Score>
+<Score et="924.6">Dovydas Petravicius(0) lap=7 point=1 t=27.837 et=924.530</Score>
+<Score et="936.5">Justinas Ribelis(2) lap=12 point=1 t=27.223 et=936.521</Score>
+<Score et="942.2">Modestas Paulauskas(8) lap=10 point=1 t=27.157 et=942.161</Score>
+<Score et="945.9">Deividas Misiulis(4) lap=8 point=2 t=57.103 et=945.870</Score>
+<Score et="947.8">Justas Vaitekunas(5) lap=12 point=0 t=85.734 et=947.734</Score>
+<Incident et="949.4">Modestas Paulauskas(8) reported contact (1.00) with Immovable</Incident>
+<Incident et="949.5">Modestas Paulauskas(8) reported contact (1.00) with Immovable</Incident>
+<Incident et="949.6">Modestas Paulauskas(8) reported contact (0.00) with Wing</Incident>
+<Chat et="952.0">Aurimas Zamzickas: min wc</Chat>
+<Score et="953.4">Modestas Paulauskas(8) lap=10 point=2 t=-1.000 et=953.341</Score>
+<Score et="953.4">Modestas Paulauskas(8) lap=11 point=0 t=-1.000 et=953.341</Score>
+<Score et="954.3">Dovydas Petravicius(0) lap=7 point=2 t=57.562 et=954.255</Score>
+<Incident et="956.1">Justinas Ribelis(2) reported contact (0.19) with Immovable</Incident>
+<Incident et="956.3">Justinas Ribelis(2) reported contact (0.23) with Immovable</Incident>
+<Incident et="957.9">Mindaugas Klumbis(3) reported contact (0.77) with Cone</Incident>
+<Incident et="958.0">Mindaugas Klumbis(3) reported contact (0.39) with Cone</Incident>
+<Incident et="958.0">Mindaugas Klumbis(3) reported contact (0.29) with Cone</Incident>
+<Incident et="958.1">Mindaugas Klumbis(3) reported contact (1.00) with Sign</Incident>
+<Incident et="958.2">Mindaugas Klumbis(3) reported contact (0.87) with Sign</Incident>
+<Incident et="958.2">Mindaugas Klumbis(3) reported contact (0.23) with Sign</Incident>
+<Incident et="958.3">Mindaugas Klumbis(3) reported contact (0.03) with Sign</Incident>
+<Incident et="958.3">Mindaugas Klumbis(3) reported contact (0.06) with Sign</Incident>
+<Incident et="958.3">Mindaugas Klumbis(3) reported contact (0.19) with Sign</Incident>
+<Score et="959.0">Justinas Ribelis(2) lap=13 point=0 t=-1.000 et=958.923</Score>
+<Score et="959.0">Justinas Ribelis(2) lap=13 point=2 t=-1.000 et=958.923</Score>
+<Chat et="962.9">Justinas Ribelis: as irgi</Chat>
+<Score et="963.7">Mindaugas Klumbis(3) lap=9 point=1 t=-1.000 et=963.651</Score>
+<Score et="963.7">Mindaugas Klumbis(3) lap=9 point=2 t=-1.000 et=963.651</Score>
+<Score et="963.7">Mindaugas Klumbis(3) lap=10 point=0 t=-1.000 et=963.651</Score>
+<Score et="978.8">Deividas Misiulis(4) lap=9 point=0 t=-1.000 et=978.751</Score>
+<Score et="983.7">Dovydas Petravicius(0) lap=8 point=0 t=86.973 et=983.666</Score>
+<Chat et="1035.6">Mindaugas Klumbis: BAIGTA</Chat>
+<Incident et="1036.7">Dovydas Petravicius(0) reported contact (0.03) with Immovable</Incident>
+<Vote et="1056.8">Mindaugas Klumbis: /callvote nextsession</Vote>
+<Sent et="1056.8">&quot;advance to next session&quot; proposed by Mindaugas Klumbis (ADMIN): vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>13</MostLapsCompleted>
+<Driver>
+<Name>Modestas Paulauskas</Name>
+<Connected>1</Connected>
+<VehFile>LOTUS_07.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Lotus #07</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>Lotus</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.047">--.----</Lap>
+<Lap num="2" p="1" et="178.3910" s1="27.4352" s2="28.1407" s3="28.4339" fuel="0.027">84.0098</Lap>
+<Lap num="3" p="1" et="262.4008" s1="27.4861" s2="28.0418" s3="28.3976" fuel="0.004">83.9255</Lap>
+<Lap num="4" p="1" et="346.3263" fuel="0.071">--.----</Lap>
+<Lap num="5" p="1" et="352.8310" fuel="0.047">--.----</Lap>
+<Lap num="6" p="1" et="514.9749" s1="27.2432" s2="27.9609" s3="39.5649" fuel="0.027">94.7690</Lap>
+<Lap num="7" p="1" et="609.7440" s1="27.1639" s2="27.9863" s3="28.5396" fuel="0.004">83.6898</Lap>
+<Lap num="8" p="1" et="693.4337" fuel="0.071">--.----</Lap>
+<Lap num="9" p="1" et="701.2383" fuel="0.047">--.----</Lap>
+<Lap num="10" p="1" et="831.3180" s1="27.2049" s2="28.0450" s3="28.4370" fuel="0.027">83.6869</Lap>
+<Lap num="11" p="1" et="915.0049" s1="27.1565" fuel="0.020">--.----</Lap>
+<BestLapTime>83.6869</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justinas Ribelis</Name>
+<Connected>1</Connected>
+<VehFile>WILLIAMS_16.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Williams #16</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>Williams</TeamName>
+<isPlayer>1</isPlayer>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="1" et="127.4134" s1="27.2665" s2="28.2758" s3="29.0072" fuel="0.008">84.5495</Lap>
+<Lap num="3" p="1" et="211.9628" fuel="0.051">--.----</Lap>
+<Lap num="4" p="2" et="216.3832" fuel="0.067">--.----</Lap>
+<Lap num="5" p="2" et="289.8641" fuel="0.059">--.----</Lap>
+<Lap num="6" p="2" et="369.5818" fuel="0.051">--.----</Lap>
+<Lap num="7" p="2" et="466.0585" s1="27.2686" s2="28.2105" s3="28.6841" fuel="0.027">84.1631</Lap>
+<Lap num="8" p="2" et="550.2216" fuel="0.075">--.----</Lap>
+<Lap num="9" p="2" et="568.1721" fuel="0.051">--.----</Lap>
+<Lap num="10" p="2" et="672.7329" s1="27.2020" s2="28.2780" s3="28.6962" fuel="0.027">84.1763</Lap>
+<Lap num="11" p="2" et="756.9092" s1="27.0496" fuel="0.020">--.----</Lap>
+<Lap num="12" p="2" et="801.9484" fuel="0.031">--.----</Lap>
+<Lap num="13" p="2" et="909.2980" s1="27.2229" fuel="0.024">--.----</Lap>
+<BestLapTime>84.1631</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>6</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justas Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>CATERHAM_20.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Caterham #20</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Caterham</TeamName>
+<isPlayer>1</isPlayer>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.075">--.----</Lap>
+<Lap num="2" p="3" et="167.7850" s1="27.6369" fuel="0.067">--.----</Lap>
+<Lap num="3" p="5" et="210.9751" fuel="0.075">--.----</Lap>
+<Lap num="4" p="3" et="311.9447" s1="27.5523" s2="28.8878" s3="29.2122" fuel="0.051">85.6523</Lap>
+<Lap num="5" p="3" et="397.5970" s1="27.5800" s2="33.2520" s3="36.0552" fuel="0.035">96.8872</Lap>
+<Lap num="6" p="3" et="494.4843" s1="27.5481" s2="29.0661" s3="29.0879" fuel="0.012">85.7021</Lap>
+<Lap num="7" p="3" et="580.1865" fuel="0.094">--.----</Lap>
+<Lap num="8" p="3" et="586.7322" fuel="0.047">--.----</Lap>
+<Lap num="9" p="3" et="687.4208" s1="29.4705" fuel="0.043">--.----</Lap>
+<Lap num="10" p="3" et="723.2421" fuel="0.063">--.----</Lap>
+<Lap num="11" p="3" et="764.8264" fuel="0.047">--.----</Lap>
+<Lap num="12" p="3" et="862.0004" s1="27.5938" s2="28.7942" s3="29.3458" fuel="0.027">85.7338</Lap>
+<BestLapTime>85.6523</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>5</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,TC=2,ABS=2,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Aurimas Zamzickas</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN_05.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McLaren #05</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.047">--.----</Lap>
+<Lap num="2" p="7" et="121.2230" fuel="0.035">--.----</Lap>
+<Lap num="3" p="7" et="229.0649" fuel="0.027">--.----</Lap>
+<Lap num="4" p="7" et="333.0831" s1="28.1602" fuel="0.020">--.----</Lap>
+<Lap num="5" p="7" et="366.3398" fuel="0.027">--.----</Lap>
+<Lap num="6" p="4" et="476.2545" s1="27.8897" s2="29.2728" s3="29.0336" fuel="0.004">86.1960</Lap>
+<Lap num="7" p="4" et="562.4506" fuel="0.047">--.----</Lap>
+<Lap num="8" p="4" et="568.1187" fuel="0.027">--.----</Lap>
+<Lap num="9" p="4" et="668.6973" fuel="0.047">--.----</Lap>
+<Lap num="10" p="4" et="681.3222" fuel="0.027">--.----</Lap>
+<Lap num="11" p="4" et="777.6038" s1="28.0451" s2="29.1162" s3="28.8749" fuel="0.004">86.0362</Lap>
+<Lap num="12" p="4" et="863.6400" fuel="0.047">--.----</Lap>
+<BestLapTime>86.0362</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>6</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,TC=1,ABS=2,Clutch</ControlAndAids>
+<ControlAndAids startLap="2" endLap="4">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="5" endLap="5">PlayerControl,TC=1,ABS=2,Clutch</ControlAndAids>
+<ControlAndAids startLap="6" endLap="12">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_03.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ferrari #03</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.886">--.----</Lap>
+<Lap num="2" p="3" et="195.5364" s1="27.8962" s2="29.3500" s3="29.6113" fuel="0.863">86.8575</Lap>
+<Lap num="3" p="3" et="282.3939" s1="31.4256" s2="29.7137" s3="29.5233" fuel="0.843">90.6626</Lap>
+<Lap num="4" p="4" et="373.0565" s1="28.0324" s2="29.4864" s3="29.6603" fuel="0.820">87.1791</Lap>
+<Lap num="5" p="4" et="460.2356" s1="27.8533" s2="29.2903" s3="29.5916" fuel="0.796">86.7352</Lap>
+<Lap num="6" p="5" et="546.9708" s1="28.0993" s2="29.3018" s3="29.4507" fuel="0.773">86.8518</Lap>
+<Lap num="7" p="5" et="633.8225" s1="27.9465" s2="29.5174" s3="29.4825" fuel="0.753">86.9464</Lap>
+<Lap num="8" p="5" et="720.7689" s1="27.9017" s2="29.4505" s3="29.4770" fuel="0.729">86.8292</Lap>
+<Lap num="9" p="5" et="807.5981" s1="27.9300" s2="29.4497" fuel="0.710" pit="1">--.----</Lap>
+<Lap num="10" p="5" et="911.3517" fuel="0.910">--.----</Lap>
+<BestLapTime>86.7352</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Deividas Misiulis</Name>
+<Connected>1</Connected>
+<VehFile>REDBULL_01.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Red Bull #01</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>Red Bull</TeamName>
+<isPlayer>1</isPlayer>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.902">--.----</Lap>
+<Lap num="2" p="4" et="200.2282" s1="50.6478" s2="29.6117" s3="31.6797" fuel="0.878">111.9392</Lap>
+<Lap num="3" p="6" et="312.1674" s1="42.4828" s2="29.1891" s3="30.3560" fuel="0.855">102.0278</Lap>
+<Lap num="4" p="6" et="414.1952" s1="44.7727" s2="29.7733" s3="30.0302" fuel="0.831">104.5762</Lap>
+<Lap num="5" p="7" et="518.7714" s1="28.1280" s2="31.2120" s3="31.5937" fuel="0.812">90.9337</Lap>
+<Lap num="6" p="7" et="609.7051" s1="45.5981" s2="29.5094" s3="30.2140" fuel="0.788">105.3215</Lap>
+<Lap num="7" p="6" et="715.0267" s1="28.1306" s2="29.0102" s3="29.6868" fuel="0.765">86.8277</Lap>
+<Lap num="8" p="6" et="801.8543" s1="28.1814" s2="29.1312" s3="29.6008" fuel="0.741">86.9133</Lap>
+<Lap num="9" p="6" et="888.7676" s1="27.9732" s2="29.1293" fuel="0.718" pit="1">--.----</Lap>
+<BestLapTime>86.8277</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Dovydas Petravicius</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_04.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ferrari #04</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.886">--.----</Lap>
+<Lap num="2" p="4" et="283.6751" s1="28.2034" s2="29.3635" s3="29.6066" fuel="0.863">87.1735</Lap>
+<Lap num="3" p="5" et="370.8487" s1="28.0748" fuel="0.855">--.----</Lap>
+<Lap num="4" p="6" et="418.5632" fuel="0.886">--.----</Lap>
+<Lap num="5" p="6" et="574.2738" s1="27.8306" s2="29.1463" fuel="0.871">--.----</Lap>
+<Lap num="6" p="7" et="659.8864" fuel="0.894">--.----</Lap>
+<Lap num="7" p="7" et="803.4303" fuel="0.886">--.----</Lap>
+<Lap num="8" p="7" et="896.6929" s1="27.8372" s2="29.7252" s3="29.4102" fuel="0.863">86.9726</Lap>
+<BestLapTime>86.9726</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>4</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

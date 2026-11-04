@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC.lt Megane</ServerName>
+<PlayerFile>DedicatedServer</PlayerFile>
+<DateTime>1348160504</DateTime>
+<TimeString>2012/09/20 20:01:44</TimeString>
+<Mod>Megane Trophy V6.rfm</Mod>
+<Season></Season>
+<TrackVenue>ADM-GPKings 2009</TrackVenue>
+<TrackCourse>Motorland_09</TrackCourse>
+<TrackEvent>Motorland</TrackEvent>
+<TrackLength>5323.4</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Challenge</MOTD>
+<RaceLaps>17</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Megane|Trophy|V6</VehiclesAllowed>
+<ParcFerme>0</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>255</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1348161162</DateTime>
+<TimeString>2012/09/20 20:12:42</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Incident et="43.3">Martynas Viederis(3) reported contact (0.23) with Cone</Incident>
+<Incident et="43.3">Martynas Viederis(3) reported contact (0.23) with Cone</Incident>
+<Incident et="43.4">Martynas Viederis(3) reported contact (0.45) with Cone</Incident>
+<Incident et="43.4">Martynas Viederis(3) reported contact (0.45) with Cone</Incident>
+<Incident et="43.5">Martynas Viederis(3) reported contact (0.45) with Cone</Incident>
+<Score et="58.7">Martynas Viederis(3) lap=0 point=1 t=-1.000 et=58.628</Score>
+<Score et="63.6">Martynas Sidunovas(6) lap=0 point=1 t=-1.000 et=63.619</Score>
+<Score et="65.8">Lukas Grebliauskas(5) lap=0 point=1 t=-1.000 et=65.806</Score>
+<Score et="66.7">Andrius Kuzmenko(2) lap=0 point=1 t=-1.000 et=66.679</Score>
+<Score et="67.0">Andrius Stankevicius(4) lap=0 point=1 t=-1.000 et=66.928</Score>
+<Score et="71.3">Mantvydas Verbickas(1) lap=0 point=1 t=-1.000 et=71.285</Score>
+<Score et="92.4">Mantvydas Sileika(0) lap=0 point=1 t=-1.000 et=92.316</Score>
+<Score et="104.8">Martynas Sidunovas(6) lap=0 point=2 t=-1.000 et=104.744</Score>
+<Incident et="106.4">Lukas Grebliauskas(5) reported contact (0.42) with Cone</Incident>
+<Incident et="106.4">Lukas Grebliauskas(5) reported contact (0.19) with Cone</Incident>
+<Incident et="106.4">Lukas Grebliauskas(5) reported contact (0.42) with Cone</Incident>
+<Incident et="106.5">Lukas Grebliauskas(5) reported contact (0.16) with Cone</Incident>
+<Incident et="106.5">Lukas Grebliauskas(5) reported contact (0.39) with Cone</Incident>
+<Score et="106.5">Lukas Grebliauskas(5) lap=0 point=2 t=-1.000 et=106.510</Score>
+<Incident et="106.5">Lukas Grebliauskas(5) reported contact (0.19) with Cone</Incident>
+<Incident et="106.6">Lukas Grebliauskas(5) reported contact (0.42) with Cone</Incident>
+<Incident et="106.6">Lukas Grebliauskas(5) reported contact (0.68) with Cone</Incident>
+<Incident et="106.7">Lukas Grebliauskas(5) reported contact (0.39) with Cone</Incident>
+<Incident et="106.7">Lukas Grebliauskas(5) reported contact (0.13) with Cone</Incident>
+<Incident et="106.8">Lukas Grebliauskas(5) reported contact (0.42) with Cone</Incident>
+<Incident et="106.8">Lukas Grebliauskas(5) reported contact (0.55) with Cone</Incident>
+<Incident et="106.9">Lukas Grebliauskas(5) reported contact (0.35) with Cone</Incident>
+<Score et="107.2">Andrius Kuzmenko(2) lap=0 point=2 t=-1.000 et=107.153</Score>
+<Score et="107.6">Andrius Stankevicius(4) lap=0 point=2 t=-1.000 et=107.578</Score>
+<Score et="113.5">Mantvydas Verbickas(1) lap=0 point=2 t=-1.000 et=113.504</Score>
+<Score et="116.3">Martynas Viederis(3) lap=0 point=2 t=-1.000 et=116.259</Score>
+<Score et="135.1">Mantvydas Sileika(0) lap=0 point=2 t=-1.000 et=135.004</Score>
+<Incident et="137.9">Martynas Sidunovas(6) reported contact (0.39) with Cone</Incident>
+<Score et="146.7">Martynas Sidunovas(6) lap=1 point=0 t=-1.000 et=146.723</Score>
+<Score et="149.2">Andrius Kuzmenko(2) lap=1 point=0 t=-1.000 et=149.178</Score>
+<Score et="154.1">Andrius Stankevicius(4) lap=1 point=0 t=-1.000 et=154.062</Score>
+<Score et="161.7">Lukas Grebliauskas(5) lap=1 point=0 t=-1.000 et=161.642</Score>
+<Score et="166.5">Mantvydas Verbickas(1) lap=1 point=0 t=-1.000 et=166.441</Score>
+<Score et="169.9">Martynas Viederis(3) lap=1 point=0 t=-1.000 et=169.853</Score>
+<Score et="172.7">Martynas Sidunovas(6) lap=1 point=1 t=25.948 et=172.671</Score>
+<Score et="175.7">Andrius Kuzmenko(2) lap=1 point=1 t=26.425 et=175.603</Score>
+<Score et="180.3">Andrius Stankevicius(4) lap=1 point=1 t=26.174 et=180.235</Score>
+<Score et="184.4">Mantvydas Sileika(0) lap=1 point=0 t=-1.000 et=184.339</Score>
+<Score et="187.9">Lukas Grebliauskas(5) lap=1 point=1 t=26.294 et=187.936</Score>
+<Incident et="187.9">Martynas Viederis(3) reported contact (0.71) with Immovable</Incident>
+<Incident et="188.0">Martynas Viederis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="188.0">Martynas Viederis(3) reported contact (0.35) with Immovable</Incident>
+<Score et="190.9">Martynas Viederis(3) lap=1 point=1 t=-1.000 et=190.892</Score>
+<Score et="190.9">Martynas Viederis(3) lap=1 point=2 t=-1.000 et=190.892</Score>
+<Score et="190.9">Martynas Viederis(3) lap=2 point=0 t=-1.000 et=190.892</Score>
+<Score et="193.2">Mantvydas Verbickas(1) lap=1 point=1 t=26.769 et=193.210</Score>
+<Score et="210.9">Mantvydas Sileika(0) lap=1 point=1 t=26.489 et=210.828</Score>
+<Score et="212.7">Martynas Sidunovas(6) lap=1 point=2 t=65.921 et=212.644</Score>
+<Score et="216.2">Andrius Kuzmenko(2) lap=1 point=2 t=67.000 et=216.178</Score>
+<Score et="220.8">Andrius Stankevicius(4) lap=1 point=2 t=66.721 et=220.782</Score>
+<Incident et="224.4">Lukas Grebliauskas(5) reported contact (1.00) with Immovable</Incident>
+<Incident et="224.6">Lukas Grebliauskas(5) reported contact (0.84) with Immovable</Incident>
+<Score et="226.1">Lukas Grebliauskas(5) lap=1 point=2 t=-1.000 et=226.091</Score>
+<Score et="226.1">Lukas Grebliauskas(5) lap=2 point=0 t=-1.000 et=226.091</Score>
+<Score et="234.2">Mantvydas Verbickas(1) lap=1 point=2 t=67.689 et=234.130</Score>
+<Score et="234.8">Martynas Viederis(3) lap=2 point=1 t=-1.000 et=234.778</Score>
+<Score et="251.4">Mantvydas Sileika(0) lap=1 point=2 t=67.040 et=251.379</Score>
+<Score et="255.0">Martynas Sidunovas(6) lap=2 point=0 t=108.230 et=254.953</Score>
+<Score et="258.7">Andrius Kuzmenko(2) lap=2 point=0 t=109.489 et=258.667</Score>
+<Score et="262.7">Andrius Stankevicius(4) lap=2 point=0 t=108.566 et=262.628</Score>
+<Score et="266.5">Lukas Grebliauskas(5) lap=2 point=1 t=-1.000 et=266.455</Score>
+<Score et="276.1">Mantvydas Verbickas(1) lap=2 point=0 t=109.640 et=276.081</Score>
+<Score et="278.2">Martynas Viederis(3) lap=2 point=2 t=-1.000 et=278.162</Score>
+<Score et="280.9">Martynas Sidunovas(6) lap=2 point=1 t=25.918 et=280.870</Score>
+<Score et="285.0">Andrius Kuzmenko(2) lap=2 point=1 t=26.294 et=284.960</Score>
+<Score et="288.6">Andrius Stankevicius(4) lap=2 point=1 t=25.975 et=288.603</Score>
+<Score et="293.4">Mantvydas Sileika(0) lap=2 point=0 t=109.048 et=293.387</Score>
+<Score et="302.3">Mantvydas Verbickas(1) lap=2 point=1 t=26.172 et=302.253</Score>
+<Score et="307.4">Lukas Grebliauskas(5) lap=2 point=2 t=-1.000 et=307.353</Score>
+<Score et="319.8">Mantvydas Sileika(0) lap=2 point=1 t=26.341 et=319.728</Score>
+<Score et="320.9">Martynas Sidunovas(6) lap=2 point=2 t=65.900 et=320.852</Score>
+<Score et="325.9">Andrius Kuzmenko(2) lap=2 point=2 t=67.186 et=325.853</Score>
+<Score et="328.8">Andrius Stankevicius(4) lap=2 point=2 t=66.100 et=328.728</Score>
+<Score et="329.6">Martynas Viederis(3) lap=3 point=0 t=-1.000 et=329.539</Score>
+<Score et="342.5">Mantvydas Verbickas(1) lap=2 point=2 t=66.422 et=342.503</Score>
+<Score et="349.9">Lukas Grebliauskas(5) lap=3 point=0 t=-1.000 et=349.828</Score>
+<Score et="351.9">Mantvydas Verbickas(1) lap=3 point=0 t=-1.000 et=351.706</Score>
+<Score et="358.2">Martynas Viederis(3) lap=3 point=1 t=28.639 et=358.178</Score>
+<Score et="360.1">Mantvydas Sileika(0) lap=2 point=2 t=66.648 et=360.035</Score>
+<Score et="362.8">Martynas Sidunovas(6) lap=3 point=0 t=107.825 et=362.777</Score>
+<Score et="367.1">Lukas Grebliauskas(5) lap=3 point=1 t=-1.000 et=367.068</Score>
+<Score et="367.1">Lukas Grebliauskas(5) lap=3 point=2 t=-1.000 et=367.068</Score>
+<Score et="367.1">Lukas Grebliauskas(5) lap=4 point=0 t=-1.000 et=367.068</Score>
+<Score et="368.1">Andrius Kuzmenko(2) lap=3 point=0 t=109.387 et=368.054</Score>
+<Score et="370.3">Andrius Stankevicius(4) lap=3 point=0 t=107.616 et=370.243</Score>
+<Score et="388.7">Martynas Sidunovas(6) lap=3 point=1 t=25.917 et=388.694</Score>
+<Score et="394.8">Andrius Kuzmenko(2) lap=3 point=1 t=26.674 et=394.728</Score>
+<Score et="396.3">Andrius Stankevicius(4) lap=3 point=1 t=25.995 et=396.239</Score>
+<Score et="401.1">Martynas Viederis(3) lap=3 point=2 t=71.478 et=401.017</Score>
+<Score et="401.9">Mantvydas Sileika(0) lap=3 point=0 t=108.449 et=401.836</Score>
+<Score et="408.6">Lukas Grebliauskas(5) lap=4 point=1 t=-1.000 et=408.529</Score>
+<Score et="411.6">Mantvydas Verbickas(1) lap=3 point=1 t=-1.000 et=411.614</Score>
+<Score et="412.8">Mantvydas Sileika(0) lap=3 point=1 t=-1.000 et=412.726</Score>
+<Score et="412.8">Mantvydas Sileika(0) lap=3 point=2 t=-1.000 et=412.726</Score>
+<Score et="412.8">Mantvydas Sileika(0) lap=4 point=0 t=-1.000 et=412.726</Score>
+<Score et="429.1">Martynas Sidunovas(6) lap=3 point=2 t=66.153 et=428.930</Score>
+<Score et="435.6">Andrius Kuzmenko(2) lap=3 point=2 t=67.386 et=435.439</Score>
+<Score et="436.6">Andrius Stankevicius(4) lap=3 point=2 t=66.309 et=436.553</Score>
+<Score et="444.4">Martynas Sidunovas(6) lap=4 point=0 t=-1.000 et=444.404</Score>
+<Score et="445.1">Martynas Viederis(3) lap=4 point=0 t=115.464 et=445.003</Score>
+<Score et="449.3">Lukas Grebliauskas(5) lap=4 point=2 t=-1.000 et=449.278</Score>
+<Score et="453.0">Mantvydas Verbickas(1) lap=3 point=2 t=-1.000 et=452.903</Score>
+<Score et="455.2">Mantvydas Sileika(0) lap=4 point=1 t=-1.000 et=455.103</Score>
+<Score et="469.8">Andrius Stankevicius(4) lap=4 point=0 t=-1.000 et=469.731</Score>
+<Score et="471.2">Andrius Kuzmenko(2) lap=4 point=0 t=-1.000 et=470.877</Score>
+<Score et="474.0">Martynas Viederis(3) lap=4 point=1 t=28.925 et=473.928</Score>
+<Score et="491.4">Lukas Grebliauskas(5) lap=5 point=0 t=-1.000 et=491.385</Score>
+<Score et="495.4">Mantvydas Verbickas(1) lap=4 point=0 t=-1.000 et=495.358</Score>
+<Score et="496.3">Mantvydas Sileika(0) lap=4 point=2 t=-1.000 et=496.233</Score>
+<Score et="496.7">Martynas Sidunovas(6) lap=4 point=1 t=-1.000 et=496.654</Score>
+<Score et="505.7">Mantvydas Verbickas(1) lap=4 point=1 t=-1.000 et=505.577</Score>
+<Score et="505.7">Mantvydas Verbickas(1) lap=4 point=2 t=-1.000 et=505.577</Score>
+<Score et="505.7">Mantvydas Verbickas(1) lap=5 point=0 t=-1.000 et=505.577</Score>
+<Score et="511.9">Andrius Stankevicius(4) lap=4 point=1 t=-1.000 et=511.880</Score>
+<Score et="516.7">Martynas Viederis(3) lap=4 point=2 t=71.640 et=516.643</Score>
+<Score et="517.9">Lukas Grebliauskas(5) lap=5 point=1 t=26.517 et=517.903</Score>
+<Score et="519.0">Andrius Kuzmenko(2) lap=4 point=1 t=-1.000 et=518.938</Score>
+<Score et="536.9">Martynas Sidunovas(6) lap=4 point=2 t=-1.000 et=536.794</Score>
+<Score et="538.6">Mantvydas Sileika(0) lap=5 point=0 t=-1.000 et=538.517</Score>
+<Score et="543.7">Mantvydas Verbickas(1) lap=5 point=1 t=-1.000 et=543.703</Score>
+<Score et="552.9">Andrius Stankevicius(4) lap=4 point=2 t=-1.000 et=552.841</Score>
+<Score et="559.2">Lukas Grebliauskas(5) lap=5 point=2 t=67.753 et=559.139</Score>
+<Score et="559.9">Martynas Viederis(3) lap=5 point=0 t=114.825 et=559.828</Score>
+<Score et="564.6">Andrius Kuzmenko(2) lap=4 point=2 t=-1.000 et=564.408</Score>
+<Score et="564.8">Mantvydas Sileika(0) lap=5 point=1 t=26.261 et=564.778</Score>
+<Score et="568.7">Martynas Viederis(3) lap=5 point=1 t=-1.000 et=568.611</Score>
+<Score et="568.7">Martynas Viederis(3) lap=5 point=2 t=-1.000 et=568.611</Score>
+<Score et="568.7">Martynas Viederis(3) lap=6 point=0 t=-1.000 et=568.611</Score>
+<Score et="578.6">Martynas Sidunovas(6) lap=5 point=0 t=-1.000 et=578.527</Score>
+<Score et="584.2">Mantvydas Verbickas(1) lap=5 point=2 t=-1.000 et=584.207</Score>
+<Score et="595.0">Andrius Stankevicius(4) lap=5 point=0 t=-1.000 et=594.930</Score>
+<Incident et="598.7">Andrius Kuzmenko(2) reported contact (0.35) with Cone</Incident>
+<Incident et="598.7">Andrius Kuzmenko(2) reported contact (0.32) with Cone</Incident>
+<Incident et="598.7">Andrius Kuzmenko(2) reported contact (0.10) with Cone</Incident>
+<Score et="601.1">Lukas Grebliauskas(5) lap=6 point=0 t=109.699 et=601.084</Score>
+<Score et="604.5">Martynas Sidunovas(6) lap=5 point=1 t=25.925 et=604.452</Score>
+<Score et="605.1">Mantvydas Sileika(0) lap=5 point=2 t=66.573 et=605.090</Score>
+<Score et="607.8">Andrius Kuzmenko(2) lap=5 point=0 t=-1.000 et=607.503</Score>
+<Score et="618.7">Mantvydas Sileika(0) lap=6 point=0 t=-1.000 et=618.631</Score>
+<Score et="621.1">Andrius Stankevicius(4) lap=5 point=1 t=26.131 et=621.061</Score>
+<Score et="626.3">Mantvydas Verbickas(1) lap=6 point=0 t=-1.000 et=626.305</Score>
+<Score et="627.8">Lukas Grebliauskas(5) lap=6 point=1 t=26.644 et=627.728</Score>
+<Score et="633.7">Andrius Kuzmenko(2) lap=5 point=1 t=26.150 et=633.653</Score>
+<Score et="644.6">Martynas Sidunovas(6) lap=5 point=2 t=66.051 et=644.577</Score>
+<Score et="652.3">Mantvydas Verbickas(1) lap=6 point=1 t=25.948 et=652.253</Score>
+<Score et="661.2">Andrius Stankevicius(4) lap=5 point=2 t=66.273 et=661.203</Score>
+<Score et="668.8">Lukas Grebliauskas(5) lap=6 point=2 t=67.669 et=668.753</Score>
+<Score et="674.1">Andrius Kuzmenko(2) lap=5 point=2 t=66.580 et=674.082</Score>
+<Score et="686.4">Martynas Sidunovas(6) lap=6 point=0 t=107.596 et=686.122</Score>
+<Score et="692.8">Mantvydas Verbickas(1) lap=6 point=2 t=66.488 et=692.793</Score>
+<Score et="696.8">Martynas Sidunovas(6) lap=6 point=1 t=-1.000 et=696.850</Score>
+<Score et="696.8">Martynas Sidunovas(6) lap=6 point=2 t=-1.000 et=696.850</Score>
+<Score et="696.8">Martynas Sidunovas(6) lap=7 point=0 t=-1.000 et=696.850</Score>
+<Score et="702.8">Andrius Stankevicius(4) lap=6 point=0 t=107.883 et=702.813</Score>
+<Score et="703.5">Mantvydas Verbickas(1) lap=7 point=0 t=-1.000 et=703.390</Score>
+<Score et="710.7">Lukas Grebliauskas(5) lap=7 point=0 t=109.569 et=710.653</Score>
+<Score et="712.0">Andrius Stankevicius(4) lap=6 point=1 t=-1.000 et=711.944</Score>
+<Score et="712.0">Andrius Stankevicius(4) lap=6 point=2 t=-1.000 et=711.944</Score>
+<Score et="712.0">Andrius Stankevicius(4) lap=7 point=0 t=-1.000 et=711.944</Score>
+<Score et="716.3">Andrius Kuzmenko(2) lap=6 point=0 t=108.656 et=716.159</Score>
+<Score et="716.9">Lukas Grebliauskas(5) lap=7 point=1 t=-1.000 et=716.797</Score>
+<Score et="716.9">Lukas Grebliauskas(5) lap=7 point=2 t=-1.000 et=716.797</Score>
+<Score et="716.9">Lukas Grebliauskas(5) lap=8 point=0 t=-1.000 et=716.797</Score>
+<Score et="724.6">Andrius Kuzmenko(2) lap=6 point=1 t=-1.000 et=724.543</Score>
+<Score et="724.6">Andrius Kuzmenko(2) lap=6 point=2 t=-1.000 et=724.543</Score>
+<Score et="724.6">Andrius Kuzmenko(2) lap=7 point=0 t=-1.000 et=724.543</Score>
+</Stream>
+<MostLapsCompleted>8</MostLapsCompleted>
+<Driver>
+<Name>Martynas Sidunovas</Name>
+<Connected>1</Connected>
+<VehFile>PHILIPPE_MADONIA.VEH</VehFile>
+<UpgradeCode>02000000 00000000</UpgradeCode>
+<VehName>TDS Racing #8</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>TDS Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.384">--.----</Lap>
+<Lap num="2" p="1" et="146.7231" s1="25.9482" s2="39.9732" s3="42.3081" fuel="0.325">108.2295</Lap>
+<Lap num="3" p="1" et="254.9526" s1="25.9176" s2="39.9822" s3="41.9250" fuel="0.263">107.8247</Lap>
+<Lap num="4" p="2" et="362.7773" s1="25.9172" s2="40.2360" fuel="0.227">--.----</Lap>
+<Lap num="5" p="2" et="444.4035" fuel="0.384">--.----</Lap>
+<Lap num="6" p="1" et="578.5267" s1="25.9253" s2="40.1254" s3="41.5449" fuel="0.322">107.5955</Lap>
+<Lap num="7" p="1" et="686.1223" fuel="0.443">--.----</Lap>
+<BestLapTime>107.5955</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Stankevicius</Name>
+<Connected>1</Connected>
+<VehFile>DANIELE_PERFETTI.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Tech 1 Racing #2</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>2</CarNumber>
+<TeamName>Tech 1 Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.298">--.----</Lap>
+<Lap num="2" p="2" et="154.0615" s1="26.1740" s2="40.5468" s3="41.8455" fuel="0.239">108.5663</Lap>
+<Lap num="3" p="1" et="262.6278" s1="25.9750" s2="40.1250" s3="41.5157" fuel="0.176">107.6157</Lap>
+<Lap num="4" p="1" et="370.2435" s1="25.9951" s2="40.3141" fuel="0.137">--.----</Lap>
+<Lap num="5" p="1" et="469.7309" fuel="0.294">--.----</Lap>
+<Lap num="6" p="2" et="594.9301" s1="26.1309" s2="40.1418" s3="41.6106" fuel="0.235">107.8832</Lap>
+<Lap num="7" p="2" et="702.8134" fuel="0.357">--.----</Lap>
+<BestLapTime>107.6157</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mantvydas Sileika</Name>
+<Connected>1</Connected>
+<VehFile>UNZURRUZANGA.VEH</VehFile>
+<UpgradeCode>02000000 00000000</UpgradeCode>
+<VehName>Blue Jumeirah Team #18</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>Blue Jumeirah Team</TeamName>
+<isPlayer>1</isPlayer>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.145">--.----</Lap>
+<Lap num="2" p="3" et="184.3392" s1="26.4885" s2="40.5515" s3="42.0076" fuel="0.086">109.0476</Lap>
+<Lap num="3" p="3" et="293.3869" s1="26.3409" s2="40.3072" s3="41.8011" fuel="0.027">108.4492</Lap>
+<Lap num="4" p="3" et="401.8361" fuel="0.200">--.----</Lap>
+<Lap num="5" p="3" et="412.7258" fuel="0.145">--.----</Lap>
+<Lap num="6" p="3" et="538.5171" s1="26.2614" s2="40.3118" fuel="0.106">--.----</Lap>
+<BestLapTime>108.4492</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Kuzmenko</Name>
+<Connected>1</Connected>
+<VehFile>ANDREAS_MAYERL.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Oregon Team #24</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>24</CarNumber>
+<TeamName>Oregon Team</TeamName>
+<isPlayer>1</isPlayer>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.298">--.----</Lap>
+<Lap num="2" p="2" et="149.1778" s1="26.4250" s2="40.5750" s3="42.4890" fuel="0.243">109.4890</Lap>
+<Lap num="3" p="4" et="258.6667" s1="26.2937" s2="40.8923" s3="42.2009" fuel="0.184">109.3870</Lap>
+<Lap num="4" p="4" et="368.0537" s1="26.6741" s2="40.7117" fuel="0.149">--.----</Lap>
+<Lap num="5" p="4" et="470.8770" fuel="0.298">--.----</Lap>
+<Lap num="6" p="4" et="607.5028" s1="26.1500" s2="40.4297" s3="42.0763" fuel="0.235">108.6559</Lap>
+<Lap num="7" p="4" et="716.1588" fuel="0.357">--.----</Lap>
+<BestLapTime>108.6559</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Lukas Grebliauskas</Name>
+<Connected>1</Connected>
+<VehFile>MANDONIA.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>TDS Racing #7</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>7</CarNumber>
+<TeamName>TDS Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.388">--.----</Lap>
+<Lap num="2" p="6" et="161.6418" s1="26.2937" fuel="0.373">--.----</Lap>
+<Lap num="3" p="7" et="226.0912" fuel="0.380">--.----</Lap>
+<Lap num="4" p="7" et="349.8278" fuel="0.443">--.----</Lap>
+<Lap num="5" p="7" et="367.0682" fuel="0.376">--.----</Lap>
+<Lap num="6" p="6" et="491.3853" s1="26.5175" s2="41.2360" s3="41.9453" fuel="0.314">109.6987</Lap>
+<Lap num="7" p="5" et="601.0840" s1="26.6437" s2="41.0250" s3="41.9002" fuel="0.251">109.5689</Lap>
+<Lap num="8" p="5" et="710.6530" fuel="0.443">--.----</Lap>
+<BestLapTime>109.5689</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mantvydas Verbickas</Name>
+<Connected>1</Connected>
+<VehFile>HARRIE_KOLEN.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Verschuur Autosport #16</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>Verschuur Autosport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.212">--.----</Lap>
+<Lap num="2" p="4" et="166.4411" s1="26.7693" s2="40.9200" s3="41.9502" fuel="0.153">109.6396</Lap>
+<Lap num="3" p="5" et="276.0807" s1="26.1721" s2="40.2500" fuel="0.114">--.----</Lap>
+<Lap num="4" p="5" et="351.7058" fuel="0.208">--.----</Lap>
+<Lap num="5" p="5" et="495.3583" fuel="0.267">--.----</Lap>
+<Lap num="6" p="5" et="505.5766" fuel="0.208">--.----</Lap>
+<Lap num="7" p="5" et="626.3049" s1="25.9479" s2="40.5397" fuel="0.169">--.----</Lap>
+<BestLapTime>109.6396</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Martynas Viederis</Name>
+<Connected>1</Connected>
+<VehFile>DAVID_DERMONT.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Boutsen Energy Racing #4</VehName>
+<CarType>Megane Trophy V6</CarType>
+<CarClass>Megane Trophy V6</CarClass>
+<CarNumber>4</CarNumber>
+<TeamName>Boutsen Energy Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.278">--.----</Lap>
+<Lap num="2" p="5" et="169.8528" fuel="0.333">--.----</Lap>
+<Lap num="3" p="6" et="190.8919" fuel="0.271">--.----</Lap>
+<Lap num="4" p="6" et="329.5390" s1="28.6388" s2="42.8389" s3="43.9861" fuel="0.216">115.4638</Lap>
+<Lap num="5" p="6" et="445.0028" s1="28.9250" s2="42.7152" s3="43.1848" fuel="0.157">114.8250</Lap>
+<Lap num="6" p="6" et="559.8278" fuel="0.333">--.----</Lap>
+<BestLapTime>114.8250</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

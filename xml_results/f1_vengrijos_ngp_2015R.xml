@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC Vengrija Oficialus</ServerName>
+<PlayerFile>Oficialus</PlayerFile>
+<DateTime>1424019485</DateTime>
+<TimeString>2015/02/15 18:58:05</TimeString>
+<Mod>LRC_F1_2014.rfm</Mod>
+<Season></Season>
+<TrackVenue>LRC 2014-2015</TrackVenue>
+<TrackCourse>Hungaroring</TrackCourse>
+<TrackEvent>#11 LTC.LT Vengrijos GP</TrackEvent>
+<TrackLength>4289.2</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>53</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|F1_2013</VehiclesAllowed>
+<ParcFerme>1</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>252</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1424024103</DateTime>
+<TimeString>2015/02/15 20:15:03</TimeString>
+<Laps>53</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Chat et="1.2">Martynas Dailidenas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="1.2">Martynas Dailidenas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Chat et="2.6">Mindaugas Klumbis: be rr</Chat>
+<Chat et="9.3">Modestas Paulauskas: joptvaimat</Chat>
+<Chat et="11.2">Modestas Paulauskas: 53 ratai</Chat>
+<Chat et="28.1">Martynas Dailidenas &quot;Vehicle Collision&quot; mismatch</Chat>
+<Sent et="28.1">Martynas Dailidenas &quot;Vehicle Collision&quot; mismatch: server allows mismatches</Sent>
+<Chat et="31.9">Mindaugas Klumbis: nu jei ka rr bus :D</Chat>
+<Score et="78.8">Justinas Ribelis(3) lap=0 point=1 t=-1.000 et=78.723</Score>
+<Score et="79.1">Aurimas Zamzickas(8) lap=0 point=1 t=-1.000 et=79.051</Score>
+<Score et="80.2">Modestas Paulauskas(9) lap=0 point=1 t=-1.000 et=80.069</Score>
+<Score et="80.6">Ignas Kairys(6) lap=0 point=1 t=-1.000 et=80.606</Score>
+<Score et="81.5">Martynas Dailidenas(4) lap=0 point=1 t=-1.000 et=81.512</Score>
+<Score et="82.0">Dovydas Petravicius(7) lap=0 point=1 t=-1.000 et=81.946</Score>
+<Score et="82.7">Mindaugas Klumbis(2) lap=0 point=1 t=-1.000 et=82.621</Score>
+<Chat et="90.7">Modestas Paulauskas: laginat</Chat>
+<Score et="116.9">Justinas Ribelis(3) lap=0 point=2 t=-1.000 et=116.885</Score>
+<Score et="117.3">Aurimas Zamzickas(8) lap=0 point=2 t=-1.000 et=117.232</Score>
+<Score et="119.3">Modestas Paulauskas(9) lap=0 point=2 t=-1.000 et=119.120</Score>
+<Score et="119.5">Ignas Kairys(6) lap=0 point=2 t=-1.000 et=119.446</Score>
+<Score et="119.8">Martynas Dailidenas(4) lap=0 point=2 t=-1.000 et=119.730</Score>
+<Score et="120.5">Dovydas Petravicius(7) lap=0 point=2 t=-1.000 et=120.524</Score>
+<Score et="121.8">Mindaugas Klumbis(2) lap=0 point=2 t=-1.000 et=121.785</Score>
+<Score et="204.6">Justinas Ribelis(3) lap=0 point=1 t=33.509 et=204.618</Score>
+<Score et="205.3">Modestas Paulauskas(9) lap=0 point=1 t=34.089 et=205.198</Score>
+<Score et="205.4">Aurimas Zamzickas(8) lap=0 point=1 t=34.304 et=205.414</Score>
+<Score et="205.6">Dovydas Petravicius(7) lap=0 point=1 t=34.464 et=205.574</Score>
+<Score et="206.7">Ignas Kairys(6) lap=0 point=1 t=35.518 et=206.628</Score>
+<Score et="206.7">Mindaugas Klumbis(2) lap=0 point=1 t=35.539 et=206.648</Score>
+<Score et="207.0">Martynas Dailidenas(4) lap=0 point=1 t=35.879 et=206.988</Score>
+<Score et="234.2">Justinas Ribelis(3) lap=0 point=2 t=63.071 et=234.180</Score>
+<Score et="235.0">Modestas Paulauskas(9) lap=0 point=2 t=63.865 et=234.974</Score>
+<Score et="235.7">Aurimas Zamzickas(8) lap=0 point=2 t=64.599 et=235.709</Score>
+<Score et="236.0">Dovydas Petravicius(7) lap=0 point=2 t=64.847 et=235.956</Score>
+<Score et="236.6">Ignas Kairys(6) lap=0 point=2 t=65.439 et=236.548</Score>
+<Score et="237.0">Mindaugas Klumbis(2) lap=0 point=2 t=65.814 et=236.923</Score>
+<Score et="237.5">Martynas Dailidenas(4) lap=0 point=2 t=66.412 et=237.521</Score>
+<Score et="260.6">Justinas Ribelis(3) lap=1 point=0 t=89.495 et=260.604</Score>
+<Score et="262.6">Modestas Paulauskas(9) lap=1 point=0 t=91.393 et=262.503</Score>
+<Score et="263.3">Aurimas Zamzickas(8) lap=1 point=0 t=92.163 et=263.272</Score>
+<Score et="263.4">Dovydas Petravicius(7) lap=1 point=0 t=92.258 et=263.367</Score>
+<Score et="264.3">Ignas Kairys(6) lap=1 point=0 t=93.119 et=264.228</Score>
+<Score et="264.3">Mindaugas Klumbis(2) lap=1 point=0 t=93.194 et=264.303</Score>
+<Score et="264.8">Martynas Dailidenas(4) lap=1 point=0 t=93.654 et=264.763</Score>
+<Score et="289.3">Justinas Ribelis(3) lap=1 point=1 t=28.660 et=289.264</Score>
+<Score et="291.6">Modestas Paulauskas(9) lap=1 point=1 t=29.042 et=291.545</Score>
+<Score et="291.7">Dovydas Petravicius(7) lap=1 point=1 t=28.342 et=291.708</Score>
+<Score et="292.2">Aurimas Zamzickas(8) lap=1 point=1 t=28.903 et=292.174</Score>
+<Score et="293.0">Mindaugas Klumbis(2) lap=1 point=1 t=28.633 et=292.936</Score>
+<Score et="293.8">Ignas Kairys(6) lap=1 point=1 t=29.477 et=293.705</Score>
+<Score et="294.0">Martynas Dailidenas(4) lap=1 point=1 t=29.244 et=294.007</Score>
+<Score et="319.2">Justinas Ribelis(3) lap=1 point=2 t=58.535 et=319.139</Score>
+<Score et="321.1">Modestas Paulauskas(9) lap=1 point=2 t=58.596 et=321.098</Score>
+<Score et="321.3">Dovydas Petravicius(7) lap=1 point=2 t=57.947 et=321.314</Score>
+<Score et="322.4">Aurimas Zamzickas(8) lap=1 point=2 t=59.052 et=322.324</Score>
+<Score et="322.6">Mindaugas Klumbis(2) lap=1 point=2 t=58.325 et=322.628</Score>
+<Score et="323.7">Ignas Kairys(6) lap=1 point=2 t=59.401 et=323.629</Score>
+<Score et="324.4">Martynas Dailidenas(4) lap=1 point=2 t=59.588 et=324.351</Score>
+<Score et="345.7">Justinas Ribelis(3) lap=2 point=0 t=85.036 et=345.640</Score>
+<Score et="347.9">Modestas Paulauskas(9) lap=2 point=0 t=85.341 et=347.843</Score>
+<Score et="348.1">Dovydas Petravicius(7) lap=2 point=0 t=84.638 et=348.005</Score>
+<Score et="349.2">Aurimas Zamzickas(8) lap=2 point=0 t=85.898 et=349.170</Score>
+<Score et="349.4">Mindaugas Klumbis(2) lap=2 point=0 t=85.088 et=349.392</Score>
+<Score et="350.5">Ignas Kairys(6) lap=2 point=0 t=86.201 et=350.429</Score>
+<Score et="351.5">Martynas Dailidenas(4) lap=2 point=0 t=86.720 et=351.483</Score>
+<Score et="374.3">Justinas Ribelis(3) lap=2 point=1 t=28.670 et=374.310</Score>
+<Score et="376.5">Dovydas Petravicius(7) lap=2 point=1 t=28.435 et=376.439</Score>
+<Score et="376.8">Modestas Paulauskas(9) lap=2 point=1 t=28.940 et=376.783</Score>
+<Score et="377.8">Aurimas Zamzickas(8) lap=2 point=1 t=28.578 et=377.747</Score>
+<Score et="378.2">Mindaugas Klumbis(2) lap=2 point=1 t=28.724 et=378.116</Score>
+<Score et="379.3">Ignas Kairys(6) lap=2 point=1 t=28.799 et=379.228</Score>
+<Score et="380.6">Martynas Dailidenas(4) lap=2 point=1 t=29.088 et=380.571</Score>
+<Score et="403.9">Justinas Ribelis(3) lap=2 point=2 t=58.251 et=403.891</Score>
+<Score et="405.2">Dovydas Petravicius(7) lap=2 point=2 t=57.180 et=405.184</Score>
+<Score et="406.6">Modestas Paulauskas(9) lap=2 point=2 t=58.679 et=406.522</Score>
+<Score et="407.7">Aurimas Zamzickas(8) lap=2 point=2 t=58.508 et=407.678</Score>
+<Score et="408.0">Mindaugas Klumbis(2) lap=2 point=2 t=58.595 et=407.987</Score>
+<Score et="408.8">Ignas Kairys(6) lap=2 point=2 t=58.316 et=408.744</Score>
+<Score et="410.9">Martynas Dailidenas(4) lap=2 point=2 t=59.372 et=410.855</Score>
+<Score et="430.6">Justinas Ribelis(3) lap=3 point=0 t=84.947 et=430.587</Score>
+<Score et="431.6">Dovydas Petravicius(7) lap=3 point=0 t=83.578 et=431.583</Score>
+<Score et="433.3">Modestas Paulauskas(9) lap=3 point=0 t=85.432 et=433.275</Score>
+<Score et="434.3">Aurimas Zamzickas(8) lap=3 point=0 t=85.126 et=434.295</Score>
+<Score et="434.5">Mindaugas Klumbis(2) lap=3 point=0 t=85.055 et=434.446</Score>
+<Score et="435.8">Ignas Kairys(6) lap=3 point=0 t=85.340 et=435.768</Score>
+<Score et="437.8">Martynas Dailidenas(4) lap=3 point=0 t=86.314 et=437.797</Score>
+<Score et="459.3">Justinas Ribelis(3) lap=3 point=1 t=28.702 et=459.289</Score>
+<Score et="459.8">Dovydas Petravicius(7) lap=3 point=1 t=28.230 et=459.813</Score>
+<Score et="462.3">Modestas Paulauskas(9) lap=3 point=1 t=28.939 et=462.214</Score>
+<Score et="462.7">Mindaugas Klumbis(2) lap=3 point=1 t=28.264 et=462.711</Score>
+<Score et="463.3">Aurimas Zamzickas(8) lap=3 point=1 t=28.977 et=463.272</Score>
+<Score et="464.7">Ignas Kairys(6) lap=3 point=1 t=28.913 et=464.681</Score>
+<Score et="467.1">Martynas Dailidenas(4) lap=3 point=1 t=29.319 et=467.116</Score>
+<Score et="489.7">Justinas Ribelis(3) lap=3 point=2 t=59.039 et=489.626</Score>
+<Score et="489.7">Dovydas Petravicius(7) lap=3 point=2 t=58.061 et=489.644</Score>
+<Score et="491.9">Mindaugas Klumbis(2) lap=3 point=2 t=57.451 et=491.897</Score>
+<Score et="493.3">Aurimas Zamzickas(8) lap=3 point=2 t=58.947 et=493.242</Score>
+<Score et="495.3">Modestas Paulauskas(9) lap=3 point=2 t=61.977 et=495.252</Score>
+<Score et="496.5">Ignas Kairys(6) lap=3 point=2 t=60.716 et=496.484</Score>
+<Score et="497.3">Martynas Dailidenas(4) lap=3 point=2 t=59.454 et=497.251</Score>
+<Score et="521.4">Justinas Ribelis(3) lap=4 point=0 t=90.776 et=521.363</Score>
+<Score et="521.6">Aurimas Zamzickas(8) lap=4 point=0 t=87.337 et=521.633</Score>
+<Score et="522.2">Modestas Paulauskas(9) lap=4 point=0 t=88.895 et=522.170</Score>
+<Score et="522.9">Dovydas Petravicius(7) lap=4 point=0 t=91.342 et=522.924</Score>
+<Score et="524.3">Mindaugas Klumbis(2) lap=4 point=0 t=89.810 et=524.256</Score>
+<Score et="524.7">Martynas Dailidenas(4) lap=4 point=0 t=86.899 et=524.696</Score>
+<Score et="530.5">Ignas Kairys(6) lap=4 point=0 t=94.722 et=530.490</Score>
+<Score et="550.3">Aurimas Zamzickas(8) lap=4 point=1 t=28.613 et=550.246</Score>
+<Score et="550.4">Justinas Ribelis(3) lap=4 point=1 t=28.977 et=550.340</Score>
+<Score et="550.9">Modestas Paulauskas(9) lap=4 point=1 t=28.648 et=550.818</Score>
+<Incident et="551.1">Aurimas Zamzickas(8) reported contact (0.23) with another vehicle Justinas Ribelis(3)</Incident>
+<Incident et="551.3">Justinas Ribelis(3) reported contact (0.06) with another vehicle Aurimas Zamzickas(8)</Incident>
+<Score et="551.3">Dovydas Petravicius(7) lap=4 point=1 t=28.307 et=551.231</Score>
+<Score et="552.8">Mindaugas Klumbis(2) lap=4 point=1 t=28.501 et=552.756</Score>
+<Score et="553.9">Martynas Dailidenas(4) lap=4 point=1 t=29.128 et=553.825</Score>
+<Incident et="555.0">Modestas Paulauskas(9) reported contact (0.19) with Immovable</Incident>
+<Incident et="555.0">Modestas Paulauskas(9) reported contact (0.58) with Immovable</Incident>
+<Incident et="555.0">Modestas Paulauskas(9) reported contact (0.29) with Immovable</Incident>
+<Score et="559.5">Ignas Kairys(6) lap=4 point=1 t=29.005 et=559.495</Score>
+<Incident et="574.3">Martynas Dailidenas(4) reported contact (0.71) with another vehicle Aurimas Zamzickas(8)</Incident>
+<Incident et="574.3">Aurimas Zamzickas(8) reported contact (0.90) with another vehicle Martynas Dailidenas(4)</Incident>
+<Incident et="574.3">Martynas Dailidenas(4) reported contact (0.23) with another vehicle Aurimas Zamzickas(8)</Incident>
+<Incident et="574.3">Aurimas Zamzickas(8) reported contact (0.06) with another vehicle Martynas Dailidenas(4)</Incident>
+<Incident et="578.8">Modestas Paulauskas(9) reported contact (0.19) with Wing</Incident>
+<Incident et="579.9">Ignas Kairys(6) reported contact (0.81) with Wing</Incident>
+<Score et="585.5">Justinas Ribelis(3) lap=4 point=2 t=64.131 et=585.494</Score>
+<Score et="587.2">Mindaugas Klumbis(2) lap=4 point=2 t=62.864 et=587.120</Score>
+<Score et="587.3">Dovydas Petravicius(7) lap=4 point=2 t=64.314 et=587.238</Score>
+<Score et="589.4">Martynas Dailidenas(4) lap=4 point=2 t=64.710 et=589.407</Score>
+<Score et="589.7">Modestas Paulauskas(9) lap=4 point=2 t=67.436 et=589.606</Score>
+<Score et="591.0">Ignas Kairys(6) lap=4 point=2 t=60.455 et=590.945</Score>
+<Score et="591.2">Aurimas Zamzickas(8) lap=4 point=2 t=69.547 et=591.180</Score>
+<Score et="612.3">Justinas Ribelis(3) lap=5 point=0 t=90.932 et=612.295</Score>
+<Score et="614.6">Dovydas Petravicius(7) lap=5 point=0 t=91.664 et=614.589</Score>
+<Score et="615.6">Mindaugas Klumbis(2) lap=5 point=0 t=91.272 et=615.528</Score>
+<Score et="616.6">Martynas Dailidenas(4) lap=5 point=0 t=91.909 et=616.605</Score>
+<Score et="617.0">Modestas Paulauskas(9) lap=5 point=0 t=94.723 et=616.893</Score>
+<Score et="618.4">Ignas Kairys(6) lap=5 point=0 t=87.843 et=618.333</Score>
+<Score et="622.5">Aurimas Zamzickas(8) lap=5 point=0 t=100.860 et=622.492</Score>
+<Score et="641.1">Justinas Ribelis(3) lap=5 point=1 t=28.769 et=641.065</Score>
+<Score et="643.0">Dovydas Petravicius(7) lap=5 point=1 t=28.353 et=642.941</Score>
+<Score et="644.0">Mindaugas Klumbis(2) lap=5 point=1 t=28.397 et=643.925</Score>
+<Score et="645.6">Martynas Dailidenas(4) lap=5 point=1 t=28.965 et=645.570</Score>
+<Score et="646.0">Modestas Paulauskas(9) lap=5 point=1 t=29.055 et=645.948</Score>
+<Score et="647.4">Ignas Kairys(6) lap=5 point=1 t=29.001 et=647.334</Score>
+<Score et="670.7">Justinas Ribelis(3) lap=5 point=2 t=58.425 et=670.720</Score>
+<Score et="670.8">Aurimas Zamzickas(8) lap=5 point=1 t=48.270 et=670.762</Score>
+<Score et="672.0">Dovydas Petravicius(7) lap=5 point=2 t=57.409 et=671.997</Score>
+<Score et="673.5">Mindaugas Klumbis(2) lap=5 point=2 t=57.902 et=673.431</Score>
+<Incident et="675.1">Modestas Paulauskas(9) reported contact (0.06) with another vehicle Martynas Dailidenas(4)</Incident>
+<Score et="675.8">Martynas Dailidenas(4) lap=5 point=2 t=59.182 et=675.787</Score>
+<Score et="676.1">Modestas Paulauskas(9) lap=5 point=2 t=59.106 et=675.999</Score>
+<Score et="677.2">Ignas Kairys(6) lap=5 point=2 t=58.863 et=677.196</Score>
+<Score et="697.4">Justinas Ribelis(3) lap=6 point=0 t=85.013 et=697.308</Score>
+<Score et="698.6">Dovydas Petravicius(7) lap=6 point=0 t=83.987 et=698.576</Score>
+<Score et="699.9">Aurimas Zamzickas(8) lap=5 point=2 t=77.343 et=699.835</Score>
+<Score et="699.9">Mindaugas Klumbis(2) lap=6 point=0 t=84.328 et=699.856</Score>
+<Score et="703.0">Martynas Dailidenas(4) lap=6 point=0 t=86.398 et=703.003</Score>
+<Score et="704.0">Modestas Paulauskas(9) lap=6 point=0 t=87.043 et=703.937</Score>
+<Score et="704.6">Ignas Kairys(6) lap=6 point=0 t=86.265 et=704.598</Score>
+<Score et="726.0">Justinas Ribelis(3) lap=6 point=1 t=28.710 et=726.018</Score>
+<Score et="726.5">Aurimas Zamzickas(8) lap=6 point=0 t=103.989 et=726.481</Score>
+<Score et="726.9">Dovydas Petravicius(7) lap=6 point=1 t=28.327 et=726.903</Score>
+<Score et="728.2">Mindaugas Klumbis(2) lap=6 point=1 t=28.323 et=728.179</Score>
+<Score et="732.1">Martynas Dailidenas(4) lap=6 point=1 t=29.029 et=732.032</Score>
+<Score et="732.9">Modestas Paulauskas(9) lap=6 point=1 t=28.925 et=732.862</Score>
+<Score et="733.7">Ignas Kairys(6) lap=6 point=1 t=29.074 et=733.672</Score>
+<Score et="755.2">Aurimas Zamzickas(8) lap=6 point=1 t=28.710 et=755.191</Score>
+<Score et="756.1">Justinas Ribelis(3) lap=6 point=2 t=58.748 et=756.056</Score>
+<Score et="756.4">Dovydas Petravicius(7) lap=6 point=2 t=57.773 et=756.349</Score>
+<Score et="757.9">Mindaugas Klumbis(2) lap=6 point=2 t=58.000 et=757.856</Score>
+<Score et="762.7">Modestas Paulauskas(9) lap=6 point=2 t=58.646 et=762.583</Score>
+<Score et="762.9">Martynas Dailidenas(4) lap=6 point=2 t=59.852 et=762.855</Score>
+<Score et="763.9">Ignas Kairys(6) lap=6 point=2 t=59.231 et=763.829</Score>
+<Score et="782.8">Justinas Ribelis(3) lap=7 point=0 t=85.420 et=782.728</Score>
+<Score et="783.2">Dovydas Petravicius(7) lap=7 point=0 t=84.570 et=783.146</Score>
+<Score et="784.6">Mindaugas Klumbis(2) lap=7 point=0 t=84.670 et=784.526</Score>
+<Score et="785.1">Aurimas Zamzickas(8) lap=6 point=2 t=58.595 et=785.077</Score>
+<Score et="789.5">Modestas Paulauskas(9) lap=7 point=0 t=85.475 et=789.411</Score>
+<Score et="791.5">Ignas Kairys(6) lap=7 point=0 t=86.892 et=791.490</Score>
+<Score et="795.5">Martynas Dailidenas(4) lap=7 point=0 t=92.503 et=795.506</Score>
+<Score et="811.4">Justinas Ribelis(3) lap=7 point=1 t=28.649 et=811.376</Score>
+<Score et="812.0">Dovydas Petravicius(7) lap=7 point=1 t=28.808 et=811.954</Score>
+<Score et="812.1">Aurimas Zamzickas(8) lap=7 point=0 t=85.642 et=812.123</Score>
+<Score et="813.1">Mindaugas Klumbis(2) lap=7 point=1 t=28.508 et=813.034</Score>
+<Score et="818.5">Modestas Paulauskas(9) lap=7 point=1 t=29.006 et=818.417</Score>
+<Score et="820.5">Ignas Kairys(6) lap=7 point=1 t=28.997 et=820.487</Score>
+<Score et="824.7">Martynas Dailidenas(4) lap=7 point=1 t=29.139 et=824.644</Score>
+<Score et="840.8">Aurimas Zamzickas(8) lap=7 point=1 t=28.598 et=840.721</Score>
+<Score et="840.9">Justinas Ribelis(3) lap=7 point=2 t=58.124 et=840.852</Score>
+<Score et="841.3">Dovydas Petravicius(7) lap=7 point=2 t=58.090 et=841.237</Score>
+<Score et="842.5">Mindaugas Klumbis(2) lap=7 point=2 t=57.927 et=842.453</Score>
+<Score et="849.7">Modestas Paulauskas(9) lap=7 point=2 t=60.274 et=849.685</Score>
+<Score et="850.5">Ignas Kairys(6) lap=7 point=2 t=58.966 et=850.457</Score>
+<Score et="855.5">Martynas Dailidenas(4) lap=7 point=2 t=59.918 et=855.424</Score>
+<Score et="867.6">Justinas Ribelis(3) lap=8 point=0 t=84.770 et=867.497</Score>
+<Score et="868.0">Dovydas Petravicius(7) lap=8 point=0 t=84.802 et=867.949</Score>
+<Score et="869.3">Mindaugas Klumbis(2) lap=8 point=0 t=84.708 et=869.234</Score>
+<Score et="870.1">Aurimas Zamzickas(8) lap=7 point=2 t=57.976 et=870.099</Score>
+<Score et="877.3">Modestas Paulauskas(9) lap=8 point=0 t=87.801 et=877.212</Score>
+<Score et="877.7">Ignas Kairys(6) lap=8 point=0 t=86.153 et=877.644</Score>
+<Score et="882.8">Martynas Dailidenas(4) lap=8 point=0 t=87.218 et=882.724</Score>
+<Score et="896.0">Justinas Ribelis(3) lap=8 point=1 t=28.492 et=895.989</Score>
+<Score et="896.5">Dovydas Petravicius(7) lap=8 point=1 t=28.482 et=896.431</Score>
+<Score et="896.9">Aurimas Zamzickas(8) lap=8 point=0 t=84.790 et=896.914</Score>
+<Score et="897.7">Mindaugas Klumbis(2) lap=8 point=1 t=28.419 et=897.653</Score>
+<Score et="906.3">Modestas Paulauskas(9) lap=8 point=1 t=29.024 et=906.236</Score>
+<Score et="907.2">Ignas Kairys(6) lap=8 point=1 t=29.534 et=907.178</Score>
+<Score et="911.9">Martynas Dailidenas(4) lap=8 point=1 t=29.170 et=911.894</Score>
+<Score et="925.6">Aurimas Zamzickas(8) lap=8 point=1 t=28.609 et=925.523</Score>
+<Score et="925.7">Justinas Ribelis(3) lap=8 point=2 t=58.148 et=925.646</Score>
+<Score et="925.9">Dovydas Petravicius(7) lap=8 point=2 t=57.965 et=925.913</Score>
+<Score et="927.3">Mindaugas Klumbis(2) lap=8 point=2 t=58.051 et=927.285</Score>
+<Score et="936.1">Modestas Paulauskas(9) lap=8 point=2 t=58.836 et=936.048</Score>
+<Score et="937.0">Ignas Kairys(6) lap=8 point=2 t=59.280 et=936.923</Score>
+<Score et="942.2">Martynas Dailidenas(4) lap=8 point=2 t=59.454 et=942.178</Score>
+<Score et="952.2">Justinas Ribelis(3) lap=9 point=0 t=84.695 et=952.193</Score>
+<Score et="952.6">Dovydas Petravicius(7) lap=9 point=0 t=84.659 et=952.607</Score>
+<Score et="953.9">Mindaugas Klumbis(2) lap=9 point=0 t=84.631 et=953.866</Score>
+<Score et="955.2">Aurimas Zamzickas(8) lap=8 point=2 t=58.307 et=955.220</Score>
+<Score et="963.1">Modestas Paulauskas(9) lap=9 point=0 t=85.824 et=963.036</Score>
+<Score et="967.2">Ignas Kairys(6) lap=9 point=0 t=89.481 et=967.125</Score>
+<Score et="969.6">Martynas Dailidenas(4) lap=9 point=0 t=86.866 et=969.590</Score>
+<Score et="980.9">Justinas Ribelis(3) lap=9 point=1 t=28.717 et=980.910</Score>
+<Score et="981.2">Dovydas Petravicius(7) lap=9 point=1 t=28.611 et=981.218</Score>
+<Score et="981.7">Aurimas Zamzickas(8) lap=9 point=0 t=84.784 et=981.698</Score>
+<Score et="982.5">Mindaugas Klumbis(2) lap=9 point=1 t=28.617 et=982.483</Score>
+<Score et="992.1">Modestas Paulauskas(9) lap=9 point=1 t=28.987 et=992.023</Score>
+<Score et="998.7">Martynas Dailidenas(4) lap=9 point=1 t=29.118 et=998.708</Score>
+<Score et="1010.2">Aurimas Zamzickas(8) lap=9 point=1 t=28.466 et=1010.163</Score>
+<Score et="1011.0">Justinas Ribelis(3) lap=9 point=2 t=58.752 et=1010.945</Score>
+<Score et="1011.3">Dovydas Petravicius(7) lap=9 point=2 t=58.622 et=1011.229</Score>
+<Score et="1012.2">Mindaugas Klumbis(2) lap=9 point=2 t=58.347 et=1012.213</Score>
+<Score et="1015.0">Ignas Kairys(6) lap=9 point=1 t=47.804 et=1014.929</Score>
+<Score et="1021.9">Modestas Paulauskas(9) lap=9 point=2 t=58.786 et=1021.822</Score>
+<Score et="1029.1">Martynas Dailidenas(4) lap=9 point=2 t=59.530 et=1029.119</Score>
+<Score et="1037.9">Dovydas Petravicius(7) lap=10 point=0 t=85.266 et=1037.873</Score>
+<Score et="1038.8">Mindaugas Klumbis(2) lap=10 point=0 t=84.948 et=1038.814</Score>
+<Score et="1039.6">Aurimas Zamzickas(8) lap=9 point=2 t=57.837 et=1039.534</Score>
+<Score et="1040.3">Justinas Ribelis(3) lap=10 point=0 t=88.080 et=1040.273</Score>
+<Score et="1044.9">Ignas Kairys(6) lap=9 point=2 t=77.754 et=1044.879</Score>
+<Score et="1048.9">Modestas Paulauskas(9) lap=10 point=0 t=85.826 et=1048.862</Score>
+<Score et="1057.1">Martynas Dailidenas(4) lap=10 point=0 t=87.461 et=1057.051</Score>
+<Score et="1066.1">Aurimas Zamzickas(8) lap=10 point=0 t=84.345 et=1066.043</Score>
+<Score et="1066.2">Dovydas Petravicius(7) lap=10 point=1 t=28.316 et=1066.189</Score>
+<Score et="1067.3">Mindaugas Klumbis(2) lap=10 point=1 t=28.408 et=1067.222</Score>
+<Score et="1071.9">Ignas Kairys(6) lap=10 point=0 t=104.749 et=1071.874</Score>
+<Score et="1078.0">Modestas Paulauskas(9) lap=10 point=1 t=29.096 et=1077.958</Score>
+<Score et="1082.6">Justinas Ribelis(3) lap=10 point=1 t=42.333 et=1082.606</Score>
+<Score et="1086.6">Martynas Dailidenas(4) lap=10 point=1 t=29.542 et=1086.593</Score>
+<Score et="1094.4">Aurimas Zamzickas(8) lap=10 point=1 t=28.344 et=1094.387</Score>
+<Score et="1095.1">Dovydas Petravicius(7) lap=10 point=2 t=57.201 et=1095.074</Score>
+<Score et="1096.3">Mindaugas Klumbis(2) lap=10 point=2 t=57.482 et=1096.295</Score>
+<Score et="1100.8">Ignas Kairys(6) lap=10 point=1 t=28.927 et=1100.801</Score>
+<Score et="1108.4">Modestas Paulauskas(9) lap=10 point=2 t=59.457 et=1108.320</Score>
+<Score et="1111.6">Justinas Ribelis(3) lap=10 point=2 t=71.257 et=1111.530</Score>
+<Score et="1117.1">Martynas Dailidenas(4) lap=10 point=2 t=60.016 et=1117.067</Score>
+<Score et="1121.5">Dovydas Petravicius(7) lap=11 point=0 t=83.643 et=1121.517</Score>
+<Score et="1122.5">Mindaugas Klumbis(2) lap=11 point=0 t=83.707 et=1122.520</Score>
+<Score et="1123.8">Aurimas Zamzickas(8) lap=10 point=2 t=57.676 et=1123.719</Score>
+<Score et="1130.1">Ignas Kairys(6) lap=10 point=2 t=58.196 et=1130.070</Score>
+<Score et="1138.0">Justinas Ribelis(3) lap=11 point=0 t=97.712 et=1137.985</Score>
+<Score et="1138.2">Modestas Paulauskas(9) lap=11 point=0 t=89.291 et=1138.153</Score>
+<Score et="1144.7">Martynas Dailidenas(4) lap=11 point=0 t=87.611 et=1144.661</Score>
+<Score et="1150.0">Dovydas Petravicius(7) lap=11 point=1 t=28.433 et=1149.949</Score>
+<Score et="1150.3">Aurimas Zamzickas(8) lap=11 point=0 t=84.213 et=1150.256</Score>
+<Score et="1150.8">Mindaugas Klumbis(2) lap=11 point=1 t=28.220 et=1150.740</Score>
+<Score et="1157.1">Ignas Kairys(6) lap=11 point=0 t=85.207 et=1157.080</Score>
+<Score et="1166.3">Justinas Ribelis(3) lap=11 point=1 t=28.293 et=1166.278</Score>
+<Score et="1174.1">Martynas Dailidenas(4) lap=11 point=1 t=29.425 et=1174.086</Score>
+<Score et="1178.7">Aurimas Zamzickas(8) lap=11 point=1 t=28.462 et=1178.718</Score>
+<Score et="1178.9">Dovydas Petravicius(7) lap=11 point=2 t=57.355 et=1178.872</Score>
+<Score et="1179.8">Mindaugas Klumbis(2) lap=11 point=2 t=57.238 et=1179.758</Score>
+<Score et="1180.5">Modestas Paulauskas(9) lap=11 point=1 t=42.282 et=1180.435</Score>
+<Score et="1185.9">Ignas Kairys(6) lap=11 point=1 t=28.776 et=1185.856</Score>
+<Score et="1201.5">Justinas Ribelis(3) lap=11 point=2 t=63.463 et=1201.448</Score>
+<Score et="1204.9">Martynas Dailidenas(4) lap=11 point=2 t=60.233 et=1204.895</Score>
+<Score et="1205.4">Dovydas Petravicius(7) lap=12 point=0 t=83.850 et=1205.367</Score>
+<Score et="1206.0">Mindaugas Klumbis(2) lap=12 point=0 t=83.428 et=1205.949</Score>
+<Score et="1208.2">Aurimas Zamzickas(8) lap=11 point=2 t=57.941 et=1208.197</Score>
+<Score et="1209.9">Modestas Paulauskas(9) lap=11 point=2 t=71.706 et=1209.859</Score>
+<Score et="1215.6">Ignas Kairys(6) lap=11 point=2 t=58.435 et=1215.515</Score>
+<Score et="1229.6">Justinas Ribelis(3) lap=12 point=0 t=91.634 et=1229.619</Score>
+<Score et="1233.9">Dovydas Petravicius(7) lap=12 point=1 t=28.461 et=1233.828</Score>
+<Score et="1234.1">Mindaugas Klumbis(2) lap=12 point=1 t=28.163 et=1234.111</Score>
+<Score et="1235.0">Aurimas Zamzickas(8) lap=12 point=0 t=84.711 et=1234.967</Score>
+<Score et="1236.6">Martynas Dailidenas(4) lap=12 point=0 t=91.915 et=1236.577</Score>
+<Score et="1237.1">Modestas Paulauskas(9) lap=12 point=0 t=98.878 et=1237.031</Score>
+<Incident et="1237.4">Dovydas Petravicius(7) reported contact (0.77) with another vehicle Mindaugas Klumbis(2)</Incident>
+<Incident et="1237.4">Mindaugas Klumbis(2) reported contact (0.65) with another vehicle Dovydas Petravicius(7)</Incident>
+<Incident et="1237.4">Dovydas Petravicius(7) reported contact (0.29) with another vehicle Mindaugas Klumbis(2)</Incident>
+<Incident et="1237.4">Mindaugas Klumbis(2) reported contact (0.16) with another vehicle Dovydas Petravicius(7)</Incident>
+<Score et="1242.6">Ignas Kairys(6) lap=12 point=0 t=85.541 et=1242.621</Score>
+<Score et="1258.0">Justinas Ribelis(3) lap=12 point=1 t=28.354 et=1257.973</Score>
+<Score et="1263.5">Aurimas Zamzickas(8) lap=12 point=1 t=28.525 et=1263.492</Score>
+<Score et="1266.0">Modestas Paulauskas(9) lap=12 point=1 t=28.871 et=1265.901</Score>
+<Score et="1270.1">Dovydas Petravicius(7) lap=12 point=2 t=64.753 et=1270.120</Score>
+<Score et="1271.2">Mindaugas Klumbis(2) lap=12 point=2 t=65.237 et=1271.186</Score>
+<Score et="1271.9">Ignas Kairys(6) lap=12 point=1 t=29.239 et=1271.860</Score>
+<Score et="1280.3">Martynas Dailidenas(4) lap=12 point=1 t=43.739 et=1280.315</Score>
+<Score et="1287.2">Justinas Ribelis(3) lap=12 point=2 t=57.603 et=1287.222</Score>
+<Score et="1293.2">Aurimas Zamzickas(8) lap=12 point=2 t=58.218 et=1293.185</Score>
+<Score et="1295.4">Modestas Paulauskas(9) lap=12 point=2 t=58.268 et=1295.299</Score>
+<Score et="1296.9">Dovydas Petravicius(7) lap=13 point=0 t=91.504 et=1296.871</Score>
+<Score et="1297.8">Mindaugas Klumbis(2) lap=13 point=0 t=91.859 et=1297.808</Score>
+<Score et="1301.5">Ignas Kairys(6) lap=12 point=2 t=58.832 et=1301.453</Score>
+<Score et="1310.5">Martynas Dailidenas(4) lap=12 point=2 t=73.894 et=1310.471</Score>
+<Score et="1313.6">Justinas Ribelis(3) lap=13 point=0 t=83.968 et=1313.587</Score>
+<Score et="1319.9">Aurimas Zamzickas(8) lap=13 point=0 t=84.915 et=1319.882</Score>
+<Score et="1322.2">Modestas Paulauskas(9) lap=13 point=0 t=85.086 et=1322.117</Score>
+<Score et="1325.8">Dovydas Petravicius(7) lap=13 point=1 t=28.953 et=1325.824</Score>
+<Score et="1326.3">Mindaugas Klumbis(2) lap=13 point=1 t=28.427 et=1326.235</Score>
+<Score et="1328.2">Ignas Kairys(6) lap=13 point=0 t=85.527 et=1328.148</Score>
+<Score et="1337.2">Martynas Dailidenas(4) lap=13 point=0 t=100.594 et=1337.171</Score>
+<Score et="1342.0">Justinas Ribelis(3) lap=13 point=1 t=28.414 et=1342.000</Score>
+<Score et="1348.5">Aurimas Zamzickas(8) lap=13 point=1 t=28.563 et=1348.446</Score>
+<Score et="1351.3">Modestas Paulauskas(9) lap=13 point=1 t=29.163 et=1351.279</Score>
+<Score et="1356.8">Mindaugas Klumbis(2) lap=13 point=2 t=59.000 et=1356.808</Score>
+<Score et="1356.9">Dovydas Petravicius(7) lap=13 point=2 t=59.977 et=1356.848</Score>
+<Score et="1357.1">Ignas Kairys(6) lap=13 point=1 t=28.888 et=1357.036</Score>
+<Score et="1366.5">Martynas Dailidenas(4) lap=13 point=1 t=29.269 et=1366.440</Score>
+<Score et="1371.3">Justinas Ribelis(3) lap=13 point=2 t=57.616 et=1371.203</Score>
+<Score et="1377.9">Aurimas Zamzickas(8) lap=13 point=2 t=57.962 et=1377.845</Score>
+<Score et="1381.1">Modestas Paulauskas(9) lap=13 point=2 t=58.875 et=1380.992</Score>
+<Score et="1384.3">Mindaugas Klumbis(2) lap=14 point=0 t=86.417 et=1384.225</Score>
+<Score et="1386.9">Ignas Kairys(6) lap=13 point=2 t=58.674 et=1386.822</Score>
+<Score et="1396.8">Martynas Dailidenas(4) lap=13 point=2 t=59.580 et=1396.751</Score>
+<Score et="1397.3">Dovydas Petravicius(7) lap=14 point=0 t=100.448 et=1397.319</Score>
+<Score et="1397.6">Justinas Ribelis(3) lap=14 point=0 t=83.935 et=1397.521</Score>
+<Score et="1404.6">Aurimas Zamzickas(8) lap=14 point=0 t=84.708 et=1404.590</Score>
+<Score et="1407.6">Modestas Paulauskas(9) lap=14 point=0 t=85.441 et=1407.557</Score>
+<Score et="1412.8">Mindaugas Klumbis(2) lap=14 point=1 t=28.531 et=1412.756</Score>
+<Score et="1413.6">Ignas Kairys(6) lap=14 point=0 t=85.442 et=1413.590</Score>
+<Score et="1423.4">Martynas Dailidenas(4) lap=14 point=0 t=86.230 et=1423.401</Score>
+<Score et="1425.9">Justinas Ribelis(3) lap=14 point=1 t=28.359 et=1425.880</Score>
+<Score et="1433.2">Aurimas Zamzickas(8) lap=14 point=1 t=28.577 et=1433.167</Score>
+<Score et="1433.4">Dovydas Petravicius(7) lap=14 point=1 t=36.024 et=1433.343</Score>
+<Score et="1436.6">Modestas Paulauskas(9) lap=14 point=1 t=29.025 et=1436.582</Score>
+<Score et="1442.4">Mindaugas Klumbis(2) lap=14 point=2 t=58.181 et=1442.406</Score>
+<Score et="1442.6">Ignas Kairys(6) lap=14 point=1 t=28.911 et=1442.501</Score>
+<Score et="1452.1">Martynas Dailidenas(4) lap=14 point=1 t=28.709 et=1452.110</Score>
+<Score et="1454.9">Justinas Ribelis(3) lap=14 point=2 t=57.358 et=1454.880</Score>
+<Score et="1462.3">Dovydas Petravicius(7) lap=14 point=2 t=64.960 et=1462.279</Score>
+<Score et="1463.7">Aurimas Zamzickas(8) lap=14 point=2 t=59.090 et=1463.680</Score>
+<Score et="1466.0">Modestas Paulauskas(9) lap=14 point=2 t=58.427 et=1465.985</Score>
+<Score et="1469.2">Mindaugas Klumbis(2) lap=15 point=0 t=84.972 et=1469.197</Score>
+<Score et="1472.0">Ignas Kairys(6) lap=14 point=2 t=58.341 et=1471.931</Score>
+<Score et="1481.1">Justinas Ribelis(3) lap=15 point=0 t=83.515 et=1481.037</Score>
+<Score et="1481.6">Martynas Dailidenas(4) lap=14 point=2 t=58.206 et=1481.607</Score>
+<Score et="1488.0">Dovydas Petravicius(7) lap=15 point=0 t=90.674 et=1487.993</Score>
+<Score et="1490.4">Aurimas Zamzickas(8) lap=15 point=0 t=85.732 et=1490.322</Score>
+<Score et="1492.8">Modestas Paulauskas(9) lap=15 point=0 t=85.182 et=1492.740</Score>
+<Score et="1498.1">Mindaugas Klumbis(2) lap=15 point=1 t=28.844 et=1498.042</Score>
+<Score et="1498.8">Ignas Kairys(6) lap=15 point=0 t=85.155 et=1498.745</Score>
+<Score et="1508.2">Martynas Dailidenas(4) lap=15 point=0 t=84.799 et=1508.200</Score>
+<Score et="1509.5">Justinas Ribelis(3) lap=15 point=1 t=28.395 et=1509.432</Score>
+<Score et="1516.0">Dovydas Petravicius(7) lap=15 point=1 t=27.940 et=1515.933</Score>
+<Score et="1518.8">Aurimas Zamzickas(8) lap=15 point=1 t=28.466 et=1518.788</Score>
+<Score et="1521.9">Modestas Paulauskas(9) lap=15 point=1 t=29.103 et=1521.843</Score>
+<Score et="1527.5">Ignas Kairys(6) lap=15 point=1 t=28.748 et=1527.493</Score>
+<Score et="1528.4">Mindaugas Klumbis(2) lap=15 point=2 t=59.179 et=1528.376</Score>
+<Score et="1537.0">Martynas Dailidenas(4) lap=15 point=1 t=28.754 et=1536.953</Score>
+<Score et="1538.8">Justinas Ribelis(3) lap=15 point=2 t=57.693 et=1538.729</Score>
+<Score et="1544.5">Dovydas Petravicius(7) lap=15 point=2 t=56.456 et=1544.449</Score>
+<Score et="1548.2">Aurimas Zamzickas(8) lap=15 point=2 t=57.859 et=1548.182</Score>
+<Score et="1551.2">Modestas Paulauskas(9) lap=15 point=2 t=58.380 et=1551.119</Score>
+<Score et="1556.6">Mindaugas Klumbis(2) lap=16 point=0 t=87.362 et=1556.560</Score>
+<Score et="1557.1">Ignas Kairys(6) lap=15 point=2 t=58.324 et=1557.069</Score>
+<Score et="1565.1">Justinas Ribelis(3) lap=16 point=0 t=84.058 et=1565.095</Score>
+<Score et="1568.3">Martynas Dailidenas(4) lap=15 point=2 t=60.096 et=1568.296</Score>
+<Score et="1570.2">Dovydas Petravicius(7) lap=16 point=0 t=82.174 et=1570.167</Score>
+<Score et="1574.9">Aurimas Zamzickas(8) lap=16 point=0 t=84.542 et=1574.865</Score>
+<Score et="1578.0">Modestas Paulauskas(9) lap=16 point=0 t=85.129 et=1577.868</Score>
+<Score et="1584.2">Ignas Kairys(6) lap=16 point=0 t=85.388 et=1584.133</Score>
+<Score et="1585.8">Mindaugas Klumbis(2) lap=16 point=1 t=29.235 et=1585.795</Score>
+<Score et="1593.5">Justinas Ribelis(3) lap=16 point=1 t=28.381 et=1593.476</Score>
+<Score et="1595.4">Martynas Dailidenas(4) lap=16 point=0 t=87.196 et=1595.396</Score>
+<Score et="1598.2">Dovydas Petravicius(7) lap=16 point=1 t=28.005 et=1598.172</Score>
+<Incident et="1603.3">Justinas Ribelis(3) reported contact (0.10) with Immovable</Incident>
+<Score et="1603.3">Aurimas Zamzickas(8) lap=16 point=1 t=28.445 et=1603.309</Score>
+<Incident et="1603.5">Justinas Ribelis(3) reported contact (0.26) with Immovable</Incident>
+<Score et="1606.9">Modestas Paulauskas(9) lap=16 point=1 t=28.973 et=1606.841</Score>
+<Score et="1612.9">Ignas Kairys(6) lap=16 point=1 t=28.759 et=1612.892</Score>
+<Score et="1616.0">Mindaugas Klumbis(2) lap=16 point=2 t=59.390 et=1615.950</Score>
+<Score et="1624.2">Martynas Dailidenas(4) lap=16 point=1 t=28.751 et=1624.147</Score>
+<Score et="1624.8">Justinas Ribelis(3) lap=16 point=2 t=59.615 et=1624.709</Score>
+<Score et="1626.8">Dovydas Petravicius(7) lap=16 point=2 t=56.579 et=1626.745</Score>
+<Score et="1632.8">Aurimas Zamzickas(8) lap=16 point=2 t=57.882 et=1632.747</Score>
+<Score et="1636.2">Modestas Paulauskas(9) lap=16 point=2 t=58.315 et=1636.183</Score>
+<Score et="1642.9">Ignas Kairys(6) lap=16 point=2 t=58.726 et=1642.859</Score>
+<Score et="1651.2">Justinas Ribelis(3) lap=17 point=0 t=86.114 et=1651.208</Score>
+<Score et="1652.9">Dovydas Petravicius(7) lap=17 point=0 t=82.660 et=1652.827</Score>
+<Score et="1654.0">Martynas Dailidenas(4) lap=16 point=2 t=58.566 et=1653.962</Score>
+<Score et="1655.9">Mindaugas Klumbis(2) lap=17 point=0 t=99.297 et=1655.856</Score>
+<Score et="1659.7">Aurimas Zamzickas(8) lap=17 point=0 t=84.794 et=1659.658</Score>
+<Score et="1663.0">Modestas Paulauskas(9) lap=17 point=0 t=85.033 et=1662.901</Score>
+<Score et="1669.8">Ignas Kairys(6) lap=17 point=0 t=85.622 et=1669.755</Score>
+<Score et="1679.6">Justinas Ribelis(3) lap=17 point=1 t=28.367 et=1679.575</Score>
+<Score et="1680.8">Dovydas Petravicius(7) lap=17 point=1 t=27.925 et=1680.752</Score>
+<Score et="1680.9">Martynas Dailidenas(4) lap=17 point=0 t=85.427 et=1680.823</Score>
+<Score et="1688.3">Aurimas Zamzickas(8) lap=17 point=1 t=28.676 et=1688.334</Score>
+<Score et="1691.7">Modestas Paulauskas(9) lap=17 point=1 t=28.705 et=1691.606</Score>
+<Score et="1692.1">Mindaugas Klumbis(2) lap=17 point=1 t=36.280 et=1692.136</Score>
+<Score et="1698.7">Ignas Kairys(6) lap=17 point=1 t=28.918 et=1698.673</Score>
+<Incident et="1699.7">Justinas Ribelis(3) reported contact (0.23) with Immovable</Incident>
+<Incident et="1699.9">Justinas Ribelis(3) reported contact (0.32) with Immovable</Incident>
+<Score et="1709.4">Dovydas Petravicius(7) lap=17 point=2 t=56.507 et=1709.333</Score>
+<Score et="1709.7">Martynas Dailidenas(4) lap=17 point=1 t=28.831 et=1709.654</Score>
+<Score et="1710.2">Justinas Ribelis(3) lap=17 point=2 t=58.939 et=1710.147</Score>
+<Score et="1718.0">Aurimas Zamzickas(8) lap=17 point=2 t=58.286 et=1717.945</Score>
+<Score et="1721.0">Modestas Paulauskas(9) lap=17 point=2 t=58.059 et=1720.960</Score>
+<Score et="1721.6">Mindaugas Klumbis(2) lap=17 point=2 t=65.698 et=1721.554</Score>
+<Score et="1728.2">Ignas Kairys(6) lap=17 point=2 t=58.357 et=1728.112</Score>
+<Score et="1735.3">Dovydas Petravicius(7) lap=18 point=0 t=82.424 et=1735.251</Score>
+<Score et="1736.8">Justinas Ribelis(3) lap=18 point=0 t=85.570 et=1736.778</Score>
+<Score et="1739.5">Martynas Dailidenas(4) lap=17 point=2 t=58.711 et=1739.534</Score>
+<Incident et="1741.7">Martynas Dailidenas(4) reported contact (0.03) with Immovable</Incident>
+<Incident et="1741.8">Martynas Dailidenas(4) reported contact (0.35) with Immovable</Incident>
+<Score et="1747.6">Aurimas Zamzickas(8) lap=18 point=0 t=87.900 et=1747.558</Score>
+<Score et="1747.6">Modestas Paulauskas(9) lap=18 point=0 t=84.654 et=1747.556</Score>
+<Score et="1747.9">Mindaugas Klumbis(2) lap=18 point=0 t=91.988 et=1747.844</Score>
+<Score et="1755.6">Ignas Kairys(6) lap=18 point=0 t=85.779 et=1755.533</Score>
+<Score et="1763.1">Dovydas Petravicius(7) lap=18 point=1 t=27.849 et=1763.100</Score>
+<Score et="1765.7">Justinas Ribelis(3) lap=18 point=1 t=28.859 et=1765.637</Score>
+<Score et="1768.9">Martynas Dailidenas(4) lap=18 point=0 t=88.065 et=1768.888</Score>
+<Score et="1775.8">Mindaugas Klumbis(2) lap=18 point=1 t=27.979 et=1775.824</Score>
+<Score et="1776.4">Modestas Paulauskas(9) lap=18 point=1 t=28.785 et=1776.341</Score>
+<Score et="1784.8">Ignas Kairys(6) lap=18 point=1 t=29.167 et=1784.700</Score>
+<Score et="1790.2">Aurimas Zamzickas(8) lap=18 point=1 t=42.563 et=1790.121</Score>
+<Score et="1791.3">Dovydas Petravicius(7) lap=18 point=2 t=56.029 et=1791.280</Score>
+<Score et="1795.0">Justinas Ribelis(3) lap=18 point=2 t=58.213 et=1794.991</Score>
+<Score et="1797.8">Martynas Dailidenas(4) lap=18 point=1 t=28.895 et=1797.784</Score>
+<Score et="1804.7">Mindaugas Klumbis(2) lap=18 point=2 t=56.802 et=1804.647</Score>
+<Score et="1805.8">Modestas Paulauskas(9) lap=18 point=2 t=58.204 et=1805.760</Score>
+<Score et="1814.5">Ignas Kairys(6) lap=18 point=2 t=58.924 et=1814.457</Score>
+<Score et="1817.1">Dovydas Petravicius(7) lap=19 point=0 t=81.834 et=1817.085</Score>
+<Score et="1819.8">Aurimas Zamzickas(8) lap=18 point=2 t=72.236 et=1819.794</Score>
+<Score et="1821.5">Justinas Ribelis(3) lap=19 point=0 t=84.711 et=1821.489</Score>
+<Score et="1827.6">Martynas Dailidenas(4) lap=18 point=2 t=58.678 et=1827.566</Score>
+<Score et="1830.8">Mindaugas Klumbis(2) lap=19 point=0 t=82.924 et=1830.769</Score>
+<Score et="1832.4">Modestas Paulauskas(9) lap=19 point=0 t=84.781 et=1832.337</Score>
+<Score et="1841.5">Ignas Kairys(6) lap=19 point=0 t=85.943 et=1841.477</Score>
+<Score et="1845.0">Dovydas Petravicius(7) lap=19 point=1 t=27.853 et=1844.938</Score>
+<Score et="1846.3">Aurimas Zamzickas(8) lap=19 point=0 t=98.725 et=1846.283</Score>
+<Score et="1850.0">Justinas Ribelis(3) lap=19 point=1 t=28.475 et=1849.964</Score>
+<Score et="1854.4">Martynas Dailidenas(4) lap=19 point=0 t=85.435 et=1854.323</Score>
+<Score et="1858.9">Mindaugas Klumbis(2) lap=19 point=1 t=28.134 et=1858.903</Score>
+<Score et="1861.8">Modestas Paulauskas(9) lap=19 point=1 t=29.421 et=1861.758</Score>
+<Score et="1870.5">Ignas Kairys(6) lap=19 point=1 t=28.987 et=1870.464</Score>
+<Score et="1873.3">Dovydas Petravicius(7) lap=19 point=2 t=56.213 et=1873.298</Score>
+<Score et="1874.5">Aurimas Zamzickas(8) lap=19 point=1 t=28.251 et=1874.534</Score>
+<Score et="1879.4">Justinas Ribelis(3) lap=19 point=2 t=57.896 et=1879.385</Score>
+<Score et="1883.4">Martynas Dailidenas(4) lap=19 point=1 t=28.996 et=1883.319</Score>
+<Score et="1887.8">Mindaugas Klumbis(2) lap=19 point=2 t=57.005 et=1887.774</Score>
+<Score et="1891.3">Modestas Paulauskas(9) lap=19 point=2 t=58.942 et=1891.279</Score>
+<Score et="1899.6">Dovydas Petravicius(7) lap=20 point=0 t=82.455 et=1899.539</Score>
+<Score et="1900.4">Ignas Kairys(6) lap=19 point=2 t=58.852 et=1900.328</Score>
+<Score et="1903.8">Aurimas Zamzickas(8) lap=19 point=2 t=57.452 et=1903.735</Score>
+<Score et="1905.9">Justinas Ribelis(3) lap=20 point=0 t=84.389 et=1905.878</Score>
+<Score et="1913.8">Martynas Dailidenas(4) lap=19 point=2 t=59.419 et=1913.742</Score>
+<Score et="1913.9">Mindaugas Klumbis(2) lap=20 point=0 t=83.051 et=1913.820</Score>
+<Score et="1918.3">Modestas Paulauskas(9) lap=20 point=0 t=85.869 et=1918.206</Score>
+<Score et="1927.7">Dovydas Petravicius(7) lap=20 point=1 t=28.102 et=1927.641</Score>
+<Score et="1930.5">Aurimas Zamzickas(8) lap=20 point=0 t=84.129 et=1930.412</Score>
+<Score et="1931.1">Ignas Kairys(6) lap=20 point=0 t=89.610 et=1931.087</Score>
+<Score et="1934.7">Justinas Ribelis(3) lap=20 point=1 t=28.752 et=1934.630</Score>
+<Score et="1940.9">Martynas Dailidenas(4) lap=20 point=0 t=86.504 et=1940.828</Score>
+<Score et="1941.9">Mindaugas Klumbis(2) lap=20 point=1 t=28.002 et=1941.821</Score>
+<Score et="1947.2">Modestas Paulauskas(9) lap=20 point=1 t=28.899 et=1947.105</Score>
+<Score et="1956.1">Dovydas Petravicius(7) lap=20 point=2 t=56.500 et=1956.039</Score>
+<Score et="1958.7">Aurimas Zamzickas(8) lap=20 point=1 t=28.246 et=1958.658</Score>
+<Score et="1964.4">Justinas Ribelis(3) lap=20 point=2 t=58.515 et=1964.393</Score>
+<Score et="1969.6">Martynas Dailidenas(4) lap=20 point=1 t=28.783 et=1969.610</Score>
+<Score et="1970.4">Mindaugas Klumbis(2) lap=20 point=2 t=56.553 et=1970.373</Score>
+<Score et="1976.6">Modestas Paulauskas(9) lap=20 point=2 t=58.309 et=1976.515</Score>
+<Score et="1977.9">Ignas Kairys(6) lap=20 point=1 t=46.817 et=1977.904</Score>
+<Score et="1987.2">Dovydas Petravicius(7) lap=21 point=0 t=87.674 et=1987.213</Score>
+<Score et="1987.9">Aurimas Zamzickas(8) lap=20 point=2 t=57.448 et=1987.860</Score>
+<Score et="1991.1">Justinas Ribelis(3) lap=21 point=0 t=85.225 et=1991.103</Score>
+<Score et="1996.4">Mindaugas Klumbis(2) lap=21 point=0 t=82.538 et=1996.358</Score>
+<Score et="1999.5">Martynas Dailidenas(4) lap=20 point=2 t=58.589 et=1999.416</Score>
+<Score et="2003.5">Modestas Paulauskas(9) lap=21 point=0 t=85.230 et=2003.436</Score>
+<Score et="2006.7">Ignas Kairys(6) lap=20 point=2 t=75.551 et=2006.638</Score>
+<Score et="2014.5">Aurimas Zamzickas(8) lap=21 point=0 t=84.000 et=2014.412</Score>
+<Score et="2015.4">Dovydas Petravicius(7) lap=21 point=1 t=28.178 et=2015.392</Score>
+<Score et="2019.7">Justinas Ribelis(3) lap=21 point=1 t=28.578 et=2019.682</Score>
+<Score et="2024.4">Mindaugas Klumbis(2) lap=21 point=1 t=28.013 et=2024.371</Score>
+<Score et="2032.1">Martynas Dailidenas(4) lap=21 point=0 t=91.203 et=2032.031</Score>
+<Score et="2032.4">Modestas Paulauskas(9) lap=21 point=1 t=28.896 et=2032.333</Score>
+<Score et="2033.0">Ignas Kairys(6) lap=21 point=0 t=101.855 et=2032.942</Score>
+<Score et="2042.6">Aurimas Zamzickas(8) lap=21 point=1 t=28.218 et=2042.631</Score>
+<Score et="2043.8">Dovydas Petravicius(7) lap=21 point=2 t=56.575 et=2043.789</Score>
+<Score et="2049.4">Justinas Ribelis(3) lap=21 point=2 t=58.268 et=2049.371</Score>
+<Score et="2053.2">Mindaugas Klumbis(2) lap=21 point=2 t=56.873 et=2053.231</Score>
+<Score et="2060.9">Martynas Dailidenas(4) lap=21 point=1 t=28.816 et=2060.847</Score>
+<Score et="2061.4">Ignas Kairys(6) lap=21 point=1 t=28.387 et=2061.329</Score>
+<Score et="2062.0">Modestas Paulauskas(9) lap=21 point=2 t=58.523 et=2061.960</Score>
+<Score et="2069.7">Dovydas Petravicius(7) lap=22 point=0 t=82.447 et=2069.660</Score>
+<Score et="2071.7">Aurimas Zamzickas(8) lap=21 point=2 t=57.238 et=2071.650</Score>
+<Score et="2076.1">Justinas Ribelis(3) lap=22 point=0 t=84.979 et=2076.082</Score>
+<Incident et="2078.0">Martynas Dailidenas(4) reported contact (0.55) with Immovable</Incident>
+<Incident et="2078.8">Martynas Dailidenas(4) reported contact (0.29) with Immovable</Incident>
+<Score et="2079.2">Mindaugas Klumbis(2) lap=22 point=0 t=82.824 et=2079.182</Score>
+<Score et="2088.8">Modestas Paulauskas(9) lap=22 point=0 t=85.329 et=2088.766</Score>
+<Score et="2090.9">Ignas Kairys(6) lap=21 point=2 t=57.922 et=2090.864</Score>
+<Score et="2097.8">Dovydas Petravicius(7) lap=22 point=1 t=28.145 et=2097.805</Score>
+<Score et="2098.0">Aurimas Zamzickas(8) lap=22 point=0 t=83.623 et=2098.036</Score>
+<Score et="2105.0">Justinas Ribelis(3) lap=22 point=1 t=28.921 et=2105.003</Score>
+<Score et="2107.4">Mindaugas Klumbis(2) lap=22 point=1 t=28.171 et=2107.353</Score>
+<Score et="2117.6">Modestas Paulauskas(9) lap=22 point=1 t=28.792 et=2117.558</Score>
+<Score et="2117.7">Ignas Kairys(6) lap=22 point=0 t=84.681 et=2117.622</Score>
+<Score et="2126.2">Aurimas Zamzickas(8) lap=22 point=1 t=28.149 et=2126.185</Score>
+<Score et="2126.4">Dovydas Petravicius(7) lap=22 point=2 t=56.722 et=2126.382</Score>
+<Score et="2134.9">Justinas Ribelis(3) lap=22 point=2 t=58.772 et=2134.854</Score>
+<Score et="2136.1">Mindaugas Klumbis(2) lap=22 point=2 t=56.842 et=2136.023</Score>
+<Score et="2146.0">Ignas Kairys(6) lap=22 point=1 t=28.385 et=2146.007</Score>
+<Score et="2147.3">Modestas Paulauskas(9) lap=22 point=2 t=58.519 et=2147.284</Score>
+<Sent et="2151.7">Martynas Dailidenas has left the game but vehicle has been stored in the garage</Sent>
+<Score et="2152.7">Dovydas Petravicius(7) lap=23 point=0 t=83.060 et=2152.720</Score>
+<Score et="2155.5">Aurimas Zamzickas(8) lap=22 point=2 t=57.399 et=2155.435</Score>
+<Score et="2161.6">Justinas Ribelis(3) lap=23 point=0 t=85.479 et=2161.562</Score>
+<Score et="2162.0">Mindaugas Klumbis(2) lap=23 point=0 t=82.842 et=2162.023</Score>
+<Score et="2174.3">Modestas Paulauskas(9) lap=23 point=0 t=85.502 et=2174.268</Score>
+<Incident et="2178.5">Mindaugas Klumbis(2) reported contact (0.55) with Sign</Incident>
+<Incident et="2178.5">Mindaugas Klumbis(2) reported contact (0.32) with Sign</Incident>
+<Incident et="2178.5">Mindaugas Klumbis(2) reported contact (0.26) with Sign</Incident>
+<Score et="2179.2">Ignas Kairys(6) lap=22 point=2 t=61.511 et=2179.133</Score>
+<Score et="2180.9">Dovydas Petravicius(7) lap=23 point=1 t=28.204 et=2180.924</Score>
+<Score et="2181.8">Aurimas Zamzickas(8) lap=23 point=0 t=83.750 et=2181.786</Score>
+<Score et="2191.7">Mindaugas Klumbis(2) lap=23 point=1 t=29.611 et=2191.635</Score>
+<Score et="2192.2">Justinas Ribelis(3) lap=23 point=1 t=30.657 et=2192.219</Score>
+<Incident et="2196.9">Justinas Ribelis(3) reported contact (1.00) with Immovable</Incident>
+<Score et="2203.3">Modestas Paulauskas(9) lap=23 point=1 t=28.953 et=2203.221</Score>
+<Score et="2205.6">Ignas Kairys(6) lap=23 point=0 t=87.996 et=2205.618</Score>
+<Score et="2209.4">Dovydas Petravicius(7) lap=23 point=2 t=56.660 et=2209.380</Score>
+<Score et="2210.0">Aurimas Zamzickas(8) lap=23 point=1 t=28.175 et=2209.960</Score>
+<Score et="2220.5">Mindaugas Klumbis(2) lap=23 point=2 t=58.429 et=2220.453</Score>
+<Score et="2233.2">Modestas Paulauskas(9) lap=23 point=2 t=58.871 et=2233.139</Score>
+<Score et="2234.0">Ignas Kairys(6) lap=23 point=1 t=28.385 et=2234.004</Score>
+<Score et="2234.2">Justinas Ribelis(3) lap=23 point=2 t=72.648 et=2234.210</Score>
+<Score et="2235.9">Dovydas Petravicius(7) lap=24 point=0 t=83.149 et=2235.869</Score>
+<Score et="2238.8">Aurimas Zamzickas(8) lap=23 point=2 t=56.965 et=2238.750</Score>
+<Score et="2246.5">Mindaugas Klumbis(2) lap=24 point=0 t=84.449 et=2246.472</Score>
+<Score et="2260.2">Modestas Paulauskas(9) lap=24 point=0 t=85.794 et=2260.062</Score>
+<Score et="2263.6">Ignas Kairys(6) lap=23 point=2 t=57.994 et=2263.612</Score>
+<Score et="2264.5">Dovydas Petravicius(7) lap=24 point=1 t=28.611 et=2264.480</Score>
+<Score et="2265.5">Aurimas Zamzickas(8) lap=24 point=0 t=83.693 et=2265.479</Score>
+<Score et="2266.1">Justinas Ribelis(3) lap=24 point=0 t=104.470 et=2266.032</Score>
+<Score et="2274.4">Mindaugas Klumbis(2) lap=24 point=1 t=27.887 et=2274.359</Score>
+<Score et="2289.2">Modestas Paulauskas(9) lap=24 point=1 t=29.033 et=2289.094</Score>
+<Score et="2290.1">Ignas Kairys(6) lap=24 point=0 t=84.446 et=2290.064</Score>
+<Score et="2293.4">Dovydas Petravicius(7) lap=24 point=2 t=57.474 et=2293.344</Score>
+<Score et="2293.5">Aurimas Zamzickas(8) lap=24 point=1 t=28.012 et=2293.491</Score>
+<Score et="2303.1">Mindaugas Klumbis(2) lap=24 point=2 t=56.614 et=2303.086</Score>
+<Score et="2314.9">Justinas Ribelis(3) lap=24 point=1 t=48.815 et=2314.847</Score>
+<Score et="2318.6">Ignas Kairys(6) lap=24 point=1 t=28.528 et=2318.592</Score>
+<Score et="2318.8">Modestas Paulauskas(9) lap=24 point=2 t=58.691 et=2318.753</Score>
+<Score et="2319.7">Dovydas Petravicius(7) lap=25 point=0 t=83.833 et=2319.702</Score>
+<Score et="2322.5">Aurimas Zamzickas(8) lap=24 point=2 t=57.006 et=2322.485</Score>
+<Score et="2329.2">Mindaugas Klumbis(2) lap=25 point=0 t=82.668 et=2329.140</Score>
+<Score et="2344.0">Justinas Ribelis(3) lap=24 point=2 t=77.921 et=2343.953</Score>
+<Score et="2345.7">Modestas Paulauskas(9) lap=25 point=0 t=85.536 et=2345.598</Score>
+<Score et="2347.2">Ignas Kairys(6) lap=24 point=2 t=57.119 et=2347.183</Score>
+<Score et="2347.9">Dovydas Petravicius(7) lap=25 point=1 t=28.170 et=2347.871</Score>
+<Score et="2348.9">Aurimas Zamzickas(8) lap=25 point=0 t=83.393 et=2348.872</Score>
+<Score et="2357.2">Mindaugas Klumbis(2) lap=25 point=1 t=27.979 et=2357.119</Score>
+<Score et="2370.6">Justinas Ribelis(3) lap=25 point=0 t=104.539 et=2370.571</Score>
+<Score et="2373.7">Ignas Kairys(6) lap=25 point=0 t=83.630 et=2373.694</Score>
+<Score et="2374.6">Modestas Paulauskas(9) lap=25 point=1 t=28.930 et=2374.528</Score>
+<Score et="2377.2">Aurimas Zamzickas(8) lap=25 point=1 t=28.267 et=2377.139</Score>
+<Score et="2377.4">Dovydas Petravicius(7) lap=25 point=2 t=57.653 et=2377.355</Score>
+<Score et="2385.7">Mindaugas Klumbis(2) lap=25 point=2 t=56.598 et=2385.739</Score>
+<Score et="2398.9">Justinas Ribelis(3) lap=25 point=1 t=28.290 et=2398.861</Score>
+<Score et="2402.2">Ignas Kairys(6) lap=25 point=1 t=28.451 et=2402.145</Score>
+<Score et="2403.8">Dovydas Petravicius(7) lap=26 point=0 t=84.047 et=2403.749</Score>
+<Score et="2404.4">Modestas Paulauskas(9) lap=25 point=2 t=58.731 et=2404.329</Score>
+<Score et="2406.1">Aurimas Zamzickas(8) lap=25 point=2 t=57.171 et=2406.043</Score>
+<Score et="2411.6">Mindaugas Klumbis(2) lap=26 point=0 t=82.467 et=2411.608</Score>
+<Score et="2427.8">Justinas Ribelis(3) lap=25 point=2 t=57.250 et=2427.820</Score>
+<Score et="2431.2">Modestas Paulauskas(9) lap=26 point=0 t=85.586 et=2431.184</Score>
+<Score et="2432.1">Dovydas Petravicius(7) lap=26 point=1 t=28.339 et=2432.087</Score>
+<Score et="2432.4">Aurimas Zamzickas(8) lap=26 point=0 t=83.446 et=2432.318</Score>
+<Score et="2437.3">Ignas Kairys(6) lap=25 point=2 t=63.603 et=2437.297</Score>
+<Score et="2439.7">Mindaugas Klumbis(2) lap=26 point=1 t=28.033 et=2439.641</Score>
+<Score et="2454.4">Justinas Ribelis(3) lap=26 point=0 t=83.771 et=2454.342</Score>
+<Score et="2460.3">Modestas Paulauskas(9) lap=26 point=1 t=29.073 et=2460.257</Score>
+<Score et="2460.8">Aurimas Zamzickas(8) lap=26 point=1 t=28.500 et=2460.818</Score>
+<Score et="2461.0">Dovydas Petravicius(7) lap=26 point=2 t=57.262 et=2461.010</Score>
+<Score et="2463.9">Ignas Kairys(6) lap=26 point=0 t=90.196 et=2463.891</Score>
+<Score et="2468.4">Mindaugas Klumbis(2) lap=26 point=2 t=56.752 et=2468.360</Score>
+<Score et="2482.9">Justinas Ribelis(3) lap=26 point=1 t=28.563 et=2482.905</Score>
+<Score et="2487.7">Dovydas Petravicius(7) lap=27 point=0 t=83.958 et=2487.707</Score>
+<Score et="2490.1">Modestas Paulauskas(9) lap=26 point=2 t=58.826 et=2490.010</Score>
+<Score et="2490.4">Aurimas Zamzickas(8) lap=26 point=2 t=58.058 et=2490.377</Score>
+<Score et="2492.3">Ignas Kairys(6) lap=26 point=1 t=28.372 et=2492.262</Score>
+<Score et="2494.3">Mindaugas Klumbis(2) lap=27 point=0 t=82.703 et=2494.311</Score>
+<Score et="2512.2">Justinas Ribelis(3) lap=26 point=2 t=57.863 et=2512.205</Score>
+<Score et="2516.1">Dovydas Petravicius(7) lap=27 point=1 t=28.360 et=2516.067</Score>
+<Score et="2517.5">Aurimas Zamzickas(8) lap=27 point=0 t=85.112 et=2517.431</Score>
+<Score et="2520.1">Modestas Paulauskas(9) lap=27 point=0 t=88.858 et=2520.042</Score>
+<Score et="2521.4">Ignas Kairys(6) lap=26 point=2 t=57.493 et=2521.384</Score>
+<Score et="2522.5">Mindaugas Klumbis(2) lap=27 point=1 t=28.108 et=2522.419</Score>
+<Score et="2538.4">Justinas Ribelis(3) lap=27 point=0 t=84.042 et=2538.384</Score>
+<Score et="2545.6">Dovydas Petravicius(7) lap=27 point=2 t=57.912 et=2545.619</Score>
+<Score et="2545.8">Aurimas Zamzickas(8) lap=27 point=1 t=28.281 et=2545.712</Score>
+<Score et="2547.7">Ignas Kairys(6) lap=27 point=0 t=83.724 et=2547.615</Score>
+<Score et="2551.0">Mindaugas Klumbis(2) lap=27 point=2 t=56.644 et=2550.956</Score>
+<Score et="2561.8">Modestas Paulauskas(9) lap=27 point=1 t=41.673 et=2561.715</Score>
+<Score et="2566.7">Justinas Ribelis(3) lap=27 point=1 t=28.304 et=2566.688</Score>
+<Score et="2572.5">Dovydas Petravicius(7) lap=28 point=0 t=84.739 et=2572.446</Score>
+<Score et="2574.8">Aurimas Zamzickas(8) lap=27 point=2 t=57.334 et=2574.765</Score>
+<Score et="2575.9">Ignas Kairys(6) lap=27 point=1 t=28.242 et=2575.857</Score>
+<Score et="2577.0">Mindaugas Klumbis(2) lap=28 point=0 t=82.607 et=2576.918</Score>
+<Score et="2590.6">Modestas Paulauskas(9) lap=27 point=2 t=70.501 et=2590.542</Score>
+<Score et="2595.9">Justinas Ribelis(3) lap=27 point=2 t=57.537 et=2595.921</Score>
+<Score et="2600.9">Dovydas Petravicius(7) lap=28 point=1 t=28.418 et=2600.864</Score>
+<Score et="2601.0">Aurimas Zamzickas(8) lap=28 point=0 t=83.568 et=2600.999</Score>
+<Score et="2605.0">Ignas Kairys(6) lap=27 point=2 t=57.288 et=2604.903</Score>
+<Score et="2605.0">Mindaugas Klumbis(2) lap=28 point=1 t=28.028 et=2604.947</Score>
+<Score et="2616.8">Modestas Paulauskas(9) lap=28 point=0 t=96.726 et=2616.768</Score>
+<Score et="2622.6">Justinas Ribelis(3) lap=28 point=0 t=84.161 et=2622.544</Score>
+<Score et="2629.1">Aurimas Zamzickas(8) lap=28 point=1 t=28.112 et=2629.111</Score>
+<Score et="2630.3">Dovydas Petravicius(7) lap=28 point=2 t=57.852 et=2630.298</Score>
+<Score et="2631.6">Ignas Kairys(6) lap=28 point=0 t=83.920 et=2631.535</Score>
+<Score et="2633.7">Mindaugas Klumbis(2) lap=28 point=2 t=56.729 et=2633.647</Score>
+<Score et="2645.3">Modestas Paulauskas(9) lap=28 point=1 t=28.491 et=2645.260</Score>
+<Score et="2651.0">Justinas Ribelis(3) lap=28 point=1 t=28.458 et=2651.003</Score>
+<Score et="2656.8">Dovydas Petravicius(7) lap=29 point=0 t=84.376 et=2656.822</Score>
+<Score et="2658.3">Aurimas Zamzickas(8) lap=28 point=2 t=57.257 et=2658.256</Score>
+<Score et="2659.6">Mindaugas Klumbis(2) lap=29 point=0 t=82.646 et=2659.564</Score>
+<Score et="2660.2">Ignas Kairys(6) lap=28 point=1 t=28.596 et=2660.131</Score>
+<Score et="2674.1">Modestas Paulauskas(9) lap=28 point=2 t=57.292 et=2674.060</Score>
+<Score et="2679.8">Justinas Ribelis(3) lap=28 point=2 t=57.231 et=2679.775</Score>
+<Score et="2684.5">Aurimas Zamzickas(8) lap=29 point=0 t=83.460 et=2684.459</Score>
+<Score et="2685.4">Dovydas Petravicius(7) lap=29 point=1 t=28.597 et=2685.419</Score>
+<Score et="2687.5">Mindaugas Klumbis(2) lap=29 point=1 t=27.930 et=2687.495</Score>
+<Score et="2689.6">Ignas Kairys(6) lap=28 point=2 t=57.975 et=2689.510</Score>
+<Score et="2700.3">Modestas Paulauskas(9) lap=29 point=0 t=83.409 et=2700.178</Score>
+<Score et="2706.0">Justinas Ribelis(3) lap=29 point=0 t=83.463 et=2706.007</Score>
+<Score et="2712.9">Aurimas Zamzickas(8) lap=29 point=1 t=28.443 et=2712.901</Score>
+<Score et="2715.0">Dovydas Petravicius(7) lap=29 point=2 t=58.169 et=2714.992</Score>
+<Score et="2716.2">Mindaugas Klumbis(2) lap=29 point=2 t=56.637 et=2716.201</Score>
+<Score et="2720.0">Ignas Kairys(6) lap=29 point=0 t=88.397 et=2719.932</Score>
+<Score et="2728.6">Modestas Paulauskas(9) lap=29 point=1 t=28.382 et=2728.559</Score>
+<Score et="2734.3">Justinas Ribelis(3) lap=29 point=1 t=28.218 et=2734.226</Score>
+<Score et="2741.8">Dovydas Petravicius(7) lap=30 point=0 t=84.993 et=2741.815</Score>
+<Score et="2742.1">Aurimas Zamzickas(8) lap=29 point=2 t=57.612 et=2742.071</Score>
+<Score et="2742.4">Mindaugas Klumbis(2) lap=30 point=0 t=82.790 et=2742.355</Score>
+<Score et="2757.2">Modestas Paulauskas(9) lap=29 point=2 t=56.986 et=2757.164</Score>
+<Score et="2763.1">Justinas Ribelis(3) lap=29 point=2 t=57.044 et=2763.051</Score>
+<Score et="2767.2">Ignas Kairys(6) lap=29 point=1 t=47.241 et=2767.173</Score>
+<Score et="2768.6">Aurimas Zamzickas(8) lap=30 point=0 t=84.064 et=2768.523</Score>
+<Score et="2770.6">Mindaugas Klumbis(2) lap=30 point=1 t=28.191 et=2770.545</Score>
+<Score et="2771.0">Dovydas Petravicius(7) lap=30 point=1 t=29.156 et=2770.971</Score>
+<Score et="2783.3">Modestas Paulauskas(9) lap=30 point=0 t=83.032 et=2783.209</Score>
+<Score et="2789.3">Justinas Ribelis(3) lap=30 point=0 t=83.198 et=2789.205</Score>
+<Score et="2795.8">Ignas Kairys(6) lap=29 point=2 t=75.831 et=2795.764</Score>
+<Score et="2796.7">Aurimas Zamzickas(8) lap=30 point=1 t=28.129 et=2796.652</Score>
+<Score et="2799.5">Mindaugas Klumbis(2) lap=30 point=2 t=57.067 et=2799.421</Score>
+<Score et="2800.3">Dovydas Petravicius(7) lap=30 point=2 t=58.466 et=2800.281</Score>
+<Score et="2811.7">Modestas Paulauskas(9) lap=30 point=1 t=28.396 et=2811.605</Score>
+<Score et="2817.8">Justinas Ribelis(3) lap=30 point=1 t=28.524 et=2817.729</Score>
+<Score et="2821.8">Ignas Kairys(6) lap=30 point=0 t=101.786 et=2821.718</Score>
+<Score et="2825.5">Mindaugas Klumbis(2) lap=31 point=0 t=83.072 et=2825.427</Score>
+<Score et="2826.1">Aurimas Zamzickas(8) lap=30 point=2 t=57.543 et=2826.066</Score>
+<Score et="2834.7">Dovydas Petravicius(7) lap=31 point=0 t=92.827 et=2834.643</Score>
+<Score et="2840.2">Modestas Paulauskas(9) lap=30 point=2 t=56.915 et=2840.125</Score>
+<Score et="2846.7">Justinas Ribelis(3) lap=30 point=2 t=57.488 et=2846.693</Score>
+<Score et="2850.0">Ignas Kairys(6) lap=30 point=1 t=28.258 et=2849.977</Score>
+<Score et="2852.6">Aurimas Zamzickas(8) lap=31 point=0 t=84.063 et=2852.586</Score>
+<Score et="2853.4">Mindaugas Klumbis(2) lap=31 point=1 t=27.992 et=2853.418</Score>
+<Score et="2865.9">Modestas Paulauskas(9) lap=31 point=0 t=82.660 et=2865.870</Score>
+<Score et="2870.0">Dovydas Petravicius(7) lap=31 point=1 t=35.363 et=2870.006</Score>
+<Score et="2872.9">Justinas Ribelis(3) lap=31 point=0 t=83.664 et=2872.870</Score>
+<Score et="2878.2">Ignas Kairys(6) lap=30 point=2 t=56.476 et=2878.195</Score>
+<Score et="2881.0">Aurimas Zamzickas(8) lap=31 point=1 t=28.346 et=2880.932</Score>
+<Score et="2881.9">Mindaugas Klumbis(2) lap=31 point=2 t=56.443 et=2881.869</Score>
+<Score et="2894.3">Modestas Paulauskas(9) lap=31 point=1 t=28.320 et=2894.189</Score>
+<Score et="2898.3">Dovydas Petravicius(7) lap=31 point=2 t=63.588 et=2898.231</Score>
+<Score et="2901.0">Justinas Ribelis(3) lap=31 point=1 t=28.100 et=2900.970</Score>
+<Score et="2904.0">Ignas Kairys(6) lap=31 point=0 t=82.279 et=2903.998</Score>
+<Score et="2907.7">Mindaugas Klumbis(2) lap=32 point=0 t=82.188 et=2907.614</Score>
+<Score et="2910.4">Aurimas Zamzickas(8) lap=31 point=2 t=57.790 et=2910.376</Score>
+<Score et="2923.1">Modestas Paulauskas(9) lap=31 point=2 t=57.140 et=2923.010</Score>
+<Score et="2923.7">Dovydas Petravicius(7) lap=32 point=0 t=89.082 et=2923.724</Score>
+<Score et="2929.8">Justinas Ribelis(3) lap=31 point=2 t=56.947 et=2929.817</Score>
+<Score et="2932.1">Ignas Kairys(6) lap=31 point=1 t=28.072 et=2932.070</Score>
+<Score et="2935.8">Mindaugas Klumbis(2) lap=32 point=1 t=28.152 et=2935.766</Score>
+<Score et="2937.0">Aurimas Zamzickas(8) lap=32 point=0 t=84.393 et=2936.979</Score>
+<Score et="2949.0">Modestas Paulauskas(9) lap=32 point=0 t=83.106 et=2948.976</Score>
+<Score et="2951.5">Dovydas Petravicius(7) lap=32 point=1 t=27.786 et=2951.510</Score>
+<Score et="2956.1">Justinas Ribelis(3) lap=32 point=0 t=83.199 et=2956.068</Score>
+<Score et="2960.5">Ignas Kairys(6) lap=31 point=2 t=56.463 et=2960.461</Score>
+<Score et="2964.6">Mindaugas Klumbis(2) lap=32 point=2 t=56.931 et=2964.545</Score>
+<Score et="2965.3">Aurimas Zamzickas(8) lap=32 point=1 t=28.253 et=2965.232</Score>
+<Score et="2977.3">Modestas Paulauskas(9) lap=32 point=1 t=28.298 et=2977.274</Score>
+<Score et="2979.4">Dovydas Petravicius(7) lap=32 point=2 t=55.691 et=2979.415</Score>
+<Score et="2984.2">Justinas Ribelis(3) lap=32 point=1 t=28.129 et=2984.198</Score>
+<Score et="2986.7">Ignas Kairys(6) lap=32 point=0 t=82.633 et=2986.630</Score>
+<Score et="2990.7">Mindaugas Klumbis(2) lap=33 point=0 t=83.027 et=2990.641</Score>
+<Score et="2994.6">Aurimas Zamzickas(8) lap=32 point=2 t=57.570 et=2994.548</Score>
+<Score et="3005.2">Dovydas Petravicius(7) lap=33 point=0 t=81.452 et=3005.177</Score>
+<Score et="3006.1">Modestas Paulauskas(9) lap=32 point=2 t=57.089 et=3006.066</Score>
+<Score et="3013.4">Justinas Ribelis(3) lap=32 point=2 t=57.320 et=3013.388</Score>
+<Score et="3014.8">Ignas Kairys(6) lap=32 point=1 t=28.187 et=3014.817</Score>
+<Score et="3018.8">Mindaugas Klumbis(2) lap=33 point=1 t=28.078 et=3018.719</Score>
+<Score et="3021.2">Aurimas Zamzickas(8) lap=33 point=0 t=84.196 et=3021.175</Score>
+<Score et="3032.2">Modestas Paulauskas(9) lap=33 point=0 t=83.142 et=3032.118</Score>
+<Score et="3032.9">Dovydas Petravicius(7) lap=33 point=1 t=27.733 et=3032.909</Score>
+<Score et="3039.4">Justinas Ribelis(3) lap=33 point=0 t=83.337 et=3039.405</Score>
+<Score et="3043.3">Ignas Kairys(6) lap=32 point=2 t=56.582 et=3043.212</Score>
+<Score et="3047.7">Mindaugas Klumbis(2) lap=33 point=2 t=57.040 et=3047.681</Score>
+<Score et="3049.6">Aurimas Zamzickas(8) lap=33 point=1 t=28.382 et=3049.557</Score>
+<Score et="3060.6">Modestas Paulauskas(9) lap=33 point=1 t=28.401 et=3060.519</Score>
+<Score et="3060.9">Dovydas Petravicius(7) lap=33 point=2 t=55.626 et=3060.803</Score>
+<Score et="3068.1">Justinas Ribelis(3) lap=33 point=1 t=28.691 et=3068.096</Score>
+<Score et="3069.2">Ignas Kairys(6) lap=33 point=0 t=82.499 et=3069.129</Score>
+<Score et="3073.8">Mindaugas Klumbis(2) lap=34 point=0 t=83.167 et=3073.808</Score>
+<Score et="3079.0">Aurimas Zamzickas(8) lap=33 point=2 t=57.776 et=3078.951</Score>
+<Score et="3086.6">Dovydas Petravicius(7) lap=34 point=0 t=81.438 et=3086.615</Score>
+<Score et="3089.4">Modestas Paulauskas(9) lap=33 point=2 t=57.202 et=3089.320</Score>
+<Score et="3097.0">Justinas Ribelis(3) lap=33 point=2 t=57.597 et=3097.002</Score>
+<Score et="3097.4">Ignas Kairys(6) lap=33 point=1 t=28.266 et=3097.395</Score>
+<Score et="3101.8">Mindaugas Klumbis(2) lap=34 point=1 t=27.997 et=3101.805</Score>
+<Score et="3105.5">Aurimas Zamzickas(8) lap=34 point=0 t=84.280 et=3105.455</Score>
+<Score et="3114.3">Dovydas Petravicius(7) lap=34 point=1 t=27.615 et=3114.230</Score>
+<Score et="3115.4">Modestas Paulauskas(9) lap=34 point=0 t=83.235 et=3115.353</Score>
+<Score et="3123.1">Justinas Ribelis(3) lap=34 point=0 t=83.651 et=3123.056</Score>
+<Score et="3132.9">Mindaugas Klumbis(2) lap=34 point=2 t=59.014 et=3132.822</Score>
+<Score et="3133.8">Aurimas Zamzickas(8) lap=34 point=1 t=28.332 et=3133.786</Score>
+<Score et="3142.2">Dovydas Petravicius(7) lap=34 point=2 t=55.546 et=3142.162</Score>
+<Score et="3143.7">Modestas Paulauskas(9) lap=34 point=1 t=28.274 et=3143.627</Score>
+<Score et="3151.3">Justinas Ribelis(3) lap=34 point=1 t=28.253 et=3151.308</Score>
+<Score et="3159.1">Mindaugas Klumbis(2) lap=35 point=0 t=85.313 et=3159.122</Score>
+<Sent et="3159.4">Ignas Kairys has left the game but vehicle has been stored in the garage</Sent>
+<Score et="3163.4">Aurimas Zamzickas(8) lap=34 point=2 t=57.918 et=3163.373</Score>
+<Score et="3167.6">Dovydas Petravicius(7) lap=35 point=0 t=80.942 et=3167.557</Score>
+<Score et="3172.5">Modestas Paulauskas(9) lap=34 point=2 t=57.029 et=3172.381</Score>
+<Score et="3180.2">Justinas Ribelis(3) lap=34 point=2 t=57.131 et=3180.187</Score>
+<Score et="3188.5">Mindaugas Klumbis(2) lap=35 point=1 t=29.394 et=3188.515</Score>
+<Score et="3192.5">Aurimas Zamzickas(8) lap=35 point=0 t=87.015 et=3192.470</Score>
+<Score et="3195.2">Dovydas Petravicius(7) lap=35 point=1 t=27.617 et=3195.174</Score>
+<Score et="3198.5">Modestas Paulauskas(9) lap=35 point=0 t=83.106 et=3198.458</Score>
+<Score et="3206.5">Justinas Ribelis(3) lap=35 point=0 t=83.409 et=3206.465</Score>
+<Score et="3218.3">Mindaugas Klumbis(2) lap=35 point=2 t=59.141 et=3218.263</Score>
+<Score et="3221.0">Aurimas Zamzickas(8) lap=35 point=1 t=28.473 et=3220.944</Score>
+<Score et="3222.8">Dovydas Petravicius(7) lap=35 point=2 t=55.232 et=3222.789</Score>
+<Score et="3226.8">Modestas Paulauskas(9) lap=35 point=1 t=28.280 et=3226.738</Score>
+<Score et="3234.6">Justinas Ribelis(3) lap=35 point=1 t=28.123 et=3234.588</Score>
+<Score et="3247.8">Mindaugas Klumbis(2) lap=36 point=0 t=88.674 et=3247.795</Score>
+<Score et="3248.3">Dovydas Petravicius(7) lap=36 point=0 t=80.756 et=3248.313</Score>
+<Score et="3250.8">Aurimas Zamzickas(8) lap=35 point=2 t=58.336 et=3250.806</Score>
+<Score et="3255.5">Modestas Paulauskas(9) lap=35 point=2 t=56.965 et=3255.423</Score>
+<Score et="3263.8">Justinas Ribelis(3) lap=35 point=2 t=57.316 et=3263.781</Score>
+<Score et="3276.3">Dovydas Petravicius(7) lap=36 point=1 t=27.887 et=3276.201</Score>
+<Score et="3280.7">Aurimas Zamzickas(8) lap=36 point=0 t=88.148 et=3280.618</Score>
+<Score et="3281.8">Modestas Paulauskas(9) lap=36 point=0 t=83.298 et=3281.756</Score>
+<Score et="3287.8">Mindaugas Klumbis(2) lap=36 point=1 t=40.000 et=3287.796</Score>
+<Score et="3290.1">Justinas Ribelis(3) lap=36 point=0 t=83.563 et=3290.027</Score>
+<Score et="3304.1">Dovydas Petravicius(7) lap=36 point=2 t=55.758 et=3304.072</Score>
+<Score et="3310.2">Modestas Paulauskas(9) lap=36 point=1 t=28.362 et=3310.118</Score>
+<Score et="3315.8">Mindaugas Klumbis(2) lap=36 point=2 t=67.925 et=3315.720</Score>
+<Score et="3318.3">Justinas Ribelis(3) lap=36 point=1 t=28.209 et=3318.236</Score>
+<Score et="3322.1">Aurimas Zamzickas(8) lap=36 point=1 t=41.487 et=3322.105</Score>
+<Score et="3329.6">Dovydas Petravicius(7) lap=37 point=0 t=81.287 et=3329.601</Score>
+<Score et="3339.0">Modestas Paulauskas(9) lap=36 point=2 t=57.194 et=3338.950</Score>
+<Score et="3341.1">Mindaugas Klumbis(2) lap=37 point=0 t=93.221 et=3341.017</Score>
+<Score et="3347.4">Justinas Ribelis(3) lap=36 point=2 t=57.338 et=3347.366</Score>
+<Score et="3351.4">Aurimas Zamzickas(8) lap=36 point=2 t=70.755 et=3351.372</Score>
+<Score et="3357.2">Dovydas Petravicius(7) lap=37 point=1 t=27.598 et=3357.199</Score>
+<Score et="3365.0">Modestas Paulauskas(9) lap=37 point=0 t=83.219 et=3364.975</Score>
+<Score et="3368.6">Mindaugas Klumbis(2) lap=37 point=1 t=27.533 et=3368.550</Score>
+<Score et="3373.7">Justinas Ribelis(3) lap=37 point=0 t=83.610 et=3373.638</Score>
+<Score et="3377.6">Aurimas Zamzickas(8) lap=37 point=0 t=96.902 et=3377.519</Score>
+<Score et="3384.9">Dovydas Petravicius(7) lap=37 point=2 t=55.309 et=3384.910</Score>
+<Score et="3393.5">Modestas Paulauskas(9) lap=37 point=1 t=28.431 et=3393.406</Score>
+<Score et="3396.3">Mindaugas Klumbis(2) lap=37 point=2 t=55.216 et=3396.232</Score>
+<Score et="3402.0">Justinas Ribelis(3) lap=37 point=1 t=28.346 et=3401.983</Score>
+<Score et="3405.5">Aurimas Zamzickas(8) lap=37 point=1 t=27.903 et=3405.422</Score>
+<Score et="3410.6">Dovydas Petravicius(7) lap=38 point=0 t=80.933 et=3410.533</Score>
+<Score et="3421.5">Mindaugas Klumbis(2) lap=38 point=0 t=80.420 et=3421.437</Score>
+<Score et="3422.1">Modestas Paulauskas(9) lap=37 point=2 t=57.110 et=3422.085</Score>
+<Score et="3430.7">Justinas Ribelis(3) lap=37 point=2 t=57.084 et=3430.721</Score>
+<Score et="3434.4">Aurimas Zamzickas(8) lap=37 point=2 t=56.819 et=3434.339</Score>
+<Score et="3438.3">Dovydas Petravicius(7) lap=38 point=1 t=27.753 et=3438.286</Score>
+<Score et="3448.7">Modestas Paulauskas(9) lap=38 point=0 t=83.659 et=3448.634</Score>
+<Score et="3448.9">Mindaugas Klumbis(2) lap=38 point=1 t=27.493 et=3448.929</Score>
+<Score et="3457.3">Justinas Ribelis(3) lap=38 point=0 t=83.617 et=3457.255</Score>
+<Score et="3460.6">Aurimas Zamzickas(8) lap=38 point=0 t=83.040 et=3460.559</Score>
+<Score et="3466.4">Dovydas Petravicius(7) lap=38 point=2 t=55.833 et=3466.366</Score>
+<Score et="3476.6">Mindaugas Klumbis(2) lap=38 point=2 t=55.098 et=3476.535</Score>
+<Score et="3477.2">Modestas Paulauskas(9) lap=38 point=1 t=28.454 et=3477.088</Score>
+<Score et="3485.8">Justinas Ribelis(3) lap=38 point=1 t=28.513 et=3485.767</Score>
+<Score et="3488.5">Aurimas Zamzickas(8) lap=38 point=1 t=27.862 et=3488.421</Score>
+<Score et="3492.3">Dovydas Petravicius(7) lap=39 point=0 t=81.677 et=3492.210</Score>
+<Score et="3501.8">Mindaugas Klumbis(2) lap=39 point=0 t=80.295 et=3501.732</Score>
+<Score et="3506.4">Modestas Paulauskas(9) lap=38 point=2 t=57.666 et=3506.301</Score>
+<Score et="3514.9">Justinas Ribelis(3) lap=38 point=2 t=57.642 et=3514.896</Score>
+<Score et="3517.1">Aurimas Zamzickas(8) lap=38 point=2 t=56.506 et=3517.066</Score>
+<Score et="3520.4">Dovydas Petravicius(7) lap=39 point=1 t=28.149 et=3520.359</Score>
+<Score et="3529.2">Mindaugas Klumbis(2) lap=39 point=1 t=27.425 et=3529.156</Score>
+<Score et="3532.8">Modestas Paulauskas(9) lap=39 point=0 t=84.067 et=3532.702</Score>
+<Score et="3541.1">Justinas Ribelis(3) lap=39 point=0 t=83.851 et=3541.106</Score>
+<Score et="3543.1">Aurimas Zamzickas(8) lap=39 point=0 t=82.458 et=3543.018</Score>
+<Score et="3549.7">Dovydas Petravicius(7) lap=39 point=2 t=57.512 et=3549.723</Score>
+<Score et="3556.9">Mindaugas Klumbis(2) lap=39 point=2 t=55.180 et=3556.912</Score>
+<Score et="3561.6">Modestas Paulauskas(9) lap=39 point=1 t=28.856 et=3561.558</Score>
+<Score et="3569.4">Justinas Ribelis(3) lap=39 point=1 t=28.267 et=3569.373</Score>
+<Score et="3570.9">Aurimas Zamzickas(8) lap=39 point=1 t=27.844 et=3570.861</Score>
+<Score et="3576.9">Dovydas Petravicius(7) lap=40 point=0 t=84.615 et=3576.825</Score>
+<Score et="3582.4">Mindaugas Klumbis(2) lap=40 point=0 t=80.637 et=3582.369</Score>
+<Score et="3590.9">Modestas Paulauskas(9) lap=39 point=2 t=58.095 et=3590.797</Score>
+<Score et="3598.7">Justinas Ribelis(3) lap=39 point=2 t=57.547 et=3598.653</Score>
+<Score et="3599.5">Aurimas Zamzickas(8) lap=39 point=2 t=56.441 et=3599.459</Score>
+<Score et="3605.2">Dovydas Petravicius(7) lap=40 point=1 t=28.330 et=3605.155</Score>
+<Score et="3609.8">Mindaugas Klumbis(2) lap=40 point=1 t=27.434 et=3609.803</Score>
+<Score et="3619.7">Modestas Paulauskas(9) lap=40 point=0 t=86.888 et=3619.589</Score>
+<Score et="3625.2">Justinas Ribelis(3) lap=40 point=0 t=84.059 et=3625.165</Score>
+<Score et="3625.4">Aurimas Zamzickas(8) lap=40 point=0 t=82.360 et=3625.378</Score>
+<Score et="3634.6">Dovydas Petravicius(7) lap=40 point=2 t=57.729 et=3634.554</Score>
+<Score et="3637.4">Mindaugas Klumbis(2) lap=40 point=2 t=55.017 et=3637.386</Score>
+<Score et="3653.2">Aurimas Zamzickas(8) lap=40 point=1 t=27.795 et=3653.173</Score>
+<Score et="3653.6">Justinas Ribelis(3) lap=40 point=1 t=28.438 et=3653.603</Score>
+<Score et="3661.3">Dovydas Petravicius(7) lap=41 point=0 t=84.436 et=3661.261</Score>
+<Score et="3661.3">Modestas Paulauskas(9) lap=40 point=1 t=41.683 et=3661.272</Score>
+<Score et="3662.8">Mindaugas Klumbis(2) lap=41 point=0 t=80.410 et=3662.780</Score>
+<Score et="3682.0">Aurimas Zamzickas(8) lap=40 point=2 t=56.575 et=3681.952</Score>
+<Score et="3683.1">Justinas Ribelis(3) lap=40 point=2 t=57.881 et=3683.047</Score>
+<Score et="3688.9">Dovydas Petravicius(7) lap=41 point=1 t=27.627 et=3688.888</Score>
+<Score et="3690.2">Modestas Paulauskas(9) lap=40 point=2 t=70.501 et=3690.090</Score>
+<Score et="3690.4">Mindaugas Klumbis(2) lap=41 point=1 t=27.546 et=3690.325</Score>
+<Score et="3707.7">Aurimas Zamzickas(8) lap=41 point=0 t=82.326 et=3707.704</Score>
+<Score et="3711.9">Justinas Ribelis(3) lap=41 point=0 t=86.636 et=3711.801</Score>
+<Score et="3716.1">Modestas Paulauskas(9) lap=41 point=0 t=96.481 et=3716.070</Score>
+<Score et="3717.0">Dovydas Petravicius(7) lap=41 point=2 t=55.723 et=3716.984</Score>
+<Score et="3718.1">Mindaugas Klumbis(2) lap=41 point=2 t=55.245 et=3718.025</Score>
+<Score et="3735.7">Aurimas Zamzickas(8) lap=41 point=1 t=27.945 et=3735.648</Score>
+<Score et="3743.2">Dovydas Petravicius(7) lap=42 point=0 t=81.868 et=3743.130</Score>
+<Score et="3743.7">Mindaugas Klumbis(2) lap=42 point=0 t=80.902 et=3743.681</Score>
+<Score et="3744.3">Modestas Paulauskas(9) lap=41 point=1 t=28.117 et=3744.188</Score>
+<Score et="3753.3">Justinas Ribelis(3) lap=41 point=1 t=41.476 et=3753.277</Score>
+<Score et="3764.0">Aurimas Zamzickas(8) lap=41 point=2 t=56.307 et=3764.010</Score>
+<Score et="3770.8">Dovydas Petravicius(7) lap=42 point=1 t=27.691 et=3770.821</Score>
+<Score et="3771.3">Mindaugas Klumbis(2) lap=42 point=1 t=27.559 et=3771.241</Score>
+<Score et="3772.5">Modestas Paulauskas(9) lap=41 point=2 t=56.383 et=3772.453</Score>
+<Score et="3781.3">Justinas Ribelis(3) lap=41 point=2 t=69.483 et=3781.285</Score>
+<Score et="3789.8">Aurimas Zamzickas(8) lap=42 point=0 t=82.077 et=3789.780</Score>
+<Score et="3798.1">Modestas Paulauskas(9) lap=42 point=0 t=81.981 et=3798.052</Score>
+<Score et="3798.9">Dovydas Petravicius(7) lap=42 point=2 t=55.717 et=3798.846</Score>
+<Score et="3799.6">Mindaugas Klumbis(2) lap=42 point=2 t=55.872 et=3799.553</Score>
+<Score et="3807.0">Justinas Ribelis(3) lap=42 point=0 t=95.124 et=3806.926</Score>
+<Score et="3817.6">Aurimas Zamzickas(8) lap=42 point=1 t=27.786 et=3817.566</Score>
+<Score et="3824.5">Dovydas Petravicius(7) lap=43 point=0 t=81.312 et=3824.442</Score>
+<Score et="3824.6">Mindaugas Klumbis(2) lap=43 point=0 t=80.928 et=3824.610</Score>
+<Score et="3826.3">Modestas Paulauskas(9) lap=42 point=1 t=28.219 et=3826.270</Score>
+<Score et="3834.6">Justinas Ribelis(3) lap=42 point=1 t=27.673 et=3834.599</Score>
+<Score et="3845.9">Aurimas Zamzickas(8) lap=42 point=2 t=56.053 et=3845.834</Score>
+<Score et="3852.3">Mindaugas Klumbis(2) lap=43 point=1 t=27.620 et=3852.230</Score>
+<Score et="3852.6">Dovydas Petravicius(7) lap=43 point=1 t=28.139 et=3852.581</Score>
+<Score et="3854.7">Modestas Paulauskas(9) lap=42 point=2 t=56.615 et=3854.667</Score>
+<Score et="3862.3">Justinas Ribelis(3) lap=42 point=2 t=55.362 et=3862.288</Score>
+<Score et="3871.7">Aurimas Zamzickas(8) lap=43 point=0 t=81.915 et=3871.695</Score>
+<Score et="3879.9">Mindaugas Klumbis(2) lap=43 point=2 t=55.240 et=3879.849</Score>
+<Score et="3880.3">Modestas Paulauskas(9) lap=43 point=0 t=82.205 et=3880.257</Score>
+<Score et="3880.7">Dovydas Petravicius(7) lap=43 point=2 t=56.223 et=3880.664</Score>
+<Score et="3888.0">Justinas Ribelis(3) lap=43 point=0 t=80.951 et=3887.876</Score>
+<Score et="3899.6">Aurimas Zamzickas(8) lap=43 point=1 t=27.927 et=3899.623</Score>
+<Score et="3905.2">Mindaugas Klumbis(2) lap=44 point=0 t=80.540 et=3905.150</Score>
+<Score et="3906.2">Dovydas Petravicius(7) lap=44 point=0 t=81.688 et=3906.129</Score>
+<Score et="3908.5">Modestas Paulauskas(9) lap=43 point=1 t=28.200 et=3908.457</Score>
+<Score et="3915.5">Justinas Ribelis(3) lap=43 point=1 t=27.612 et=3915.488</Score>
+<Score et="3928.2">Aurimas Zamzickas(8) lap=43 point=2 t=56.525 et=3928.220</Score>
+<Score et="3932.8">Mindaugas Klumbis(2) lap=44 point=1 t=27.593 et=3932.742</Score>
+<Score et="3933.8">Dovydas Petravicius(7) lap=44 point=1 t=27.619 et=3933.748</Score>
+<Score et="3936.5">Modestas Paulauskas(9) lap=43 point=2 t=56.143 et=3936.400</Score>
+<Score et="3943.2">Justinas Ribelis(3) lap=43 point=2 t=55.261 et=3943.137</Score>
+<Score et="3954.1">Aurimas Zamzickas(8) lap=44 point=0 t=82.372 et=3954.067</Score>
+<Score et="3960.3">Mindaugas Klumbis(2) lap=44 point=2 t=55.122 et=3960.272</Score>
+<Score et="3961.7">Dovydas Petravicius(7) lap=44 point=2 t=55.535 et=3961.665</Score>
+<Score et="3962.0">Modestas Paulauskas(9) lap=44 point=0 t=81.631 et=3961.887</Score>
+<Score et="3968.7">Justinas Ribelis(3) lap=44 point=0 t=80.817 et=3968.693</Score>
+<Score et="3981.8">Aurimas Zamzickas(8) lap=44 point=1 t=27.752 et=3981.819</Score>
+<Score et="3985.7">Mindaugas Klumbis(2) lap=45 point=0 t=80.525 et=3985.674</Score>
+<Score et="3987.1">Dovydas Petravicius(7) lap=45 point=0 t=80.919 et=3987.048</Score>
+<Score et="3990.0">Modestas Paulauskas(9) lap=44 point=1 t=28.088 et=3989.975</Score>
+<Score et="3996.4">Justinas Ribelis(3) lap=44 point=1 t=27.682 et=3996.375</Score>
+<Score et="4010.6">Aurimas Zamzickas(8) lap=44 point=2 t=56.513 et=4010.581</Score>
+<Score et="4013.1">Mindaugas Klumbis(2) lap=45 point=1 t=27.435 et=4013.109</Score>
+<Score et="4014.8">Dovydas Petravicius(7) lap=45 point=1 t=27.697 et=4014.746</Score>
+<Score et="4018.1">Modestas Paulauskas(9) lap=44 point=2 t=56.155 et=4018.043</Score>
+<Score et="4024.4">Justinas Ribelis(3) lap=44 point=2 t=55.675 et=4024.369</Score>
+<Score et="4036.6">Aurimas Zamzickas(8) lap=45 point=0 t=82.498 et=4036.565</Score>
+<Score et="4041.0">Mindaugas Klumbis(2) lap=45 point=2 t=55.338 et=4041.012</Score>
+<Score et="4043.0">Dovydas Petravicius(7) lap=45 point=2 t=55.971 et=4043.020</Score>
+<Score et="4043.8">Modestas Paulauskas(9) lap=45 point=0 t=81.827 et=4043.715</Score>
+<Score et="4050.3">Justinas Ribelis(3) lap=45 point=0 t=81.617 et=4050.310</Score>
+<Score et="4064.4">Aurimas Zamzickas(8) lap=45 point=1 t=27.799 et=4064.365</Score>
+<Score et="4066.3">Mindaugas Klumbis(2) lap=46 point=0 t=80.545 et=4066.220</Score>
+<Score et="4068.7">Dovydas Petravicius(7) lap=46 point=0 t=81.622 et=4068.670</Score>
+<Score et="4071.8">Modestas Paulauskas(9) lap=45 point=1 t=28.053 et=4071.768</Score>
+<Score et="4078.1">Justinas Ribelis(3) lap=45 point=1 t=27.766 et=4078.076</Score>
+<Score et="4092.8">Aurimas Zamzickas(8) lap=45 point=2 t=56.262 et=4092.828</Score>
+<Score et="4093.8">Mindaugas Klumbis(2) lap=46 point=1 t=27.555 et=4093.775</Score>
+<Score et="4096.4">Dovydas Petravicius(7) lap=46 point=1 t=27.683 et=4096.354</Score>
+<Score et="4100.0">Modestas Paulauskas(9) lap=45 point=2 t=56.235 et=4099.950</Score>
+<Score et="4106.0">Justinas Ribelis(3) lap=45 point=2 t=55.649 et=4105.959</Score>
+<Score et="4118.6">Aurimas Zamzickas(8) lap=46 point=0 t=82.047 et=4118.612</Score>
+<Score et="4122.0">Mindaugas Klumbis(2) lap=46 point=2 t=55.697 et=4121.917</Score>
+<Score et="4124.5">Dovydas Petravicius(7) lap=46 point=2 t=55.842 et=4124.513</Score>
+<Score et="4125.7">Modestas Paulauskas(9) lap=46 point=0 t=81.940 et=4125.654</Score>
+<Score et="4131.4">Justinas Ribelis(3) lap=46 point=0 t=81.061 et=4131.371</Score>
+<Score et="4146.4">Aurimas Zamzickas(8) lap=46 point=1 t=27.742 et=4146.354</Score>
+<Score et="4147.5">Mindaugas Klumbis(2) lap=47 point=0 t=81.232 et=4147.452</Score>
+<Score et="4150.3">Dovydas Petravicius(7) lap=47 point=0 t=81.610 et=4150.280</Score>
+<Score et="4153.7">Modestas Paulauskas(9) lap=46 point=1 t=27.974 et=4153.628</Score>
+<Score et="4159.1">Justinas Ribelis(3) lap=46 point=1 t=27.696 et=4159.067</Score>
+<Score et="4174.9">Mindaugas Klumbis(2) lap=47 point=1 t=27.391 et=4174.843</Score>
+<Score et="4175.1">Aurimas Zamzickas(8) lap=46 point=2 t=56.427 et=4175.039</Score>
+<Score et="4178.3">Dovydas Petravicius(7) lap=47 point=1 t=27.995 et=4178.275</Score>
+<Score et="4181.6">Modestas Paulauskas(9) lap=46 point=2 t=55.928 et=4181.583</Score>
+<Score et="4186.9">Justinas Ribelis(3) lap=46 point=2 t=55.518 et=4186.889</Score>
+<Score et="4201.0">Aurimas Zamzickas(8) lap=47 point=0 t=82.341 et=4200.953</Score>
+<Score et="4203.3">Mindaugas Klumbis(2) lap=47 point=2 t=55.793 et=4203.246</Score>
+<Score et="4206.5">Dovydas Petravicius(7) lap=47 point=2 t=56.153 et=4206.434</Score>
+<Score et="4207.3">Modestas Paulauskas(9) lap=47 point=0 t=81.630 et=4207.284</Score>
+<Score et="4212.3">Justinas Ribelis(3) lap=47 point=0 t=80.889 et=4212.260</Score>
+<Score et="4228.8">Aurimas Zamzickas(8) lap=47 point=1 t=27.764 et=4228.717</Score>
+<Score et="4228.9">Mindaugas Klumbis(2) lap=48 point=0 t=81.458 et=4228.910</Score>
+<Score et="4232.3">Dovydas Petravicius(7) lap=48 point=0 t=82.025 et=4232.305</Score>
+<Score et="4235.5">Modestas Paulauskas(9) lap=47 point=1 t=28.120 et=4235.403</Score>
+<Score et="4239.8">Justinas Ribelis(3) lap=47 point=1 t=27.484 et=4239.744</Score>
+<Score et="4256.5">Mindaugas Klumbis(2) lap=48 point=1 t=27.541 et=4256.451</Score>
+<Score et="4257.1">Aurimas Zamzickas(8) lap=47 point=2 t=56.166 et=4257.119</Score>
+<Score et="4260.2">Dovydas Petravicius(7) lap=48 point=1 t=27.850 et=4260.154</Score>
+<Score et="4263.4">Modestas Paulauskas(9) lap=47 point=2 t=56.036 et=4263.319</Score>
+<Score et="4267.5">Justinas Ribelis(3) lap=47 point=2 t=55.246 et=4267.507</Score>
+<Incident et="4276.9">Justinas Ribelis(3) reported contact (0.61) with Immovable</Incident>
+<Score et="4283.1">Aurimas Zamzickas(8) lap=48 point=0 t=82.153 et=4283.106</Score>
+<Score et="4284.7">Mindaugas Klumbis(2) lap=48 point=2 t=55.753 et=4284.663</Score>
+<Score et="4288.4">Dovydas Petravicius(7) lap=48 point=2 t=56.111 et=4288.416</Score>
+<Score et="4289.0">Modestas Paulauskas(9) lap=48 point=0 t=81.691 et=4288.975</Score>
+<Score et="4300.7">Justinas Ribelis(3) lap=48 point=0 t=88.433 et=4300.693</Score>
+<Score et="4310.2">Mindaugas Klumbis(2) lap=49 point=0 t=81.271 et=4310.181</Score>
+<Score et="4311.0">Aurimas Zamzickas(8) lap=48 point=1 t=27.886 et=4310.993</Score>
+<Score et="4314.2">Dovydas Petravicius(7) lap=49 point=0 t=81.892 et=4314.197</Score>
+<Score et="4316.9">Modestas Paulauskas(9) lap=48 point=1 t=27.907 et=4316.882</Score>
+<Score et="4328.5">Justinas Ribelis(3) lap=48 point=1 t=27.773 et=4328.466</Score>
+<Score et="4337.6">Mindaugas Klumbis(2) lap=49 point=1 t=27.349 et=4337.529</Score>
+<Score et="4339.5">Aurimas Zamzickas(8) lap=48 point=2 t=56.372 et=4339.479</Score>
+<Score et="4342.1">Dovydas Petravicius(7) lap=49 point=1 t=27.884 et=4342.081</Score>
+<Score et="4346.2">Modestas Paulauskas(9) lap=48 point=2 t=57.127 et=4346.102</Score>
+<Score et="4356.5">Justinas Ribelis(3) lap=48 point=2 t=55.828 et=4356.521</Score>
+<Score et="4365.4">Aurimas Zamzickas(8) lap=49 point=0 t=82.232 et=4365.338</Score>
+<Score et="4365.5">Mindaugas Klumbis(2) lap=49 point=2 t=55.311 et=4365.491</Score>
+<Score et="4370.9">Dovydas Petravicius(7) lap=49 point=2 t=56.333 et=4370.529</Score>
+<Score et="4371.8">Modestas Paulauskas(9) lap=49 point=0 t=82.736 et=4371.710</Score>
+<Score et="4382.1">Justinas Ribelis(3) lap=49 point=0 t=81.334 et=4382.027</Score>
+<Score et="4390.8">Mindaugas Klumbis(2) lap=50 point=0 t=80.655 et=4390.835</Score>
+<Score et="4393.1">Aurimas Zamzickas(8) lap=49 point=1 t=27.677 et=4393.015</Score>
+<Score et="4396.9">Dovydas Petravicius(7) lap=50 point=0 t=82.653 et=4396.850</Score>
+<Score et="4399.8">Modestas Paulauskas(9) lap=49 point=1 t=28.024 et=4399.734</Score>
+<Score et="4409.7">Justinas Ribelis(3) lap=49 point=1 t=27.613 et=4409.640</Score>
+<Score et="4418.3">Mindaugas Klumbis(2) lap=50 point=1 t=27.419 et=4418.255</Score>
+<Score et="4421.6">Aurimas Zamzickas(8) lap=49 point=2 t=56.216 et=4421.554</Score>
+<Score et="4425.0">Dovydas Petravicius(7) lap=50 point=1 t=28.085 et=4424.935</Score>
+<Score et="4428.0">Modestas Paulauskas(9) lap=49 point=2 t=56.264 et=4427.974</Score>
+<Score et="4437.6">Justinas Ribelis(3) lap=49 point=2 t=55.523 et=4437.550</Score>
+<Score et="4446.3">Mindaugas Klumbis(2) lap=50 point=2 t=55.438 et=4446.273</Score>
+<Score et="4447.9">Aurimas Zamzickas(8) lap=50 point=0 t=82.561 et=4447.899</Score>
+<Score et="4453.6">Dovydas Petravicius(7) lap=50 point=2 t=56.766 et=4453.616</Score>
+<Score et="4453.8">Modestas Paulauskas(9) lap=50 point=0 t=81.999 et=4453.709</Score>
+<Score et="4463.3">Justinas Ribelis(3) lap=50 point=0 t=81.243 et=4463.270</Score>
+<Score et="4472.1">Mindaugas Klumbis(2) lap=51 point=0 t=81.190 et=4472.026</Score>
+<Score et="4476.0">Aurimas Zamzickas(8) lap=50 point=1 t=28.076 et=4475.976</Score>
+<Score et="4481.8">Modestas Paulauskas(9) lap=50 point=1 t=28.022 et=4481.731</Score>
+<Score et="4484.0">Dovydas Petravicius(7) lap=51 point=0 t=87.055 et=4483.904</Score>
+<Score et="4491.0">Justinas Ribelis(3) lap=50 point=1 t=27.676 et=4490.946</Score>
+<Score et="4499.8">Mindaugas Klumbis(2) lap=51 point=1 t=27.813 et=4499.839</Score>
+<Score et="4504.8">Aurimas Zamzickas(8) lap=50 point=2 t=56.848 et=4504.747</Score>
+<Score et="4510.2">Modestas Paulauskas(9) lap=50 point=2 t=56.386 et=4510.095</Score>
+<Score et="4512.2">Dovydas Petravicius(7) lap=51 point=1 t=28.286 et=4512.190</Score>
+<Score et="4519.1">Justinas Ribelis(3) lap=50 point=2 t=55.814 et=4519.083</Score>
+<Score et="4528.2">Mindaugas Klumbis(2) lap=51 point=2 t=56.149 et=4528.175</Score>
+<Score et="4530.9">Aurimas Zamzickas(8) lap=51 point=0 t=82.995 et=4530.895</Score>
+<Score et="4535.9">Modestas Paulauskas(9) lap=51 point=0 t=82.104 et=4535.813</Score>
+<Score et="4541.4">Dovydas Petravicius(7) lap=51 point=2 t=57.520 et=4541.425</Score>
+<Score et="4544.7">Justinas Ribelis(3) lap=51 point=0 t=81.342 et=4544.612</Score>
+<Score et="4553.9">Mindaugas Klumbis(2) lap=52 point=0 t=81.860 et=4553.886</Score>
+<Score et="4559.2">Aurimas Zamzickas(8) lap=51 point=1 t=28.232 et=4559.126</Score>
+<Incident et="4562.4">Dovydas Petravicius(7) reported contact (0.06) with Immovable</Incident>
+<Score et="4564.1">Modestas Paulauskas(9) lap=51 point=1 t=28.258 et=4564.071</Score>
+<Score et="4572.4">Justinas Ribelis(3) lap=51 point=1 t=27.694 et=4572.305</Score>
+<Score et="4576.9">Dovydas Petravicius(7) lap=52 point=0 t=92.968 et=4576.872</Score>
+<Score et="4585.4">Mindaugas Klumbis(2) lap=52 point=1 t=31.478 et=4585.364</Score>
+<Score et="4588.4">Aurimas Zamzickas(8) lap=51 point=2 t=57.523 et=4588.417</Score>
+<Score et="4592.6">Modestas Paulauskas(9) lap=51 point=2 t=56.680 et=4592.493</Score>
+<Score et="4600.4">Justinas Ribelis(3) lap=51 point=2 t=55.756 et=4600.368</Score>
+<Score et="4606.0">Dovydas Petravicius(7) lap=52 point=1 t=29.083 et=4605.956</Score>
+<Score et="4614.7">Aurimas Zamzickas(8) lap=52 point=0 t=83.764 et=4614.658</Score>
+<Score et="4618.3">Modestas Paulauskas(9) lap=52 point=0 t=82.452 et=4618.266</Score>
+<Score et="4626.1">Justinas Ribelis(3) lap=52 point=0 t=81.462 et=4626.074</Score>
+<Score et="4628.1">Mindaugas Klumbis(2) lap=52 point=2 t=74.218 et=4628.104</Score>
+<Score et="4635.2">Dovydas Petravicius(7) lap=52 point=2 t=58.323 et=4635.195</Score>
+<Score et="4643.0">Aurimas Zamzickas(8) lap=52 point=1 t=28.286 et=4642.944</Score>
+<Score et="4646.4">Modestas Paulauskas(9) lap=52 point=1 t=28.064 et=4646.330</Score>
+<Score et="4653.9">Justinas Ribelis(3) lap=52 point=1 t=27.828 et=4653.903</Score>
+<Score et="4671.8">Checkered for Mindaugas Klumbis, laps=53/53, endET=4671.722168/306254101833471170000000000000000000000.000000, crossedAfterTime=0</Score>
+<Score et="4671.8">Mindaugas Klumbis(2) lap=53 point=0 t=117.836 et=4671.722</Score>
+<Score et="4672.3">Dovydas Petravicius(7) lap=53 point=0 t=95.377 et=4672.249</Score>
+<Score et="4672.3">Aurimas Zamzickas(8) lap=52 point=2 t=57.585 et=4672.243</Score>
+<Score et="4674.7">Modestas Paulauskas(9) lap=52 point=2 t=56.419 et=4674.685</Score>
+<Score et="4681.9">Justinas Ribelis(3) lap=52 point=2 t=55.771 et=4681.845</Score>
+<Incident et="4686.8">Mindaugas Klumbis(2) reported contact (0.03) with another vehicle Dovydas Petravicius(7)</Incident>
+<Incident et="4691.3">Dovydas Petravicius(7) reported contact (0.58) with Track</Incident>
+<Incident et="4691.3">Dovydas Petravicius(7) reported contact (0.45) with Track</Incident>
+<Incident et="4691.3">Dovydas Petravicius(7) reported contact (0.10) with Track</Incident>
+<Incident et="4697.0">Dovydas Petravicius(7) reported contact (0.23) with another vehicle Mindaugas Klumbis(2)</Incident>
+<Score et="4699.3">Aurimas Zamzickas(8) lap=53 point=0 t=84.628 et=4699.286</Score>
+<Score et="4700.5">Modestas Paulauskas(9) lap=53 point=0 t=82.211 et=4700.477</Score>
+<Incident et="4701.6">Dovydas Petravicius(7) reported contact (0.16) with another vehicle Mindaugas Klumbis(2)</Incident>
+<Incident et="4701.6">Mindaugas Klumbis(2) reported contact (0.23) with another vehicle Dovydas Petravicius(7)</Incident>
+<Incident et="4701.6">Mindaugas Klumbis(2) reported contact (0.03) with another vehicle Dovydas Petravicius(7)</Incident>
+<Score et="4708.5">Justinas Ribelis(3) lap=53 point=0 t=82.416 et=4708.490</Score>
+<Incident et="4709.3">Mindaugas Klumbis(2) reported contact (0.06) with another vehicle Justinas Ribelis(3)</Incident>
+<Incident et="4709.3">Justinas Ribelis(3) reported contact (0.39) with another vehicle Mindaugas Klumbis(2)</Incident>
+<Incident et="4709.6">Justinas Ribelis(3) reported contact (1.00) with Track</Incident>
+<Chat et="4711.7">Modestas Paulauskas: Aurimai turejai stot!!!!!</Chat>
+<Chat et="4716.0">Aurimas Zamzickas: jo</Chat>
+<Chat et="4716.1">Modestas Paulauskas: :D</Chat>
+<Chat et="4717.2">Aurimas Zamzickas: bl</Chat>
+<Chat et="4717.9">Dovydas Petravicius: Sveikinu! :D</Chat>
+<Chat et="4722.0">Modestas Paulauskas: Sveikinu seip :)</Chat>
+<Chat et="4723.4">Justinas Ribelis: Auri, sorry vel :D</Chat>
+<Chat et="4726.9">Aurimas Zamzickas: ant garu vaziavau</Chat>
+<Chat et="4728.2">Mindaugas Klumbis: Kaip nori Dovi :p</Chat>
+<Chat et="4732.1">Justinas Ribelis: Mynde, sakei kazkaip leisi laimet :D</Chat>
+<Chat et="4737.9">Mindaugas Klumbis: tai leidau</Chat>
+<Chat et="4740.0">Dovydas Petravicius: Leido :D</Chat>
+<Chat et="4741.3">Aurimas Zamzickas: Justinai Justinai blet ka as tau padares</Chat>
+<Chat et="4744.0">Dovydas Petravicius: As neimiau :D</Chat>
+<Chat et="4747.3">Justinas Ribelis: :D</Chat>
+<Chat et="4753.2">Aurimas Zamzickas: mko tu mane bene per kiekvienas lenktynes nukreti</Chat>
+<Chat et="4759.2">Mindaugas Klumbis: piso i sikna sako lek</Chat>
+<Chat et="4770.9">Justinas Ribelis: Letai vaziavai, paspartint norejau :D</Chat>
+<Chat et="4771.5">Dovydas Petravicius: Apgavai mane</Chat>
+<Chat et="4773.1">Aurimas Zamzickas: atstumo juk reikia laikytis,nelaimesi juk lenktyniu per pirmus 5 ratus</Chat>
+<Chat et="4776.5">Dovydas Petravicius: Galvojau paskutiniam stinte su hardais leki</Chat>
+<Chat et="4776.8">Mindaugas Klumbis: gerai kad ne kaip su Justu kai buvo :D</Chat>
+<Chat et="4780.1">Dovydas Petravicius: Aha :D</Chat>
+<Chat et="4787.5">Modestas Paulauskas: Pheww</Chat>
+<Chat et="4792.2">Mindaugas Klumbis: antras su hardais buvo</Chat>
+<Chat et="4798.1">Mindaugas Klumbis: tu tai lempine taktika</Chat>
+<Chat et="4798.5">Dovydas Petravicius: galvojau ir 3 bus :)</Chat>
+<Chat et="4804.1">Justinas Ribelis: Bl bunu pilna distancija gal buciau dar del podiumo kovojas :D</Chat>
+<Chat et="4811.8">Aurimas Zamzickas: krc po ilgos pertraukps podiumas</Chat>
+<Chat et="4818.5">Modestas Paulauskas: Aurimai, taurej imsi</Chat>
+<Chat et="4819.6">Dovydas Petravicius: zinau :D</Chat>
+<Chat et="4820.7">Aurimas Zamzickas: gaila kad tik 7 pilotai te buvo</Chat>
+<Chat et="4828.4">Aurimas Zamzickas: nea man taurej nesekas</Chat>
+<Chat et="4830.6">Dovydas Petravicius: Galvojau dar 3 karta stot</Chat>
+<Chat et="4833.5">Aurimas Zamzickas: man cia geriau tau ten</Chat>
+<Chat et="4834.6">Dovydas Petravicius: ir softus uzsimest</Chat>
+<Chat et="4843.9">Modestas Paulauskas: Imsi imsi</Chat>
+<Chat et="4845.0">Mindaugas Klumbis: jau maciau kad tavo taktika kvaila</Chat>
+<Chat et="4852.0">Justinas Ribelis: Mynde, o tu fastest lapa su hardais isukai?</Chat>
+<Chat et="4853.4">Mindaugas Klumbis: per ilgas stint</Chat>
+<Chat et="4855.4">Aurimas Zamzickas: taktika teko cia keist sunku buvo vien su hardais ilgai vaziuot</Chat>
+<Chat et="4856.4">Modestas Paulauskas: O tai jau tikrai nebus race daugiau?</Chat>
+<Chat et="4857.9">Mindaugas Klumbis: ne softai</Chat>
+<Chat et="4865.4">Aurimas Zamzickas: Mode paskutinis stintas soft pas tave?</Chat>
+<Chat et="4872.1">Dovydas Petravicius: po pirmo sustojimo galvojau tempt kiek eina su softais</Chat>
+<Chat et="4873.3">Modestas Paulauskas: Gal cia tik del vengrijos mazai zmoniu</Chat>
+<Chat et="4879.3">Mindaugas Klumbis: nezinau 100% bet jei tiek zmoniu :(</Chat>
+<Chat et="4881.3">Modestas Paulauskas: Paskutinis soft</Chat>
+<Chat et="4888.6">Aurimas Zamzickas: jau mizau i kelnes</Chat>
+<Chat et="4892.2">Modestas Paulauskas: :DD</Chat>
+<Chat et="4893.5">Dovydas Petravicius: 18 ratu atrodo su soft lekiau :D</Chat>
+<Chat et="4899.5">Aurimas Zamzickas: sakau pzd keli posukiai ir atimsi podiuma</Chat>
+<Chat et="4899.6">Mindaugas Klumbis: reikia ble nepatinget visiem aprasinet</Chat>
+<Chat et="4901.0">Aurimas Zamzickas: :)</Chat>
+<Chat et="4905.5">Mindaugas Klumbis: bet kas neting4s</Chat>
+<Chat et="4906.8">Modestas Paulauskas: Galvojau spesiu pavyt, bet per greitas buvai</Chat>
+<Chat et="4921.2">Aurimas Zamzickas: tai as ant boost 1 jau variau 2-3 ratus</Chat>
+<Chat et="4926.0">Dovydas Petravicius: Bet blt kai sugrybavau, galvojau rimtai ,kad paskutini stinta su hardais leki</Chat>
+<Chat et="4930.2">Modestas Paulauskas: :D</Chat>
+<Chat et="4930.6">Mindaugas Klumbis: as ir gedima imitavau kaip damon hill kazkada, senimas zino kaip ten buvo</Chat>
+<Chat et="4933.0">Aurimas Zamzickas: per velai pamaciau kad nesuzteks kuro</Chat>
+<Chat et="4933.5">Dovydas Petravicius: net priletinau, pataupiau</Chat>
+<Chat et="4936.4">Mindaugas Klumbis: tas vis tiek nelenke</Chat>
+<Chat et="4941.6">Modestas Paulauskas: Teko ir man su boost 1 bet vidury race kaskur</Chat>
+<Chat et="4945.3">Aurimas Zamzickas: ir be to lyderiai neaplenke ratu ka prognazavau</Chat>
+<Chat et="4950.9">Dovydas Petravicius: o kai prisivijai, tik tada pamaciau, kad softai :D</Chat>
+<Chat et="4960.1">Aurimas Zamzickas: 3 pit?</Chat>
+<Chat et="4966.4">Modestas Paulauskas: 3 lyg</Chat>
+<Chat et="4974.1">Justinas Ribelis: jie po 2 stojo</Chat>
+<Chat et="4975.0">Dovydas Petravicius: Mes 2 pit</Chat>
+<Chat et="4986.9">Justinas Ribelis: Man cia hardai smagiai dirba</Chat>
+<Chat et="4990.2">Modestas Paulauskas: Kur taip jum laiko</Chat>
+<Chat et="4996.5">Dovydas Petravicius: Ai, o nepazeidziau sparno priekinio kai atsitrenkei ?</Chat>
+<Chat et="5000.5">Aurimas Zamzickas: nu jo tie tai zinai nei a nei b lygoj jiems vaziuot</Chat>
+<Chat et="5005.5">Modestas Paulauskas: Nu as su monako setu vaziavau tai bbz</Chat>
+<Chat et="5008.4">Aurimas Zamzickas: kosmonautu kokia lyga dar reikia pakurt</Chat>
+<Chat et="5011.1">Aurimas Zamzickas: jiems trims</Chat>
+<Chat et="5011.3">Mindaugas Klumbis: tai du dovio pasutiniai ratai su 15 sek+</Chat>
+<Chat et="5026.0">Aurimas Zamzickas: plius Deivis Misiulis</Chat>
+<Chat et="5033.1">Modestas Paulauskas: Kur tas? :D</Chat>
+<Chat et="5034.1">Dovydas Petravicius: Tai ,kad hardais isvis nebedirbo</Chat>
+<Chat et="5037.9">Justinas Ribelis: Bet Deivis konkreciai uzgere :D</Chat>
+<Chat et="5040.0">Dovydas Petravicius: apsisukinejau 2 paskutinius ratus</Chat>
+<Chat et="5047.4">Justinas Ribelis: 2 dienas jau neatraso :D</Chat>
+<Chat et="5048.0">Mindaugas Klumbis: mes tik greiti, bet yra toki7 kosmonautu kad nx, man dar sekundele krauna :D</Chat>
+<Chat et="5053.1">Modestas Paulauskas: hardai jo neveike visai :/</Chat>
+<Chat et="5069.3">Justinas Ribelis: Pala pala, kur cia dar sekunde galima istraukti? :D</Chat>
+<Chat et="5075.3">Mindaugas Klumbis: bbz</Chat>
+<Chat et="5078.8">Dovydas Petravicius: Pradzia hardu super buvo (10 ratu), pirma kart dziaugiuos hardais</Chat>
+<Chat et="5081.0">Justinas Ribelis: Bl jau jus tryse vaziuojat vienodai</Chat>
+<Chat et="5087.5">Modestas Paulauskas: cytai yra</Chat>
+<Chat et="5091.6">Justinas Ribelis: Yra? :D</Chat>
+<Chat et="5093.0">Mindaugas Klumbis: gal ne sekunde, bet arti to FSR kas greiciausi</Chat>
+<Chat et="5095.3">Justinas Ribelis: Reiks paziuret :D</Chat>
+<Chat et="5099.3">Aurimas Zamzickas: nu ok ciuoziu as jau nuo pc</Chat>
+<Chat et="5102.9">Aurimas Zamzickas: iki vyriokai</Chat>
+<Chat et="5105.6">Justinas Ribelis: Dw</Chat>
+<Chat et="5106.0">Modestas Paulauskas: Jop</Chat>
+<Chat et="5107.0">Modestas Paulauskas: Iki</Chat>
+<Chat et="5107.2">Dovydas Petravicius: Ok, iki, dekui uz race :)</Chat>
+<Sent et="5109.0">Aurimas Zamzickas has left the game but vehicle has been stored in the garage</Sent>
+<Chat et="5110.2">Justinas Ribelis: Iki</Chat>
+<Sent et="5112.4">Justinas Ribelis has left the game but vehicle has been stored in the garage</Sent>
+<Sent et="5112.5">Dovydas Petravicius has left the game but vehicle has been stored in the garage</Sent>
+<Chat et="5114.5">Mindaugas Klumbis: o ant rf2 kai neprates tai ir 2 laisvai :D</Chat>
+<Sent et="5120.2">Modestas Paulauskas has left the game but vehicle has been stored in the garage</Sent>
+<Sent et="5122.9">Mindaugas Klumbis has left the game but vehicle has been stored in the garage</Sent>
+</Stream>
+<MostLapsCompleted>53</MostLapsCompleted>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_03.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ferrari #03</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>7</GridPos>
+<Position>1</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>8</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="171.1093" s1="35.5387" s2="30.2751" s3="27.3804" fuel="0.875">93.1941</Lap>
+<Lap num="2" p="5" et="264.3033" s1="28.6331" s2="29.6920" s3="26.7631" fuel="0.859">85.0883</Lap>
+<Lap num="3" p="5" et="349.3916" s1="28.7243" s2="29.8707" s3="26.4597" fuel="0.843">85.0546</Lap>
+<Lap num="4" p="5" et="434.4462" s1="28.2643" s2="29.1865" s3="32.3587" fuel="0.827">89.8096</Lap>
+<Lap num="5" p="3" et="524.2558" s1="28.5005" s2="34.3635" s3="28.4082" fuel="0.812">91.2723</Lap>
+<Lap num="6" p="3" et="615.5281" s1="28.3968" s2="29.5056" s3="26.4253" fuel="0.792">84.3278</Lap>
+<Lap num="7" p="3" et="699.8559" s1="28.3228" s2="29.6774" s3="26.6697" fuel="0.776">84.6699</Lap>
+<Lap num="8" p="3" et="784.5258" s1="28.5078" s2="29.4192" s3="26.7814" fuel="0.761">84.7084</Lap>
+<Lap num="9" p="3" et="869.2343" s1="28.4191" s2="29.6317" s3="26.5805" fuel="0.745">84.6313</Lap>
+<Lap num="10" p="2" et="953.8655" s1="28.6170" s2="29.7304" s3="26.6008" fuel="0.725">84.9481</Lap>
+<Lap num="11" p="2" et="1038.8137" s1="28.4079" s2="29.0737" s3="26.2251" fuel="0.710">83.7066</Lap>
+<Lap num="12" p="2" et="1122.5204" s1="28.2201" s2="29.0178" s3="26.1904" fuel="0.694">83.4283</Lap>
+<Lap num="13" p="2" et="1205.9486" s1="28.1625" s2="37.0744" s3="26.6223" fuel="0.675">91.8592</Lap>
+<Lap num="14" p="1" et="1297.8079" s1="28.4270" s2="30.5732" s3="27.4169" fuel="0.659">86.4172</Lap>
+<Lap num="15" p="1" et="1384.2250" s1="28.5310" s2="29.6499" s3="26.7914" fuel="0.643">84.9723</Lap>
+<Lap num="16" p="1" et="1469.1973" s1="28.8443" s2="30.3347" s3="28.1834" fuel="0.624">87.3623</Lap>
+<Lap num="17" p="3" et="1556.5596" s1="29.2353" s2="30.1551" s3="39.9064" fuel="0.608" pit="1">99.2967</Lap>
+<Lap num="18" p="5" et="1655.8563" s1="36.2801" s2="29.4179" s3="26.2902" fuel="0.592">91.9882</Lap>
+<Lap num="19" p="3" et="1747.8445" s1="27.9794" s2="28.8231" s3="26.1218" fuel="0.573">82.9242</Lap>
+<Lap num="20" p="3" et="1830.7687" s1="28.1340" s2="28.8708" s3="26.0460" fuel="0.557">83.0509</Lap>
+<Lap num="21" p="3" et="1913.8196" s1="28.0018" s2="28.5514" s3="25.9853" fuel="0.541">82.5385</Lap>
+<Lap num="22" p="3" et="1996.3580" s1="28.0128" s2="28.8606" s3="25.9504" fuel="0.522">82.8239</Lap>
+<Lap num="23" p="3" et="2079.1819" s1="28.1711" s2="28.6705" s3="26.0000" fuel="0.506">82.8415</Lap>
+<Lap num="24" p="2" et="2162.0234" s1="29.6114" s2="28.8179" s3="26.0195" fuel="0.490">84.4488</Lap>
+<Lap num="25" p="2" et="2246.4722" s1="27.8868" s2="28.7272" s3="26.0542" fuel="0.475">82.6682</Lap>
+<Lap num="26" p="2" et="2329.1404" s1="27.9786" s2="28.6197" s3="25.8692" fuel="0.455">82.4674</Lap>
+<Lap num="27" p="2" et="2411.6079" s1="28.0333" s2="28.7185" s3="25.9512" fuel="0.439">82.7030</Lap>
+<Lap num="28" p="2" et="2494.3110" s1="28.1080" s2="28.5364" s3="25.9626" fuel="0.424">82.6071</Lap>
+<Lap num="29" p="2" et="2576.9182" s1="28.0283" s2="28.7005" s3="25.9174" fuel="0.408">82.6462</Lap>
+<Lap num="30" p="2" et="2659.5645" s1="27.9303" s2="28.7064" s3="26.1537" fuel="0.388">82.7903</Lap>
+<Lap num="31" p="1" et="2742.3547" s1="28.1907" s2="28.8758" s3="26.0053" fuel="0.373">83.0718</Lap>
+<Lap num="32" p="1" et="2825.4265" s1="27.9920" s2="28.4508" s3="25.7449" fuel="0.357">82.1878</Lap>
+<Lap num="33" p="1" et="2907.6143" s1="28.1519" s2="28.7791" s3="26.0958" fuel="0.341">83.0269</Lap>
+<Lap num="34" p="1" et="2990.6411" s1="28.0782" s2="28.9619" s3="26.1271" fuel="0.322">83.1672</Lap>
+<Lap num="35" p="1" et="3073.8083" s1="27.9966" s2="31.0172" s3="26.2995" fuel="0.306">85.3133</Lap>
+<Lap num="36" p="1" et="3159.1216" s1="29.3939" s2="29.7472" s3="29.5328" fuel="0.290" pit="1">88.6739</Lap>
+<Lap num="37" p="2" et="3247.7954" s1="40.0002" s2="27.9249" s3="25.2960" fuel="0.271">93.2211</Lap>
+<Lap num="38" p="2" et="3341.0166" s1="27.5331" s2="27.6828" s3="25.2040" fuel="0.255">80.4198</Lap>
+<Lap num="39" p="2" et="3421.4365" s1="27.4926" s2="27.6057" s3="25.1971" fuel="0.239">80.2954</Lap>
+<Lap num="40" p="2" et="3501.7319" s1="27.4246" s2="27.7559" s3="25.4569" fuel="0.224">80.6373</Lap>
+<Lap num="41" p="2" et="3582.3691" s1="27.4340" s2="27.5830" s3="25.3933" fuel="0.208">80.4103</Lap>
+<Lap num="42" p="2" et="3662.7795" s1="27.5457" s2="27.6997" s3="25.6565" fuel="0.192">80.9019</Lap>
+<Lap num="43" p="2" et="3743.6814" s1="27.5592" s2="28.3127" s3="25.0562" fuel="0.173">80.9282</Lap>
+<Lap num="44" p="1" et="3824.6096" s1="27.6202" s2="27.6194" s3="25.3007" fuel="0.157">80.5403</Lap>
+<Lap num="45" p="1" et="3905.1499" s1="27.5925" s2="27.5294" s3="25.4026" fuel="0.141">80.5245</Lap>
+<Lap num="46" p="1" et="3985.6743" s1="27.4347" s2="27.9033" s3="25.2074" fuel="0.125">80.5453</Lap>
+<Lap num="47" p="1" et="4066.2197" s1="27.5548" s2="28.1426" s3="25.5349" fuel="0.110">81.2324</Lap>
+<Lap num="48" p="1" et="4147.4521" s1="27.3909" s2="28.4025" s3="25.6642" fuel="0.090">81.4576</Lap>
+<Lap num="49" p="1" et="4228.9097" s1="27.5414" s2="28.2116" s3="25.5179" fuel="0.075">81.2709</Lap>
+<Lap num="50" p="1" et="4310.1807" s1="27.3487" s2="27.9620" s3="25.3441" fuel="0.059">80.6549</Lap>
+<Lap num="51" p="1" et="4390.8354" s1="27.4193" s2="28.0182" s3="25.7528" fuel="0.043">81.1903</Lap>
+<Lap num="52" p="1" et="4472.0259" s1="27.8130" s2="28.3362" s3="25.7113" fuel="0.027">81.8604</Lap>
+<Lap num="53" p="1" et="4553.8862" s1="31.4775" s2="42.7402" s3="43.6180" fuel="0.016">117.8358</Lap>
+<BestLapTime>80.2954</BestLapTime>
+<FinishTime>4500.6128</FinishTime>
+<Laps>53</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="53">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Dovydas Petravicius</Name>
+<Connected>1</Connected>
+<VehFile>FERRARI_04.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Ferrari #04</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>Ferrari</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>6</GridPos>
+<Position>2</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>5</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="171.1093" s1="34.4643" s2="30.3823" s3="27.4110" fuel="0.925">92.2576</Lap>
+<Lap num="2" p="3" et="263.3669" s1="28.3416" s2="29.6051" s3="26.6910" fuel="0.910">84.6378</Lap>
+<Lap num="3" p="2" et="348.0046" s1="28.4346" s2="28.7450" s3="26.3987" fuel="0.890">83.5783</Lap>
+<Lap num="4" p="4" et="431.5829" s1="28.2298" s2="29.8317" s3="33.2800" fuel="0.871">91.3415</Lap>
+<Lap num="5" p="2" et="522.9244" s1="28.3067" s2="36.0069" s3="27.3508" fuel="0.855">91.6644</Lap>
+<Lap num="6" p="2" et="614.5889" s1="28.3526" s2="29.0560" s3="26.5787" fuel="0.835">83.9873</Lap>
+<Lap num="7" p="2" et="698.5762" s1="28.3271" s2="29.4459" s3="26.7971" fuel="0.820">84.5701</Lap>
+<Lap num="8" p="2" et="783.1462" s1="28.8080" s2="29.2824" s3="26.7119" fuel="0.800">84.8023</Lap>
+<Lap num="9" p="2" et="867.9485" s1="28.4821" s2="29.4826" s3="26.6941" fuel="0.784">84.6589</Lap>
+<Lap num="10" p="1" et="952.6074" s1="28.6110" s2="30.0111" s3="26.6439" fuel="0.765">85.2659</Lap>
+<Lap num="11" p="1" et="1037.8733" s1="28.3155" s2="28.8854" s3="26.4425" fuel="0.749">83.6434</Lap>
+<Lap num="12" p="1" et="1121.5167" s1="28.4327" s2="28.9227" s3="26.4949" fuel="0.729">83.8504</Lap>
+<Lap num="13" p="1" et="1205.3671" s1="28.4609" s2="36.2926" s3="26.7507" fuel="0.714">91.5041</Lap>
+<Lap num="14" p="2" et="1296.8712" s1="28.9527" s2="31.0242" s3="40.4711" fuel="0.698" pit="1">100.4480</Lap>
+<Lap num="15" p="3" et="1397.3192" s1="36.0236" s2="28.9366" s3="25.7133" fuel="0.678">90.6735</Lap>
+<Lap num="16" p="3" et="1487.9928" s1="27.9398" s2="28.5164" s3="25.7179" fuel="0.659">82.1742</Lap>
+<Lap num="17" p="3" et="1570.1670" s1="28.0055" s2="28.5731" s3="26.0811" fuel="0.643">82.6596</Lap>
+<Lap num="18" p="1" et="1652.8267" s1="27.9250" s2="28.5817" s3="25.9177" fuel="0.624">82.4244</Lap>
+<Lap num="19" p="1" et="1735.2510" s1="27.8490" s2="28.1799" s3="25.8051" fuel="0.608">81.8339</Lap>
+<Lap num="20" p="1" et="1817.0848" s1="27.8534" s2="28.3595" s3="26.2416" fuel="0.588">82.4545</Lap>
+<Lap num="21" p="1" et="1899.5393" s1="28.1017" s2="28.3985" s3="31.1740" fuel="0.573">87.6741</Lap>
+<Lap num="22" p="1" et="1987.2134" s1="28.1783" s2="28.3968" s3="25.8715" fuel="0.553">82.4467</Lap>
+<Lap num="23" p="1" et="2069.6602" s1="28.1448" s2="28.5775" s3="26.3375" fuel="0.537">83.0598</Lap>
+<Lap num="24" p="1" et="2152.7200" s1="28.2036" s2="28.4564" s3="26.4893" fuel="0.518">83.1493</Lap>
+<Lap num="25" p="1" et="2235.8691" s1="28.6112" s2="28.8631" s3="26.3583" fuel="0.502">83.8326</Lap>
+<Lap num="26" p="1" et="2319.7017" s1="28.1696" s2="29.4839" s3="26.3933" fuel="0.482">84.0468</Lap>
+<Lap num="27" p="1" et="2403.7485" s1="28.3388" s2="28.9229" s3="26.6966" fuel="0.467">83.9582</Lap>
+<Lap num="28" p="1" et="2487.7068" s1="28.3599" s2="29.5524" s3="26.8269" fuel="0.447">84.7392</Lap>
+<Lap num="29" p="1" et="2572.4460" s1="28.4176" s2="29.4346" s3="26.5241" fuel="0.431">84.3763</Lap>
+<Lap num="30" p="1" et="2656.8223" s1="28.5968" s2="29.5727" s3="26.8233" fuel="0.412">84.9928</Lap>
+<Lap num="31" p="2" et="2741.8152" s1="29.1561" s2="29.3096" s3="34.3617" fuel="0.396" pit="1">92.8274</Lap>
+<Lap num="32" p="2" et="2834.6426" s1="35.3629" s2="28.2253" s3="25.4936" fuel="0.376">89.0818</Lap>
+<Lap num="33" p="2" et="2923.7244" s1="27.7856" s2="27.9050" s3="25.7617" fuel="0.361">81.4524</Lap>
+<Lap num="34" p="2" et="3005.1768" s1="27.7328" s2="27.8936" s3="25.8121" fuel="0.341">81.4384</Lap>
+<Lap num="35" p="2" et="3086.6152" s1="27.6149" s2="27.9315" s3="25.3955" fuel="0.325">80.9418</Lap>
+<Lap num="36" p="2" et="3167.5571" s1="27.6169" s2="27.6146" s3="25.5249" fuel="0.306">80.7564</Lap>
+<Lap num="37" p="1" et="3248.3135" s1="27.8872" s2="27.8711" s3="25.5291" fuel="0.290">81.2874</Lap>
+<Lap num="38" p="1" et="3329.6008" s1="27.5982" s2="27.7109" s3="25.6236" fuel="0.271">80.9326</Lap>
+<Lap num="39" p="1" et="3410.5334" s1="27.7526" s2="28.0803" s3="25.8440" fuel="0.255">81.6769</Lap>
+<Lap num="40" p="1" et="3492.2104" s1="28.1489" s2="29.3634" s3="27.1025" fuel="0.235">84.6148</Lap>
+<Lap num="41" p="1" et="3576.8252" s1="28.3297" s2="29.3995" s3="26.7069" fuel="0.220">84.4360</Lap>
+<Lap num="42" p="1" et="3661.2612" s1="27.6269" s2="28.0964" s3="26.1452" fuel="0.200">81.8685</Lap>
+<Lap num="43" p="1" et="3743.1296" s1="27.6910" s2="28.0258" s3="25.5952" fuel="0.184">81.3119</Lap>
+<Lap num="44" p="2" et="3824.4417" s1="28.1395" s2="28.0831" s3="25.4652" fuel="0.169">81.6878</Lap>
+<Lap num="45" p="2" et="3906.1294" s1="27.6189" s2="27.9163" s3="25.3836" fuel="0.149">80.9189</Lap>
+<Lap num="46" p="2" et="3987.0483" s1="27.6972" s2="28.2742" s3="25.6505" fuel="0.133">81.6219</Lap>
+<Lap num="47" p="2" et="4068.6702" s1="27.6833" s2="28.1590" s3="25.7679" fuel="0.114">81.6101</Lap>
+<Lap num="48" p="2" et="4150.2803" s1="27.9946" s2="28.1586" s3="25.8713" fuel="0.098">82.0245</Lap>
+<Lap num="49" p="2" et="4232.3047" s1="27.8497" s2="28.2610" s3="25.7816" fuel="0.078">81.8923</Lap>
+<Lap num="50" p="2" et="4314.1968" s1="27.8843" s2="28.4483" s3="26.3205" fuel="0.063">82.6530</Lap>
+<Lap num="51" p="2" et="4396.8496" s1="28.0853" s2="28.6811" s3="30.2883" fuel="0.043">87.0547</Lap>
+<Lap num="52" p="2" et="4483.9043" s1="28.2862" s2="29.2343" s3="35.4472" fuel="0.027">92.9676</Lap>
+<Lap num="53" p="2" et="4576.8721" s1="29.0835" s2="29.2400" s3="37.0534" fuel="0.012">95.3769</Lap>
+<BestLapTime>80.7564</BestLapTime>
+<FinishTime>4501.1396</FinishTime>
+<Laps>53</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="53">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justinas Ribelis</Name>
+<Connected>1</Connected>
+<VehFile>WILLIAMS_16.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Williams #16</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>Williams</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>1</GridPos>
+<Position>5</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>1</Points>
+<ClassPoints>1</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="171.1093" s1="33.5087" s2="29.5623" s3="26.4239" fuel="0.945">89.4950</Lap>
+<Lap num="2" p="1" et="260.6042" s1="28.6596" s2="29.8753" s3="26.5012" fuel="0.925">85.0361</Lap>
+<Lap num="3" p="1" et="345.6403" s1="28.6700" s2="29.5805" s3="26.6965" fuel="0.910">84.9470</Lap>
+<Lap num="4" p="1" et="430.5873" s1="28.7020" s2="30.3366" s3="31.7371" fuel="0.890">90.7757</Lap>
+<Lap num="5" p="1" et="521.3630" s1="28.9771" s2="35.1542" s3="26.8008" fuel="0.871">90.9321</Lap>
+<Lap num="6" p="1" et="612.2950" s1="28.7695" s2="29.6557" s3="26.5876" fuel="0.855">85.0128</Lap>
+<Lap num="7" p="1" et="697.3078" s1="28.7097" s2="30.0383" s3="26.6721" fuel="0.835">85.4201</Lap>
+<Lap num="8" p="1" et="782.7279" s1="28.6485" s2="29.4753" s3="26.6457" fuel="0.816">84.7695</Lap>
+<Lap num="9" p="1" et="867.4974" s1="28.4920" s2="29.6565" s3="26.5469" fuel="0.796">84.6953</Lap>
+<Lap num="10" p="3" et="952.1927" s1="28.7175" s2="30.0350" s3="29.3276" fuel="0.780" pit="1">88.0800</Lap>
+<Lap num="11" p="4" et="1040.2728" s1="42.3335" s2="28.9236" s3="26.4550" fuel="0.761">97.7122</Lap>
+<Lap num="12" p="3" et="1137.9850" s1="28.2931" s2="35.1696" s3="28.1710" fuel="0.741">91.6337</Lap>
+<Lap num="13" p="3" et="1229.6188" s1="28.3543" s2="29.2486" s3="26.3650" fuel="0.722">83.9680</Lap>
+<Lap num="14" p="3" et="1313.5868" s1="28.4137" s2="29.2026" s3="26.3182" fuel="0.706">83.9345</Lap>
+<Lap num="15" p="2" et="1397.5212" s1="28.3586" s2="28.9998" s3="26.1569" fuel="0.686">83.5154</Lap>
+<Lap num="16" p="2" et="1481.0366" s1="28.3954" s2="29.2974" s3="26.3653" fuel="0.667">84.0580</Lap>
+<Lap num="17" p="2" et="1565.0946" s1="28.3814" s2="31.2335" s3="26.4987" fuel="0.647">86.1136</Lap>
+<Lap num="18" p="2" et="1651.2083" s1="28.3665" s2="30.5721" s3="26.6310" fuel="0.631">85.5696</Lap>
+<Lap num="19" p="2" et="1736.7778" s1="28.8593" s2="29.3537" s3="26.4982" fuel="0.612">84.7112</Lap>
+<Lap num="20" p="2" et="1821.4890" s1="28.4754" s2="29.4206" s3="26.4933" fuel="0.592">84.3892</Lap>
+<Lap num="21" p="2" et="1905.8782" s1="28.7523" s2="29.7627" s3="26.7100" fuel="0.576">85.2250</Lap>
+<Lap num="22" p="2" et="1991.1031" s1="28.5784" s2="29.6898" s3="26.7109" fuel="0.557">84.9791</Lap>
+<Lap num="23" p="2" et="2076.0823" s1="28.9209" s2="29.8511" s3="26.7074" fuel="0.541">85.4794</Lap>
+<Lap num="24" p="5" et="2161.5618" s1="30.6573" s2="41.9907" s3="31.8221" fuel="0.525" pit="1">104.4700</Lap>
+<Lap num="25" p="5" et="2266.0317" s1="48.8151" s2="29.1062" s3="26.6175" fuel="0.506">104.5388</Lap>
+<Lap num="26" p="5" et="2370.5706" s1="28.2900" s2="28.9598" s3="26.5214" fuel="0.486">83.7712</Lap>
+<Lap num="27" p="5" et="2454.3418" s1="28.5631" s2="29.2999" s3="26.1790" fuel="0.471">84.0420</Lap>
+<Lap num="28" p="5" et="2538.3838" s1="28.3037" s2="29.2332" s3="26.6238" fuel="0.455">84.1607</Lap>
+<Lap num="29" p="5" et="2622.5444" s1="28.4583" s2="28.7723" s3="26.2320" fuel="0.435">83.4627</Lap>
+<Lap num="30" p="5" et="2706.0071" s1="28.2184" s2="28.8258" s3="26.1538" fuel="0.420">83.1980</Lap>
+<Lap num="31" p="5" et="2789.2051" s1="28.5240" s2="28.9637" s3="26.1767" fuel="0.400">83.6644</Lap>
+<Lap num="32" p="5" et="2872.8696" s1="28.1004" s2="28.8467" s3="26.2515" fuel="0.384">83.1986</Lap>
+<Lap num="33" p="5" et="2956.0681" s1="28.1293" s2="29.1904" s3="26.0169" fuel="0.365">83.3367</Lap>
+<Lap num="34" p="5" et="3039.4048" s1="28.6908" s2="28.9061" s3="26.0539" fuel="0.345">83.6508</Lap>
+<Lap num="35" p="5" et="3123.0557" s1="28.2526" s2="28.8787" s3="26.2776" fuel="0.329">83.4089</Lap>
+<Lap num="36" p="5" et="3206.4646" s1="28.1230" s2="29.1930" s3="26.2468" fuel="0.310">83.5628</Lap>
+<Lap num="37" p="4" et="3290.0273" s1="28.2090" s2="29.1295" s3="26.2720" fuel="0.294">83.6105</Lap>
+<Lap num="38" p="4" et="3373.6377" s1="28.3457" s2="28.7380" s3="26.5333" fuel="0.275">83.6170</Lap>
+<Lap num="39" p="4" et="3457.2546" s1="28.5128" s2="29.1291" s3="26.2094" fuel="0.259">83.8514</Lap>
+<Lap num="40" p="4" et="3541.1060" s1="28.2665" s2="29.2809" s3="26.5119" fuel="0.239">84.0593</Lap>
+<Lap num="41" p="4" et="3625.1653" s1="28.4381" s2="29.4433" s3="28.7545" fuel="0.224" pit="1">86.6359</Lap>
+<Lap num="42" p="5" et="3711.8013" s1="41.4760" s2="28.0075" s3="25.6408" fuel="0.204">95.1243</Lap>
+<Lap num="43" p="5" et="3806.9255" s1="27.6735" s2="27.6890" s3="25.5881" fuel="0.184">80.9506</Lap>
+<Lap num="44" p="5" et="3887.8762" s1="27.6118" s2="27.6488" s3="25.5564" fuel="0.169">80.8170</Lap>
+<Lap num="45" p="5" et="3968.6931" s1="27.6824" s2="27.9931" s3="25.9417" fuel="0.149">81.6172</Lap>
+<Lap num="46" p="5" et="4050.3103" s1="27.7661" s2="27.8828" s3="25.4120" fuel="0.133">81.0609</Lap>
+<Lap num="47" p="5" et="4131.3711" s1="27.6957" s2="27.8224" s3="25.3712" fuel="0.114">80.8893</Lap>
+<Lap num="48" p="5" et="4212.2603" s1="27.4839" s2="27.7625" s3="33.1866" fuel="0.098">88.4330</Lap>
+<Lap num="49" p="5" et="4300.6934" s1="27.7732" s2="28.0550" s3="25.5055" fuel="0.078">81.3336</Lap>
+<Lap num="50" p="5" et="4382.0269" s1="27.6126" s2="27.9104" s3="25.7198" fuel="0.059">81.2427</Lap>
+<Lap num="51" p="5" et="4463.2695" s1="27.6763" s2="28.1379" s3="25.5282" fuel="0.039">81.3424</Lap>
+<Lap num="52" p="5" et="4544.6118" s1="27.6935" s2="28.0629" s3="25.7058" fuel="0.024">81.4622</Lap>
+<Lap num="53" p="5" et="4626.0742" s1="27.8285" s2="27.9421" s3="26.6457" fuel="0.004">82.4163</Lap>
+<BestLapTime>80.8170</BestLapTime>
+<FinishTime>4537.3809</FinishTime>
+<Laps>53</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="53">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Modestas Paulauskas</Name>
+<Connected>1</Connected>
+<VehFile>LOTUS_07.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Lotus #07</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>Lotus</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>3</GridPos>
+<Position>4</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>2</Points>
+<ClassPoints>2</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="171.1093" s1="34.0886" s2="29.7761" s3="27.5285" fuel="0.925">91.3933</Lap>
+<Lap num="2" p="2" et="262.5025" s1="29.0423" s2="29.5536" s3="26.7448" fuel="0.910">85.3407</Lap>
+<Lap num="3" p="3" et="347.8433" s1="28.9401" s2="29.7390" s3="26.7526" fuel="0.890">85.4316</Lap>
+<Lap num="4" p="3" et="433.2749" s1="28.9391" s2="33.0378" s3="26.9181" fuel="0.875">88.8950</Lap>
+<Lap num="5" p="5" et="522.1699" s1="28.6484" s2="38.7875" s3="27.2872" fuel="0.855">94.7232</Lap>
+<Lap num="6" p="5" et="616.8931" s1="29.0545" s2="30.0515" s3="27.9375" fuel="0.839">87.0434</Lap>
+<Lap num="7" p="4" et="703.9365" s1="28.9255" s2="29.7205" s3="26.8286" fuel="0.820">85.4745</Lap>
+<Lap num="8" p="4" et="789.4111" s1="29.0063" s2="31.2681" s3="27.5263" fuel="0.804">87.8007</Lap>
+<Lap num="9" p="4" et="877.2117" s1="29.0245" s2="29.8119" s3="26.9880" fuel="0.784">85.8244</Lap>
+<Lap num="10" p="4" et="963.0361" s1="28.9873" s2="29.7983" s3="27.0406" fuel="0.769">85.8262</Lap>
+<Lap num="11" p="4" et="1048.8623" s1="29.0958" s2="30.3615" s3="29.8335" fuel="0.749" pit="1">89.2908</Lap>
+<Lap num="12" p="6" et="1138.1531" s1="42.2818" s2="29.4241" s3="27.1716" fuel="0.733">98.8775</Lap>
+<Lap num="13" p="5" et="1237.0306" s1="28.8706" s2="29.3978" s3="26.8176" fuel="0.714">85.0860</Lap>
+<Lap num="14" p="5" et="1322.1167" s1="29.1625" s2="29.7126" s3="26.5657" fuel="0.698">85.4408</Lap>
+<Lap num="15" p="5" et="1407.5575" s1="29.0246" s2="29.4027" s3="26.7548" fuel="0.678">85.1820</Lap>
+<Lap num="16" p="5" et="1492.7395" s1="29.1034" s2="29.2763" s3="26.7490" fuel="0.663">85.1286</Lap>
+<Lap num="17" p="5" et="1577.8682" s1="28.9731" s2="29.3422" s3="26.7177" fuel="0.643">85.0330</Lap>
+<Lap num="18" p="4" et="1662.9012" s1="28.7049" s2="29.3539" s3="26.5954" fuel="0.627">84.6543</Lap>
+<Lap num="19" p="4" et="1747.5555" s1="28.7854" s2="29.4187" s3="26.5768" fuel="0.608">84.7810</Lap>
+<Lap num="20" p="4" et="1832.3365" s1="29.4214" s2="29.5206" s3="26.9274" fuel="0.592">85.8694</Lap>
+<Lap num="21" p="4" et="1918.2061" s1="28.8993" s2="29.4095" s3="26.9217" fuel="0.573">85.2304</Lap>
+<Lap num="22" p="4" et="2003.4364" s1="28.8964" s2="29.6270" s3="26.8061" fuel="0.557">85.3294</Lap>
+<Lap num="23" p="4" et="2088.7659" s1="28.7920" s2="29.7267" s3="26.9832" fuel="0.537">85.5019</Lap>
+<Lap num="24" p="3" et="2174.2678" s1="28.9532" s2="29.9180" s3="26.9229" fuel="0.522">85.7941</Lap>
+<Lap num="25" p="3" et="2260.0620" s1="29.0325" s2="29.6589" s3="26.8448" fuel="0.502">85.5362</Lap>
+<Lap num="26" p="3" et="2345.5981" s1="28.9300" s2="29.8013" s3="26.8550" fuel="0.486">85.5863</Lap>
+<Lap num="27" p="4" et="2431.1843" s1="29.0728" s2="29.7533" s3="30.0316" fuel="0.471" pit="1">88.8577</Lap>
+<Lap num="28" p="4" et="2520.0420" s1="41.6729" s2="28.8277" s3="26.2257" fuel="0.451">96.7262</Lap>
+<Lap num="29" p="4" et="2616.7683" s1="28.4915" s2="28.8001" s3="26.1178" fuel="0.435">83.4093</Lap>
+<Lap num="30" p="4" et="2700.1777" s1="28.3817" s2="28.6048" s3="26.0451" fuel="0.416">83.0316</Lap>
+<Lap num="31" p="4" et="2783.2092" s1="28.3955" s2="28.5199" s3="25.7450" fuel="0.400">82.6604</Lap>
+<Lap num="32" p="4" et="2865.8696" s1="28.3199" s2="28.8201" s3="25.9665" fuel="0.380">83.1064</Lap>
+<Lap num="33" p="4" et="2948.9761" s1="28.2977" s2="28.7918" s3="26.0523" fuel="0.365">83.1418</Lap>
+<Lap num="34" p="4" et="3032.1179" s1="28.4007" s2="28.8013" s3="26.0327" fuel="0.345">83.2347</Lap>
+<Lap num="35" p="4" et="3115.3525" s1="28.2745" s2="28.7544" s3="26.0768" fuel="0.329">83.1057</Lap>
+<Lap num="36" p="4" et="3198.4583" s1="28.2796" s2="28.6850" s3="26.3333" fuel="0.310">83.2979</Lap>
+<Lap num="37" p="3" et="3281.7561" s1="28.3622" s2="28.8322" s3="26.0247" fuel="0.294">83.2191</Lap>
+<Lap num="38" p="3" et="3364.9753" s1="28.4307" s2="28.6788" s3="26.5495" fuel="0.275">83.6590</Lap>
+<Lap num="39" p="3" et="3448.6343" s1="28.4537" s2="29.2126" s3="26.4010" fuel="0.259">84.0673</Lap>
+<Lap num="40" p="3" et="3532.7017" s1="28.8563" s2="29.2392" s3="28.7922" fuel="0.243" pit="1">86.8877</Lap>
+<Lap num="41" p="5" et="3619.5894" s1="41.6830" s2="28.8177" s3="25.9799" fuel="0.227">96.4806</Lap>
+<Lap num="42" p="4" et="3716.0701" s1="28.1174" s2="28.2657" s3="25.5984" fuel="0.208">81.9814</Lap>
+<Lap num="43" p="4" et="3798.0515" s1="28.2185" s2="28.3965" s3="25.5902" fuel="0.192">82.2052</Lap>
+<Lap num="44" p="4" et="3880.2566" s1="28.2004" s2="27.9429" s3="25.4876" fuel="0.176">81.6309</Lap>
+<Lap num="45" p="4" et="3961.8875" s1="28.0880" s2="28.0673" s3="25.6718" fuel="0.157">81.8272</Lap>
+<Lap num="46" p="4" et="4043.7146" s1="28.0532" s2="28.1821" s3="25.7044" fuel="0.141">81.9398</Lap>
+<Lap num="47" p="4" et="4125.6543" s1="27.9737" s2="27.9544" s3="25.7015" fuel="0.122">81.6296</Lap>
+<Lap num="48" p="4" et="4207.2837" s1="28.1197" s2="27.9160" s3="25.6554" fuel="0.106">81.6911</Lap>
+<Lap num="49" p="4" et="4288.9746" s1="27.9070" s2="29.2198" s3="25.6087" fuel="0.086">82.7355</Lap>
+<Lap num="50" p="4" et="4371.7100" s1="28.0240" s2="28.2399" s3="25.7353" fuel="0.071">81.9992</Lap>
+<Lap num="51" p="4" et="4453.7090" s1="28.0221" s2="28.3643" s3="25.7177" fuel="0.055">82.1041</Lap>
+<Lap num="52" p="4" et="4535.8130" s1="28.2578" s2="28.4220" s3="25.7725" fuel="0.035">82.4524</Lap>
+<Lap num="53" p="4" et="4618.2656" s1="28.0645" s2="28.3543" s3="25.7927" fuel="0.020">82.2115</Lap>
+<BestLapTime>81.6296</BestLapTime>
+<FinishTime>4529.3677</FinishTime>
+<Laps>53</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="53">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Aurimas Zamzickas</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN_05.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McLaren #05</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>2</GridPos>
+<Position>3</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>3</Points>
+<ClassPoints>3</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="171.1093" s1="34.3044" s2="30.2950" s3="27.5632" fuel="0.875">92.1627</Lap>
+<Lap num="2" p="4" et="263.2719" s1="28.9026" s2="30.1498" s3="26.8455" fuel="0.859">85.8979</Lap>
+<Lap num="3" p="4" et="349.1698" s1="28.5776" s2="29.9304" s3="26.6177" fuel="0.843">85.1256</Lap>
+<Lap num="4" p="2" et="434.2954" s1="28.9770" s2="29.9696" s3="28.3906" fuel="0.824">87.3373</Lap>
+<Lap num="5" p="7" et="521.6327" s1="28.6134" s2="40.9335" s3="31.3128" fuel="0.808" pit="1">100.8597</Lap>
+<Lap num="6" p="7" et="622.4924" s1="48.2699" s2="29.0728" s3="26.6462" fuel="0.792">103.9890</Lap>
+<Lap num="7" p="7" et="726.4814" s1="28.7097" s2="29.8857" s3="27.0464" fuel="0.773">85.6419</Lap>
+<Lap num="8" p="7" et="812.1233" s1="28.5981" s2="29.3780" s3="26.8141" fuel="0.757">84.7902</Lap>
+<Lap num="9" p="7" et="896.9135" s1="28.6094" s2="29.6973" s3="26.4773" fuel="0.737">84.7840</Lap>
+<Lap num="10" p="6" et="981.6975" s1="28.4657" s2="29.3709" s3="26.5087" fuel="0.722">84.3453</Lap>
+<Lap num="11" p="6" et="1066.0428" s1="28.3445" s2="29.3318" s3="26.5369" fuel="0.706">84.2132</Lap>
+<Lap num="12" p="4" et="1150.2560" s1="28.4620" s2="29.4787" s3="26.7705" fuel="0.686">84.7112</Lap>
+<Lap num="13" p="4" et="1234.9672" s1="28.5246" s2="29.6932" s3="26.6973" fuel="0.671">84.9151</Lap>
+<Lap num="14" p="4" et="1319.8823" s1="28.5633" s2="29.3990" s3="26.7456" fuel="0.651">84.7080</Lap>
+<Lap num="15" p="4" et="1404.5903" s1="28.5768" s2="30.5129" s3="26.6423" fuel="0.635">85.7321</Lap>
+<Lap num="16" p="4" et="1490.3224" s1="28.4657" s2="29.3935" s3="26.6829" fuel="0.620">84.5421</Lap>
+<Lap num="17" p="4" et="1574.8645" s1="28.4448" s2="29.4375" s3="26.9113" fuel="0.600">84.7936</Lap>
+<Lap num="18" p="3" et="1659.6581" s1="28.6763" s2="29.6102" s3="29.6136" fuel="0.584" pit="1">87.9001</Lap>
+<Lap num="19" p="6" et="1747.5582" s1="42.5632" s2="29.6729" s3="26.4886" fuel="0.569">98.7247</Lap>
+<Lap num="20" p="5" et="1846.2830" s1="28.2512" s2="29.2006" s3="26.6772" fuel="0.549">84.1290</Lap>
+<Lap num="21" p="5" et="1930.4120" s1="28.2458" s2="29.2021" s3="26.5522" fuel="0.533">84.0002</Lap>
+<Lap num="22" p="5" et="2014.4122" s1="28.2185" s2="29.0193" s3="26.3857" fuel="0.518">83.6234</Lap>
+<Lap num="23" p="5" et="2098.0356" s1="28.1492" s2="29.2500" s3="26.3509" fuel="0.498">83.7501</Lap>
+<Lap num="24" p="4" et="2181.7856" s1="28.1746" s2="28.7902" s3="26.7283" fuel="0.482">83.6931</Lap>
+<Lap num="25" p="4" et="2265.4788" s1="28.0120" s2="28.9938" s3="26.3876" fuel="0.467">83.3934</Lap>
+<Lap num="26" p="4" et="2348.8721" s1="28.2667" s2="28.9047" s3="26.2748" fuel="0.447">83.4462</Lap>
+<Lap num="27" p="3" et="2432.3184" s1="28.5001" s2="29.5583" s3="27.0541" fuel="0.431">85.1125</Lap>
+<Lap num="28" p="3" et="2517.4309" s1="28.2813" s2="29.0525" s3="26.2343" fuel="0.416">83.5681</Lap>
+<Lap num="29" p="3" et="2600.9990" s1="28.1119" s2="29.1452" s3="26.2027" fuel="0.396">83.4598</Lap>
+<Lap num="30" p="3" et="2684.4587" s1="28.4426" s2="29.1695" s3="26.4519" fuel="0.380">84.0639</Lap>
+<Lap num="31" p="3" et="2768.5227" s1="28.1289" s2="29.4146" s3="26.5198" fuel="0.365">84.0633</Lap>
+<Lap num="32" p="3" et="2852.5859" s1="28.3462" s2="29.4440" s3="26.6025" fuel="0.349">84.3928</Lap>
+<Lap num="33" p="3" et="2936.9788" s1="28.2531" s2="29.3165" s3="26.6267" fuel="0.329">84.1963</Lap>
+<Lap num="34" p="3" et="3021.1750" s1="28.3824" s2="29.3932" s3="26.5041" fuel="0.314">84.2797</Lap>
+<Lap num="35" p="3" et="3105.4548" s1="28.3316" s2="29.5864" s3="29.0975" fuel="0.298">87.0155</Lap>
+<Lap num="36" p="3" et="3192.4702" s1="28.4734" s2="29.8628" s3="29.8113" fuel="0.282" pit="1">88.1475</Lap>
+<Lap num="37" p="5" et="3280.6177" s1="41.4872" s2="29.2675" s3="26.1470" fuel="0.263">96.9017</Lap>
+<Lap num="38" p="5" et="3377.5193" s1="27.9031" s2="28.9163" s3="26.2205" fuel="0.247">83.0400</Lap>
+<Lap num="39" p="5" et="3460.5593" s1="27.8621" s2="28.6444" s3="25.9519" fuel="0.231">82.4584</Lap>
+<Lap num="40" p="5" et="3543.0178" s1="27.8435" s2="28.5974" s3="25.9189" fuel="0.216">82.3598</Lap>
+<Lap num="41" p="3" et="3625.3777" s1="27.7952" s2="28.7794" s3="25.7515" fuel="0.196">82.3261</Lap>
+<Lap num="42" p="3" et="3707.7039" s1="27.9446" s2="28.3619" s3="25.7700" fuel="0.180">82.0765</Lap>
+<Lap num="43" p="3" et="3789.7803" s1="27.7862" s2="28.2672" s3="25.8615" fuel="0.165">81.9150</Lap>
+<Lap num="44" p="3" et="3871.6953" s1="27.9273" s2="28.5976" s3="25.8472" fuel="0.145">82.3720</Lap>
+<Lap num="45" p="3" et="3954.0674" s1="27.7518" s2="28.7616" s3="25.9846" fuel="0.129">82.4979</Lap>
+<Lap num="46" p="3" et="4036.5654" s1="27.7991" s2="28.4630" s3="25.7847" fuel="0.114">82.0468</Lap>
+<Lap num="47" p="3" et="4118.6123" s1="27.7424" s2="28.6845" s3="25.9139" fuel="0.098">82.3408</Lap>
+<Lap num="48" p="3" et="4200.9531" s1="27.7641" s2="28.4014" s3="25.9878" fuel="0.078">82.1533</Lap>
+<Lap num="49" p="3" et="4283.1064" s1="27.8865" s2="28.4859" s3="25.8592" fuel="0.063">82.2316</Lap>
+<Lap num="50" p="3" et="4365.3379" s1="27.6770" s2="28.5387" s3="26.3457" fuel="0.047">82.5614</Lap>
+<Lap num="51" p="3" et="4447.8994" s1="28.0762" s2="28.7714" s3="26.1475" fuel="0.031">82.9951</Lap>
+<Lap num="52" p="3" et="4530.8945" s1="28.2318" s2="29.2914" s3="26.2404" fuel="0.016">83.7636</Lap>
+<Lap num="53" p="3" et="4614.6582" s1="28.2857" s2="29.2994" s3="27.0424" fuel="0.000">84.6275</Lap>
+<BestLapTime>81.9150</BestLapTime>
+<FinishTime>4528.1763</FinishTime>
+<Laps>53</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="53">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Ignas Kairys</Name>
+<Connected>1</Connected>
+<VehFile>MARUSSIA_22.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marussia #22</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>22</CarNumber>
+<TeamName>Marussia</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>4</GridPos>
+<Position>6</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="171.1093" s1="35.5184" s2="29.9206" s3="27.6798" fuel="0.945">93.1188</Lap>
+<Lap num="2" p="6" et="264.2281" s1="29.4772" s2="29.9236" s3="26.7999" fuel="0.929">86.2007</Lap>
+<Lap num="3" p="6" et="350.4287" s1="28.7991" s2="29.5165" s3="27.0239" fuel="0.910">85.3395</Lap>
+<Lap num="4" p="7" et="435.7683" s1="28.9127" s2="31.8033" s3="34.0060" fuel="0.894">94.7220</Lap>
+<Lap num="5" p="6" et="530.4903" s1="29.0046" s2="31.4506" s3="27.3876" fuel="0.875">87.8428</Lap>
+<Lap num="6" p="6" et="618.3331" s1="29.0012" s2="29.8616" s3="27.4024" fuel="0.855">86.2652</Lap>
+<Lap num="7" p="5" et="704.5983" s1="29.0738" s2="30.1571" s3="27.6613" fuel="0.839">86.8922</Lap>
+<Lap num="8" p="5" et="791.4905" s1="28.9966" s2="29.9698" s3="27.1868" fuel="0.820">86.1531</Lap>
+<Lap num="9" p="5" et="877.6436" s1="29.5342" s2="29.7454" s3="30.2016" fuel="0.804" pit="1">89.4811</Lap>
+<Lap num="10" p="7" et="967.1247" s1="47.8039" s2="29.9499" s3="26.9951" fuel="0.784">104.7489</Lap>
+<Lap num="11" p="7" et="1071.8735" s1="28.9271" s2="29.2694" s3="27.0102" fuel="0.769">85.2066</Lap>
+<Lap num="12" p="7" et="1157.0801" s1="28.7762" s2="29.6590" s3="27.1060" fuel="0.749">85.5412</Lap>
+<Lap num="13" p="6" et="1242.6213" s1="29.2386" s2="29.5930" s3="26.6950" fuel="0.729">85.5266</Lap>
+<Lap num="14" p="6" et="1328.1479" s1="28.8883" s2="29.7857" s3="26.7679" fuel="0.714">85.4419</Lap>
+<Lap num="15" p="6" et="1413.5898" s1="28.9109" s2="29.4304" s3="26.8138" fuel="0.694">85.1551</Lap>
+<Lap num="16" p="6" et="1498.7450" s1="28.7479" s2="29.5758" s3="27.0639" fuel="0.678">85.3877</Lap>
+<Lap num="17" p="6" et="1584.1327" s1="28.7592" s2="29.9668" s3="26.8958" fuel="0.659">85.6218</Lap>
+<Lap num="18" p="6" et="1669.7545" s1="28.9183" s2="29.4389" s3="27.4213" fuel="0.643">85.7785</Lap>
+<Lap num="19" p="5" et="1755.5331" s1="29.1674" s2="29.7564" s3="27.0197" fuel="0.624">85.9435</Lap>
+<Lap num="20" p="6" et="1841.4766" s1="28.9871" s2="29.8648" s3="30.7584" fuel="0.608" pit="1">89.6103</Lap>
+<Lap num="21" p="7" et="1931.0868" s1="46.8169" s2="28.7344" s3="26.3036" fuel="0.588">101.8549</Lap>
+<Lap num="22" p="6" et="2032.9417" s1="28.3870" s2="29.5350" s3="26.7586" fuel="0.573">84.6806</Lap>
+<Lap num="23" p="6" et="2117.6223" s1="28.3847" s2="33.1259" s3="26.4853" fuel="0.553">87.9959</Lap>
+<Lap num="24" p="6" et="2205.6182" s1="28.3855" s2="29.6083" s3="26.4523" fuel="0.533">84.4460</Lap>
+<Lap num="25" p="6" et="2290.0642" s1="28.5282" s2="28.5906" s3="26.5111" fuel="0.518">83.6300</Lap>
+<Lap num="26" p="6" et="2373.6941" s1="28.4513" s2="35.1516" s3="26.5936" fuel="0.498">90.1965</Lap>
+<Lap num="27" p="6" et="2463.8906" s1="28.3716" s2="29.1216" s3="26.2311" fuel="0.478">83.7242</Lap>
+<Lap num="28" p="6" et="2547.6147" s1="28.2423" s2="29.0460" s3="26.6320" fuel="0.463">83.9203</Lap>
+<Lap num="29" p="6" et="2631.5352" s1="28.5959" s2="29.3791" s3="30.4222" fuel="0.447" pit="1">88.3972</Lap>
+<Lap num="30" p="6" et="2719.9324" s1="47.2405" s2="28.5908" s3="25.9545" fuel="0.427">101.7858</Lap>
+<Lap num="31" p="6" et="2821.7183" s1="28.2585" s2="28.2180" s3="25.8028" fuel="0.408">82.2793</Lap>
+<Lap num="32" p="6" et="2903.9976" s1="28.0720" s2="28.3911" s3="26.1694" fuel="0.392">82.6325</Lap>
+<Lap num="33" p="6" et="2986.6301" s1="28.1869" s2="28.3951" s3="25.9173" fuel="0.373">82.4993</Lap>
+<BestLapTime>82.2793</BestLapTime>
+<Laps>33</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="33">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Martynas Dailidenas</Name>
+<Connected>1</Connected>
+<VehFile>REDBULL_01.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Red Bull #01</VehName>
+<CarType>F1 2013</CarType>
+<CarClass>F1 2013</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>Red Bull</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>5</GridPos>
+<Position>7</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="171.1093" s1="35.8791" s2="30.5330" s3="27.2416" fuel="0.945">93.6537</Lap>
+<Lap num="2" p="7" et="264.7630" s1="29.2439" s2="30.3438" s3="27.1325" fuel="0.929">86.7202</Lap>
+<Lap num="3" p="7" et="351.4832" s1="29.0880" s2="30.2842" s3="26.9416" fuel="0.914">86.3138</Lap>
+<Lap num="4" p="6" et="437.7970" s1="29.3186" s2="30.1354" s3="27.4454" fuel="0.894">86.8993</Lap>
+<Lap num="5" p="4" et="524.6962" s1="29.1285" s2="35.5818" s3="27.1988" fuel="0.878">91.9091</Lap>
+<Lap num="6" p="4" et="616.6053" s1="28.9648" s2="30.2169" s3="27.2158" fuel="0.863">86.3975</Lap>
+<Lap num="7" p="6" et="703.0028" s1="29.0289" s2="30.8236" s3="32.6503" fuel="0.847">92.5027</Lap>
+<Lap num="8" p="6" et="795.5056" s1="29.1388" s2="30.7795" s3="27.2997" fuel="0.827">87.2180</Lap>
+<Lap num="9" p="6" et="882.7236" s1="29.1700" s2="30.2840" s3="27.4123" fuel="0.812">86.8662</Lap>
+<Lap num="10" p="5" et="969.5898" s1="29.1182" s2="30.4114" s3="27.9313" fuel="0.796">87.4608</Lap>
+<Lap num="11" p="5" et="1057.0507" s1="29.5422" s2="30.4737" s3="27.5949" fuel="0.776">87.6108</Lap>
+<Lap num="12" p="5" et="1144.6615" s1="29.4247" s2="30.8086" s3="31.6818" fuel="0.761" pit="1">91.9152</Lap>
+<Lap num="13" p="7" et="1236.5767" s1="43.7388" s2="30.1556" s3="26.6998" fuel="0.745">100.5942</Lap>
+<Lap num="14" p="7" et="1337.1708" s1="29.2688" s2="30.3112" s3="26.6504" fuel="0.725">86.2304</Lap>
+<Lap num="15" p="7" et="1423.4011" s1="28.7093" s2="29.4969" s3="26.5923" fuel="0.710">84.7985</Lap>
+<Lap num="16" p="7" et="1508.1997" s1="28.7538" s2="31.3425" s3="27.0996" fuel="0.694">87.1959</Lap>
+<Lap num="17" p="7" et="1595.3956" s1="28.7514" s2="29.8148" s3="26.8610" fuel="0.675">85.4272</Lap>
+<Lap num="18" p="7" et="1680.8229" s1="28.8311" s2="29.8804" s3="29.3540" fuel="0.659">88.0654</Lap>
+<Lap num="19" p="7" et="1768.8883" s1="28.8954" s2="29.7822" s3="26.7570" fuel="0.643">85.4346</Lap>
+<Lap num="20" p="7" et="1854.3230" s1="28.9959" s2="30.4229" s3="27.0857" fuel="0.627">86.5045</Lap>
+<Lap num="21" p="6" et="1940.8275" s1="28.7826" s2="29.8062" s3="32.6142" fuel="0.608">91.2030</Lap>
+<BestLapTime>84.7985</BestLapTime>
+<Laps>21</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="21">PlayerControl,ABS=2,Clutch</ControlAndAids>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>

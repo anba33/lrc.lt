@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC ISPANIJA OFICIALUS</ServerName>
+<PlayerFile>Andrius Stankevicius</PlayerFile>
+<DateTime>1320169591</DateTime>
+<TimeString>2011/11/01 19:46:31</TimeString>
+<Mod>FSONE2009_MP.rfm</Mod>
+<Season></Season>
+<TrackVenue>LRC11/12 Trasos</TrackVenue>
+<TrackCourse>Circuit de Catalunya</TrackCourse>
+<TrackEvent>LRC Ispanijos GP 2011</TrackEvent>
+<TrackLength>4635.0</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>50</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|FSONE-2009|FSONE-2009V1|Mercedes-Benz</VehiclesAllowed>
+<ParcFerme>1</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>252</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1320171351</DateTime>
+<TimeString>2011/11/01 20:15:51</TimeString>
+<Laps>3</Laps>
+<Minutes>5</Minutes>
+<Stream>
+<Score et="53.2">Mantvydas Riauka(23) lap=0 point=1 t=-1.000 et=53.195</Score>
+<Score et="55.3">Lukas Jagminas(6) lap=0 point=1 t=-1.000 et=55.265</Score>
+<Score et="70.3">Nerijus Dumcius(7) lap=0 point=1 t=-1.000 et=70.324</Score>
+<Score et="72.7">Vilius Kaukas(12) lap=0 point=1 t=-1.000 et=72.695</Score>
+<Score et="81.9">Tomas Vilis(21) lap=0 point=1 t=-1.000 et=81.855</Score>
+<Score et="82.3">Mantvydas Riauka(23) lap=0 point=2 t=-1.000 et=82.275</Score>
+<Score et="87.3">Lukas Jagminas(6) lap=0 point=2 t=-1.000 et=87.330</Score>
+<Score et="100.2">Nerijus Dumcius(7) lap=0 point=2 t=-1.000 et=100.133</Score>
+<Score et="104.5">Vilius Kaukas(12) lap=0 point=2 t=-1.000 et=104.485</Score>
+<Score et="111.0">Tomas Vilis(21) lap=0 point=2 t=-1.000 et=110.970</Score>
+<Score et="111.2">Adomas Minevicius(14) lap=0 point=1 t=-1.000 et=111.162</Score>
+<Score et="112.9">Mantvydas Riauka(23) lap=1 point=0 t=-1.000 et=112.824</Score>
+<Score et="119.1">Lukas Jagminas(6) lap=1 point=0 t=-1.000 et=119.016</Score>
+<Score et="129.5">Martynas Dailidenas(10) lap=0 point=1 t=-1.000 et=129.452</Score>
+<Score et="130.1">Nerijus Dumcius(7) lap=1 point=0 t=-1.000 et=130.016</Score>
+<Score et="133.4">Mantvydas Riauka(23) lap=1 point=1 t=20.501 et=133.324</Score>
+<Score et="134.7">Vilius Kaukas(12) lap=1 point=0 t=-1.000 et=134.643</Score>
+<Score et="139.9">Lukas Jagminas(6) lap=1 point=1 t=20.839 et=139.855</Score>
+<Score et="140.3">Adomas Minevicius(14) lap=0 point=2 t=-1.000 et=140.264</Score>
+<Score et="141.5">Tomas Vilis(21) lap=1 point=0 t=-1.000 et=141.468</Score>
+<Score et="146.0">Benediktas Sinkevicius(13) lap=0 point=1 t=-1.000 et=146.027</Score>
+<Score et="150.5">Nerijus Dumcius(7) lap=1 point=1 t=20.404 et=150.419</Score>
+<Score et="155.2">Vilius Kaukas(12) lap=1 point=1 t=20.504 et=155.147</Score>
+<Score et="158.4">Martynas Dailidenas(10) lap=0 point=2 t=-1.000 et=158.439</Score>
+<Score et="162.0">Mantvydas Riauka(23) lap=1 point=2 t=49.116 et=161.939</Score>
+<Score et="162.0">Tomas Vilis(21) lap=1 point=1 t=20.543 et=162.011</Score>
+<Score et="168.9">Lukas Jagminas(6) lap=1 point=2 t=49.812 et=168.827</Score>
+<Score et="170.8">Adomas Minevicius(14) lap=1 point=0 t=-1.000 et=170.811</Score>
+<Score et="175.1">Benediktas Sinkevicius(13) lap=0 point=2 t=-1.000 et=175.042</Score>
+<Score et="179.0">Nerijus Dumcius(7) lap=1 point=2 t=48.931 et=178.947</Score>
+<Score et="181.0">Mindaugas Klumbis(20) lap=0 point=1 t=-1.000 et=180.957</Score>
+<Score et="183.7">Vilius Kaukas(12) lap=1 point=2 t=48.988 et=183.631</Score>
+<Score et="188.8">Martynas Dailidenas(10) lap=1 point=0 t=-1.000 et=188.733</Score>
+<Score et="190.7">Tomas Vilis(21) lap=1 point=2 t=49.156 et=190.623</Score>
+<Score et="191.5">Adomas Minevicius(14) lap=1 point=1 t=20.644 et=191.455</Score>
+<Score et="191.9">Mantvydas Riauka(23) lap=2 point=0 t=79.033 et=191.857</Score>
+<Score et="199.1">Lukas Jagminas(6) lap=2 point=0 t=80.040 et=199.056</Score>
+<Score et="203.6">Mantvydas Riauka(23) lap=2 point=1 t=-1.000 et=203.489</Score>
+<Score et="203.6">Mantvydas Riauka(23) lap=2 point=2 t=-1.000 et=203.489</Score>
+<Score et="203.6">Mantvydas Riauka(23) lap=3 point=0 t=-1.000 et=203.489</Score>
+<Score et="204.4">Lukas Jagminas(6) lap=2 point=1 t=-1.000 et=204.306</Score>
+<Score et="204.4">Lukas Jagminas(6) lap=2 point=2 t=-1.000 et=204.306</Score>
+<Score et="204.4">Lukas Jagminas(6) lap=3 point=0 t=-1.000 et=204.306</Score>
+<Score et="205.2">Benediktas Sinkevicius(13) lap=1 point=0 t=-1.000 et=205.143</Score>
+<Score et="208.6">Nerijus Dumcius(7) lap=2 point=0 t=78.593 et=208.608</Score>
+<Score et="209.3">Martynas Dailidenas(10) lap=1 point=1 t=20.511 et=209.244</Score>
+<Score et="210.6">Mindaugas Klumbis(20) lap=0 point=2 t=-1.000 et=210.530</Score>
+<Score et="213.5">Vilius Kaukas(12) lap=2 point=0 t=78.817 et=213.460</Score>
+<Score et="213.5">Nerijus Dumcius(7) lap=2 point=1 t=-1.000 et=213.463</Score>
+<Score et="213.5">Nerijus Dumcius(7) lap=2 point=2 t=-1.000 et=213.463</Score>
+<Score et="213.5">Nerijus Dumcius(7) lap=3 point=0 t=-1.000 et=213.463</Score>
+<Score et="216.8">Egidijus Masalskis(9) lap=0 point=1 t=-1.000 et=216.765</Score>
+<Score et="219.9">Vilius Kaukas(12) lap=2 point=1 t=-1.000 et=219.810</Score>
+<Score et="219.9">Vilius Kaukas(12) lap=2 point=2 t=-1.000 et=219.810</Score>
+<Score et="219.9">Vilius Kaukas(12) lap=3 point=0 t=-1.000 et=219.810</Score>
+<Score et="220.1">Adomas Minevicius(14) lap=1 point=2 t=49.243 et=220.054</Score>
+<Score et="220.4">Tomas Vilis(21) lap=2 point=0 t=78.932 et=220.400</Score>
+<Score et="225.6">Benediktas Sinkevicius(13) lap=1 point=1 t=20.465 et=225.607</Score>
+<Score et="226.8">Tomas Vilis(21) lap=2 point=1 t=-1.000 et=226.719</Score>
+<Score et="226.8">Tomas Vilis(21) lap=2 point=2 t=-1.000 et=226.719</Score>
+<Score et="226.8">Tomas Vilis(21) lap=3 point=0 t=-1.000 et=226.719</Score>
+<Score et="237.8">Martynas Dailidenas(10) lap=1 point=2 t=49.070 et=237.803</Score>
+<Score et="240.9">Mindaugas Klumbis(20) lap=1 point=0 t=-1.000 et=240.859</Score>
+<Score et="245.8">Egidijus Masalskis(9) lap=0 point=2 t=-1.000 et=245.761</Score>
+<Score et="250.1">Adomas Minevicius(14) lap=2 point=0 t=79.225 et=250.036</Score>
+<Score et="254.4">Benediktas Sinkevicius(13) lap=1 point=2 t=49.257 et=254.400</Score>
+<Score et="256.0">Adomas Minevicius(14) lap=2 point=1 t=-1.000 et=255.968</Score>
+<Score et="256.0">Adomas Minevicius(14) lap=2 point=2 t=-1.000 et=255.968</Score>
+<Score et="256.0">Adomas Minevicius(14) lap=3 point=0 t=-1.000 et=255.968</Score>
+<Score et="261.4">Mindaugas Klumbis(20) lap=1 point=1 t=20.519 et=261.378</Score>
+<Score et="268.1">Martynas Dailidenas(10) lap=2 point=0 t=79.383 et=268.116</Score>
+<Score et="272.9">Martynas Dailidenas(10) lap=2 point=1 t=-1.000 et=272.812</Score>
+<Score et="272.9">Martynas Dailidenas(10) lap=2 point=2 t=-1.000 et=272.812</Score>
+<Score et="272.9">Martynas Dailidenas(10) lap=3 point=0 t=-1.000 et=272.812</Score>
+<Score et="275.7">Egidijus Masalskis(9) lap=1 point=0 t=-1.000 et=275.679</Score>
+<Score et="284.4">Benediktas Sinkevicius(13) lap=2 point=0 t=79.284 et=284.427</Score>
+<Score et="288.8">Benediktas Sinkevicius(13) lap=3 point=0 t=-1.000 et=288.673</Score>
+<Score et="288.8">Benediktas Sinkevicius(13) lap=3 point=1 t=-1.000 et=288.673</Score>
+<Score et="288.8">Benediktas Sinkevicius(13) lap=3 point=2 t=-1.000 et=288.673</Score>
+<Score et="289.8">Mindaugas Klumbis(20) lap=1 point=2 t=48.943 et=289.802</Score>
+<Score et="296.2">Egidijus Masalskis(9) lap=1 point=1 t=20.420 et=296.098</Score>
+<Score et="319.5">Mindaugas Klumbis(20) lap=2 point=0 t=78.626 et=319.485</Score>
+<Score et="324.4">Egidijus Masalskis(9) lap=1 point=2 t=48.683 et=324.362</Score>
+<Score et="335.6">Mindaugas Klumbis(20) lap=3 point=0 t=-1.000 et=335.477</Score>
+<Score et="335.6">Mindaugas Klumbis(20) lap=3 point=1 t=-1.000 et=335.477</Score>
+<Score et="335.6">Mindaugas Klumbis(20) lap=3 point=2 t=-1.000 et=335.477</Score>
+<Score et="354.0">Egidijus Masalskis(9) lap=2 point=0 t=78.335 et=354.014</Score>
+<Chat et="354.5">Tomas Aniunas: sveikinam egi </Chat>
+<Chat et="361.5">Lukas Jagminas: kai as ziaurus, su hard vaziavau...</Chat>
+<Incident et="361.5">Egidijus Masalskis(9) reported contact (0.32) with Immovable</Incident>
+<Incident et="361.6">Egidijus Masalskis(9) reported contact (0.10) with Immovable</Incident>
+<Chat et="362.3">Tomas Vilis: fantastiskai bratka</Chat>
+<Chat et="363.8">Valentas Tyla: Sveikinimai :)</Chat>
+<Incident et="364.7">Egidijus Masalskis(9) reported contact (0.03) with Immovable</Incident>
+<Score et="365.3">Egidijus Masalskis(9) lap=3 point=0 t=-1.000 et=365.255</Score>
+<Score et="365.3">Egidijus Masalskis(9) lap=3 point=1 t=-1.000 et=365.255</Score>
+<Score et="365.3">Egidijus Masalskis(9) lap=3 point=2 t=-1.000 et=365.255</Score>
+<Chat et="366.5">Mindaugas Klumbis: SVEIKINIMAI</Chat>
+<Chat et="369.2">Egidijus Masalskis: aciu</Chat>
+<Chat et="371.9">Andrius Kuzmenko: Sveikinu</Chat>
+<Chat et="373.5">Linas Norvaisas: maladiec </Chat>
+<Chat et="374.8">Mindaugas Klumbis: KURVA KURVA SUSIMOVIAU NEBLOGAI</Chat>
+<Chat et="375.3">Lukas Jagminas: sveikinu egi :)</Chat>
+<Chat et="375.8">Nerijus Dumcius: sveikinam&apos;</Chat>
+<Chat et="378.3">Gvidas Ablingis: Sveikinu Egi :)</Chat>
+<Chat et="378.9">Mantvydas Riauka: sveikinam</Chat>
+<Chat et="395.5">Lukas Jagminas: bleha kaip gaila, nepamaciau kad hardus uzsimoves..</Chat>
+<Chat et="400.9">Valentas Tyla: Vyrai, 4 radiator lentkynems uzteks?</Chat>
+<Chat et="401.2">Adomas Minevicius: sveikinu</Chat>
+<Chat et="405.4">Mindaugas Klumbis: UZTEKS</Chat>
+<Chat et="413.4">Valentas Tyla: ok</Chat>
+<Vote et="415.0">Mindaugas Klumbis: /callvote nextsession</Vote>
+<Sent et="415.0">&quot;advance to next session&quot; proposed by Mindaugas Klumbis (ADMIN): vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>3</MostLapsCompleted>
+<Driver>
+<Name>Egidijus Masalskis</Name>
+<Connected>1</Connected>
+<VehFile>VIRGIN_24.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Virgin #24</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>Marussia Virgin Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="1" et="275.6786" s1="20.4197" s2="28.2635" s3="29.6518" fuel="0.008">78.3351</Lap>
+<Lap num="3" p="1" et="354.0136" fuel="0.047">--.----</Lap>
+<BestLapTime>78.3351</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Nerijus Dumcius</Name>
+<Connected>1</Connected>
+<VehFile>VODAFONEMCLAREN_01.VEH</VehFile>
+<UpgradeCode>00020000 00000000</UpgradeCode>
+<VehName>McLaren #3</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>Vodafone McLaren Mercedes.</TeamName>
+<isPlayer>1</isPlayer>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="1" et="130.0157" s1="20.4038" s2="28.5273" s3="29.6616" fuel="0.008">78.5928</Lap>
+<Lap num="3" p="1" et="208.6084" fuel="0.047">--.----</Lap>
+<BestLapTime>78.5928</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>MRFERRARI_04.VEH</VehFile>
+<UpgradeCode>80000000 00000000</UpgradeCode>
+<VehName>Ferrari #6</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>Scuderia Marlboro Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="2" et="240.8591" s1="20.5193" s2="28.4233" s3="29.6831" fuel="0.004">78.6257</Lap>
+<Lap num="3" p="2" et="319.4848" fuel="0.047">--.----</Lap>
+<BestLapTime>78.6257</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Vilius Kaukas</Name>
+<Connected>1</Connected>
+<VehFile>INGRENAULT_08.VEH</VehFile>
+<UpgradeCode>20100000 00000000</UpgradeCode>
+<VehName>Renault #10</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>08</CarNumber>
+<TeamName>ING Renault F1</TeamName>
+<isPlayer>1</isPlayer>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="2" et="134.6431" s1="20.5037" s2="28.4840" s3="29.8293" fuel="0.008">78.8169</Lap>
+<Lap num="3" p="2" et="213.4601" fuel="0.047">--.----</Lap>
+<BestLapTime>78.8169</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,TC=2,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="2" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Tomas Vilis</Name>
+<Connected>1</Connected>
+<VehFile>INGRENAULT_07.VEH</VehFile>
+<UpgradeCode>20140000 00000000</UpgradeCode>
+<VehName>Renault #9</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>ING Renault F1</TeamName>
+<isPlayer>1</isPlayer>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.031">--.----</Lap>
+<Lap num="2" p="3" et="141.4678" s1="20.5429" s2="28.6128" s3="29.7768" fuel="0.012">78.9325</Lap>
+<Lap num="3" p="3" et="220.4003" fuel="0.051">--.----</Lap>
+<BestLapTime>78.9325</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mantvydas Riauka</Name>
+<Connected>1</Connected>
+<VehFile>MRFERRARI_03.VEH</VehFile>
+<UpgradeCode>80080000 00000000</UpgradeCode>
+<VehName>Ferrari #5</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>Scuderia Marlboro Ferrari</TeamName>
+<isPlayer>1</isPlayer>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="1" et="112.8238" s1="20.5006" s2="28.6151" s3="29.9174" fuel="0.008">79.0331</Lap>
+<Lap num="3" p="1" et="191.8569" fuel="0.047">--.----</Lap>
+<BestLapTime>79.0331</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Adomas Minevicius</Name>
+<Connected>1</Connected>
+<VehFile>VODAFONEMCLAREN_02.VEH</VehFile>
+<UpgradeCode>00110000 00000000</UpgradeCode>
+<VehName>McLaren #4</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>02</CarNumber>
+<TeamName>Vodafone McLaren Mercedes.</TeamName>
+<isPlayer>1</isPlayer>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="5" et="170.8109" s1="20.6444" s2="28.5986" s3="29.9817" fuel="0.008">79.2247</Lap>
+<Lap num="3" p="5" et="250.0356" fuel="0.047">--.----</Lap>
+<BestLapTime>79.2247</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Benediktas Sinkevicius</Name>
+<Connected>1</Connected>
+<VehFile>LOTUS_21.VEH</VehFile>
+<UpgradeCode>20000000 00000000</UpgradeCode>
+<VehName>Lotus #21</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>21</CarNumber>
+<TeamName>Lotus Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>8</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="6" et="205.1426" s1="20.4647" s2="28.7923" s3="30.0270" fuel="0.008">79.2839</Lap>
+<Lap num="3" p="6" et="284.4265" fuel="0.047">--.----</Lap>
+<BestLapTime>79.2839</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Martynas Dailidenas</Name>
+<Connected>1</Connected>
+<VehFile>LOTUS_20.VEH</VehFile>
+<UpgradeCode>00200000 00000000</UpgradeCode>
+<VehName>Lotus #20</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Lotus Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>9</Position>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="6" et="188.7332" s1="20.5107" s2="28.5594" s3="30.3126" fuel="0.008">79.3828</Lap>
+<Lap num="3" p="6" et="268.1160" fuel="0.047">--.----</Lap>
+<BestLapTime>79.3828</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Lukas Jagminas</Name>
+<Connected>1</Connected>
+<VehFile>HRT_22.VEH</VehFile>
+<UpgradeCode>c0020000 00000000</UpgradeCode>
+<VehName>HRT #22</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>HRT</TeamName>
+<isPlayer>1</isPlayer>
+<Position>10</Position>
+<ClassPosition>10</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.027">--.----</Lap>
+<Lap num="2" p="2" et="119.0159" s1="20.8388" s2="28.9728" s3="30.2282" fuel="0.008">80.0398</Lap>
+<Lap num="3" p="2" et="199.0557" fuel="0.047">--.----</Lap>
+<BestLapTime>80.0398</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,TC=2,ABS=1,AutoShift=3,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Gvidas Ablingis</Name>
+<Connected>1</Connected>
+<VehFile>REDBULRACING_14.VEH</VehFile>
+<UpgradeCode>c0220000 00000000</UpgradeCode>
+<VehName>Red Bull #1</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>Red bull Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>11</Position>
+<ClassPosition>11</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Paulius Variakojis</Name>
+<Connected>1</Connected>
+<VehFile>REDBULRACING_15.VEH</VehFile>
+<UpgradeCode>c0000000 00000000</UpgradeCode>
+<VehName>Red Bull #2</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>15</CarNumber>
+<TeamName>Red bull Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>12</Position>
+<ClassPosition>12</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Justas Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>WILLIAMSF1_17.VEH</VehFile>
+<UpgradeCode>d6170000 00000000</UpgradeCode>
+<VehName>Williams #12</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Williams F1 Team</TeamName>
+<isPlayer>1</isPlayer>
+<Position>13</Position>
+<ClassPosition>13</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Aurimas Zamzickas</Name>
+<Connected>1</Connected>
+<VehFile>BRAWNGP_23.VEH</VehFile>
+<UpgradeCode>40040000 00000000</UpgradeCode>
+<VehName>Mercedes #8</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>23</CarNumber>
+<TeamName>Mercedes GP</TeamName>
+<isPlayer>1</isPlayer>
+<Position>14</Position>
+<ClassPosition>14</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Justas Siaulenskas</Name>
+<Connected>1</Connected>
+<VehFile>BMWSAUBER_05.VEH</VehFile>
+<UpgradeCode>c0140000 00000000</UpgradeCode>
+<VehName>Sauber #16</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>BMW Sauber F1.</TeamName>
+<isPlayer>1</isPlayer>
+<Position>15</Position>
+<ClassPosition>15</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Rytis Dragauskas</Name>
+<Connected>1</Connected>
+<VehFile>HRT_22.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>HRT #22</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>HRT</TeamName>
+<isPlayer>1</isPlayer>
+<Position>16</Position>
+<ClassPosition>16</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Valentas Tyla</Name>
+<Connected>1</Connected>
+<VehFile>FORCEINDIA_21.VEH</VehFile>
+<UpgradeCode>00170000 00000000</UpgradeCode>
+<VehName>Force India #15</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>21</CarNumber>
+<TeamName>Force India</TeamName>
+<isPlayer>1</isPlayer>
+<Position>17</Position>
+<ClassPosition>17</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Linas Norvaisas</Name>
+<Connected>1</Connected>
+<VehFile>BRAWNGP_22.VEH</VehFile>
+<UpgradeCode>40050000 00000000</UpgradeCode>
+<VehName>Mercedes #7</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>22</CarNumber>
+<TeamName>Mercedes GP</TeamName>
+<isPlayer>1</isPlayer>
+<Position>18</Position>
+<ClassPosition>18</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>18</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Andrius Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>FORCEINDIA_20.VEH</VehFile>
+<UpgradeCode>40070000 00000000</UpgradeCode>
+<VehName>Force India #14</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Force India</TeamName>
+<isPlayer>1</isPlayer>
+<Position>19</Position>
+<ClassPosition>19</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>19</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Martynas Venskus</Name>
+<Connected>1</Connected>
+<VehFile>TOROROSSO_12.VEH</VehFile>
+<UpgradeCode>800a0000 00000000</UpgradeCode>
+<VehName>Toro Rosso #18</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>Scuderia Toro Rosso</TeamName>
+<isPlayer>1</isPlayer>
+<Position>20</Position>
+<ClassPosition>20</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>20</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Tomas Cybas</Name>
+<Connected>1</Connected>
+<VehFile>VIRGIN_25.VEH</VehFile>
+<UpgradeCode>c00a0000 00000000</UpgradeCode>
+<VehName>Virgin #25</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>15</CarNumber>
+<TeamName>Marussia Virgin Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>21</Position>
+<ClassPosition>21</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>21</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Tomas Aniunas</Name>
+<Connected>1</Connected>
+<VehFile>TOROROSSO_11.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Toro Rosso #19</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>Scuderia Toro Rosso</TeamName>
+<isPlayer>1</isPlayer>
+<Position>22</Position>
+<ClassPosition>22</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>22</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Andrius Kuzmenko</Name>
+<Connected>1</Connected>
+<VehFile>BMWSAUBER_06.VEH</VehFile>
+<UpgradeCode>c0100000 00000000</UpgradeCode>
+<VehName>Sauber #17</VehName>
+<CarType>Fsone 2009</CarType>
+<CarClass>Fsone 2009</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>BMW Sauber F1.</TeamName>
+<isPlayer>1</isPlayer>
+<Position>23</Position>
+<ClassPosition>23</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>23</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

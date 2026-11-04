@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>LRC BMW 320 E21</ServerName>
+<PlayerFile>VWGTI</PlayerFile>
+<DateTime>1275928910</DateTime>
+<TimeString>2010/06/07 19:41:50</TimeString>
+<Mod>BMW320_E21.rfm</Mod>
+<Season></Season>
+<TrackVenue>KIELCE</TrackVenue>
+<TrackCourse>KIELCE POLAND</TrackCourse>
+<TrackEvent>KIELCE POLAND</TrackEvent>
+<TrackLength>4135.9</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>Lithuanian Racing Chellenge</MOTD>
+<RaceLaps>0</RaceLaps>
+<RaceTime>20</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|BMW320</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1275930108</DateTime>
+<TimeString>2010/06/07 20:01:48</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>15</Minutes>
+<Stream>
+<Chat et="2.2">Mindaugas Klumbis: as ne</Chat>
+<Chat et="9.8">Vygintas Kuprys: TYLOS SESIJOS METU</Chat>
+<Incident et="25.0">Mantas Valys(38) reported contact (0.00) with another vehicle Marius Kasciuskevicius(36)</Incident>
+<Incident et="26.2">Justas Vaitekunas(27) reported contact (0.10) with another vehicle Mantas Valys(38)</Incident>
+<Incident et="27.6">Andrius Kuzmenko(30) reported contact (0.58) with another vehicle Audrius Valantiejus(5)</Incident>
+<Incident et="35.6">Tomas Aniunas(16) reported contact (1.00) with Immovable</Incident>
+<Incident et="36.4">Tomas Aniunas(16) reported contact (0.48) with another vehicle Martynas Dailidenas(39)</Incident>
+<Incident et="36.4">Martynas Dailidenas(39) reported contact (0.42) with another vehicle Tomas Aniunas(16)</Incident>
+<Incident et="37.7">Martynas Dailidenas(39) reported contact (0.13) with another vehicle Vygintas Kuprys(19)</Incident>
+<Score et="38.8">Tomas Aniunas(16) lap=0 point=1 t=-1.000 et=38.713</Score>
+<Score et="38.8">Tomas Aniunas(16) lap=1 point=0 t=-1.000 et=38.713</Score>
+<Score et="38.8">Tomas Aniunas(16) lap=1 point=2 t=-1.000 et=38.713</Score>
+<Incident et="43.4">Tomas Mikuta(31) reported contact (0.90) with Part</Incident>
+<Score et="44.8">Mantvis Mantinis(25) lap=0 point=1 t=-1.000 et=44.788</Score>
+<Incident et="49.1">Mantvis Mantinis(25) reported contact (0.10) with Immovable</Incident>
+<Incident et="51.7">Marius Kasciuskevicius(36) reported contact (0.48) with another vehicle Mantas Valys(38)</Incident>
+<Incident et="51.7">Marius Kasciuskevicius(36) reported contact (0.10) with another vehicle Mantas Valys(38)</Incident>
+<Incident et="51.9">Mantas Valys(38) reported contact (0.03) with Immovable</Incident>
+<Incident et="52.0">Mantas Valys(38) reported contact (0.45) with Immovable</Incident>
+<Incident et="54.0">Vytautas Sabutis(37) reported contact (0.10) with Immovable</Incident>
+<Incident et="54.0">Vytautas Sabutis(37) reported contact (0.29) with Immovable</Incident>
+<Incident et="54.2">Marius Kasciuskevicius(36) reported contact (0.68) with Immovable</Incident>
+<Incident et="54.2">Marius Kasciuskevicius(36) reported contact (0.71) with Immovable</Incident>
+<Incident et="54.3">Marius Kasciuskevicius(36) reported contact (0.29) with Immovable</Incident>
+<Score et="54.4">Justas Vaitekunas(27) lap=0 point=1 t=-1.000 et=54.319</Score>
+<Incident et="55.3">Marius Kasciuskevicius(36) reported contact (0.39) with Immovable</Incident>
+<Score et="56.5">Marius Kasciuskevicius(36) lap=0 point=2 t=-1.000 et=56.329</Score>
+<Score et="56.5">Marius Kasciuskevicius(36) lap=0 point=1 t=-1.000 et=56.329</Score>
+<Score et="56.5">Marius Kasciuskevicius(36) lap=1 point=0 t=-1.000 et=56.329</Score>
+<Score et="56.7">Audrius Valantiejus(5) lap=0 point=1 t=-1.000 et=56.609</Score>
+<Score et="57.2">Andrius Vaitekunas(29) lap=0 point=1 t=-1.000 et=57.173</Score>
+<Score et="57.8">Andrius Kuzmenko(30) lap=0 point=1 t=-1.000 et=57.733</Score>
+<Incident et="58.5">Tomas Aniunas(16) reported contact (0.71) with Part</Incident>
+<Chat et="60.5">Mantas Valys: sry</Chat>
+<Incident et="60.9">Mantas Valys(38) reported contact (0.03) with Immovable</Incident>
+<Score et="62.0">Martynas Dailidenas(39) lap=0 point=1 t=-1.000 et=61.910</Score>
+<Incident et="62.0">Vytautas Sabutis(37) reported contact (0.35) with Immovable</Incident>
+<Score et="62.4">Vygintas Kuprys(19) lap=0 point=1 t=-1.000 et=62.363</Score>
+<Score et="62.8">German Semionov(15) lap=0 point=1 t=-1.000 et=62.777</Score>
+<Score et="64.7">Simas Galvadiskis(20) lap=0 point=1 t=-1.000 et=64.686</Score>
+<Incident et="66.4">Andrius Kuzmenko(30) reported contact (0.16) with Immovable</Incident>
+<Incident et="66.6">Andrius Kuzmenko(30) reported contact (0.81) with Immovable</Incident>
+<Score et="67.4">Tomas Mikuta(31) lap=0 point=1 t=-1.000 et=67.354</Score>
+<Chat et="67.4">Mindaugas Klumbis: Labas</Chat>
+<Chat et="67.9">Marius Kasciuskevicius: mhm</Chat>
+<Score et="68.9">Mantas Valys(38) lap=0 point=1 t=-1.000 et=68.810</Score>
+<Incident et="69.5">Andrius Kuzmenko(30) reported contact (1.00) with Immovable</Incident>
+<Incident et="69.5">Andrius Kuzmenko(30) reported contact (0.13) with Part</Incident>
+<Incident et="69.5">Andrius Kuzmenko(30) reported contact (0.55) with Immovable</Incident>
+<Score et="70.2">Justas Gulbinas(6) lap=0 point=1 t=-1.000 et=70.185</Score>
+<Score et="71.9">Petras Macaitis(22) lap=0 point=1 t=-1.000 et=71.889</Score>
+<Score et="74.1">Mantvydas Sileika(32) lap=0 point=1 t=-1.000 et=73.020</Score>
+<Incident et="78.4">Simas Galvadiskis(20) reported contact (0.42) with Immovable</Incident>
+<Score et="78.4">Tomas Aniunas(16) lap=1 point=1 t=-1.000 et=78.411</Score>
+<Incident et="78.5">Simas Galvadiskis(20) reported contact (0.45) with Immovable</Incident>
+<Score et="83.9">Vytautas Sabutis(37) lap=0 point=1 t=-1.000 et=83.916</Score>
+<Incident et="87.8">Mantvis Mantinis(25) reported contact (0.52) with Immovable</Incident>
+<Incident et="88.1">Mantvis Mantinis(25) reported contact (0.23) with Immovable</Incident>
+<Score et="98.5">Marius Kasciuskevicius(36) lap=1 point=1 t=-1.000 et=98.504</Score>
+<Score et="107.6">Justas Vaitekunas(27) lap=0 point=2 t=-1.000 et=107.487</Score>
+<Score et="108.5">Audrius Valantiejus(5) lap=0 point=2 t=-1.000 et=108.465</Score>
+<Score et="109.8">Mantvis Mantinis(25) lap=0 point=2 t=-1.000 et=109.741</Score>
+<Incident et="111.0">Andrius Kuzmenko(30) reported contact (0.32) with Immovable</Incident>
+<Incident et="111.2">Andrius Kuzmenko(30) reported contact (0.10) with Immovable</Incident>
+<Incident et="111.2">Andrius Kuzmenko(30) reported contact (0.29) with Immovable</Incident>
+<Score et="111.3">Andrius Vaitekunas(29) lap=0 point=2 t=-1.000 et=111.167</Score>
+<Incident et="113.4">Mantvydas Sileika(32) reported contact (0.13) with another vehicle Mantas Valys(38)</Incident>
+<Incident et="113.6">Mantas Valys(38) reported contact (0.19) with another vehicle Mantvydas Sileika(32)</Incident>
+<Incident et="114.4">Mantas Valys(38) reported contact (0.32) with Immovable</Incident>
+<Score et="114.8">Martynas Dailidenas(39) lap=1 point=0 t=-1.000 et=114.696</Score>
+<Score et="114.8">Martynas Dailidenas(39) lap=1 point=2 t=-1.000 et=114.696</Score>
+<Score et="115.3">Vygintas Kuprys(19) lap=0 point=2 t=-1.000 et=115.309</Score>
+<Score et="116.1">German Semionov(15) lap=0 point=2 t=-1.000 et=116.064</Score>
+<Score et="119.0">Andrius Kuzmenko(30) lap=0 point=2 t=-1.000 et=118.942</Score>
+<Score et="123.4">Tomas Mikuta(31) lap=0 point=2 t=-1.000 et=123.334</Score>
+<Score et="124.5">Justas Gulbinas(6) lap=0 point=2 t=-1.000 et=124.437</Score>
+<Score et="125.4">Simas Galvadiskis(20) lap=0 point=2 t=-1.000 et=125.392</Score>
+<Score et="127.4">Mantvydas Sileika(32) lap=0 point=2 t=-1.000 et=126.992</Score>
+<Score et="127.9">Jaroslav Liachovskij(8) lap=0 point=1 t=-1.000 et=127.822</Score>
+<Score et="128.7">Mantas Valys(38) lap=0 point=2 t=-1.000 et=128.663</Score>
+<Score et="129.4">Petras Macaitis(22) lap=0 point=2 t=-1.000 et=129.341</Score>
+<Score et="132.6">Tomas Aniunas(16) lap=1 point=2 t=-1.000 et=132.523</Score>
+<Score et="138.9">Justas Vaitekunas(27) lap=1 point=0 t=-1.000 et=138.784</Score>
+<Score et="140.6">Audrius Valantiejus(5) lap=1 point=0 t=-1.000 et=140.512</Score>
+<Score et="142.7">Mantvis Mantinis(25) lap=1 point=0 t=-1.000 et=142.643</Score>
+<Score et="143.3">Andrius Vaitekunas(29) lap=1 point=0 t=-1.000 et=143.274</Score>
+<Score et="146.7">Vygintas Kuprys(19) lap=1 point=0 t=-1.000 et=146.673</Score>
+<Score et="147.3">German Semionov(15) lap=1 point=0 t=-1.000 et=147.269</Score>
+<Incident et="148.1">Audrius Valantiejus(5) reported contact (0.52) with Immovable</Incident>
+<Score et="148.8">Vytautas Sabutis(37) lap=0 point=2 t=-1.000 et=148.755</Score>
+<Incident et="152.5">Martynas Dailidenas(39) reported contact (0.06) with Immovable</Incident>
+<Score et="154.0">Andrius Kuzmenko(30) lap=1 point=0 t=-1.000 et=153.933</Score>
+<Score et="154.7">Tomas Mikuta(31) lap=1 point=0 t=-1.000 et=154.685</Score>
+<Score et="158.6">Simas Galvadiskis(20) lap=1 point=0 t=-1.000 et=158.539</Score>
+<Score et="159.4">Mantvydas Sileika(32) lap=1 point=0 t=-1.000 et=159.246</Score>
+<Score et="159.5">Justas Vaitekunas(27) lap=1 point=1 t=20.645 et=159.429</Score>
+<Score et="161.5">Justas Gulbinas(6) lap=1 point=0 t=-1.000 et=161.424</Score>
+<Score et="161.7">Audrius Valantiejus(5) lap=1 point=1 t=21.139 et=161.652</Score>
+<Score et="164.2">Andrius Vaitekunas(29) lap=1 point=1 t=20.911 et=164.185</Score>
+<Score et="164.3">Petras Macaitis(22) lap=1 point=0 t=-1.000 et=164.284</Score>
+<Score et="164.5">Mantvis Mantinis(25) lap=1 point=1 t=21.779 et=164.422</Score>
+<Score et="165.5">Tomas Aniunas(16) lap=2 point=0 t=-1.000 et=165.448</Score>
+<Score et="166.5">Martynas Dailidenas(39) lap=1 point=1 t=-1.000 et=166.470</Score>
+<Score et="167.2">Vygintas Kuprys(19) lap=1 point=1 t=20.477 et=167.149</Score>
+<Score et="168.3">German Semionov(15) lap=1 point=1 t=20.979 et=168.248</Score>
+<Score et="168.7">Marius Kasciuskevicius(36) lap=1 point=2 t=-1.000 et=168.683</Score>
+<Score et="173.4">Mantas Valys(38) lap=1 point=0 t=-1.000 et=173.306</Score>
+<Score et="175.3">Andrius Kuzmenko(30) lap=1 point=1 t=21.346 et=175.279</Score>
+<Score et="175.4">Tomas Mikuta(31) lap=1 point=1 t=20.711 et=175.396</Score>
+<Incident et="175.6">Andrius Vaitekunas(29) reported contact (1.00) with Immovable</Incident>
+<Incident et="175.6">Andrius Vaitekunas(29) reported contact (0.29) with Part</Incident>
+<Incident et="175.7">Andrius Vaitekunas(29) reported contact (0.77) with Immovable</Incident>
+<Score et="177.6">Andrius Vaitekunas(29) lap=1 point=2 t=-1.000 et=177.389</Score>
+<Score et="177.6">Andrius Vaitekunas(29) lap=2 point=0 t=-1.000 et=177.389</Score>
+<Score et="180.3">Simas Galvadiskis(20) lap=1 point=1 t=21.683 et=180.222</Score>
+<Score et="180.8">Mantvydas Sileika(32) lap=1 point=1 t=21.083 et=180.330</Score>
+<Score et="182.4">Justas Gulbinas(6) lap=1 point=1 t=20.938 et=182.362</Score>
+<Score et="185.2">Petras Macaitis(22) lap=1 point=1 t=20.936 et=185.220</Score>
+<Score et="186.3">Tomas Aniunas(16) lap=2 point=1 t=20.856 et=186.304</Score>
+<Incident et="186.9">Tomas Aniunas(16) reported contact (0.52) with Immovable</Incident>
+<Score et="187.4">Jaroslav Liachovskij(8) lap=0 point=2 t=-1.000 et=187.401</Score>
+<Incident et="188.1">Tomas Aniunas(16) reported contact (0.00) with Immovable</Incident>
+<Incident et="188.5">Tomas Aniunas(16) reported contact (0.39) with Immovable</Incident>
+<Score et="190.5">Vytautas Sabutis(37) lap=1 point=0 t=-1.000 et=190.399</Score>
+<Score et="194.8">Mantas Valys(38) lap=1 point=1 t=21.493 et=194.798</Score>
+<Score et="201.4">Marius Kasciuskevicius(36) lap=2 point=0 t=-1.000 et=201.342</Score>
+<Score et="210.3">Justas Vaitekunas(27) lap=1 point=2 t=71.387 et=210.171</Score>
+<Score et="211.4">Vytautas Sabutis(37) lap=1 point=1 t=20.969 et=211.367</Score>
+<Score et="211.9">Audrius Valantiejus(5) lap=1 point=2 t=71.312 et=211.824</Score>
+<Score et="213.7">Andrius Vaitekunas(29) lap=2 point=1 t=-1.000 et=213.681</Score>
+<Score et="216.9">Vygintas Kuprys(19) lap=1 point=2 t=70.218 et=216.890</Score>
+<Score et="219.1">Jaroslav Liachovskij(8) lap=1 point=0 t=-1.000 et=219.089</Score>
+<Score et="220.9">Mantvis Mantinis(25) lap=1 point=2 t=78.210 et=220.853</Score>
+<Score et="221.2">German Semionov(15) lap=1 point=2 t=73.918 et=221.187</Score>
+<Incident et="222.7">Vytautas Sabutis(37) reported contact (0.90) with Immovable</Incident>
+<Incident et="222.7">Vytautas Sabutis(37) reported contact (0.35) with Immovable</Incident>
+<Incident et="222.8">Vytautas Sabutis(37) reported contact (0.13) with Immovable</Incident>
+<Score et="223.0">Marius Kasciuskevicius(36) lap=2 point=1 t=21.650 et=222.992</Score>
+<Score et="224.1">Martynas Dailidenas(39) lap=1 point=2 t=-1.000 et=224.029</Score>
+<Score et="227.7">Petras Macaitis(22) lap=1 point=2 t=-1.000 et=227.645</Score>
+<Score et="227.7">Petras Macaitis(22) lap=2 point=0 t=-1.000 et=227.645</Score>
+<Score et="229.3">Andrius Kuzmenko(30) lap=1 point=2 t=75.309 et=229.242</Score>
+<Score et="232.2">Mantvydas Sileika(32) lap=1 point=2 t=72.779 et=232.025</Score>
+<Score et="235.0">Justas Gulbinas(6) lap=1 point=2 t=73.518 et=234.942</Score>
+<Score et="238.1">Tomas Aniunas(16) lap=2 point=2 t=72.637 et=238.085</Score>
+<Score et="238.6">Simas Galvadiskis(20) lap=1 point=2 t=80.079 et=238.617</Score>
+<Score et="240.1">Jaroslav Liachovskij(8) lap=1 point=1 t=20.999 et=240.089</Score>
+<Score et="241.3">Justas Vaitekunas(27) lap=2 point=0 t=102.363 et=241.146</Score>
+<Score et="242.5">Audrius Valantiejus(5) lap=2 point=0 t=101.906 et=242.418</Score>
+<Score et="244.3">Darius Glusokas(33) lap=0 point=1 t=-1.000 et=244.275</Score>
+<Score et="247.6">Vygintas Kuprys(19) lap=2 point=0 t=100.930 et=247.603</Score>
+<Score et="249.9">Mantas Valys(38) lap=1 point=2 t=76.504 et=249.809</Score>
+<Score et="252.9">German Semionov(15) lap=2 point=0 t=105.622 et=252.891</Score>
+<Incident et="253.4">Darius Glusokas(33) reported contact (1.00) with Immovable</Incident>
+<Incident et="253.4">Darius Glusokas(33) reported contact (0.13) with Part</Incident>
+<Incident et="253.4">Darius Glusokas(33) reported contact (0.06) with Immovable</Incident>
+<Incident et="253.8">Darius Glusokas(33) reported contact (0.00) with Immovable</Incident>
+<Score et="254.2">Tomas Mikuta(31) lap=1 point=2 t=99.470 et=254.154</Score>
+<Score et="254.4">Mantvis Mantinis(25) lap=2 point=0 t=111.696 et=254.339</Score>
+<Score et="257.6">Darius Glusokas(33) lap=0 point=2 t=-1.000 et=257.472</Score>
+<Score et="257.6">Darius Glusokas(33) lap=1 point=0 t=-1.000 et=257.472</Score>
+<Score et="257.6">Vygintas Kuprys(19) lap=3 point=0 t=-1.000 et=257.523</Score>
+<Score et="257.6">Vygintas Kuprys(19) lap=3 point=1 t=-1.000 et=257.523</Score>
+<Score et="257.6">Vygintas Kuprys(19) lap=3 point=2 t=-1.000 et=257.523</Score>
+<Incident et="257.6">Vytautas Sabutis(37) reported contact (0.03) with Immovable</Incident>
+<Incident et="257.6">Vytautas Sabutis(37) reported contact (0.39) with Immovable</Incident>
+<Incident et="259.3">Vytautas Sabutis(37) reported contact (0.10) with Track</Incident>
+<Incident et="260.8">Vytautas Sabutis(37) reported contact (0.35) with Track</Incident>
+<Score et="261.4">Martynas Dailidenas(39) lap=2 point=0 t=-1.000 et=261.344</Score>
+<Score et="261.8">Justas Vaitekunas(27) lap=2 point=1 t=20.598 et=261.745</Score>
+<Score et="263.2">Audrius Valantiejus(5) lap=2 point=1 t=20.719 et=263.137</Score>
+<Score et="263.3">Andrius Kuzmenko(30) lap=2 point=0 t=109.348 et=263.280</Score>
+<Score et="263.8">Mantvydas Sileika(32) lap=2 point=0 t=104.064 et=263.310</Score>
+<Score et="266.9">Justas Gulbinas(6) lap=2 point=0 t=105.447 et=266.872</Score>
+<Score et="267.1">Andrius Vaitekunas(29) lap=2 point=2 t=-1.000 et=267.016</Score>
+<Incident et="268.4">Vytautas Sabutis(37) reported contact (0.16) with another vehicle Marius Kasciuskevicius(36)</Incident>
+<Incident et="268.4">Vytautas Sabutis(37) reported contact (0.29) with another vehicle Marius Kasciuskevicius(36)</Incident>
+<Incident et="268.4">Vytautas Sabutis(37) reported contact (0.39) with another vehicle Marius Kasciuskevicius(36)</Incident>
+<Incident et="269.5">Vytautas Sabutis(37) reported contact (1.00) with Immovable</Incident>
+<Incident et="270.1">Vytautas Sabutis(37) reported contact (0.23) with Immovable</Incident>
+<Score et="270.7">Tomas Aniunas(16) lap=3 point=0 t=105.213 et=270.661</Score>
+<Score et="271.4">Simas Galvadiskis(20) lap=2 point=0 t=112.785 et=271.323</Score>
+<Score et="271.9">Vytautas Sabutis(37) lap=2 point=0 t=-1.000 et=271.745</Score>
+<Score et="271.9">Vytautas Sabutis(37) lap=2 point=2 t=-1.000 et=271.745</Score>
+<Incident et="273.6">Justas Vaitekunas(27) reported contact (0.06) with Immovable</Incident>
+<Score et="273.7">German Semionov(15) lap=2 point=1 t=20.802 et=273.693</Score>
+<Score et="276.3">Mantvis Mantinis(25) lap=2 point=1 t=21.906 et=276.245</Score>
+<Score et="277.6">Marius Kasciuskevicius(36) lap=2 point=2 t=76.210 et=277.553</Score>
+<Chat et="280.8">Vytautas Sabutis: ai nx nesamone </Chat>
+<Score et="282.2">Martynas Dailidenas(39) lap=2 point=1 t=20.817 et=282.161</Score>
+<Score et="283.4">Mantas Valys(38) lap=2 point=0 t=110.056 et=283.362</Score>
+<Score et="284.7">Mantvydas Sileika(32) lap=2 point=1 t=21.115 et=284.426</Score>
+<Score et="284.7">Andrius Kuzmenko(30) lap=2 point=1 t=21.407 et=284.688</Score>
+<Chat et="287.3">Vytautas Sabutis left the game.</Chat>
+<Score et="287.7">Justas Gulbinas(6) lap=2 point=1 t=20.720 et=287.592</Score>
+<Incident et="290.9">Mantas Valys(38) reported contact (0.68) with Immovable</Incident>
+<Score et="291.8">Tomas Aniunas(16) lap=3 point=1 t=21.112 et=291.773</Score>
+<Score et="291.9">Tomas Mikuta(31) lap=2 point=0 t=137.220 et=291.905</Score>
+<Score et="292.2">Jaroslav Liachovskij(8) lap=1 point=2 t=73.118 et=292.208</Score>
+<Score et="293.9">Simas Galvadiskis(20) lap=2 point=1 t=22.540 et=293.863</Score>
+<Score et="294.1">Darius Glusokas(33) lap=1 point=1 t=-1.000 et=294.048</Score>
+<Score et="301.5">Andrius Vaitekunas(29) lap=3 point=0 t=-1.000 et=301.494</Score>
+<Incident et="302.3">Simas Galvadiskis(20) reported contact (0.03) with Immovable</Incident>
+<Score et="310.3">Marius Kasciuskevicius(36) lap=3 point=0 t=108.871 et=310.213</Score>
+<Score et="312.3">Justas Vaitekunas(27) lap=2 point=2 t=71.004 et=312.150</Score>
+<Score et="312.8">Tomas Mikuta(31) lap=2 point=1 t=20.874 et=312.780</Score>
+<Score et="313.4">Audrius Valantiejus(5) lap=2 point=2 t=70.923 et=313.341</Score>
+<Score et="314.0">Mantas Valys(38) lap=2 point=1 t=30.624 et=313.985</Score>
+<Incident et="321.0">Marius Kasciuskevicius(36) reported contact (0.32) with Immovable</Incident>
+<Score et="322.4">Andrius Vaitekunas(29) lap=3 point=1 t=20.832 et=322.326</Score>
+<Score et="322.6">Marius Kasciuskevicius(36) lap=3 point=1 t=-1.000 et=322.512</Score>
+<Score et="322.6">Marius Kasciuskevicius(36) lap=3 point=2 t=-1.000 et=322.512</Score>
+<Score et="322.6">Marius Kasciuskevicius(36) lap=4 point=0 t=-1.000 et=322.512</Score>
+<Score et="323.4">Jaroslav Liachovskij(8) lap=2 point=0 t=104.235 et=323.324</Score>
+<Score et="324.6">German Semionov(15) lap=2 point=2 t=71.642 et=324.534</Score>
+<Incident et="328.9">Mantas Valys(38) reported contact (0.10) with Immovable</Incident>
+<Score et="329.3">Mantvis Mantinis(25) lap=2 point=2 t=74.930 et=329.269</Score>
+<Incident et="330.7">Andrius Kuzmenko(30) reported contact (0.10) with another vehicle Justas Gulbinas(6)</Incident>
+<Incident et="330.7">Justas Gulbinas(6) reported contact (0.13) with another vehicle Andrius Kuzmenko(30)</Incident>
+<Score et="332.5">Martynas Dailidenas(39) lap=2 point=2 t=71.095 et=332.439</Score>
+<Score et="334.8">Mantvydas Sileika(32) lap=2 point=2 t=71.371 et=334.682</Score>
+<Score et="338.3">Justas Gulbinas(6) lap=2 point=2 t=71.349 et=338.220</Score>
+<Score et="338.7">Andrius Kuzmenko(30) lap=2 point=2 t=75.404 et=338.685</Score>
+<Score et="344.0">Audrius Valantiejus(5) lap=3 point=0 t=101.536 et=343.954</Score>
+<Score et="344.3">Jaroslav Liachovskij(8) lap=2 point=1 t=20.872 et=344.196</Score>
+<Score et="346.0">Justas Vaitekunas(27) lap=3 point=0 t=104.783 et=345.929</Score>
+<Score et="348.6">Darius Glusokas(33) lap=1 point=2 t=-1.000 et=348.519</Score>
+<Score et="349.0">Simas Galvadiskis(20) lap=2 point=2 t=77.672 et=348.995</Score>
+<Incident et="349.7">Marius Kasciuskevicius(36) reported contact (0.35) with Immovable</Incident>
+<Score et="349.7">Audrius Valantiejus(5) lap=4 point=0 t=-1.000 et=349.594</Score>
+<Score et="349.7">Audrius Valantiejus(5) lap=4 point=1 t=-1.000 et=349.594</Score>
+<Score et="349.7">Audrius Valantiejus(5) lap=4 point=2 t=-1.000 et=349.594</Score>
+<Score et="352.2">Tomas Aniunas(16) lap=3 point=2 t=81.533 et=352.194</Score>
+<Score et="355.0">German Semionov(15) lap=3 point=0 t=102.112 et=355.003</Score>
+<Score et="356.9">Mantvydas Sileika(32) lap=2 point=2 t=-1.000 et=356.712</Score>
+<Score et="357.0">Mantvydas Sileika(32) lap=3 point=0 t=-1.000 et=356.712</Score>
+<Score et="357.0">Mantvydas Sileika(32) lap=3 point=1 t=-1.000 et=356.712</Score>
+<Score et="357.0">Mantvydas Sileika(32) lap=4 point=0 t=-1.000 et=356.712</Score>
+<Score et="363.1">Mantvis Mantinis(25) lap=3 point=0 t=108.697 et=363.036</Score>
+<Score et="363.3">Martynas Dailidenas(39) lap=3 point=0 t=101.957 et=363.301</Score>
+<Score et="364.1">Tomas Mikuta(31) lap=2 point=2 t=72.158 et=364.064</Score>
+<Score et="366.8">Justas Vaitekunas(27) lap=3 point=1 t=20.771 et=366.700</Score>
+<Score et="369.6">Marius Kasciuskevicius(36) lap=4 point=1 t=-1.000 et=369.514</Score>
+<Score et="369.7">Justas Gulbinas(6) lap=3 point=0 t=102.826 et=369.698</Score>
+<Score et="372.0">Andrius Kuzmenko(30) lap=3 point=0 t=108.658 et=371.939</Score>
+<Incident et="373.5">Justas Gulbinas(6) reported contact (0.81) with Immovable</Incident>
+<Incident et="373.5">Justas Gulbinas(6) reported contact (0.58) with Part</Incident>
+<Incident et="373.5">Justas Gulbinas(6) reported contact (0.42) with Part</Incident>
+<Incident et="373.5">Justas Gulbinas(6) reported contact (0.23) with Part</Incident>
+<Incident et="373.5">Justas Gulbinas(6) reported contact (0.19) with Part</Incident>
+<Incident et="373.5">Justas Gulbinas(6) reported contact (0.29) with Immovable</Incident>
+<Incident et="373.5">Justas Gulbinas(6) reported contact (0.87) with Immovable</Incident>
+<Incident et="373.6">Justas Gulbinas(6) reported contact (0.00) with Part</Incident>
+<Incident et="373.6">Justas Gulbinas(6) reported contact (0.06) with Part</Incident>
+<Incident et="373.9">Justas Gulbinas(6) reported contact (0.03) with Immovable</Incident>
+<Score et="373.9">Andrius Vaitekunas(29) lap=3 point=2 t=72.411 et=373.906</Score>
+<Incident et="374.0">Justas Gulbinas(6) reported contact (0.19) with Immovable</Incident>
+<Incident et="376.0">Justas Gulbinas(6) reported contact (0.35) with Immovable</Incident>
+<Score et="376.1">German Semionov(15) lap=3 point=1 t=21.022 et=376.025</Score>
+<Score et="377.1">Justas Gulbinas(6) lap=3 point=1 t=-1.000 et=377.032</Score>
+<Score et="377.1">Justas Gulbinas(6) lap=3 point=2 t=-1.000 et=377.032</Score>
+<Score et="377.1">Justas Gulbinas(6) lap=4 point=0 t=-1.000 et=377.032</Score>
+<Score et="377.7">Mantas Valys(38) lap=2 point=2 t=94.325 et=377.687</Score>
+<Score et="384.1">Martynas Dailidenas(39) lap=3 point=1 t=20.766 et=384.066</Score>
+<Score et="384.3">Mantvis Mantinis(25) lap=3 point=1 t=21.204 et=384.241</Score>
+<Score et="384.8">Darius Glusokas(33) lap=2 point=0 t=-1.000 et=384.761</Score>
+<Score et="386.8">Vygintas Kuprys(19) lap=3 point=1 t=-1.000 et=386.796</Score>
+<Score et="387.3">Tomas Aniunas(16) lap=4 point=0 t=116.626 et=387.287</Score>
+<Score et="393.6">Andrius Kuzmenko(30) lap=3 point=1 t=21.622 et=393.561</Score>
+<Score et="393.9">Simas Galvadiskis(20) lap=3 point=0 t=122.552 et=393.875</Score>
+<Score et="395.4">Tomas Mikuta(31) lap=3 point=0 t=103.447 et=395.352</Score>
+<Score et="395.5">Jaroslav Liachovskij(8) lap=2 point=2 t=72.063 et=395.387</Score>
+<Score et="396.1">Audrius Valantiejus(5) lap=4 point=1 t=-1.000 et=395.994</Score>
+<Incident et="397.1">Tomas Aniunas(16) reported contact (1.00) with Immovable</Incident>
+<Incident et="397.1">Tomas Aniunas(16) reported contact (0.42) with Part</Incident>
+<Score et="397.7">Mantvydas Sileika(32) lap=4 point=1 t=-1.000 et=397.750</Score>
+<Incident et="397.7">Tomas Aniunas(16) reported contact (0.16) with Immovable</Incident>
+<Incident et="400.1">Tomas Aniunas(16) reported contact (0.52) with Immovable</Incident>
+<Incident et="400.3">Tomas Aniunas(16) reported contact (0.94) with Immovable</Incident>
+<Score et="404.0">Tomas Aniunas(16) lap=4 point=1 t=-1.000 et=403.947</Score>
+<Score et="404.0">Tomas Aniunas(16) lap=4 point=2 t=-1.000 et=403.947</Score>
+<Score et="404.0">Tomas Aniunas(16) lap=5 point=0 t=-1.000 et=403.947</Score>
+<Incident et="405.1">Andrius Kuzmenko(30) reported contact (1.00) with Immovable</Incident>
+<Incident et="405.4">Andrius Kuzmenko(30) reported contact (0.10) with Immovable</Incident>
+<Score et="406.0">Darius Glusokas(33) lap=2 point=1 t=21.202 et=405.963</Score>
+<Score et="406.0">Andrius Vaitekunas(29) lap=4 point=0 t=104.481 et=405.975</Score>
+<Chat et="406.0">Valdas Vonsavicius has entered the game.</Chat>
+<System et="406.0">Valdas Vonsavicius(40) 78.59.13.214 has joined as a participant</System>
+<Incident et="406.5">Audrius Valantiejus(5) reported contact (1.00) with Immovable</Incident>
+<Incident et="406.5">Audrius Valantiejus(5) reported contact (0.00) with Immovable</Incident>
+<Incident et="406.8">Andrius Kuzmenko(30) reported contact (1.00) with another vehicle Audrius Valantiejus(5)</Incident>
+<Incident et="406.8">Audrius Valantiejus(5) reported contact (1.00) with another vehicle Andrius Kuzmenko(30)</Incident>
+<Incident et="406.8">Audrius Valantiejus(5) reported contact (0.52) with Part</Incident>
+<Incident et="406.8">Andrius Kuzmenko(30) reported contact (0.29) with another vehicle Audrius Valantiejus(5)</Incident>
+<Incident et="406.9">Andrius Kuzmenko(30) reported contact (0.39) with another vehicle Audrius Valantiejus(5)</Incident>
+<Score et="409.6">Audrius Valantiejus(5) lap=5 point=0 t=-1.000 et=408.828</Score>
+<Score et="409.6">Audrius Valantiejus(5) lap=5 point=2 t=-1.000 et=408.828</Score>
+<Score et="410.0">Andrius Kuzmenko(30) lap=3 point=2 t=-1.000 et=409.628</Score>
+<Score et="410.0">Andrius Kuzmenko(30) lap=4 point=0 t=-1.000 et=409.628</Score>
+<Score et="411.3">Petras Macaitis(22) lap=2 point=1 t=-1.000 et=411.245</Score>
+<Score et="415.9">Simas Galvadiskis(20) lap=3 point=1 t=22.014 et=415.889</Score>
+<Score et="416.1">Tomas Mikuta(31) lap=3 point=1 t=20.694 et=416.046</Score>
+<Score et="417.0">Justas Vaitekunas(27) lap=3 point=2 t=70.997 et=416.926</Score>
+<Chat et="417.7">Valdas Vonsavicius: Pagarba</Chat>
+<Score et="426.4">Jaroslav Liachovskij(8) lap=3 point=0 t=103.044 et=426.368</Score>
+<Score et="426.5">German Semionov(15) lap=3 point=2 t=71.490 et=426.493</Score>
+<Score et="426.8">Andrius Vaitekunas(29) lap=4 point=1 t=20.828 et=426.803</Score>
+<Score et="430.3">Mantas Valys(38) lap=3 point=0 t=146.863 et=430.224</Score>
+<Incident et="431.1">Martynas Dailidenas(39) reported contact (0.48) with Immovable</Incident>
+<Score et="431.3">Marius Kasciuskevicius(36) lap=4 point=2 t=-1.000 et=431.251</Score>
+<Incident et="432.0">Simas Galvadiskis(20) reported contact (1.00) with Immovable</Incident>
+<Score et="432.4">Martynas Dailidenas(39) lap=3 point=2 t=-1.000 et=431.723</Score>
+<Score et="432.4">Martynas Dailidenas(39) lap=4 point=0 t=-1.000 et=431.723</Score>
+<Score et="433.8">Jaroslav Liachovskij(8) lap=3 point=1 t=-1.000 et=433.485</Score>
+<Score et="433.8">Jaroslav Liachovskij(8) lap=3 point=2 t=-1.000 et=433.485</Score>
+<Score et="433.8">Jaroslav Liachovskij(8) lap=4 point=0 t=-1.000 et=433.485</Score>
+<Score et="436.9">Mantvis Mantinis(25) lap=3 point=2 t=73.880 et=436.916</Score>
+<Score et="437.9">Vygintas Kuprys(19) lap=3 point=2 t=-1.000 et=437.919</Score>
+<Score et="443.1">Audrius Valantiejus(5) lap=5 point=1 t=-1.000 et=443.082</Score>
+<Score et="445.4">Mantas Valys(38) lap=3 point=1 t=-1.000 et=444.643</Score>
+<Score et="445.4">Mantas Valys(38) lap=3 point=2 t=-1.000 et=444.643</Score>
+<Score et="445.4">Mantas Valys(38) lap=4 point=0 t=-1.000 et=444.643</Score>
+<Score et="448.0">Justas Vaitekunas(27) lap=4 point=0 t=101.944 et=447.873</Score>
+<Score et="451.6">Mantvydas Sileika(32) lap=4 point=2 t=-1.000 et=451.350</Score>
+<Score et="456.4">Andrius Kuzmenko(30) lap=4 point=1 t=-1.000 et=456.365</Score>
+<Score et="457.4">German Semionov(15) lap=4 point=0 t=102.359 et=457.362</Score>
+<Incident et="459.6">Simas Galvadiskis(20) reported contact (0.00) with Immovable</Incident>
+<Score et="462.4">Tomas Aniunas(16) lap=5 point=1 t=-1.000 et=462.335</Score>
+<Score et="462.9">Tomas Mikuta(31) lap=4 point=0 t=-1.000 et=462.420</Score>
+<Score et="462.9">Tomas Mikuta(31) lap=4 point=2 t=-1.000 et=462.420</Score>
+<Chat et="463.5">Martynas Dailidenas: nafig tasai mantvis dabar maisos jei starta is galo turi vistiek?</Chat>
+<Score et="467.3">Petras Macaitis(22) lap=2 point=2 t=-1.000 et=467.270</Score>
+<Incident et="468.3">Andrius Kuzmenko(30) reported contact (1.00) with Part</Incident>
+<Score et="468.7">Justas Vaitekunas(27) lap=4 point=1 t=20.774 et=468.647</Score>
+<Score et="470.5">Mantvis Mantinis(25) lap=4 point=0 t=107.457 et=470.493</Score>
+<Score et="470.7">Justas Gulbinas(6) lap=4 point=1 t=-1.000 et=470.620</Score>
+<Chat et="473.0">Mindaugas Klumbis: TYLEKTI</Chat>
+<Score et="473.2">Vygintas Kuprys(19) lap=4 point=0 t=-1.000 et=473.157</Score>
+<Incident et="476.9">Andrius Kuzmenko(30) reported contact (0.45) with Immovable</Incident>
+<Score et="477.6">Marius Kasciuskevicius(36) lap=5 point=0 t=-1.000 et=477.542</Score>
+<Score et="478.2">Andrius Vaitekunas(29) lap=4 point=2 t=72.142 et=478.117</Score>
+<Score et="478.2">German Semionov(15) lap=4 point=1 t=20.820 et=478.182</Score>
+<Score et="478.8">Darius Glusokas(33) lap=2 point=2 t=93.947 et=478.708</Score>
+<Score et="484.8">Jaroslav Liachovskij(8) lap=4 point=1 t=-1.000 et=484.723</Score>
+<Score et="488.6">Mantvydas Sileika(32) lap=5 point=0 t=-1.000 et=488.301</Score>
+<Score et="489.7">Simas Galvadiskis(20) lap=3 point=2 t=95.761 et=489.636</Score>
+<Incident et="489.8">German Semionov(15) reported contact (0.29) with Immovable</Incident>
+<Score et="491.9">Mantvis Mantinis(25) lap=4 point=1 t=21.365 et=491.858</Score>
+<Score et="492.2">German Semionov(15) lap=4 point=2 t=-1.000 et=491.815</Score>
+<Score et="492.2">German Semionov(15) lap=5 point=0 t=-1.000 et=491.815</Score>
+<Score et="493.7">Vygintas Kuprys(19) lap=4 point=1 t=20.500 et=493.657</Score>
+<Score et="495.9">Audrius Valantiejus(5) lap=5 point=2 t=-1.000 et=495.861</Score>
+<Score et="499.2">Marius Kasciuskevicius(36) lap=5 point=1 t=21.612 et=499.154</Score>
+<Score et="500.5">Petras Macaitis(22) lap=3 point=0 t=-1.000 et=500.414</Score>
+<Incident et="506.3">Mantvis Mantinis(25) reported contact (0.26) with another vehicle Vygintas Kuprys(19)</Incident>
+<Incident et="506.4">Vygintas Kuprys(19) reported contact (0.13) with another vehicle Mantvis Mantinis(25)</Incident>
+<Incident et="508.8">Mantvis Mantinis(25) reported contact (0.94) with Immovable</Incident>
+<Score et="509.0">Mantvydas Sileika(32) lap=5 point=1 t=20.639 et=508.940</Score>
+<Score et="509.6">Andrius Vaitekunas(29) lap=5 point=0 t=103.526 et=509.501</Score>
+<Score et="510.2">Darius Glusokas(33) lap=3 point=0 t=125.402 et=510.163</Score>
+<Chat et="510.8">Vilius Kaukas has entered the game.</Chat>
+<System et="510.8">Vilius Kaukas(41) 88.222.96.65 has joined as a participant</System>
+<Score et="511.4">Martynas Dailidenas(39) lap=4 point=1 t=-1.000 et=511.308</Score>
+<Incident et="512.6">Andrius Vaitekunas(29) reported contact (0.13) with Immovable</Incident>
+<Score et="512.7">Andrius Kuzmenko(30) lap=4 point=2 t=-1.000 et=512.618</Score>
+<Incident et="518.2">Mantvis Mantinis(25) reported contact (0.13) with Immovable</Incident>
+<Incident et="518.4">Mantvis Mantinis(25) reported contact (0.35) with Immovable</Incident>
+<Score et="519.5">Andrius Vaitekunas(29) lap=5 point=1 t=-1.000 et=516.133</Score>
+<Score et="519.5">Andrius Vaitekunas(29) lap=5 point=2 t=-1.000 et=516.133</Score>
+<Score et="519.5">Andrius Vaitekunas(29) lap=6 point=0 t=-1.000 et=516.133</Score>
+<Score et="519.6">Justas Vaitekunas(27) lap=4 point=2 t=71.645 et=519.518</Score>
+<Incident et="521.1">Mantas Valys(38) reported contact (0.23) with Immovable</Incident>
+<Score et="521.4">Petras Macaitis(22) lap=3 point=1 t=20.920 et=521.334</Score>
+<Incident et="522.5">Mantas Valys(38) reported contact (0.10) with Immovable</Incident>
+<Score et="524.1">Tomas Mikuta(31) lap=4 point=1 t=-1.000 et=524.012</Score>
+<Score et="524.7">Justas Gulbinas(6) lap=4 point=2 t=-1.000 et=524.578</Score>
+<Score et="526.9">Audrius Valantiejus(5) lap=6 point=0 t=-1.000 et=526.796</Score>
+<Score et="527.4">Tomas Aniunas(16) lap=5 point=2 t=-1.000 et=527.335</Score>
+<Score et="530.9">Darius Glusokas(33) lap=3 point=1 t=20.726 et=530.889</Score>
+<Score et="531.7">Simas Galvadiskis(20) lap=4 point=0 t=137.744 et=531.618</Score>
+<Score et="533.9">Mantas Valys(38) lap=4 point=1 t=-1.000 et=533.808</Score>
+<Incident et="534.5">Audrius Valantiejus(5) reported contact (0.55) with Immovable</Incident>
+<Incident et="534.5">Audrius Valantiejus(5) reported contact (0.19) with Immovable</Incident>
+<Incident et="534.5">Audrius Valantiejus(5) reported contact (0.68) with Immovable</Incident>
+<Incident et="534.5">Audrius Valantiejus(5) reported contact (0.32) with Immovable</Incident>
+<Score et="538.4">Jaroslav Liachovskij(8) lap=4 point=2 t=-1.000 et=538.348</Score>
+<Score et="539.2">Audrius Valantiejus(5) lap=7 point=0 t=-1.000 et=538.173</Score>
+<Score et="539.2">Audrius Valantiejus(5) lap=7 point=1 t=-1.000 et=538.173</Score>
+<Score et="539.2">Audrius Valantiejus(5) lap=7 point=2 t=-1.000 et=538.173</Score>
+<Incident et="542.6">Mantas Valys(38) reported contact (0.42) with Immovable</Incident>
+<Score et="543.8">Vygintas Kuprys(19) lap=4 point=2 t=70.610 et=543.766</Score>
+<Score et="546.1">Andrius Kuzmenko(30) lap=5 point=0 t=-1.000 et=546.051</Score>
+<Score et="550.8">Justas Vaitekunas(27) lap=5 point=0 t=102.766 et=550.640</Score>
+<Score et="552.0">Marius Kasciuskevicius(36) lap=5 point=2 t=74.372 et=551.914</Score>
+<Score et="553.2">Simas Galvadiskis(20) lap=4 point=1 t=21.532 et=553.150</Score>
+<Score et="558.6">Mantvis Mantinis(25) lap=4 point=2 t=88.100 et=558.593</Score>
+<Score et="559.5">German Semionov(15) lap=5 point=1 t=-1.000 et=559.461</Score>
+<Score et="559.9">Tomas Aniunas(16) lap=6 point=0 t=-1.000 et=559.894</Score>
+<Score et="561.4">Mantvydas Sileika(32) lap=5 point=2 t=72.474 et=560.775</Score>
+<Score et="564.2">Martynas Dailidenas(39) lap=4 point=2 t=-1.000 et=564.161</Score>
+<Score et="568.0">Andrius Kuzmenko(30) lap=5 point=1 t=21.858 et=567.909</Score>
+<Score et="568.0">Justas Gulbinas(6) lap=5 point=0 t=-1.000 et=567.998</Score>
+<Score et="569.5">Jaroslav Liachovskij(8) lap=5 point=0 t=-1.000 et=569.414</Score>
+<Score et="571.5">Justas Vaitekunas(27) lap=5 point=1 t=20.783 et=571.423</Score>
+<Score et="572.0">Andrius Vaitekunas(29) lap=6 point=1 t=-1.000 et=571.957</Score>
+<Score et="574.0">Petras Macaitis(22) lap=3 point=2 t=73.554 et=573.968</Score>
+<Score et="574.5">Vygintas Kuprys(19) lap=5 point=0 t=101.285 et=574.441</Score>
+<Score et="578.8">Vilius Kaukas(41) lap=0 point=1 t=-1.000 et=578.717</Score>
+<Score et="579.8">Tomas Mikuta(31) lap=4 point=2 t=-1.000 et=579.745</Score>
+<Score et="581.0">Tomas Aniunas(16) lap=6 point=1 t=21.040 et=580.934</Score>
+<Score et="582.5">Darius Glusokas(33) lap=3 point=2 t=72.249 et=582.412</Score>
+<Score et="584.1">Marius Kasciuskevicius(36) lap=6 point=0 t=106.508 et=584.050</Score>
+<Incident et="585.8">Mantas Valys(38) reported contact (0.03) with Track</Incident>
+<Score et="586.6">Audrius Valantiejus(5) lap=7 point=1 t=-1.000 et=586.500</Score>
+<Incident et="586.8">Mantas Valys(38) reported contact (0.00) with Track</Incident>
+<Score et="587.0">Vygintas Kuprys(19) lap=6 point=0 t=-1.000 et=586.170</Score>
+<Score et="587.0">Vygintas Kuprys(19) lap=6 point=1 t=-1.000 et=586.170</Score>
+<Score et="587.0">Vygintas Kuprys(19) lap=6 point=2 t=-1.000 et=586.170</Score>
+<Score et="589.2">Justas Gulbinas(6) lap=5 point=1 t=21.108 et=589.106</Score>
+<Score et="590.2">Jaroslav Liachovskij(8) lap=5 point=1 t=20.729 et=590.143</Score>
+<Score et="592.0">Mantvydas Sileika(32) lap=6 point=0 t=103.107 et=591.408</Score>
+<Score et="593.5">Mantvis Mantinis(25) lap=5 point=0 t=122.989 et=593.482</Score>
+<Chat et="601.1">Valdas Vonsavicius left the game.</Chat>
+<Score et="603.8">Mantas Valys(38) lap=4 point=2 t=-1.000 et=603.749</Score>
+<Score et="604.2">Martynas Dailidenas(39) lap=5 point=0 t=-1.000 et=604.138</Score>
+<Score et="605.3">Marius Kasciuskevicius(36) lap=6 point=1 t=21.215 et=605.265</Score>
+<Score et="605.7">Petras Macaitis(22) lap=4 point=0 t=105.238 et=605.653</Score>
+<Score et="608.8">Simas Galvadiskis(20) lap=4 point=2 t=77.129 et=608.748</Score>
+<Score et="611.7">Tomas Mikuta(31) lap=5 point=0 t=-1.000 et=611.673</Score>
+<Score et="612.3">Mantvydas Sileika(32) lap=6 point=1 t=20.579 et=611.987</Score>
+<Score et="612.9">German Semionov(15) lap=5 point=2 t=-1.000 et=612.855</Score>
+<Score et="613.7">Darius Glusokas(33) lap=4 point=0 t=103.507 et=613.670</Score>
+<Score et="615.1">Mantvis Mantinis(25) lap=5 point=1 t=21.558 et=615.040</Score>
+<Score et="621.9">Justas Vaitekunas(27) lap=5 point=2 t=71.212 et=621.852</Score>
+<Score et="622.2">Andrius Kuzmenko(30) lap=5 point=2 t=76.088 et=622.138</Score>
+<Score et="624.8">Martynas Dailidenas(39) lap=5 point=1 t=20.611 et=624.749</Score>
+<Score et="626.7">Petras Macaitis(22) lap=4 point=1 t=21.067 et=626.720</Score>
+<Score et="627.2">Andrius Vaitekunas(29) lap=6 point=2 t=-1.000 et=627.162</Score>
+<Incident et="627.9">Vilius Kaukas(41) reported contact (0.29) with Immovable</Incident>
+<Incident et="628.0">Vilius Kaukas(41) reported contact (0.90) with Immovable</Incident>
+<Score et="632.5">Tomas Mikuta(31) lap=5 point=1 t=20.761 et=632.434</Score>
+<Score et="632.5">Tomas Aniunas(16) lap=6 point=2 t=72.558 et=632.453</Score>
+<Score et="634.6">Darius Glusokas(33) lap=4 point=1 t=20.871 et=634.541</Score>
+<Score et="636.5">Vilius Kaukas(41) lap=0 point=2 t=-1.000 et=636.372</Score>
+<Incident et="637.4">Jaroslav Liachovskij(8) reported contact (1.00) with Immovable</Incident>
+<Score et="637.5">Mantas Valys(38) lap=5 point=0 t=-1.000 et=637.428</Score>
+<Score et="638.7">Audrius Valantiejus(5) lap=7 point=2 t=-1.000 et=638.625</Score>
+<Score et="639.2">Jaroslav Liachovskij(8) lap=5 point=2 t=-1.000 et=638.732</Score>
+<Score et="639.2">Jaroslav Liachovskij(8) lap=6 point=0 t=-1.000 et=638.732</Score>
+<Score et="641.8">Justas Gulbinas(6) lap=5 point=2 t=73.749 et=641.747</Score>
+<Score et="644.2">German Semionov(15) lap=6 point=0 t=-1.000 et=644.209</Score>
+<Score et="647.4">Simas Galvadiskis(20) lap=5 point=0 t=115.716 et=647.334</Score>
+<Score et="652.8">Justas Vaitekunas(27) lap=6 point=0 t=102.003 et=652.643</Score>
+<Score et="655.7">Andrius Kuzmenko(30) lap=6 point=0 t=109.560 et=655.611</Score>
+<Score et="659.0">Mantas Valys(38) lap=5 point=1 t=21.582 et=659.010</Score>
+<Score et="661.2">Andrius Vaitekunas(29) lap=7 point=0 t=-1.000 et=661.164</Score>
+<Score et="662.0">Marius Kasciuskevicius(36) lap=6 point=2 t=77.881 et=661.931</Score>
+<Incident et="662.0">Mantvis Mantinis(25) reported contact (0.68) with Immovable</Incident>
+<Score et="662.7">Mantvydas Sileika(32) lap=6 point=2 t=71.025 et=662.433</Score>
+<Score et="662.8">Mantvis Mantinis(25) lap=5 point=2 t=-1.000 et=662.336</Score>
+<Score et="662.8">Mantvis Mantinis(25) lap=6 point=0 t=-1.000 et=662.336</Score>
+<Score et="664.3">Tomas Aniunas(16) lap=7 point=0 t=104.411 et=664.306</Score>
+<Score et="665.2">German Semionov(15) lap=6 point=1 t=20.918 et=665.127</Score>
+<Score et="668.0">Darius Glusokas(33) lap=4 point=2 t=-1.000 et=667.028</Score>
+<Score et="668.0">Darius Glusokas(33) lap=5 point=0 t=-1.000 et=667.028</Score>
+<Score et="669.3">Simas Galvadiskis(20) lap=5 point=1 t=21.911 et=669.245</Score>
+<Score et="669.9">Audrius Valantiejus(5) lap=8 point=0 t=-1.000 et=669.907</Score>
+<Score et="673.5">Justas Vaitekunas(27) lap=6 point=1 t=20.768 et=673.411</Score>
+<Incident et="674.1">Mantas Valys(38) reported contact (0.52) with Immovable</Incident>
+<Score et="674.5">Justas Gulbinas(6) lap=6 point=0 t=106.469 et=674.467</Score>
+<Score et="674.9">Martynas Dailidenas(39) lap=5 point=2 t=70.765 et=674.902</Score>
+<Score et="677.0">Andrius Kuzmenko(30) lap=6 point=1 t=21.385 et=676.996</Score>
+<Score et="678.2">Vilius Kaukas(41) lap=1 point=0 t=-1.000 et=678.086</Score>
+<Score et="679.4">Petras Macaitis(22) lap=4 point=2 t=73.650 et=679.303</Score>
+<Incident et="681.6">Justas Gulbinas(6) reported contact (0.94) with Immovable</Incident>
+<Incident et="681.6">Justas Gulbinas(6) reported contact (0.10) with Part</Incident>
+<Incident et="681.8">Justas Gulbinas(6) reported contact (0.32) with Immovable</Incident>
+<Incident et="682.0">Justas Gulbinas(6) reported contact (0.06) with Immovable</Incident>
+<Score et="682.1">Andrius Vaitekunas(29) lap=7 point=1 t=20.863 et=682.027</Score>
+<Score et="685.4">Tomas Aniunas(16) lap=7 point=1 t=21.014 et=685.319</Score>
+<Score et="685.6">Justas Gulbinas(6) lap=7 point=0 t=-1.000 et=684.774</Score>
+<Score et="685.6">Justas Gulbinas(6) lap=7 point=1 t=-1.000 et=684.774</Score>
+<Score et="685.6">Justas Gulbinas(6) lap=7 point=2 t=-1.000 et=684.774</Score>
+<Score et="687.9">Jaroslav Liachovskij(8) lap=6 point=1 t=-1.000 et=687.821</Score>
+<Score et="688.6">Tomas Mikuta(31) lap=5 point=2 t=76.905 et=688.578</Score>
+<Score et="690.4">Audrius Valantiejus(5) lap=8 point=1 t=20.483 et=690.390</Score>
+<Score et="693.3">Mantvydas Sileika(32) lap=7 point=0 t=101.621 et=693.029</Score>
+<Incident et="697.7">Mantvis Mantinis(25) reported contact (0.23) with Immovable</Incident>
+<Incident et="697.8">Mantvis Mantinis(25) reported contact (0.94) with Immovable</Incident>
+<Score et="699.8">Vilius Kaukas(41) lap=1 point=1 t=21.626 et=699.712</Score>
+<Incident et="702.3">Audrius Valantiejus(5) reported contact (0.13) with Immovable</Incident>
+<Score et="704.7">Marius Kasciuskevicius(36) lap=6 point=2 t=-1.000 et=703.414</Score>
+<Score et="704.7">Marius Kasciuskevicius(36) lap=7 point=0 t=-1.000 et=703.414</Score>
+<Score et="704.7">Marius Kasciuskevicius(36) lap=7 point=1 t=-1.000 et=703.414</Score>
+<Score et="704.7">Marius Kasciuskevicius(36) lap=8 point=0 t=-1.000 et=703.414</Score>
+<Score et="705.9">Martynas Dailidenas(39) lap=6 point=0 t=101.693 et=705.831</Score>
+<Score et="710.7">Petras Macaitis(22) lap=5 point=0 t=105.011 et=710.664</Score>
+<Score et="714.1">Mantvis Mantinis(25) lap=6 point=1 t=-1.000 et=714.036</Score>
+<Score et="714.2">Mantvydas Sileika(32) lap=7 point=1 t=20.491 et=713.519</Score>
+<Score et="715.8">German Semionov(15) lap=6 point=2 t=71.538 et=715.746</Score>
+<Score et="719.3">Justas Gulbinas(6) lap=7 point=1 t=-1.000 et=719.209</Score>
+<Score et="723.1">Tomas Mikuta(31) lap=6 point=0 t=111.420 et=723.093</Score>
+<Score et="723.4">Simas Galvadiskis(20) lap=5 point=2 t=76.037 et=723.371</Score>
+<Score et="724.0">Justas Vaitekunas(27) lap=6 point=2 t=71.232 et=723.875</Score>
+<Score et="726.4">Martynas Dailidenas(39) lap=6 point=1 t=20.500 et=726.331</Score>
+<Score et="730.9">Andrius Kuzmenko(30) lap=6 point=2 t=75.258 et=730.869</Score>
+<Score et="731.5">Petras Macaitis(22) lap=5 point=1 t=20.798 et=731.461</Score>
+<Score et="736.7">Tomas Aniunas(16) lap=7 point=2 t=72.392 et=736.698</Score>
+<Score et="737.3">Andrius Vaitekunas(29) lap=7 point=2 t=76.107 et=737.271</Score>
+<Score et="737.8">Mantas Valys(38) lap=5 point=2 t=100.307 et=737.736</Score>
+<Score et="741.3">Audrius Valantiejus(5) lap=8 point=2 t=71.371 et=741.278</Score>
+<Score et="743.7">Tomas Mikuta(31) lap=6 point=1 t=20.627 et=743.720</Score>
+<Score et="746.7">German Semionov(15) lap=7 point=0 t=102.487 et=746.696</Score>
+<Incident et="747.3">Tomas Aniunas(16) reported contact (0.06) with another vehicle Mantas Valys(38)</Incident>
+<Score et="751.8">Vilius Kaukas(41) lap=1 point=2 t=73.629 et=751.715</Score>
+<Incident et="752.8">Justas Vaitekunas(27) reported contact (0.52) with Immovable</Incident>
+<Incident et="752.8">Justas Vaitekunas(27) reported contact (0.84) with Immovable</Incident>
+<Score et="756.0">Justas Vaitekunas(27) lap=6 point=2 t=-1.000 et=755.014</Score>
+<Score et="756.0">Justas Vaitekunas(27) lap=7 point=0 t=-1.000 et=755.014</Score>
+<Score et="756.0">Justas Vaitekunas(27) lap=7 point=1 t=-1.000 et=755.014</Score>
+<Score et="756.0">Justas Vaitekunas(27) lap=8 point=0 t=-1.000 et=755.014</Score>
+<Score et="756.4">Simas Galvadiskis(20) lap=6 point=0 t=109.037 et=756.372</Score>
+<Score et="761.1">Jaroslav Liachovskij(8) lap=6 point=2 t=-1.000 et=761.017</Score>
+<Score et="761.6">Marius Kasciuskevicius(36) lap=8 point=1 t=-1.000 et=761.501</Score>
+<Score et="763.5">Mantvydas Sileika(32) lap=7 point=2 t=70.555 et=763.584</Score>
+<Score et="763.8">Andrius Kuzmenko(30) lap=7 point=0 t=108.093 et=763.703</Score>
+<Incident et="764.7">Mantvis Mantinis(25) reported contact (0.19) with Immovable</Incident>
+<Incident et="764.9">Marius Kasciuskevicius(36) reported contact (1.00) with Immovable</Incident>
+<Incident et="764.9">Marius Kasciuskevicius(36) reported contact (0.26) with Immovable</Incident>
+<Score et="767.5">German Semionov(15) lap=7 point=1 t=20.793 et=767.489</Score>
+<Incident et="769.0">Marius Kasciuskevicius(36) reported contact (0.97) with Immovable</Incident>
+<Incident et="769.0">Marius Kasciuskevicius(36) reported contact (0.29) with Part</Incident>
+<Incident et="769.2">Marius Kasciuskevicius(36) reported contact (0.58) with Immovable</Incident>
+<Score et="770.5">Andrius Vaitekunas(29) lap=8 point=0 t=109.282 et=770.446</Score>
+<Chat et="770.5">Vaidas Balciunas left the game.</Chat>
+<Score et="770.9">Mantvis Mantinis(25) lap=6 point=2 t=-1.000 et=770.891</Score>
+<Incident et="771.3">German Semionov(15) reported contact (1.00) with Part</Incident>
+<Score et="771.6">Tomas Aniunas(16) lap=8 point=0 t=107.268 et=771.574</Score>
+<Score et="772.3">Mantas Valys(38) lap=6 point=0 t=134.798 et=772.226</Score>
+<Score et="772.8">Justas Gulbinas(6) lap=7 point=2 t=-1.000 et=772.733</Score>
+<Score et="776.6">Martynas Dailidenas(39) lap=6 point=2 t=70.705 et=776.535</Score>
+<Score et="778.0">Simas Galvadiskis(20) lap=6 point=1 t=21.626 et=777.997</Score>
+<Score et="778.9">Audrius Valantiejus(5) lap=9 point=0 t=108.909 et=778.815</Score>
+<Incident et="781.2">Mantvis Mantinis(25) reported contact (0.48) with another vehicle Justas Gulbinas(6)</Incident>
+<Incident et="781.3">Justas Gulbinas(6) reported contact (0.23) with another vehicle Mantvis Mantinis(25)</Incident>
+<Score et="783.4">Vilius Kaukas(41) lap=2 point=0 t=105.184 et=783.271</Score>
+<Chat et="784.6">Mantvis Mantinis: sr</Chat>
+<Score et="785.1">Petras Macaitis(22) lap=5 point=2 t=74.462 et=785.125</Score>
+<Score et="785.2">Andrius Kuzmenko(30) lap=7 point=1 t=21.503 et=785.207</Score>
+<Score et="791.3">Andrius Vaitekunas(29) lap=8 point=1 t=20.752 et=791.198</Score>
+<Incident et="792.0">Mantas Valys(38) reported contact (0.06) with Immovable</Incident>
+<Score et="792.3">Jaroslav Liachovskij(8) lap=7 point=0 t=-1.000 et=792.299</Score>
+<Score et="792.6">Tomas Aniunas(16) lap=8 point=1 t=21.026 et=792.599</Score>
+<Incident et="793.1">Tomas Aniunas(16) reported contact (0.13) with Immovable</Incident>
+<Score et="793.4">Mantas Valys(38) lap=6 point=1 t=21.103 et=793.329</Score>
+<Score et="794.0">Tomas Mikuta(31) lap=6 point=2 t=70.859 et=793.952</Score>
+<Score et="794.1">Mantvydas Sileika(32) lap=8 point=0 t=100.993 et=794.021</Score>
+<Score et="799.6">Audrius Valantiejus(5) lap=9 point=1 t=20.705 et=799.521</Score>
+<Score et="800.3">Justas Vaitekunas(27) lap=8 point=1 t=-1.000 et=800.230</Score>
+<Score et="804.4">Vilius Kaukas(41) lap=2 point=1 t=21.041 et=804.312</Score>
+<Score et="807.5">Martynas Dailidenas(39) lap=7 point=0 t=101.662 et=807.493</Score>
+<Score et="812.9">Mantvis Mantinis(25) lap=7 point=0 t=-1.000 et=812.828</Score>
+<Score et="813.2">Jaroslav Liachovskij(8) lap=7 point=1 t=20.860 et=813.159</Score>
+<Score et="814.6">Mantvydas Sileika(32) lap=8 point=1 t=20.504 et=814.525</Score>
+<Score et="816.3">Martynas Dailidenas(39) lap=8 point=0 t=-1.000 et=815.687</Score>
+<Score et="816.3">Martynas Dailidenas(39) lap=8 point=1 t=-1.000 et=815.687</Score>
+<Score et="816.3">Martynas Dailidenas(39) lap=8 point=2 t=-1.000 et=815.687</Score>
+<Score et="817.0">Petras Macaitis(22) lap=6 point=0 t=106.326 et=816.990</Score>
+<Score et="818.3">German Semionov(15) lap=7 point=2 t=71.550 et=818.246</Score>
+<Score et="819.9">Justas Gulbinas(6) lap=8 point=0 t=-1.000 et=819.833</Score>
+<Incident et="823.5">Mantvis Mantinis(25) reported contact (0.26) with Immovable</Incident>
+<Score et="825.1">Tomas Mikuta(31) lap=7 point=0 t=101.949 et=825.042</Score>
+<Score et="825.4">Marius Kasciuskevicius(36) lap=8 point=2 t=-1.000 et=825.311</Score>
+<Score et="831.8">Tomas Aniunas(16) lap=8 point=2 t=-1.000 et=830.705</Score>
+<Score et="831.8">Tomas Aniunas(16) lap=9 point=0 t=-1.000 et=830.705</Score>
+<Score et="834.2">Mantvis Mantinis(25) lap=7 point=1 t=21.327 et=834.154</Score>
+<Score et="838.1">Petras Macaitis(22) lap=6 point=1 t=21.097 et=838.087</Score>
+<Score et="838.8">Simas Galvadiskis(20) lap=6 point=2 t=82.409 et=838.781</Score>
+<Score et="839.1">Andrius Kuzmenko(30) lap=7 point=2 t=75.306 et=839.010</Score>
+<Score et="840.4">Audrius Valantiejus(5) lap=10 point=0 t=-1.000 et=840.317</Score>
+<Score et="840.4">Audrius Valantiejus(5) lap=10 point=2 t=-1.000 et=840.317</Score>
+<Score et="841.1">Justas Gulbinas(6) lap=8 point=1 t=21.183 et=841.016</Score>
+<Score et="842.5">Andrius Vaitekunas(29) lap=8 point=2 t=71.983 et=842.429</Score>
+<Score et="845.6">Tomas Mikuta(31) lap=7 point=1 t=20.550 et=845.592</Score>
+<Score et="848.3">Mantas Valys(38) lap=6 point=2 t=76.043 et=848.270</Score>
+<Score et="849.1">German Semionov(15) lap=8 point=0 t=102.350 et=849.046</Score>
+<Score et="853.9">Justas Vaitekunas(27) lap=8 point=2 t=-1.000 et=853.845</Score>
+<Score et="856.0">Justas Gulbinas(6) lap=8 point=2 t=-1.000 et=855.929</Score>
+<Score et="856.0">Justas Gulbinas(6) lap=9 point=0 t=-1.000 et=855.929</Score>
+<Score et="856.2">Vilius Kaukas(41) lap=2 point=2 t=72.773 et=856.044</Score>
+<Score et="859.0">Marius Kasciuskevicius(36) lap=9 point=0 t=-1.000 et=858.995</Score>
+<Score et="863.3">Mantas Valys(38) lap=7 point=0 t=-1.000 et=862.518</Score>
+<Score et="864.2">Jaroslav Liachovskij(8) lap=7 point=2 t=71.906 et=864.205</Score>
+<Score et="865.6">Mantvydas Sileika(32) lap=8 point=2 t=71.693 et=865.714</Score>
+<Score et="870.0">German Semionov(15) lap=8 point=1 t=20.974 et=870.020</Score>
+<Score et="872.0">Simas Galvadiskis(20) lap=7 point=0 t=115.646 et=872.017</Score>
+<Score et="872.0">Andrius Kuzmenko(30) lap=8 point=0 t=108.279 et=871.983</Score>
+<Score et="874.1">Andrius Vaitekunas(29) lap=9 point=0 t=103.621 et=874.068</Score>
+<Score et="880.7">Andrius Kuzmenko(30) lap=8 point=1 t=-1.000 et=880.122</Score>
+<Score et="880.7">Andrius Kuzmenko(30) lap=8 point=2 t=-1.000 et=880.122</Score>
+<Score et="880.7">Andrius Kuzmenko(30) lap=9 point=0 t=-1.000 et=880.122</Score>
+<Score et="881.8">Marius Kasciuskevicius(36) lap=9 point=1 t=22.744 et=881.738</Score>
+<Score et="882.1">Andrius Vaitekunas(29) lap=9 point=1 t=-1.000 et=881.909</Score>
+<Score et="882.1">Andrius Vaitekunas(29) lap=9 point=2 t=-1.000 et=881.909</Score>
+<Score et="882.1">Andrius Vaitekunas(29) lap=10 point=0 t=-1.000 et=881.909</Score>
+<Score et="884.9">Justas Vaitekunas(27) lap=9 point=0 t=-1.000 et=884.831</Score>
+<Incident et="887.9">German Semionov(15) reported contact (0.13) with Immovable</Incident>
+<Score et="887.9">Vilius Kaukas(41) lap=3 point=0 t=104.443 et=887.714</Score>
+<Score et="889.5">Petras Macaitis(22) lap=6 point=2 t=72.530 et=889.520</Score>
+<Score et="892.9">Tomas Aniunas(16) lap=9 point=1 t=-1.000 et=892.859</Score>
+<Score et="894.0">Simas Galvadiskis(20) lap=7 point=1 t=21.963 et=893.981</Score>
+<Score et="894.4">Mantvis Mantinis(25) lap=7 point=2 t=81.504 et=894.332</Score>
+<Score et="895.1">Jaroslav Liachovskij(8) lap=8 point=0 t=102.690 et=894.988</Score>
+<Score et="896.1">Tomas Mikuta(31) lap=7 point=2 t=71.042 et=896.084</Score>
+<Score et="900.6">Mantvydas Sileika(32) lap=9 point=0 t=106.479 et=900.500</Score>
+<Score et="905.6">Justas Vaitekunas(27) lap=9 point=1 t=20.660 et=905.491</Score>
+<Incident et="907.6">Simas Galvadiskis(20) reported contact (0.10) with Immovable</Incident>
+<Score et="908.9">Vilius Kaukas(41) lap=3 point=1 t=21.052 et=908.766</Score>
+<Incident et="909.3">Tomas Aniunas(16) reported contact (1.00) with Immovable</Incident>
+<Incident et="911.9">Tomas Aniunas(16) reported contact (0.10) with Immovable</Incident>
+<Score et="915.9">Jaroslav Liachovskij(8) lap=8 point=1 t=20.834 et=915.823</Score>
+<Score et="920.6">German Semionov(15) lap=8 point=2 t=71.518 et=920.563</Score>
+<Score et="921.7">Mantvydas Sileika(32) lap=9 point=1 t=20.540 et=921.040</Score>
+<Score et="922.1">Petras Macaitis(22) lap=7 point=0 t=105.096 et=922.086</Score>
+<Score et="927.8">Tomas Mikuta(31) lap=8 point=0 t=102.741 et=927.783</Score>
+<Score et="929.5">Mantvis Mantinis(25) lap=8 point=0 t=116.657 et=929.484</Score>
+<Chat et="930.4">Valdas Vonsavicius has entered the game.</Chat>
+<System et="930.4">Valdas Vonsavicius(42) 78.59.13.214 has joined as a participant</System>
+<Incident et="934.7">Tomas Aniunas(16) reported contact (0.39) with Immovable</Incident>
+<Incident et="934.7">Tomas Aniunas(16) reported contact (1.00) with Immovable</Incident>
+<Incident et="934.7">Tomas Aniunas(16) reported contact (0.26) with Immovable</Incident>
+<Score et="935.8">Marius Kasciuskevicius(36) lap=9 point=2 t=76.818 et=935.813</Score>
+<Incident et="937.0">Tomas Aniunas(16) reported contact (0.19) with Immovable</Incident>
+<Incident et="937.2">Tomas Aniunas(16) reported contact (0.03) with Immovable</Incident>
+<Incident et="937.2">Tomas Aniunas(16) reported contact (0.13) with Immovable</Incident>
+<Score et="942.8">Petras Macaitis(22) lap=7 point=1 t=20.720 et=942.806</Score>
+<Score et="948.3">Tomas Mikuta(31) lap=8 point=1 t=20.489 et=948.272</Score>
+<Score et="950.8">Mantvis Mantinis(25) lap=8 point=1 t=-1.000 et=950.561</Score>
+<Score et="950.8">Mantvis Mantinis(25) lap=8 point=2 t=-1.000 et=950.561</Score>
+<Score et="950.8">Mantvis Mantinis(25) lap=9 point=0 t=-1.000 et=950.561</Score>
+<Score et="951.7">German Semionov(15) lap=9 point=0 t=102.660 et=951.706</Score>
+<Score et="955.9">Justas Vaitekunas(27) lap=9 point=2 t=70.987 et=955.818</Score>
+<Score et="958.5">German Semionov(15) lap=9 point=1 t=-1.000 et=958.087</Score>
+<Score et="958.5">German Semionov(15) lap=9 point=2 t=-1.000 et=958.087</Score>
+<Score et="958.5">German Semionov(15) lap=10 point=0 t=-1.000 et=958.087</Score>
+<Score et="960.4">Vilius Kaukas(41) lap=3 point=2 t=72.522 et=960.236</Score>
+<Incident et="963.0">Jaroslav Liachovskij(8) reported contact (1.00) with Immovable</Incident>
+<Incident et="963.0">Jaroslav Liachovskij(8) reported contact (0.48) with Part</Incident>
+<Incident et="963.6">Jaroslav Liachovskij(8) reported contact (0.03) with Immovable</Incident>
+<Score et="965.8">Jaroslav Liachovskij(8) lap=9 point=0 t=-1.000 et=965.420</Score>
+<Score et="965.8">Jaroslav Liachovskij(8) lap=9 point=2 t=-1.000 et=965.420</Score>
+<Score et="968.1">Marius Kasciuskevicius(36) lap=10 point=0 t=109.129 et=968.124</Score>
+<Score et="971.4">Mantvydas Sileika(32) lap=9 point=2 t=70.063 et=970.563</Score>
+<Score et="972.3">Simas Galvadiskis(20) lap=8 point=0 t=-1.000 et=971.426</Score>
+<Score et="972.3">Simas Galvadiskis(20) lap=8 point=2 t=-1.000 et=971.426</Score>
+<Chat et="974.5">Andrius Kuzmenko: vsio gi...</Chat>
+<Incident et="977.7">Marius Kasciuskevicius(36) reported contact (0.71) with Immovable</Incident>
+<Score et="986.7">Justas Vaitekunas(27) lap=10 point=0 t=101.730 et=986.561</Score>
+<Score et="991.6">Vilius Kaukas(41) lap=4 point=0 t=103.783 et=991.497</Score>
+<Score et="993.9">Justas Vaitekunas(27) lap=10 point=1 t=-1.000 et=992.618</Score>
+<Score et="993.9">Justas Vaitekunas(27) lap=10 point=2 t=-1.000 et=992.618</Score>
+<Score et="993.9">Justas Vaitekunas(27) lap=11 point=0 t=-1.000 et=992.618</Score>
+<Score et="995.8">Petras Macaitis(22) lap=7 point=2 t=73.671 et=995.757</Score>
+<Score et="998.4">Tomas Mikuta(31) lap=8 point=2 t=70.616 et=998.399</Score>
+<Score et="999.1">Vilius Kaukas(41) lap=4 point=1 t=-1.000 et=998.380</Score>
+<Score et="999.1">Vilius Kaukas(41) lap=4 point=2 t=-1.000 et=998.380</Score>
+<Score et="999.1">Vilius Kaukas(41) lap=5 point=0 t=-1.000 et=998.380</Score>
+<Score et="1001.1">Marius Kasciuskevicius(36) lap=10 point=1 t=32.947 et=1001.071</Score>
+<Score et="1001.2">Mantvydas Sileika(32) lap=10 point=0 t=100.656 et=1001.156</Score>
+<Incident et="1010.4">Marius Kasciuskevicius(36) reported contact (0.06) with Immovable</Incident>
+<Incident et="1010.6">Marius Kasciuskevicius(36) reported contact (0.29) with Immovable</Incident>
+<Score et="1011.1">Mantvydas Sileika(32) lap=10 point=1 t=-1.000 et=1009.550</Score>
+<Score et="1011.1">Mantvydas Sileika(32) lap=10 point=2 t=-1.000 et=1009.550</Score>
+<Score et="1011.1">Mantvydas Sileika(32) lap=11 point=0 t=-1.000 et=1009.550</Score>
+<Chat et="1016.7">Mindaugas Klumbis: AR GALITE PATYLET?</Chat>
+<Chat et="1020.8">Valdas Vonsavicius: kodel nera galimybes vaziuoti?</Chat>
+<Score et="1027.4">Petras Macaitis(22) lap=8 point=0 t=105.262 et=1027.348</Score>
+<Chat et="1028.6">Mindaugas Klumbis: TODEL KAD SESIJA BAIGTA</Chat>
+<Score et="1029.6">Tomas Mikuta(31) lap=9 point=0 t=101.832 et=1029.615</Score>
+<Score et="1032.7">Tomas Aniunas(16) lap=9 point=2 t=-1.000 et=1032.098</Score>
+<Score et="1032.7">Tomas Aniunas(16) lap=10 point=0 t=-1.000 et=1032.098</Score>
+<Score et="1033.8">Marius Kasciuskevicius(36) lap=10 point=2 t=-1.000 et=1032.759</Score>
+<Score et="1033.8">Marius Kasciuskevicius(36) lap=11 point=0 t=-1.000 et=1032.759</Score>
+<Score et="1034.7">Petras Macaitis(22) lap=9 point=0 t=-1.000 et=1034.021</Score>
+<Score et="1034.7">Petras Macaitis(22) lap=9 point=1 t=-1.000 et=1034.021</Score>
+<Score et="1034.7">Petras Macaitis(22) lap=9 point=2 t=-1.000 et=1034.021</Score>
+<Score et="1038.3">Tomas Mikuta(31) lap=9 point=1 t=-1.000 et=1036.504</Score>
+<Score et="1038.3">Tomas Mikuta(31) lap=9 point=2 t=-1.000 et=1036.504</Score>
+<Score et="1038.3">Tomas Mikuta(31) lap=10 point=0 t=-1.000 et=1036.504</Score>
+<Chat et="1038.4">Vygintas Kuprys: SESIJA BAIGTA</Chat>
+<Chat et="1042.0">Tomas Aniunas: jus galyt patylet kazkada ?</Chat>
+<Chat et="1042.5">Vaidas Balciunas has entered the game.</Chat>
+<System et="1042.5">Vaidas Balciunas(43) 88.118.35.161 has joined as a participant</System>
+<System et="1042.5">Vaidas Balciunas returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="1045.3">Mindaugas Klumbis: MANTINIUI RATO NEUZSKAITAU, NES BUVO DAUG GELTONVELIAVU :D</Chat>
+<Chat et="1049.1">Vygintas Kuprys: KAS YRA JUMS SU SNEKOM?</Chat>
+<Chat et="1053.6">Tomas Aniunas: nu</Chat>
+<Chat et="1054.9">Vaidas Balciunas: spejau?</Chat>
+<Chat et="1055.2">Andrius Vaitekunas: man reikia 5 min brake</Chat>
+<Chat et="1056.0">Mantvydas Sileika: jau tik nereikia :P</Chat>
+<Chat et="1059.0">Tomas Aniunas: :d</Chat>
+<Chat et="1061.5">Mindaugas Klumbis: :P</Chat>
+<Chat et="1065.2">Tomas Aniunas: mantini i gala :D</Chat>
+<Chat et="1066.7">Mantvis Mantinis: kokiu geltonu</Chat>
+<Chat et="1067.7">Mantvis Mantinis: ?</Chat>
+<Chat et="1068.3">Marius Kasciuskevicius: Klausimas :) Per 2 varzybas butina keisti visas 4 padangas ar uztenka 2 ? :)</Chat>
+<Chat et="1076.0">Vilius Kaukas: sorry, kad velavau</Chat>
+<Chat et="1079.3">Mantvydas Sileika: buvo daug ne geltonu veliavu o sudauzytu BMW pakelej :)</Chat>
+<Chat et="1084.9">Tomas Aniunas: :D</Chat>
+<Chat et="1088.7">Justas Vaitekunas: e chebra kas jums darosi su lempu mirksejimais???</Chat>
+<Chat et="1089.9">Vygintas Kuprys: BEJE SILEIKA PASIZIUREK GAL KOKIA PROGRAMA SIUNTIMO ISIJUNGES NES PINGAS BUNA IKI 600</Chat>
+<Chat et="1099.2">Martynas Dailidenas: jo, ziaurus</Chat>
+<Chat et="1113.3">Vygintas Kuprys: SKRAIDAI PO TARSA BELENKAIP</Chat>
+<Chat et="1113.8">Mantvydas Sileika: as ne, bet matyt kaimynai...</Chat>
+<Chat et="1116.1">Mindaugas Klumbis: UZSIENIS PAS KI</Chat>
+<Chat et="1118.1">Justas Gulbinas: niekas nepatikrins, tu 4 pakeitei ar 2..... :D</Chat>
+<Chat et="1121.6">Mindaugas Klumbis: JI*</Chat>
+<Chat et="1122.2">Justas Vaitekunas: gal priimam taisykle, kad lempom mirkseti negalima!</Chat>
+<Chat et="1125.2">Vaidas Balciunas: kiek litru?&gt;?</Chat>
+<Chat et="1129.6">Vaidas Balciunas: pilt gonkem</Chat>
+<Chat et="1134.7">Marius Kasciuskevicius: 2l </Chat>
+<Chat et="1138.3">Justas Vaitekunas: pas mane ir taip fps tragiskas</Chat>
+<Chat et="1139.6">Mindaugas Klumbis: MANAU NETOLI 40</Chat>
+<Chat et="1140.1">Andrius Kuzmenko: 61 cia ne per daug (ping) ?</Chat>
+<Chat et="1146.3">Vygintas Kuprys: PAGAL LAIKA MATOSI LABAI KIEK TU PANADU KEITEI PITUOSE :)</Chat>
+<Chat et="1146.8">Justas Gulbinas: 2.93 man ratui ryja, bus apie 12 ratu</Chat>
+<Chat et="1151.3">Justas Vaitekunas: o dar mirksi lempukem kas antras</Chat>
+<Chat et="1168.1">Vygintas Kuprys: PAS TAVE JUSTAI PINGAS IKI 140</Chat>
+<Chat et="1169.9">Vygintas Kuprys: GERAI</Chat>
+<Chat et="1176.6">Justas Vaitekunas: fps negerai :)</Chat>
+<Chat et="1177.2">Mindaugas Klumbis: NU VAZIUOKIT</Chat>
+<Chat et="1179.0">Justas Gulbinas: pas kuri justa?</Chat>
+<Chat et="1189.8">Vygintas Kuprys: PALAUKIT ANDRIUS PRASE BRAKE </Chat>
+<Chat et="1194.7">Justas Vaitekunas: anriukas nubego perrukyt turbut</Chat>
+<Chat et="1198.1">Vygintas Kuprys: VAITEKUNA</Chat>
+<Chat et="1206.6">Vaidas Balciunas: kas brake kas warm up nori&gt;?</Chat>
+<Chat et="1222.7">Justas Gulbinas: jo ir baudas sudesit iskart :)</Chat>
+<Vote et="1224.6">Vygintas Kuprys: /callvote nextsession</Vote>
+<Sent et="1224.6">&quot;advance to next session&quot; proposed by Vygintas Kuprys (ADMIN): vote PASSED</Sent>
+<Chat et="1224.6">Valdas Vonsavicius: warm</Chat>
+</Stream>
+<MostLapsCompleted>11</MostLapsCompleted>
+<Driver>
+<Name>Mantvydas Sileika</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_055.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#55 Harald Ertl</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>055</CarNumber>
+<TeamName>Team Sachs Sporting</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="17" et="--.---" fuel="0.314">--.----</Lap>
+<Lap num="2" p="4" et="159.2463" s1="21.0835" s2="51.6952" s3="31.2855" fuel="0.271">104.0642</Lap>
+<Lap num="3" p="5" et="263.3105" s1="21.1151" s2="50.2561" fuel="0.243">--.----</Lap>
+<Lap num="4" p="5" et="356.7120" fuel="0.357">--.----</Lap>
+<Lap num="5" p="9" et="356.7120" fuel="0.318">--.----</Lap>
+<Lap num="6" p="8" et="488.3013" s1="20.6392" s2="51.8345" s3="30.6329" fuel="0.275">103.1066</Lap>
+<Lap num="7" p="3" et="591.4079" s1="20.5790" s2="50.4458" s3="30.5959" fuel="0.231">101.6207</Lap>
+<Lap num="8" p="2" et="693.0286" s1="20.4908" s2="50.0646" s3="30.4371" fuel="0.192">100.9926</Lap>
+<Lap num="9" p="2" et="794.0211" s1="20.5039" s2="51.1895" s3="34.7855" fuel="0.149">106.4789</Lap>
+<Lap num="10" p="1" et="900.5000" s1="20.5402" s2="49.5227" s3="30.5928" fuel="0.106">100.6557</Lap>
+<Lap num="11" p="1" et="1001.1557" fuel="0.357">--.----</Lap>
+<BestLapTime>100.6557</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="11">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Vygintas Kuprys</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_027.VEH</VehFile>
+<UpgradeCode>0d000000 00000000</UpgradeCode>
+<VehName>#27 Gerhard Berger</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>027</CarNumber>
+<TeamName>Team Yellow Corn</TeamName>
+<isPlayer>1</isPlayer>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.055">--.----</Lap>
+<Lap num="2" p="1" et="146.6726" s1="20.4766" s2="49.7411" s3="30.7125" fuel="0.012">100.9302</Lap>
+<Lap num="3" p="1" et="247.6028" fuel="0.102">--.----</Lap>
+<Lap num="4" p="1" et="257.5228" fuel="0.055">--.----</Lap>
+<Lap num="5" p="1" et="473.1566" s1="20.5002" s2="50.1096" s3="30.6749" fuel="0.012">101.2847</Lap>
+<Lap num="6" p="1" et="574.4412" fuel="0.102">--.----</Lap>
+<BestLapTime>100.9302</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Audrius Valantiejus</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_015.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#15 Hans Joachim Stuck</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>015</CarNumber>
+<TeamName>Team Jaegermeister Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="--.---" fuel="0.098">--.----</Lap>
+<Lap num="2" p="1" et="140.5125" s1="21.1390" s2="50.1725" s3="30.5942" fuel="0.055">101.9058</Lap>
+<Lap num="3" p="2" et="242.4183" s1="20.7190" s2="50.2037" s3="30.6130" fuel="0.012">101.5357</Lap>
+<Lap num="4" p="2" et="343.9540" fuel="0.141">--.----</Lap>
+<Lap num="5" p="2" et="349.5937" fuel="0.129">--.----</Lap>
+<Lap num="6" p="2" et="408.8275" fuel="0.098">--.----</Lap>
+<Lap num="7" p="2" et="526.7963" fuel="0.141">--.----</Lap>
+<Lap num="8" p="2" et="538.1735" fuel="0.098">--.----</Lap>
+<Lap num="9" p="2" et="669.9069" s1="20.4832" s2="50.8881" s3="37.5372" fuel="0.055">108.9086</Lap>
+<Lap num="10" p="3" et="778.8155" s1="20.7052" fuel="0.047">--.----</Lap>
+<BestLapTime>101.5357</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>4</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Martynas Dailidenas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_031.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#31 Karl Oppitzhauser</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>031</CarNumber>
+<TeamName>Team Oppitzhauser</TeamName>
+<isPlayer>1</isPlayer>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="21" et="--.---" fuel="0.184">--.----</Lap>
+<Lap num="2" p="21" et="114.6956" fuel="0.161">--.----</Lap>
+<Lap num="3" p="3" et="261.3436" s1="20.8175" s2="50.2778" s3="30.8619" fuel="0.118">101.9571</Lap>
+<Lap num="4" p="3" et="363.3008" s1="20.7656" fuel="0.106">--.----</Lap>
+<Lap num="5" p="4" et="431.7234" fuel="0.102">--.----</Lap>
+<Lap num="6" p="4" et="604.1376" s1="20.6109" s2="50.1538" s3="30.9282" fuel="0.059">101.6929</Lap>
+<Lap num="7" p="4" et="705.8306" s1="20.5000" s2="50.2048" s3="30.9573" fuel="0.016">101.6621</Lap>
+<Lap num="8" p="4" et="807.4927" fuel="0.141">--.----</Lap>
+<BestLapTime>101.6621</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justas Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_062.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#62 Bo Emanuelsson</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>062</CarNumber>
+<TeamName>Team Schweden</TeamName>
+<isPlayer>1</isPlayer>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.525">--.----</Lap>
+<Lap num="2" p="1" et="138.7838" s1="20.6450" s2="50.7424" s3="30.9752" fuel="0.482">102.3626</Lap>
+<Lap num="3" p="3" et="241.1463" s1="20.5982" s2="50.4059" s3="33.7790" fuel="0.439">104.7831</Lap>
+<Lap num="4" p="3" et="345.9294" s1="20.7706" s2="50.2262" s3="30.9472" fuel="0.400">101.9440</Lap>
+<Lap num="5" p="3" et="447.8734" s1="20.7738" s2="50.8712" s3="31.1214" fuel="0.357">102.7664</Lap>
+<Lap num="6" p="3" et="550.6398" s1="20.7835" s2="50.4283" s3="30.7914" fuel="0.314">102.0031</Lap>
+<Lap num="7" p="5" et="652.6429" s1="20.7682" s2="50.4638" fuel="0.286">--.----</Lap>
+<Lap num="8" p="5" et="755.0136" fuel="0.573">--.----</Lap>
+<Lap num="9" p="5" et="755.0136" fuel="0.243">--.----</Lap>
+<Lap num="10" p="5" et="884.8310" s1="20.6599" s2="50.3271" s3="30.7434" fuel="0.200">101.7305</Lap>
+<Lap num="11" p="5" et="986.5615" fuel="0.286">--.----</Lap>
+<BestLapTime>101.7305</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="8" endLap="8">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="9" endLap="11">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Tomas Mikuta</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_050.VEH</VehFile>
+<UpgradeCode>08000000 00000000</UpgradeCode>
+<VehName>#50 Manfred Winkelhock</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>050</CarNumber>
+<TeamName>Team Wuerth Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.173">--.----</Lap>
+<Lap num="2" p="12" et="154.6848" s1="20.7110" s2="78.7586" s3="37.7509" fuel="0.129">137.2204</Lap>
+<Lap num="3" p="7" et="291.9052" s1="20.8743" s2="51.2840" s3="31.2886" fuel="0.090">103.4469</Lap>
+<Lap num="4" p="8" et="395.3521" s1="20.6943" fuel="0.078">--.----</Lap>
+<Lap num="5" p="9" et="462.4200" fuel="0.184">--.----</Lap>
+<Lap num="6" p="9" et="611.6730" s1="20.7605" s2="56.1445" s3="34.5151" fuel="0.141">111.4201</Lap>
+<Lap num="7" p="6" et="723.0931" s1="20.6271" s2="50.2319" s3="31.0899" fuel="0.102">101.9489</Lap>
+<Lap num="8" p="6" et="825.0421" s1="20.5496" s2="50.4923" s3="31.6994" fuel="0.059">102.7413</Lap>
+<Lap num="9" p="6" et="927.7833" s1="20.4889" s2="50.1266" s3="31.2166" fuel="0.020">101.8321</Lap>
+<Lap num="10" p="6" et="1029.6155" fuel="0.227">--.----</Lap>
+<BestLapTime>101.8321</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>German Semionov</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_005.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#5 Karl Heinz Becker</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>005</CarNumber>
+<TeamName>Team Rummel</TeamName>
+<isPlayer>1</isPlayer>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.459">--.----</Lap>
+<Lap num="2" p="4" et="147.2692" s1="20.9786" s2="52.9397" s3="31.7039" fuel="0.420">105.6222</Lap>
+<Lap num="3" p="3" et="252.8914" s1="20.8015" s2="50.8406" s3="30.4695" fuel="0.380">102.1116</Lap>
+<Lap num="4" p="5" et="355.0030" s1="21.0217" s2="50.4682" s3="30.8690" fuel="0.337">102.3590</Lap>
+<Lap num="5" p="5" et="457.3620" s1="20.8200" fuel="0.329">--.----</Lap>
+<Lap num="6" p="5" et="491.8147" fuel="0.455">--.----</Lap>
+<Lap num="7" p="6" et="644.2087" s1="20.9178" s2="50.6198" s3="30.9497" fuel="0.416">102.4873</Lap>
+<Lap num="8" p="7" et="746.6959" s1="20.7926" s2="50.7570" s3="30.8001" fuel="0.376">102.3497</Lap>
+<Lap num="9" p="7" et="849.0457" s1="20.9741" s2="50.5435" s3="31.1427" fuel="0.337">102.6603</Lap>
+<Lap num="10" p="7" et="951.7059" fuel="0.502">--.----</Lap>
+<BestLapTime>102.1116</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Jaroslav Liachovskij</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_302.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#302 Markus Hoettinger</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>302</CarNumber>
+<TeamName>Team GS Tuning</TeamName>
+<isPlayer>1</isPlayer>
+<Position>8</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.098">--.----</Lap>
+<Lap num="2" p="5" et="219.0893" s1="20.9994" s2="52.1190" s3="31.1165" fuel="0.055">104.2348</Lap>
+<Lap num="3" p="7" et="323.3241" s1="20.8721" s2="51.1912" s3="30.9808" fuel="0.012">103.0441</Lap>
+<Lap num="4" p="7" et="426.3682" fuel="0.141">--.----</Lap>
+<Lap num="5" p="7" et="433.4849" fuel="0.098">--.----</Lap>
+<Lap num="6" p="7" et="569.4136" s1="20.7292" fuel="0.086">--.----</Lap>
+<Lap num="7" p="8" et="638.7321" fuel="0.094">--.----</Lap>
+<Lap num="8" p="8" et="792.2988" s1="20.8605" s2="51.0454" s3="30.7836" fuel="0.051">102.6895</Lap>
+<Lap num="9" p="8" et="894.9883" s1="20.8342" fuel="0.039">--.----</Lap>
+<BestLapTime>102.6895</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Justas Gulbinas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_098.VEH</VehFile>
+<UpgradeCode>08000000 00000000</UpgradeCode>
+<VehName>#98 Giovanni Morelli</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>098</CarNumber>
+<TeamName>Team Martini Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>9</Position>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.118">--.----</Lap>
+<Lap num="2" p="5" et="161.4242" s1="20.9378" s2="52.5804" s3="31.9291" fuel="0.075">105.4473</Lap>
+<Lap num="3" p="6" et="266.8715" s1="20.7200" s2="50.6290" s3="31.4771" fuel="0.031">102.8261</Lap>
+<Lap num="4" p="6" et="369.6976" fuel="0.157">--.----</Lap>
+<Lap num="5" p="6" et="377.0323" fuel="0.114">--.----</Lap>
+<Lap num="6" p="6" et="567.9985" s1="21.1079" s2="52.6408" s3="32.7202" fuel="0.071">106.4689</Lap>
+<Lap num="7" p="6" et="674.4674" fuel="0.157">--.----</Lap>
+<Lap num="8" p="7" et="684.7738" fuel="0.114">--.----</Lap>
+<Lap num="9" p="8" et="819.8334" s1="21.1826" fuel="0.102">--.----</Lap>
+<BestLapTime>102.8261</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Darius Glusokas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_014.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>#14 Joachim Winkelhock</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>014</CarNumber>
+<TeamName>Team Schnitzer Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>10</Position>
+<ClassPosition>10</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="--.---" fuel="0.157">--.----</Lap>
+<Lap num="2" p="16" et="257.4717" fuel="0.129">--.----</Lap>
+<Lap num="3" p="17" et="384.7610" s1="21.2018" s2="72.7456" s3="31.4548" fuel="0.082">125.4022</Lap>
+<Lap num="4" p="10" et="510.1631" s1="20.7258" s2="51.5233" s3="31.2582" fuel="0.039">103.5073</Lap>
+<Lap num="5" p="10" et="613.6705" s1="20.8706" fuel="0.031">--.----</Lap>
+<BestLapTime>103.5073</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Vaitekunas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_065.VEH</VehFile>
+<UpgradeCode>04000000 00000000</UpgradeCode>
+<VehName>#65 Jens Winther</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>065</CarNumber>
+<TeamName>Team Castrol Racing</TeamName>
+<isPlayer>1</isPlayer>
+<Position>11</Position>
+<ClassPosition>11</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.110">--.----</Lap>
+<Lap num="2" p="9" et="143.2740" s1="20.9114" fuel="0.098">--.----</Lap>
+<Lap num="3" p="16" et="177.3889" fuel="0.110">--.----</Lap>
+<Lap num="4" p="10" et="301.4943" s1="20.8320" s2="51.5793" s3="32.0696" fuel="0.067">104.4808</Lap>
+<Lap num="5" p="9" et="405.9752" s1="20.8276" s2="51.3142" s3="31.3841" fuel="0.024">103.5259</Lap>
+<Lap num="6" p="9" et="509.5010" fuel="0.157">--.----</Lap>
+<Lap num="7" p="11" et="516.1331" fuel="0.110">--.----</Lap>
+<Lap num="8" p="11" et="661.1644" s1="20.8630" s2="55.2436" s3="33.1755" fuel="0.067">109.2821</Lap>
+<Lap num="9" p="11" et="770.4465" s1="20.7517" s2="51.2310" s3="31.6383" fuel="0.020">103.6211</Lap>
+<Lap num="10" p="11" et="874.0676" fuel="0.157">--.----</Lap>
+<BestLapTime>103.5259</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Vilius Kaukas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_009.VEH</VehFile>
+<UpgradeCode>01000000 00000000</UpgradeCode>
+<VehName>#9 Nick Heidfeld</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>009</CarNumber>
+<TeamName>Team Bavaria Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>12</Position>
+<ClassPosition>12</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="21" et="--.---" fuel="0.173">--.----</Lap>
+<Lap num="2" p="14" et="678.0861" s1="21.6256" s2="52.0036" s3="31.5553" fuel="0.133">105.1845</Lap>
+<Lap num="3" p="13" et="783.2706" s1="21.0414" s2="51.7319" s3="31.6702" fuel="0.090">104.4434</Lap>
+<Lap num="4" p="12" et="887.7141" s1="21.0521" s2="51.4700" s3="31.2606" fuel="0.051">103.7827</Lap>
+<Lap num="5" p="12" et="991.4968" fuel="0.216">--.----</Lap>
+<BestLapTime>103.7827</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Tomas Aniunas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_001.VEH</VehFile>
+<UpgradeCode>02000000 00000000</UpgradeCode>
+<VehName>#1 Nils Gustav Wulik</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>001</CarNumber>
+<TeamName>Team Suomi Finland</TeamName>
+<isPlayer>1</isPlayer>
+<Position>13</Position>
+<ClassPosition>13</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="--.---" fuel="0.286">--.----</Lap>
+<Lap num="2" p="8" et="38.7131" fuel="0.243">--.----</Lap>
+<Lap num="3" p="5" et="165.4477" s1="20.8561" s2="51.7810" s3="32.5764" fuel="0.200">105.2134</Lap>
+<Lap num="4" p="9" et="270.6612" s1="21.1116" s2="60.4217" s3="35.0926" fuel="0.161">116.6258</Lap>
+<Lap num="5" p="10" et="387.2870" fuel="0.286">--.----</Lap>
+<Lap num="6" p="11" et="403.9469" fuel="0.239">--.----</Lap>
+<Lap num="7" p="12" et="559.8944" s1="21.0398" s2="51.5185" s3="31.8529" fuel="0.200">104.4113</Lap>
+<Lap num="8" p="12" et="664.3057" s1="21.0136" s2="51.3782" s3="34.8762" fuel="0.161">107.2681</Lap>
+<Lap num="9" p="12" et="771.5737" s1="21.0255" fuel="0.149">--.----</Lap>
+<Lap num="10" p="13" et="830.7053" fuel="0.275">--.----</Lap>
+<BestLapTime>104.4113</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>4</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Petras Macaitis</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_012.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#12 Marc Surer</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>012</CarNumber>
+<TeamName>Team BMW-Junioren </TeamName>
+<isPlayer>1</isPlayer>
+<Position>14</Position>
+<ClassPosition>14</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.216">--.----</Lap>
+<Lap num="2" p="7" et="164.2841" s1="20.9364" fuel="0.208">--.----</Lap>
+<Lap num="3" p="18" et="227.6451" fuel="0.212">--.----</Lap>
+<Lap num="4" p="12" et="500.4144" s1="20.9197" s2="52.6344" s3="31.6844" fuel="0.173">105.2384</Lap>
+<Lap num="5" p="13" et="605.6528" s1="21.0670" s2="52.5831" s3="31.3609" fuel="0.129">105.0109</Lap>
+<Lap num="6" p="13" et="710.6637" s1="20.7976" s2="53.6641" s3="31.8646" fuel="0.090">106.3264</Lap>
+<Lap num="7" p="14" et="816.9901" s1="21.0973" s2="51.4330" s3="32.5661" fuel="0.047">105.0964</Lap>
+<Lap num="8" p="14" et="922.0864" s1="20.7200" s2="52.9507" s3="31.5909" fuel="0.008">105.2616</Lap>
+<Lap num="9" p="14" et="1027.3480" fuel="0.259">--.----</Lap>
+<BestLapTime>105.0109</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Marius Kasciuskevicius</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_011.VEH</VehFile>
+<UpgradeCode>0c000000 00000000</UpgradeCode>
+<VehName>#11 Roberto Ravaglia</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>011</CarNumber>
+<TeamName>Team John Player</TeamName>
+<isPlayer>1</isPlayer>
+<Position>15</Position>
+<ClassPosition>15</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="--.---" fuel="0.729">--.----</Lap>
+<Lap num="2" p="10" et="56.3290" fuel="0.686">--.----</Lap>
+<Lap num="3" p="8" et="201.3421" s1="21.6495" s2="54.5609" s3="32.6603" fuel="0.647">108.8707</Lap>
+<Lap num="4" p="8" et="310.2129" fuel="0.729">--.----</Lap>
+<Lap num="5" p="14" et="322.5121" fuel="0.682">--.----</Lap>
+<Lap num="6" p="12" et="477.5424" s1="21.6118" s2="52.7600" s3="32.1357" fuel="0.643">106.5076</Lap>
+<Lap num="7" p="14" et="584.0500" s1="21.2153" s2="56.6660" fuel="0.616">--.----</Lap>
+<Lap num="8" p="14" et="703.4137" fuel="0.729">--.----</Lap>
+<Lap num="9" p="15" et="703.4137" fuel="0.686">--.----</Lap>
+<Lap num="10" p="15" et="858.9949" s1="22.7436" s2="54.0743" s3="32.3108" fuel="0.647">109.1286</Lap>
+<Lap num="11" p="15" et="968.1235" s1="32.9470" fuel="0.631">--.----</Lap>
+<BestLapTime>106.5076</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>4</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="8" endLap="8">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="9" endLap="11">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mantvis Mantinis</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_076.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#76 Dieter Brun</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>076</CarNumber>
+<TeamName>Team Lepitre</TeamName>
+<isPlayer>1</isPlayer>
+<Position>16</Position>
+<ClassPosition>16</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="--.---" fuel="0.176">--.----</Lap>
+<Lap num="2" p="5" et="142.6432" s1="21.7787" s2="56.4309" s3="33.4867" fuel="0.141">111.6963</Lap>
+<Lap num="3" p="9" et="254.3394" s1="21.9056" s2="53.0240" s3="33.7674" fuel="0.102">108.6970</Lap>
+<Lap num="4" p="12" et="363.0364" s1="21.2043" s2="52.6753" s3="33.5774" fuel="0.063">107.4570</Lap>
+<Lap num="5" p="13" et="470.4934" s1="21.3649" s2="66.7348" s3="34.8890" fuel="0.024">122.9887</Lap>
+<Lap num="6" p="15" et="593.4821" s1="21.5584" fuel="0.012">--.----</Lap>
+<Lap num="7" p="16" et="662.3359" fuel="0.173">--.----</Lap>
+<Lap num="8" p="16" et="812.8278" s1="21.3267" s2="60.1771" s3="35.1529" fuel="0.133">116.6567</Lap>
+<Lap num="9" p="16" et="929.4844" fuel="0.216">--.----</Lap>
+<BestLapTime>107.4570</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrius Kuzmenko</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_026.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#26 Harald Grohs</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>026</CarNumber>
+<TeamName>Team Belgium</TeamName>
+<isPlayer>1</isPlayer>
+<Position>17</Position>
+<ClassPosition>17</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Lap num="1" p="11" et="--.---" fuel="0.529">--.----</Lap>
+<Lap num="2" p="5" et="153.9329" s1="21.3458" s2="53.9635" s3="34.0383" fuel="0.490">109.3475</Lap>
+<Lap num="3" p="10" et="263.2804" s1="21.4073" s2="53.9971" s3="33.2539" fuel="0.455">108.6582</Lap>
+<Lap num="4" p="12" et="371.9387" s1="21.6220" fuel="0.443">--.----</Lap>
+<Lap num="5" p="13" et="409.6278" fuel="0.529">--.----</Lap>
+<Lap num="6" p="16" et="546.0507" s1="21.8583" s2="54.2293" s3="33.4726" fuel="0.490">109.5602</Lap>
+<Lap num="7" p="16" et="655.6109" s1="21.3851" s2="53.8725" s3="32.8349" fuel="0.455">108.0926</Lap>
+<Lap num="8" p="17" et="763.7035" s1="21.5031" s2="53.8030" s3="32.9733" fuel="0.416">108.2794</Lap>
+<Lap num="9" p="17" et="871.9828" fuel="0.573">--.----</Lap>
+<BestLapTime>108.0926</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Simas Galvadiskis</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_033.VEH</VehFile>
+<UpgradeCode>0e000000 00000000</UpgradeCode>
+<VehName>#33 Tom Walkingshaw</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>033</CarNumber>
+<TeamName>Team Faltz</TeamName>
+<isPlayer>1</isPlayer>
+<Position>18</Position>
+<ClassPosition>18</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>18</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="--.---" fuel="0.616">--.----</Lap>
+<Lap num="2" p="10" et="158.5385" s1="21.6834" s2="58.3955" s3="32.7059" fuel="0.576">112.7848</Lap>
+<Lap num="3" p="14" et="271.3233" s1="22.5400" s2="55.1320" s3="44.8795" fuel="0.537">122.5515</Lap>
+<Lap num="4" p="16" et="393.8748" s1="22.0141" s2="73.7467" s3="41.9827" fuel="0.494">137.7436</Lap>
+<Lap num="5" p="18" et="531.6184" s1="21.5316" s2="55.5977" s3="38.5863" fuel="0.455">115.7157</Lap>
+<Lap num="6" p="17" et="647.3341" s1="21.9106" s2="54.1267" s3="33.0001" fuel="0.412">109.0374</Lap>
+<Lap num="7" p="18" et="756.3715" s1="21.6256" s2="60.7838" s3="33.2363" fuel="0.373">115.6457</Lap>
+<Lap num="8" p="18" et="872.0172" s1="21.9634" fuel="0.365">--.----</Lap>
+<BestLapTime>109.0374</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mantas Valys</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_032.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#32 Christian Neumann</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>032</CarNumber>
+<TeamName>Team Neumann</TeamName>
+<isPlayer>1</isPlayer>
+<Position>19</Position>
+<ClassPosition>19</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>19</LapRankIncludingDiscos>
+<Lap num="1" p="20" et="--.---" fuel="0.184">--.----</Lap>
+<Lap num="2" p="9" et="173.3056" s1="21.4927" s2="55.0112" s3="33.5521" fuel="0.145">110.0560</Lap>
+<Lap num="3" p="15" et="283.3615" s1="30.6236" s2="63.7015" s3="52.5377" fuel="0.106">146.8628</Lap>
+<Lap num="4" p="15" et="430.2243" fuel="0.227">--.----</Lap>
+<Lap num="5" p="17" et="444.6428" fuel="0.188">--.----</Lap>
+<Lap num="6" p="18" et="637.4285" s1="21.5819" s2="78.7254" s3="34.4907" fuel="0.145">134.7979</Lap>
+<Lap num="7" p="19" et="772.2264" s1="21.1026" s2="54.9407" fuel="0.118">--.----</Lap>
+<BestLapTime>110.0560</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Valdas Vonsavicius</Name>
+<Connected>0</Connected>
+<VehFile>BMW_320_020.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#20 Marcel Hoettinger</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>020</CarNumber>
+<TeamName>Team Baier Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>20</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Vytautas Sabutis</Name>
+<Connected>0</Connected>
+<VehFile>BMW_320_004.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#4 Joerg Obermoser</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>004</CarNumber>
+<TeamName>Team GS Tuning</TeamName>
+<isPlayer>1</isPlayer>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>21</LapRankIncludingDiscos>
+<Lap num="1" p="19" et="--.---" fuel="0.137">--.----</Lap>
+<Lap num="2" p="19" et="190.3988" s1="20.9686" fuel="0.129">--.----</Lap>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="2"></Swap></Driver>
+<Driver>
+<Name>Mindaugas Klumbis</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_0.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#0 NIL</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>000</CarNumber>
+<TeamName>Team TRF NIL</TeamName>
+<isPlayer>1</isPlayer>
+<Position>20</Position>
+<ClassPosition>20</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>22</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Valdas Vonsavicius</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_020.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#20 Marcel Hoettinger</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>020</CarNumber>
+<TeamName>Team Baier Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<Position>21</Position>
+<ClassPosition>21</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>23</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Vaidas Balciunas</Name>
+<Connected>1</Connected>
+<VehFile>BMW_320_010.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#10 Bernard Beguin</VehName>
+<CarType>BMW 320 E21</CarType>
+<CarClass>BMW 320 E21</CarClass>
+<CarNumber>010</CarNumber>
+<TeamName>Team Rothmans</TeamName>
+<isPlayer>1</isPlayer>
+<Position>22</Position>
+<ClassPosition>22</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>24</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

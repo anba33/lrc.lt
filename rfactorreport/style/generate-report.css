@@ -1,0 +1,102 @@
+/* ***** GENERATE REPORT ***** */
+html,
+body {
+	margin: 0;
+	padding: 0 20px;
+	background: #F7F7F7;
+}
+
+a img {
+	border: 0;
+}
+
+#generateReport {
+	margin: 20px auto;	
+	background: #F7F7F7;
+	padding: 0;
+}
+
+#generateReport h2 {
+	font-family: sans-serif;
+	margin: 0.5em 0;
+	padding: 10px 0;
+	text-align: center;
+	border-bottom: 1px solid #999;
+	background: #445588;
+	color: #fff;
+	letter-spacing: 3px;
+	font-variant: small-caps;
+}
+
+#generateReport p {
+	padding: 0 20px;
+	color: #444;
+}
+
+#generateReport label {
+	color: #445588;
+	display: block;
+	padding: 0 0 0 20px;
+	margin: 0;
+	width: 95%;
+	letter-spacing: 1px;
+	font-size: 1.5em;
+}
+
+#generateReport input {
+	display: block;
+	margin: 5px;
+	padding: 3px 6px;
+	font: normal 1em/2em arial;
+	width: 95%;
+	background: #fff;
+}
+
+
+#generateReport .hidden {
+	display: none;
+}
+
+#generateReport input.button {
+	color: #fff;
+	font: normal 1.2em/1.5em arial;
+	letter-spacing: 1px;
+	background: #999;
+	border: 1px solid #777;
+	width: 200px;
+	margin: 0 auto;
+	cursor: pointer;
+	padding: 10px;
+}
+
+#generateReport ul {
+	margin: 0;
+	padding: 0 0 0 10px;
+}
+
+
+/* **** PAYPAL ***** */
+#paypal img {
+	width: 1px;
+	height: 1px;
+}
+
+#paypal input {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+#paypal p {
+	float: left;
+}
+
+#generateReport #paypal input.paypalimage {
+	width: 62px;
+	height: 31px;
+}
+
+a {
+	font-size: 10px;
+	font-family: verdana, sans-serif;
+}

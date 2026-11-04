@@ -1,0 +1,196 @@
+
+body { 
+	font:8pt verdana; 
+	background:#EFEFDE; 
+	margin:0;
+	padding:0;
+	}
+
+a:link, a:visited, a:active {
+
+color:#666;
+font:bold 8pt verdana, arial, sans-serif;
+
+}
+
+a:hover {
+
+	color:#333;
+	font:bold 8pt verdana, arial, sans-serif;
+}
+
+h1 {
+
+	font:28pt verdana, arial, sans-serif;
+	color:#666;
+	margin:0;
+	padding:20px;
+}
+
+h2 {
+
+	font:14pt verdana, arial, sans-serif;
+	color:#666;
+	padding:10px;
+	margin:0;
+
+}
+
+p { 
+	font: 8pt verdana, arial, sans-serif; 
+	margin: 0px; 
+	text-align: justify;
+	}
+	
+#contain {
+
+	width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	background:#FFF;
+
+}
+	
+#logo {
+
+	width:253px;
+	height:191px;
+	background:url(../img/rfactor.png) no-repeat center;
+	padding:0 0 10px 0;
+
+}
+
+#navcon {
+
+	width:215px;
+	margin-left:auto;
+	margin-right:auto;
+	background:#FFF url(../img/navhead.gif) no-repeat top left; 
+	padding:33px 0 0 0;
+
+
+}
+
+#navcon ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+font-family: Arial, Helvetica, sans-serif;
+border:0;
+}
+
+#navcon li
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+font-family: Arial, Helvetica, sans-serif;
+border-bottom:1px solid #FFF;
+}
+
+#navcon li.last {
+padding:0 0 33px 0;
+background:url(../img/navfoot.gif) no-repeat bottom left;
+}
+
+#navcon a
+{
+display: block;
+width: 180px;
+background:#EFEFEF;
+border:0;
+padding:9px 0 8px 0;
+text-align:left;
+
+}
+
+#navcon a:link, #navcon a:visited
+{
+font:bold 10px arial, verdana, sans-serif;
+color: #000;
+letter-spacing:0.5px;
+text-decoration: none;
+padding-left:35px;
+background:#EFEFEF url(../img/nava.gif) no-repeat left center;
+}
+
+#navcon a:hover
+{
+color: #000;
+background:#F5F5F5 url(../img/navb.gif) no-repeat left center;
+}
+
+
+
+
+#leftcol {
+
+	width:253px;
+	float:left;
+	padding:5px 0 5px 0;
+	text-align:center;
+
+}
+
+#leftcol p {
+
+	padding:3px 18px 3px 18px;
+	margin:0;
+
+}
+
+#content {
+
+	margin-left:50px;
+	width:1024px;
+	text-align:center;
+}
+
+#content p {
+
+	padding:3px 18px 3px 18px;
+	margin:0;
+
+}
+
+#welcome {
+
+	width:615px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	background:url(../img/welcome.gif) no-repeat top left;
+	padding:150px 0 0 0;
+
+}
+
+#welcome p {
+
+	color:#BD9A52;
+
+}
+
+#welcome img {
+
+	float: left;
+	border:5px solid #FFF;
+
+}
+
+#footer {
+
+	width:740px;
+	clear:left;
+	background:#FFF;
+	padding:4px 0 4px 0;
+
+}
+
+#footer p {
+	text-align:right;
+	padding-right:4px;
+	font:8pt verdana, arial, sans-serif;
+
+}
+	
